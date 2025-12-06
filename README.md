@@ -1,98 +1,144 @@
-# Dokumentasi Analisis Perpustakaan & DSS
+# 📚 Analisis Data Perpustakaan & Sistem Pendukung Keputusan (DSS)
 
-Proyek ini berisi serangkaian skrip Python untuk menganalisis data perpustakaan, menemukan pola peminjaman, dan memberikan rekomendasi pembelian buku (Decision Support System).
+Selamat datang di proyek Analisis Data Perpustakaan. Proyek ini bertujuan untuk menggali wawasan mendalam dari data transaksi perpustakaan dan menyediakan sistem rekomendasi cerdas untuk pengadaan buku.
 
-## 1. Schema Dataset
+---
 
-Data yang digunakan dalam analisis ini terdiri dari beberapa file CSV yang saling berelasi:
+## 📋 Daftar Isi
+1.  [Tentang Proyek](#-tentang-proyek)
+2.  [Struktur Dataset](#-struktur-dataset)
+3.  [Modul Analisis](#-modul-analisis)
+4.  [Metodologi](#-metodologi)
+5.  [Hasil & Visualisasi](#-hasil--visualisasi)
+6.  [Cara Menjalankan](#-cara-menjalankan)
 
-*   **`book_masters.csv`**: Data induk buku.
-    *   `id`: ID Master Buku (misal: BM-0001)
-    *   `title`: Judul Buku
-    *   `author`: Penulis
-    *   `categoryId`: ID Kategori
-*   **`book_items.csv`**: Data fisik eksemplar buku.
-    *   `id`: ID Item Buku (misal: BI-0001)
-    *   `masterId`: Foreign Key ke `book_masters`
-    *   `condition`: Kondisi fisik (New, Good, Fair, Poor)
-    *   `status`: Status ketersediaan (Available, Borrowed, Lost)
-*   **`categorys.csv`**: Data kategori buku.
-    *   `id`: ID Kategori
-    *   `name`: Nama Kategori (misal: Fiksi, Sains)
-*   **`borrow_transactions.csv`**: Header transaksi peminjaman.
-    *   `id`: ID Transaksi (misal: TRX-0001)
-    *   `borrowDate`: Tanggal pinjam
-*   **`borrow_details.csv`**: Detail item yang dipinjam dalam satu transaksi.
-    *   `borrowId`: Foreign Key ke `borrow_transactions`
-    *   `bookItemId`: Foreign Key ke `book_items`
+---
 
-## 2. Analisis yang Dilakukan
+## 📖 Tentang Proyek
 
-Kami melakukan beberapa jenis analisis untuk mendapatkan wawasan dari data:
+Sistem ini dirancang untuk membantu pustakawan dalam mengambil keputusan berbasis data. Dengan menggunakan teknik *Data Mining* dan *Decision Support System* (DSS), kami menjawab pertanyaan krusial seperti:
+*   Buku apa yang paling diminati?
+*   Buku apa yang sering dipinjam bersamaan? (Pola Asosiasi)
+*   Buku mana yang harus segera diganti atau ditambah stoknya?
 
-1.  **Analisis Popularitas Buku (`analysis/analyze_book_popularity.py`)**:
-    *   Mengelompokkan buku berdasarkan frekuensi peminjaman.
-    *   Label: **HOT** (Sangat sering dipinjam), **MODERATE**, **LOW**, **FLOP** (Jarang/tidak pernah dipinjam).
-2.  **Analisis Buku Terlaris (`analysis/analyze_top_books.py`)**:
-    *   Mengidentifikasi 10 judul buku dengan jumlah peminjaman tertinggi.
-3.  **Analisis Asosiasi Buku (`analysis/analyze_book_association.py`)**:
-    *   Mencari pola "Buku A sering dipinjam bersama Buku B".
-    *   Berguna untuk rekomendasi *cross-selling* atau penempatan rak.
-4.  **Analisis Kategori (`analysis/analyze_category_popularity.py` & `analysis/analyze_category_association.py`)**:
-    *   Melihat kategori mana yang paling diminati.
-    *   Melihat hubungan antar kategori (misal: Peminjam buku *Sains* juga suka meminjam buku *Teknologi*).
-5.  **Sistem Pendukung Keputusan (DSS) (`analysis/dss_recommendation.py`)**:
-    *   Memberikan rekomendasi buku apa yang perlu dibeli ulang atau ditambah stoknya.
+---
 
-## 3. Metode Analisis
+## 🗄️ Struktur Dataset
 
-### A. Market Basket Analysis (Association Rule Mining)
-Digunakan untuk analisis asosiasi buku dan kategori.
-*   **Algoritma**: Brute-force pair counting (kombinasi 2 item) pada data transaksi.
-*   **Metrik**:
-    *   **Support**: Seberapa sering pasangan muncul (P(A ∩ B)).
-    *   **Confidence**: Peluang B dipinjam jika A dipinjam (P(B|A)).
-    *   **Lift**: Kekuatan hubungan. Lift > 1 menunjukkan hubungan positif yang kuat (bukan kebetulan).
+Analisis ini didukung oleh dataset relasional yang mencakup:
 
-### B. Weighted Scoring Model (DSS)
-Digunakan untuk rekomendasi pembelian kembali. Setiap buku diberi skor berdasarkan rumus:
+### 1. Data Buku
+*   **`book_masters.csv`**: Katalog utama buku.
+    *   `id`: Kode unik buku (Primary Key).
+    *   `title`: Judul lengkap buku.
+    *   `author`: Nama penulis.
+    *   `categoryId`: Kode kategori buku.
+*   **`book_items.csv`**: Inventaris fisik buku (eksemplar).
+    *   `id`: Kode unik eksemplar.
+    *   `masterId`: Referensi ke `book_masters`.
+    *   `condition`: Kondisi fisik (`New`, `Good`, `Fair`, `Poor`).
+    *   `status`: Status peminjaman (`Available`, `Borrowed`, `Lost`).
+*   **`categorys.csv`**: Daftar kategori/genre.
+    *   `id`: Kode kategori.
+    *   `name`: Nama kategori (misal: *Fiksi*, *Sains*, *Sejarah*).
 
-$$ \text{Score} = (W_{borrow} \times \text{BorrowCount}) + (W_{poor} \times \text{PoorCopies}) + (W_{fair} \times \text{FairCopies}) $$
+### 2. Data Transaksi
+*   **`borrow_transactions.csv`**: Catatan peminjaman.
+    *   `id`: Kode transaksi.
+    *   `borrowDate`: Tanggal transaksi dilakukan.
+*   **`borrow_details.csv`**: Rincian buku yang dipinjam.
+    *   `borrowId`: Referensi ke transaksi.
+    *   `bookItemId`: Referensi ke eksemplar buku yang dipinjam.
 
-Dimana bobot yang digunakan adalah:
-*   $W_{borrow} = 1.0$ (Faktor Popularitas)
-*   $W_{poor} = 10.0$ (Prioritas Utama: Mengganti buku rusak)
-*   $W_{fair} = 2.0$ (Prioritas Menengah)
+---
 
-Buku dengan skor tertinggi direkomendasikan untuk segera ditindaklanjuti (Ganti Rugi/Beli Baru).
+## 🔍 Modul Analisis
 
-## 4. Hasil Analisis & Visualisasi
+Proyek ini terdiri dari beberapa skrip Python yang masing-masing memiliki fokus analisis spesifik:
 
-Berikut adalah visualisasi dari hasil analisis yang telah dilakukan.
+| Script | Deskripsi & Tujuan |
+| :--- | :--- |
+| **`analyze_book_popularity.py`** | **Analisis Popularitas**: Mengklasifikasikan buku ke dalam label **HOT** (Sangat Populer), **MODERATE**, **LOW**, dan **FLOP** berdasarkan frekuensi peminjaman. |
+| **`analyze_top_books.py`** | **Top Charts**: Menghasilkan daftar 10 buku dengan jumlah peminjaman tertinggi sepanjang masa. |
+| **`analyze_book_association.py`** | **Market Basket Analysis (Buku)**: Menemukan pola peminjaman antar buku. Contoh: *"Jika meminjam Buku A, 70% kemungkinan juga meminjam Buku B"*. |
+| **`analyze_category_association.py`** | **Market Basket Analysis (Kategori)**: Menganalisis hubungan antar genre. Berguna untuk memahami preferensi lintas topik anggota perpustakaan. |
+| **`dss_recommendation.py`** | **Sistem Rekomendasi (DSS)**: Memberikan saran aksi (Ganti/Beli Baru) berdasarkan kondisi fisik buku dan tingkat permintaannya. |
 
-### A. Buku Terlaris (Top 10)
-Buku-buku ini memiliki frekuensi peminjaman tertinggi.
+---
+
+## 🧠 Metodologi
+
+### 1. Association Rule Mining (Pola Asosiasi)
+Kami menggunakan pendekatan *Market Basket Analysis* untuk menemukan hubungan antar item.
+*   **Support**: Seberapa populer suatu kombinasi item.
+*   **Confidence**: Seberapa kuat hubungan sebab-akibat (Jika A maka B).
+*   **Lift**: Rasio ketergantungan. Nilai `Lift > 1` menunjukkan hubungan yang signifikan dan bukan kebetulan.
+
+### 2. Weighted Scoring Model (DSS)
+Untuk rekomendasi pengadaan buku, kami menggunakan model pembobotan sederhana namun efektif. Setiap buku dinilai dengan rumus:
+
+$$ \text{Score} = (1.0 \times \text{BorrowCount}) + (10.0 \times \text{PoorCopies}) + (2.0 \times \text{FairCopies}) $$
+
+**Penjelasan Bobot:**
+*   **Kondisi Buruk (10.0)**: Prioritas tertinggi. Buku yang rusak (`Poor`) harus segera diganti untuk menjaga kualitas layanan.
+*   **Kondisi Sedang (2.0)**: Prioritas menengah. Buku kondisi `Fair` perlu dipantau.
+*   **Popularitas (1.0)**: Faktor pendukung. Buku yang rusak DAN populer akan mendapatkan skor sangat tinggi, menjadikannya prioritas utama pengadaan.
+
+---
+
+## 📊 Hasil & Visualisasi
+
+Berikut adalah ringkasan visual dari hasil analisis data perpustakaan.
+
+### 🏆 1. Buku Terlaris (Top 10)
+Daftar buku yang menjadi favorit pemustaka.
 ![Top 10 Books](analysis/visualizations/top_10_books.png)
 
-### B. Distribusi Status Buku
-Proporsi buku yang masuk kategori HOT, MODERATE, LOW, dan FLOP.
+### 📈 2. Distribusi Status Buku
+Gambaran umum koleksi perpustakaan berdasarkan tingkat aktivitasnya.
 ![Book Status Distribution](analysis/visualizations/book_status_distribution.png)
 
-### C. Popularitas Kategori
-Kategori buku yang paling sering dipinjam oleh anggota perpustakaan.
+### 📚 3. Popularitas Kategori
+Genre buku yang paling banyak dicari.
 ![Category Popularity](analysis/visualizations/category_popularity.png)
 
-### D. Jaringan Asosiasi Buku (Top 10 Rules)
-Graf ini menunjukkan hubungan kuat antar buku. Panah menunjukkan arah pengaruh (Jika pinjam A -> cenderung pinjam B).
+### 🕸️ 4. Jaringan Asosiasi (Buku & Kategori)
+Visualisasi graf yang menunjukkan keterhubungan antar buku dan antar kategori. Ketebalan garis menunjukkan kekuatan hubungan (*Lift*).
+
+**Asosiasi Buku:**
 ![Association Network](analysis/visualizations/association_network.png)
 
-### E. Jaringan Asosiasi Kategori
-Hubungan antar kategori buku yang sering dipinjam bersamaan.
+**Asosiasi Kategori:**
 ![Category Association Network](analysis/visualizations/category_association_network.png)
 
-### F. Rekomendasi Pembelian (DSS)
-Daftar buku yang paling direkomendasikan untuk dibeli kembali atau diganti stoknya karena kondisi fisik yang buruk atau permintaan tinggi.
+### 💡 5. Rekomendasi Pembelian (DSS)
+Daftar prioritas pengadaan buku. Grafik ini menyoroti buku-buku yang paling mendesak untuk dibeli kembali.
 ![DSS Recommendations](analysis/visualizations/dss_top_recommendations.png)
 
 ---
-*Generated by DSS Library Project Analysis Module*
+
+## 🚀 Cara Menjalankan
+
+Pastikan Anda telah menginstal Python dan library yang dibutuhkan (`pandas`, `matplotlib`, `seaborn`, `networkx`).
+
+1.  **Jalankan Analisis**:
+    ```bash
+    python analysis/analyze_book_popularity.py
+    python analysis/analyze_top_books.py
+    python analysis/analyze_book_association.py
+    python analysis/analyze_category_popularity.py
+    python analysis/analyze_category_association.py
+    python analysis/dss_recommendation.py
+    ```
+
+2.  **Generate Visualisasi**:
+    ```bash
+    python analysis/visualize_results.py
+    ```
+
+3.  **Lihat Hasil**:
+    *   Data CSV: `analysis/output/`
+    *   Gambar Grafik: `analysis/visualizations/`
+
+---
+*Dikembangkan untuk Proyek DSS Perpustakaan*
