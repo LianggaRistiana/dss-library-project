@@ -68,14 +68,40 @@ Proyek ini terdiri dari beberapa skrip Python yang masing-masing memiliki fokus 
 
 ## 🧠 Metodologi
 
-### 1. Association Rule Mining (Pola Asosiasi)
+### 1. Klasifikasi Popularitas Buku
+Kami menggunakan kombinasi **usia buku** dan **frekuensi peminjaman** untuk mengkategorikan buku.
+
+**Langkah-langkah:**
+1.  **Hitung Kuantil Peminjaman**:
+    *   *Low Demand*: Peminjaman <= Persentil 33%
+    *   *High Demand*: Peminjaman > Persentil 66%
+    *   *Average Demand*: Di antara keduanya.
+2.  **Tentukan Usia Buku**:
+    *   *New*: Terbit dalam 3 tahun terakhir.
+    *   *Old*: Terbit lebih dari 3 tahun lalu.
+3.  **Matriks Kategori**:
+
+| Kategori | Usia Buku | Permintaan (Demand) | Deskripsi |
+| :--- | :--- | :--- | :--- |
+| **HOT** | New | High | Buku baru yang langsung populer. |
+| **FLOP** | New | Low | Buku baru yang gagal menarik minat. |
+| **EVERGREEN** | Old | High | Buku lama yang tetap diminati sepanjang masa. |
+| **DEAD STOCK**| Old | Low | Buku lama yang sudah tidak diminati. |
+| **AVERAGE** | Any | Average | Buku dengan performa standar. |
+
+### 2. Association Rule Mining (Pola Asosiasi)
 Kami menggunakan pendekatan *Market Basket Analysis* untuk menemukan hubungan antar item.
 *   **Support**: Seberapa populer suatu kombinasi item.
 *   **Confidence**: Seberapa kuat hubungan sebab-akibat (Jika A maka B).
 *   **Lift**: Rasio ketergantungan. Nilai `Lift > 1` menunjukkan hubungan yang signifikan dan bukan kebetulan.
 
-### 2. Weighted Scoring Model (DSS)
-Untuk rekomendasi pengadaan buku, kami menggunakan model pembobotan sederhana namun efektif. Setiap buku dinilai dengan rumus:
+### 3. Weighted Scoring Model (DSS)
+Untuk rekomendasi pengadaan buku, kami menggunakan model pembobotan sederhana namun efektif.
+
+**Rumus Dasar:**
+$$ Score = \sum_{i=1}^{n} (x_i \times w_i) $$
+
+Setiap buku dinilai dengan rumus spesifik proyek:
 
 $$ \text{Score} = (1.0 \times \text{BorrowCount}) + (10.0 \times \text{PoorCopies}) + (2.0 \times \text{FairCopies}) $$
 
