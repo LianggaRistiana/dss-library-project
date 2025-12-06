@@ -1,0 +1,1001 @@
+id,title,author,publisher,year,categoryId,isbn
+BM-0001,Introduction to Music 3,Author D. Brown,Pearson,2000,BK-006,978-493367786
+BM-0002,History of Art 8,Author G. Williams,McGraw-Hill,2004,BK-015,978-950282020
+BM-0003,Mastering Chemistry 2,Author E. Smith,McGraw-Hill,2021,BK-010,978-162700266
+BM-0004,Mastering Biology 4,Author V. Smith,MIT Press,2005,BK-018,978-439448334
+BM-0005,Fundamentals of Chemistry 9,Author J. Smith,O'Reilly,2023,BK-016,978-435056492
+BM-0006,The Art of Calculus 8,Author P. Johnson,Penguin,2004,BK-005,978-341844497
+BM-0007,The Art of History 4,Author X. Brown,Penguin,2018,BK-010,978-956538335
+BM-0008,Fundamentals of Java 1,Author F. Williams,O'Reilly,2012,BK-001,978-174993550
+BM-0009,Advanced Art 6,Author K. Smith,Pearson,2000,BK-019,978-286239876
+BM-0010,Introduction to Machine Learning 3,Author I. Smith,O'Reilly,2008,BK-014,978-954856547
+BM-0011,History of History 3,Author V. Brown,O'Reilly,2005,BK-006,978-318309720
+BM-0012,The Art of Economics 4,Author U. Jones,Penguin,2009,BK-009,978-741072594
+BM-0013,Handbook of Music 6,Author N. Johnson,Pearson,1990,BK-016,978-935557471
+BM-0014,The Art of History 3,Author A. Jones,O'Reilly,2000,BK-007,978-437710697
+BM-0015,History of Chemistry 7,Author W. Williams,Pearson,1995,BK-012,978-739314599
+BM-0016,Advanced Java 7,Author T. Johnson,Pearson,2024,BK-011,978-304300749
+BM-0017,Mastering Machine Learning 10,Author L. Johnson,MIT Press,2008,BK-001,978-334303165
+BM-0018,History of Calculus 10,Author S. Williams,Penguin,1990,BK-004,978-859015988
+BM-0019,Mastering Python 4,Author Q. Johnson,O'Reilly,2000,BK-009,978-964305087
+BM-0020,Handbook of Java 2,Author W. Jones,MIT Press,2009,BK-014,978-268541913
+BM-0021,The Art of Chemistry 2,Author O. Jones,O'Reilly,2019,BK-013,978-552916757
+BM-0022,Fundamentals of Calculus 7,Author E. Smith,Penguin,2008,BK-016,978-607479398
+BM-0023,Advanced Art 4,Author O. Johnson,Penguin,2013,BK-020,978-738785539
+BM-0024,Handbook of Python 7,Author V. Jones,McGraw-Hill,2023,BK-014,978-404325463
+BM-0025,Advanced Calculus 8,Author O. Brown,Springer,2011,BK-008,978-145990877
+BM-0026,Advanced Python 9,Author M. Brown,Penguin,2007,BK-008,978-514645188
+BM-0027,Fundamentals of Chemistry 4,Author F. Jones,McGraw-Hill,2000,BK-010,978-771760612
+BM-0028,Guide to Art 5,Author P. Jones,O'Reilly,2011,BK-001,978-641524313
+BM-0029,Introduction to Python 7,Author Z. Smith,MIT Press,2022,BK-020,978-111656397
+BM-0030,Handbook of Music 9,Author A. Smith,Pearson,1996,BK-009,978-759640891
+BM-0031,Mastering AI 7,Author X. Brown,Wiley,2011,BK-015,978-608675416
+BM-0032,Guide to Machine Learning 3,Author Y. Williams,MIT Press,1999,BK-019,978-564157678
+BM-0033,Advanced Physics 2,Author I. Smith,Pearson,2015,BK-011,978-116743253
+BM-0034,Advanced Physics 8,Author N. Johnson,McGraw-Hill,2006,BK-020,978-330311198
+BM-0035,Mastering Music 9,Author F. Smith,Springer,2018,BK-010,978-967419642
+BM-0036,Mastering Machine Learning 3,Author J. Brown,McGraw-Hill,1999,BK-007,978-184111627
+BM-0037,Mastering Python 4,Author W. Smith,Pearson,2000,BK-020,978-289219508
+BM-0038,Fundamentals of Philosophy 6,Author M. Smith,Penguin,2009,BK-006,978-769457836
+BM-0039,Fundamentals of Chemistry 6,Author L. Jones,McGraw-Hill,1991,BK-013,978-772363360
+BM-0040,History of AI 2,Author Z. Smith,Penguin,1993,BK-009,978-260386388
+BM-0041,Mastering Music 6,Author I. Williams,Pearson,1999,BK-002,978-461661487
+BM-0042,Mastering Java 10,Author X. Williams,MIT Press,1992,BK-003,978-669904981
+BM-0043,Fundamentals of Art 4,Author G. Jones,McGraw-Hill,2022,BK-006,978-152202979
+BM-0044,Fundamentals of Music 9,Author Y. Williams,O'Reilly,2016,BK-016,978-200465165
+BM-0045,Advanced Chemistry 9,Author K. Jones,O'Reilly,1992,BK-006,978-967649391
+BM-0046,Guide to AI 9,Author U. Johnson,O'Reilly,1997,BK-016,978-430790945
+BM-0047,Mastering Java 8,Author G. Jones,McGraw-Hill,2011,BK-014,978-751534158
+BM-0048,The Art of Art 9,Author L. Jones,Wiley,2012,BK-013,978-288567651
+BM-0049,Handbook of Python 6,Author Y. Brown,Pearson,2011,BK-016,978-147262935
+BM-0050,Introduction to Machine Learning 3,Author C. Williams,MIT Press,1995,BK-006,978-585770949
+BM-0051,Handbook of History 6,Author O. Jones,Springer,2022,BK-012,978-319744031
+BM-0052,Mastering Physics 7,Author S. Williams,Pearson,2020,BK-013,978-219801139
+BM-0053,The Art of Calculus 5,Author B. Jones,Pearson,1997,BK-013,978-391499169
+BM-0054,History of Java 8,Author Z. Williams,Springer,2004,BK-007,978-773994577
+BM-0055,Advanced Chemistry 8,Author K. Jones,Springer,2003,BK-016,978-593964888
+BM-0056,History of Chemistry 4,Author Z. Jones,Wiley,1999,BK-005,978-625132929
+BM-0057,Mastering Chemistry 9,Author V. Williams,Springer,2017,BK-009,978-963459894
+BM-0058,Advanced Music 5,Author M. Jones,Wiley,2017,BK-019,978-676722824
+BM-0059,Introduction to Economics 4,Author G. Brown,Springer,1995,BK-012,978-428010735
+BM-0060,Mastering Calculus 9,Author K. Johnson,MIT Press,2024,BK-011,978-109977310
+BM-0061,Fundamentals of Art 10,Author X. Johnson,MIT Press,2004,BK-013,978-959083288
+BM-0062,Handbook of History 8,Author O. Brown,Wiley,1999,BK-020,978-709146066
+BM-0063,Introduction to AI 4,Author G. Smith,Wiley,2012,BK-012,978-707457521
+BM-0064,The Art of Economics 7,Author W. Jones,McGraw-Hill,2024,BK-010,978-222684066
+BM-0065,Introduction to Philosophy 7,Author A. Jones,Springer,2001,BK-007,978-261753947
+BM-0066,History of Machine Learning 9,Author U. Smith,Pearson,1993,BK-013,978-369485591
+BM-0067,Advanced Philosophy 1,Author W. Jones,Springer,2012,BK-007,978-543143052
+BM-0068,Advanced Biology 10,Author L. Williams,Wiley,1991,BK-010,978-781883040
+BM-0069,Fundamentals of Biology 8,Author U. Johnson,MIT Press,2022,BK-019,978-276127724
+BM-0070,Fundamentals of AI 6,Author M. Brown,O'Reilly,1993,BK-005,978-760211851
+BM-0071,Advanced Biology 4,Author U. Smith,MIT Press,2024,BK-013,978-339227576
+BM-0072,History of Physics 6,Author I. Jones,Pearson,1998,BK-009,978-586268918
+BM-0073,Mastering Philosophy 6,Author W. Smith,Wiley,2017,BK-007,978-398206431
+BM-0074,History of Machine Learning 2,Author N. Williams,McGraw-Hill,1993,BK-012,978-815295036
+BM-0075,Advanced History 5,Author Q. Johnson,Pearson,2001,BK-012,978-731517956
+BM-0076,Advanced AI 4,Author K. Johnson,MIT Press,2007,BK-011,978-879797070
+BM-0077,Introduction to AI 8,Author M. Smith,Pearson,2001,BK-005,978-504825582
+BM-0078,Advanced Economics 7,Author F. Williams,Wiley,1998,BK-017,978-514073383
+BM-0079,Advanced Chemistry 9,Author C. Smith,Pearson,1998,BK-009,978-928779828
+BM-0080,Introduction to Chemistry 1,Author C. Williams,McGraw-Hill,1998,BK-015,978-775630827
+BM-0081,Advanced Calculus 7,Author I. Brown,MIT Press,2013,BK-005,978-148200836
+BM-0082,Advanced AI 1,Author F. Smith,Springer,1993,BK-019,978-938143822
+BM-0083,Guide to Biology 2,Author Z. Jones,Wiley,2021,BK-010,978-585807284
+BM-0084,Handbook of Physics 8,Author Z. Johnson,Wiley,2024,BK-017,978-989152066
+BM-0085,The Art of Calculus 8,Author P. Johnson,Pearson,2020,BK-011,978-887548627
+BM-0086,Handbook of Physics 7,Author A. Smith,Penguin,1993,BK-004,978-160008957
+BM-0087,Introduction to Philosophy 1,Author I. Jones,O'Reilly,2017,BK-018,978-556824171
+BM-0088,History of Economics 4,Author T. Williams,MIT Press,2015,BK-018,978-961543174
+BM-0089,History of Biology 6,Author P. Brown,O'Reilly,2023,BK-012,978-120217640
+BM-0090,Mastering Python 4,Author B. Brown,Pearson,2011,BK-008,978-140389906
+BM-0091,Introduction to Philosophy 5,Author P. Brown,Pearson,1998,BK-011,978-696117760
+BM-0092,Advanced Python 7,Author L. Johnson,Penguin,2014,BK-002,978-251967478
+BM-0093,Introduction to Music 8,Author J. Jones,McGraw-Hill,2019,BK-003,978-826087962
+BM-0094,Introduction to Machine Learning 10,Author N. Williams,MIT Press,2008,BK-018,978-688218286
+BM-0095,Mastering Biology 6,Author R. Jones,Pearson,1990,BK-014,978-538415687
+BM-0096,Advanced Biology 4,Author F. Williams,McGraw-Hill,1993,BK-018,978-709652681
+BM-0097,Handbook of Java 9,Author I. Brown,McGraw-Hill,2001,BK-004,978-301970022
+BM-0098,History of Calculus 5,Author M. Smith,Penguin,1995,BK-009,978-813975364
+BM-0099,Fundamentals of Physics 1,Author W. Williams,Penguin,2022,BK-001,978-856078979
+BM-0100,Introduction to History 6,Author X. Johnson,Pearson,2005,BK-010,978-290570569
+BM-0101,Introduction to Biology 4,Author I. Johnson,McGraw-Hill,2001,BK-020,978-621337244
+BM-0102,Fundamentals of Philosophy 8,Author V. Brown,McGraw-Hill,2024,BK-019,978-936677658
+BM-0103,Handbook of Economics 3,Author U. Smith,O'Reilly,2022,BK-016,978-856792775
+BM-0104,The Art of Physics 7,Author U. Williams,O'Reilly,2011,BK-006,978-410546423
+BM-0105,Mastering AI 6,Author T. Brown,MIT Press,2023,BK-005,978-314793631
+BM-0106,The Art of Machine Learning 3,Author H. Smith,Penguin,2007,BK-020,978-354611458
+BM-0107,Guide to Machine Learning 6,Author G. Williams,Wiley,2011,BK-004,978-565909296
+BM-0108,Guide to Biology 3,Author K. Jones,Penguin,1997,BK-019,978-685244898
+BM-0109,Advanced Chemistry 6,Author V. Johnson,Penguin,2016,BK-013,978-474045310
+BM-0110,History of Machine Learning 9,Author H. Johnson,Pearson,2004,BK-016,978-249477615
+BM-0111,Mastering Chemistry 1,Author L. Smith,Springer,2007,BK-009,978-358495177
+BM-0112,Mastering AI 4,Author G. Jones,Penguin,1992,BK-002,978-835843408
+BM-0113,Guide to Economics 5,Author G. Johnson,Penguin,2013,BK-005,978-770531560
+BM-0114,The Art of Physics 1,Author C. Johnson,McGraw-Hill,2008,BK-016,978-571235544
+BM-0115,Guide to Philosophy 2,Author V. Williams,McGraw-Hill,1999,BK-010,978-618015968
+BM-0116,Introduction to AI 6,Author U. Williams,Pearson,2000,BK-016,978-424888460
+BM-0117,History of Philosophy 9,Author G. Johnson,Pearson,1991,BK-004,978-338494204
+BM-0118,Advanced Chemistry 7,Author J. Williams,Penguin,1991,BK-001,978-163977115
+BM-0119,Advanced Art 2,Author J. Brown,Springer,2010,BK-020,978-821503179
+BM-0120,Guide to AI 5,Author B. Smith,Wiley,2010,BK-001,978-336179822
+BM-0121,Advanced Biology 10,Author A. Jones,MIT Press,2018,BK-018,978-412732972
+BM-0122,History of Economics 5,Author F. Jones,Penguin,2018,BK-008,978-414677430
+BM-0123,Handbook of Chemistry 5,Author T. Johnson,Pearson,1997,BK-003,978-726759235
+BM-0124,Handbook of History 9,Author G. Jones,Springer,2005,BK-005,978-290153274
+BM-0125,Mastering Art 9,Author K. Johnson,O'Reilly,2004,BK-014,978-406472957
+BM-0126,Fundamentals of Python 3,Author K. Johnson,Springer,2000,BK-014,978-322252985
+BM-0127,History of Biology 3,Author W. Williams,Pearson,2006,BK-005,978-341317077
+BM-0128,Guide to Art 2,Author U. Brown,McGraw-Hill,2007,BK-011,978-246236241
+BM-0129,Handbook of Machine Learning 5,Author L. Smith,Springer,2004,BK-009,978-308881347
+BM-0130,History of Music 7,Author N. Williams,O'Reilly,2008,BK-019,978-360912993
+BM-0131,History of Python 8,Author W. Johnson,McGraw-Hill,2009,BK-008,978-400790920
+BM-0132,Handbook of Python 9,Author M. Brown,Pearson,1993,BK-007,978-845303394
+BM-0133,The Art of Chemistry 1,Author S. Johnson,Pearson,2001,BK-017,978-664509326
+BM-0134,History of AI 8,Author B. Jones,McGraw-Hill,2011,BK-014,978-192869138
+BM-0135,Introduction to AI 10,Author F. Smith,McGraw-Hill,2019,BK-008,978-434125934
+BM-0136,Mastering Python 3,Author D. Jones,Pearson,2023,BK-010,978-366538612
+BM-0137,Guide to History 8,Author E. Smith,Wiley,2006,BK-009,978-653825492
+BM-0138,The Art of Biology 10,Author F. Johnson,McGraw-Hill,1998,BK-012,978-588195615
+BM-0139,Handbook of Machine Learning 6,Author T. Williams,McGraw-Hill,1997,BK-002,978-526032264
+BM-0140,Handbook of Art 7,Author G. Brown,Pearson,2001,BK-007,978-512003731
+BM-0141,History of Economics 1,Author G. Johnson,Penguin,2015,BK-001,978-345584213
+BM-0142,Guide to Java 5,Author O. Smith,Springer,2010,BK-014,978-887637572
+BM-0143,Mastering Art 9,Author M. Williams,McGraw-Hill,2020,BK-007,978-241532763
+BM-0144,Introduction to Physics 5,Author Y. Smith,McGraw-Hill,1990,BK-010,978-885930274
+BM-0145,Guide to Calculus 6,Author U. Brown,Springer,2016,BK-015,978-992080938
+BM-0146,Advanced Java 8,Author E. Brown,Springer,2016,BK-008,978-671049019
+BM-0147,Fundamentals of Java 6,Author O. Brown,Pearson,2007,BK-018,978-288299454
+BM-0148,Introduction to Calculus 2,Author Z. Smith,O'Reilly,2019,BK-020,978-487049503
+BM-0149,Fundamentals of Physics 9,Author B. Smith,Wiley,2004,BK-008,978-911067727
+BM-0150,History of Economics 4,Author M. Johnson,Wiley,2001,BK-015,978-170105460
+BM-0151,Fundamentals of Philosophy 9,Author R. Johnson,Wiley,1999,BK-012,978-760983277
+BM-0152,History of Chemistry 7,Author E. Brown,O'Reilly,1994,BK-006,978-949385205
+BM-0153,Fundamentals of Biology 4,Author Q. Johnson,O'Reilly,1997,BK-005,978-372075279
+BM-0154,The Art of Java 3,Author R. Brown,Wiley,2003,BK-001,978-480972120
+BM-0155,The Art of Physics 8,Author O. Johnson,Springer,2008,BK-004,978-603519609
+BM-0156,Handbook of Biology 7,Author F. Johnson,Wiley,2008,BK-016,978-128150487
+BM-0157,History of AI 7,Author X. Johnson,McGraw-Hill,2012,BK-015,978-160007492
+BM-0158,Guide to Economics 1,Author P. Jones,Springer,1999,BK-010,978-260871441
+BM-0159,Introduction to Machine Learning 1,Author E. Smith,MIT Press,2020,BK-002,978-939452320
+BM-0160,Advanced History 3,Author F. Jones,MIT Press,2008,BK-018,978-249136921
+BM-0161,Mastering Chemistry 9,Author U. Johnson,McGraw-Hill,2005,BK-013,978-777373158
+BM-0162,The Art of Biology 3,Author L. Jones,MIT Press,2020,BK-008,978-486458765
+BM-0163,Fundamentals of Java 9,Author C. Williams,Pearson,2013,BK-002,978-444043002
+BM-0164,Advanced Philosophy 2,Author G. Williams,O'Reilly,2020,BK-018,978-383324920
+BM-0165,History of Chemistry 9,Author Y. Jones,Pearson,1999,BK-014,978-268153901
+BM-0166,Guide to Java 4,Author C. Brown,Springer,2006,BK-014,978-453855114
+BM-0167,The Art of Machine Learning 6,Author N. Smith,MIT Press,2003,BK-017,978-847167485
+BM-0168,Handbook of Machine Learning 9,Author O. Brown,Wiley,2024,BK-011,978-779022331
+BM-0169,Introduction to History 10,Author B. Johnson,McGraw-Hill,2009,BK-016,978-546094302
+BM-0170,Advanced History 4,Author B. Johnson,O'Reilly,1990,BK-008,978-454367442
+BM-0171,History of Physics 1,Author V. Johnson,Springer,2016,BK-013,978-679263608
+BM-0172,Handbook of Python 6,Author T. Williams,MIT Press,2001,BK-015,978-971142983
+BM-0173,History of Python 7,Author E. Johnson,Pearson,1990,BK-005,978-210137280
+BM-0174,Introduction to Music 3,Author K. Williams,McGraw-Hill,2009,BK-015,978-159480323
+BM-0175,Introduction to Biology 6,Author P. Johnson,McGraw-Hill,1990,BK-013,978-734534728
+BM-0176,Mastering Machine Learning 1,Author N. Jones,O'Reilly,1992,BK-003,978-466668799
+BM-0177,Handbook of Philosophy 10,Author F. Smith,O'Reilly,2023,BK-020,978-239382820
+BM-0178,Handbook of AI 9,Author M. Johnson,Springer,2006,BK-013,978-648354861
+BM-0179,Introduction to Machine Learning 8,Author M. Brown,Penguin,2023,BK-017,978-252831791
+BM-0180,The Art of Machine Learning 2,Author I. Brown,Springer,2000,BK-020,978-112955477
+BM-0181,Handbook of Biology 7,Author N. Johnson,McGraw-Hill,2018,BK-018,978-143652345
+BM-0182,Handbook of Economics 9,Author W. Jones,MIT Press,2013,BK-002,978-976685147
+BM-0183,Introduction to Java 8,Author N. Jones,Wiley,2015,BK-015,978-839712673
+BM-0184,Handbook of Machine Learning 3,Author X. Johnson,Springer,2017,BK-019,978-314871010
+BM-0185,Advanced Music 8,Author P. Williams,Springer,2009,BK-014,978-882238101
+BM-0186,Fundamentals of Art 3,Author L. Williams,Wiley,2009,BK-019,978-921613606
+BM-0187,Fundamentals of Music 6,Author Z. Smith,Pearson,2024,BK-013,978-416926476
+BM-0188,Fundamentals of Python 8,Author Q. Jones,Springer,2014,BK-006,978-482065880
+BM-0189,Advanced Economics 1,Author H. Johnson,Penguin,2015,BK-017,978-682244407
+BM-0190,Fundamentals of Calculus 10,Author A. Williams,O'Reilly,2006,BK-014,978-323040252
+BM-0191,Guide to Python 7,Author L. Brown,MIT Press,1992,BK-012,978-331728430
+BM-0192,Guide to Physics 1,Author O. Jones,Pearson,1999,BK-020,978-472675568
+BM-0193,The Art of Biology 2,Author I. Jones,Penguin,2014,BK-018,978-446221828
+BM-0194,Advanced Python 8,Author H. Johnson,Springer,2004,BK-017,978-371226954
+BM-0195,Fundamentals of Physics 9,Author V. Jones,MIT Press,2008,BK-010,978-675410982
+BM-0196,The Art of Economics 9,Author R. Smith,Penguin,1994,BK-016,978-417195370
+BM-0197,Fundamentals of Calculus 1,Author E. Brown,Pearson,2022,BK-016,978-650277219
+BM-0198,Guide to Java 4,Author R. Johnson,Penguin,1991,BK-004,978-857671369
+BM-0199,Introduction to Economics 3,Author N. Williams,Springer,1997,BK-007,978-927210590
+BM-0200,Advanced Chemistry 8,Author J. Brown,Springer,1999,BK-006,978-940579668
+BM-0201,History of Art 2,Author M. Jones,McGraw-Hill,2018,BK-014,978-967211632
+BM-0202,History of Python 6,Author H. Williams,MIT Press,2017,BK-011,978-373996175
+BM-0203,Advanced Java 7,Author Q. Smith,Penguin,1993,BK-012,978-888274523
+BM-0204,Guide to AI 5,Author U. Johnson,Pearson,1991,BK-007,978-168330734
+BM-0205,Guide to Calculus 10,Author I. Smith,Wiley,2007,BK-010,978-341483490
+BM-0206,Mastering Chemistry 1,Author E. Johnson,Wiley,2020,BK-002,978-149791075
+BM-0207,Fundamentals of Biology 4,Author T. Brown,Pearson,2014,BK-010,978-438191105
+BM-0208,Introduction to Java 5,Author N. Williams,MIT Press,1999,BK-016,978-357181071
+BM-0209,Guide to Economics 1,Author E. Smith,MIT Press,2000,BK-005,978-985355878
+BM-0210,Fundamentals of Philosophy 2,Author J. Jones,Penguin,1997,BK-019,978-715686172
+BM-0211,Introduction to Machine Learning 7,Author M. Brown,MIT Press,2002,BK-002,978-249010502
+BM-0212,Advanced Biology 5,Author Z. Brown,Wiley,1997,BK-009,978-455536653
+BM-0213,Handbook of Calculus 1,Author P. Brown,Wiley,2024,BK-015,978-269420512
+BM-0214,Mastering Chemistry 6,Author O. Williams,MIT Press,2017,BK-005,978-420593420
+BM-0215,Handbook of AI 2,Author I. Williams,Pearson,1999,BK-020,978-851070578
+BM-0216,Guide to Art 1,Author Y. Jones,MIT Press,2012,BK-006,978-942536505
+BM-0217,Fundamentals of Biology 10,Author K. Smith,Springer,1991,BK-012,978-884215437
+BM-0218,Mastering Calculus 7,Author V. Johnson,Penguin,1993,BK-013,978-826660145
+BM-0219,Fundamentals of Chemistry 9,Author Q. Johnson,McGraw-Hill,1998,BK-006,978-158978271
+BM-0220,Advanced Economics 3,Author F. Williams,Penguin,1997,BK-020,978-370583994
+BM-0221,Introduction to Physics 8,Author V. Jones,Wiley,1995,BK-018,978-348647123
+BM-0222,Mastering Machine Learning 10,Author Z. Williams,O'Reilly,1990,BK-019,978-934718682
+BM-0223,Mastering Music 7,Author V. Brown,McGraw-Hill,1997,BK-013,978-969896301
+BM-0224,Mastering Economics 7,Author U. Smith,Penguin,1991,BK-003,978-529092360
+BM-0225,Fundamentals of Art 7,Author T. Williams,MIT Press,2007,BK-002,978-566905367
+BM-0226,The Art of Art 6,Author Z. Brown,MIT Press,2008,BK-003,978-611729184
+BM-0227,Mastering Java 8,Author V. Brown,MIT Press,1992,BK-013,978-668942115
+BM-0228,History of Java 1,Author O. Brown,Penguin,1990,BK-012,978-875987825
+BM-0229,The Art of Philosophy 9,Author T. Jones,Penguin,1991,BK-010,978-312543511
+BM-0230,History of Chemistry 2,Author C. Johnson,Pearson,2024,BK-003,978-401051261
+BM-0231,Mastering Java 10,Author E. Johnson,MIT Press,2013,BK-003,978-642224368
+BM-0232,Fundamentals of Java 9,Author H. Brown,MIT Press,2016,BK-006,978-863986560
+BM-0233,The Art of AI 7,Author G. Brown,Pearson,2003,BK-018,978-820900662
+BM-0234,Guide to Art 2,Author B. Johnson,McGraw-Hill,2009,BK-005,978-119969941
+BM-0235,Advanced Calculus 7,Author P. Smith,MIT Press,2024,BK-013,978-883837512
+BM-0236,Guide to Philosophy 9,Author R. Johnson,Pearson,2004,BK-001,978-724598572
+BM-0237,Guide to Biology 3,Author E. Williams,Wiley,2006,BK-002,978-438557539
+BM-0238,Fundamentals of Biology 4,Author F. Smith,Penguin,1996,BK-001,978-232382194
+BM-0239,Advanced Machine Learning 1,Author Z. Brown,Springer,1997,BK-003,978-141550360
+BM-0240,Mastering Biology 8,Author O. Williams,Pearson,2015,BK-001,978-148429861
+BM-0241,The Art of Calculus 8,Author M. Smith,Wiley,2009,BK-009,978-129291926
+BM-0242,Mastering Machine Learning 2,Author P. Jones,MIT Press,2024,BK-015,978-107535201
+BM-0243,History of Biology 5,Author C. Brown,Springer,2005,BK-019,978-685537088
+BM-0244,Handbook of Java 8,Author J. Brown,Wiley,2003,BK-001,978-971566570
+BM-0245,History of Chemistry 2,Author N. Smith,McGraw-Hill,2002,BK-018,978-342089054
+BM-0246,Introduction to Art 6,Author Y. Smith,O'Reilly,2024,BK-004,978-897971249
+BM-0247,Introduction to Machine Learning 7,Author A. Smith,MIT Press,2021,BK-007,978-254194391
+BM-0248,Handbook of Physics 1,Author A. Smith,Wiley,2018,BK-019,978-110398726
+BM-0249,Fundamentals of AI 9,Author J. Smith,MIT Press,2020,BK-019,978-661623523
+BM-0250,Advanced Chemistry 4,Author Y. Smith,MIT Press,2015,BK-007,978-181521973
+BM-0251,The Art of Chemistry 1,Author O. Williams,Pearson,2007,BK-013,978-948718188
+BM-0252,Guide to Art 3,Author I. Williams,MIT Press,2010,BK-004,978-412475727
+BM-0253,Introduction to Art 4,Author A. Jones,Pearson,1996,BK-017,978-118480878
+BM-0254,Advanced Music 2,Author I. Brown,O'Reilly,2008,BK-014,978-605340212
+BM-0255,History of Philosophy 10,Author V. Johnson,Pearson,2002,BK-003,978-787119578
+BM-0256,History of Calculus 4,Author Y. Williams,Wiley,1991,BK-018,978-569312580
+BM-0257,Introduction to Python 1,Author V. Johnson,MIT Press,2018,BK-015,978-957826239
+BM-0258,Advanced Chemistry 5,Author U. Williams,Penguin,2012,BK-020,978-586210150
+BM-0259,Handbook of Biology 10,Author U. Smith,MIT Press,1999,BK-003,978-727624333
+BM-0260,Guide to AI 4,Author P. Smith,O'Reilly,2018,BK-005,978-603914588
+BM-0261,Guide to Chemistry 2,Author H. Jones,McGraw-Hill,2001,BK-009,978-986209469
+BM-0262,The Art of Philosophy 6,Author Q. Smith,Pearson,2023,BK-003,978-712679897
+BM-0263,Fundamentals of Economics 7,Author I. Williams,MIT Press,2023,BK-001,978-187639570
+BM-0264,Handbook of Chemistry 7,Author N. Jones,MIT Press,2000,BK-016,978-905417277
+BM-0265,Handbook of Biology 7,Author G. Jones,McGraw-Hill,1999,BK-019,978-587539079
+BM-0266,Introduction to Physics 8,Author X. Smith,Pearson,2002,BK-005,978-395838425
+BM-0267,The Art of Physics 3,Author J. Johnson,Penguin,2022,BK-013,978-754238976
+BM-0268,Mastering Economics 7,Author V. Williams,Wiley,2013,BK-013,978-844009056
+BM-0269,Mastering Calculus 7,Author P. Jones,Wiley,2010,BK-017,978-238670807
+BM-0270,Handbook of Music 2,Author J. Williams,O'Reilly,2023,BK-020,978-470890835
+BM-0271,Guide to Economics 3,Author O. Jones,Springer,2018,BK-005,978-594752592
+BM-0272,The Art of Python 3,Author V. Williams,Springer,2001,BK-008,978-654176674
+BM-0273,The Art of History 8,Author Q. Jones,McGraw-Hill,1997,BK-020,978-346560723
+BM-0274,History of Chemistry 10,Author A. Jones,MIT Press,2020,BK-012,978-982285272
+BM-0275,Mastering Economics 7,Author T. Jones,Penguin,2009,BK-007,978-437338664
+BM-0276,Advanced Calculus 1,Author R. Smith,Springer,2012,BK-019,978-862641491
+BM-0277,Advanced Art 1,Author V. Smith,Pearson,2024,BK-009,978-863798159
+BM-0278,Mastering Art 8,Author M. Smith,O'Reilly,1994,BK-018,978-390126163
+BM-0279,The Art of Art 8,Author V. Brown,Pearson,2007,BK-017,978-835682892
+BM-0280,Introduction to Java 9,Author T. Jones,O'Reilly,2002,BK-014,978-909258271
+BM-0281,The Art of Physics 8,Author P. Williams,McGraw-Hill,2008,BK-012,978-882921756
+BM-0282,Introduction to Art 2,Author Q. Johnson,MIT Press,2024,BK-017,978-454284238
+BM-0283,Mastering Java 10,Author X. Smith,Springer,1996,BK-008,978-351878425
+BM-0284,Advanced History 10,Author I. Williams,Springer,1999,BK-010,978-110366728
+BM-0285,Handbook of AI 9,Author K. Brown,MIT Press,2013,BK-005,978-339183514
+BM-0286,Advanced Chemistry 1,Author U. Brown,Springer,2007,BK-019,978-170976293
+BM-0287,Introduction to Philosophy 4,Author W. Smith,Wiley,2008,BK-011,978-859672783
+BM-0288,Advanced Java 3,Author H. Jones,Springer,2013,BK-004,978-641707237
+BM-0289,Advanced Economics 7,Author F. Smith,O'Reilly,2002,BK-009,978-303431458
+BM-0290,Advanced History 4,Author Y. Jones,O'Reilly,1993,BK-002,978-909990723
+BM-0291,Introduction to Java 10,Author R. Williams,Springer,1996,BK-004,978-565068811
+BM-0292,Guide to AI 8,Author P. Williams,O'Reilly,2017,BK-020,978-452195502
+BM-0293,Mastering Physics 4,Author Y. Brown,MIT Press,2013,BK-016,978-559071484
+BM-0294,Introduction to AI 8,Author H. Williams,Springer,2002,BK-013,978-822122138
+BM-0295,Advanced Music 1,Author E. Smith,Springer,2001,BK-016,978-585781054
+BM-0296,Guide to Biology 9,Author G. Williams,Springer,1990,BK-008,978-392602066
+BM-0297,Guide to History 9,Author V. Jones,Wiley,1993,BK-016,978-631320223
+BM-0298,Fundamentals of Java 3,Author Q. Brown,Springer,1999,BK-011,978-929118507
+BM-0299,The Art of Java 7,Author K. Jones,Penguin,1993,BK-016,978-824005704
+BM-0300,Guide to Machine Learning 1,Author P. Williams,O'Reilly,1994,BK-004,978-387881902
+BM-0301,Mastering AI 7,Author Z. Jones,O'Reilly,2013,BK-019,978-991686848
+BM-0302,Guide to Music 4,Author W. Jones,McGraw-Hill,2021,BK-001,978-778112213
+BM-0303,Fundamentals of Python 4,Author L. Brown,MIT Press,2018,BK-009,978-443285149
+BM-0304,Fundamentals of History 5,Author T. Smith,McGraw-Hill,1996,BK-011,978-420533204
+BM-0305,History of Machine Learning 6,Author W. Smith,Wiley,1999,BK-004,978-440254255
+BM-0306,Guide to Java 8,Author N. Brown,Pearson,2017,BK-015,978-320947684
+BM-0307,Introduction to History 1,Author A. Johnson,McGraw-Hill,2024,BK-020,978-484519694
+BM-0308,Advanced Python 3,Author O. Johnson,Penguin,2017,BK-017,978-941937821
+BM-0309,Mastering Chemistry 1,Author K. Brown,Springer,1995,BK-017,978-102569364
+BM-0310,The Art of History 5,Author K. Brown,Pearson,2001,BK-011,978-594412537
+BM-0311,Fundamentals of Physics 2,Author Y. Johnson,Springer,2014,BK-009,978-563053253
+BM-0312,Handbook of Java 1,Author W. Smith,Springer,2023,BK-012,978-196540422
+BM-0313,History of Physics 10,Author Q. Johnson,Pearson,1990,BK-001,978-192464067
+BM-0314,Mastering AI 10,Author R. Johnson,Springer,2020,BK-010,978-351074571
+BM-0315,Mastering Economics 2,Author S. Williams,Pearson,2016,BK-016,978-830032089
+BM-0316,Mastering Python 6,Author C. Johnson,Penguin,2009,BK-012,978-186464395
+BM-0317,Mastering Calculus 2,Author T. Smith,McGraw-Hill,2021,BK-004,978-108757759
+BM-0318,Fundamentals of Python 10,Author G. Johnson,Penguin,2022,BK-018,978-373158843
+BM-0319,Advanced Python 7,Author D. Smith,Springer,2014,BK-018,978-747790142
+BM-0320,Guide to Java 4,Author Z. Williams,Penguin,1997,BK-017,978-953288011
+BM-0321,Advanced Machine Learning 1,Author D. Williams,O'Reilly,2010,BK-009,978-617220832
+BM-0322,Advanced Java 4,Author J. Brown,O'Reilly,2000,BK-010,978-648055022
+BM-0323,Fundamentals of Music 1,Author N. Johnson,Pearson,2012,BK-016,978-269279832
+BM-0324,Fundamentals of Economics 4,Author V. Johnson,Pearson,2008,BK-007,978-154170900
+BM-0325,History of Python 7,Author O. Williams,Pearson,1993,BK-012,978-905046826
+BM-0326,Mastering Economics 10,Author V. Smith,MIT Press,1994,BK-018,978-932567763
+BM-0327,Mastering Python 6,Author F. Brown,Penguin,2018,BK-013,978-398211895
+BM-0328,History of Biology 9,Author T. Williams,Pearson,2003,BK-010,978-190417445
+BM-0329,History of Calculus 2,Author G. Williams,Penguin,2001,BK-008,978-603543292
+BM-0330,The Art of Biology 6,Author B. Jones,Pearson,1992,BK-020,978-820007664
+BM-0331,Handbook of Physics 7,Author Q. Smith,Pearson,2013,BK-015,978-524588913
+BM-0332,History of Economics 4,Author L. Smith,MIT Press,1990,BK-002,978-816422100
+BM-0333,History of Machine Learning 5,Author N. Smith,Pearson,2016,BK-015,978-871025932
+BM-0334,The Art of Java 8,Author G. Jones,MIT Press,2011,BK-002,978-702048534
+BM-0335,Guide to Calculus 9,Author H. Brown,O'Reilly,2003,BK-002,978-730709318
+BM-0336,Advanced Biology 9,Author G. Smith,Penguin,1993,BK-003,978-752585445
+BM-0337,Handbook of Music 8,Author J. Williams,Springer,2010,BK-019,978-545188075
+BM-0338,Mastering Philosophy 5,Author Y. Brown,McGraw-Hill,2000,BK-016,978-404093102
+BM-0339,Introduction to Python 10,Author N. Johnson,Pearson,1996,BK-003,978-326009105
+BM-0340,The Art of Philosophy 1,Author U. Jones,Pearson,2001,BK-015,978-440850709
+BM-0341,Handbook of Python 2,Author T. Williams,Springer,2003,BK-014,978-235908693
+BM-0342,Advanced Philosophy 2,Author B. Johnson,Pearson,1990,BK-013,978-336335245
+BM-0343,Mastering Art 6,Author U. Smith,Pearson,1996,BK-002,978-554008288
+BM-0344,Advanced Calculus 6,Author Q. Smith,Wiley,2018,BK-006,978-101702642
+BM-0345,Guide to Art 3,Author V. Smith,MIT Press,2002,BK-014,978-895651870
+BM-0346,The Art of Java 9,Author M. Smith,Springer,2010,BK-018,978-252330467
+BM-0347,Advanced Chemistry 7,Author K. Williams,MIT Press,2023,BK-003,978-115682277
+BM-0348,History of Music 10,Author Y. Smith,Pearson,2000,BK-008,978-278893983
+BM-0349,Advanced Economics 5,Author Q. Smith,O'Reilly,2015,BK-012,978-197767986
+BM-0350,Advanced Music 2,Author R. Williams,Wiley,1996,BK-008,978-904281979
+BM-0351,Handbook of Economics 9,Author T. Brown,Penguin,2006,BK-014,978-467257202
+BM-0352,History of History 4,Author T. Williams,MIT Press,2019,BK-016,978-890859774
+BM-0353,Handbook of Java 9,Author I. Williams,Wiley,2013,BK-002,978-465231721
+BM-0354,Advanced Java 1,Author Y. Smith,McGraw-Hill,1992,BK-016,978-972824173
+BM-0355,Fundamentals of Chemistry 7,Author U. Williams,Pearson,1991,BK-007,978-573685747
+BM-0356,Guide to Art 10,Author I. Brown,Springer,2012,BK-015,978-503738127
+BM-0357,The Art of Python 6,Author U. Brown,McGraw-Hill,1990,BK-006,978-890778823
+BM-0358,Advanced History 6,Author O. Jones,McGraw-Hill,1991,BK-007,978-534612303
+BM-0359,Mastering Physics 5,Author F. Johnson,Springer,2022,BK-012,978-130692022
+BM-0360,Advanced Python 2,Author W. Williams,MIT Press,1999,BK-016,978-221165400
+BM-0361,Guide to Art 5,Author W. Johnson,McGraw-Hill,2015,BK-011,978-424948171
+BM-0362,Advanced Java 2,Author G. Williams,McGraw-Hill,2000,BK-005,978-356346396
+BM-0363,History of History 7,Author B. Jones,MIT Press,2022,BK-010,978-465415044
+BM-0364,Fundamentals of Calculus 2,Author S. Smith,McGraw-Hill,1996,BK-010,978-338113097
+BM-0365,The Art of History 5,Author V. Jones,McGraw-Hill,2016,BK-010,978-689648947
+BM-0366,History of Art 7,Author V. Smith,Pearson,2011,BK-019,978-365617410
+BM-0367,The Art of History 9,Author Y. Jones,MIT Press,2011,BK-018,978-173463563
+BM-0368,Handbook of Chemistry 5,Author S. Jones,Springer,1994,BK-001,978-494002998
+BM-0369,Advanced Music 2,Author C. Williams,Penguin,1990,BK-016,978-117801309
+BM-0370,Mastering Economics 2,Author V. Johnson,MIT Press,2002,BK-005,978-846328496
+BM-0371,Mastering Biology 9,Author M. Johnson,O'Reilly,2024,BK-014,978-921345986
+BM-0372,History of Economics 3,Author L. Brown,Penguin,1994,BK-002,978-758084661
+BM-0373,History of Machine Learning 10,Author U. Jones,Penguin,2014,BK-016,978-218911550
+BM-0374,Advanced Calculus 9,Author J. Brown,MIT Press,1994,BK-007,978-576091071
+BM-0375,The Art of AI 10,Author F. Smith,McGraw-Hill,1998,BK-006,978-842643466
+BM-0376,Handbook of Music 6,Author I. Johnson,Springer,1994,BK-009,978-753134032
+BM-0377,Guide to Art 1,Author P. Jones,McGraw-Hill,2022,BK-018,978-735702245
+BM-0378,Fundamentals of AI 2,Author T. Brown,O'Reilly,2008,BK-012,978-169397929
+BM-0379,The Art of History 9,Author X. Williams,Springer,2003,BK-012,978-588310472
+BM-0380,Mastering Philosophy 1,Author D. Brown,MIT Press,1990,BK-002,978-951431078
+BM-0381,Advanced AI 4,Author S. Jones,MIT Press,1991,BK-019,978-109753171
+BM-0382,Introduction to Philosophy 3,Author T. Jones,McGraw-Hill,2010,BK-016,978-602847410
+BM-0383,Mastering Biology 8,Author H. Johnson,Penguin,1995,BK-008,978-463749387
+BM-0384,Advanced Art 9,Author C. Williams,MIT Press,2013,BK-012,978-661822399
+BM-0385,Advanced Python 4,Author R. Johnson,McGraw-Hill,1990,BK-001,978-142446168
+BM-0386,Fundamentals of AI 2,Author G. Jones,Wiley,2017,BK-009,978-948976912
+BM-0387,Introduction to Chemistry 2,Author A. Johnson,Penguin,2000,BK-004,978-479020213
+BM-0388,Handbook of Philosophy 7,Author G. Williams,Pearson,1990,BK-013,978-985365829
+BM-0389,Introduction to Java 8,Author C. Jones,Penguin,2017,BK-016,978-963440442
+BM-0390,Advanced Python 4,Author D. Jones,Penguin,2012,BK-001,978-252864495
+BM-0391,Fundamentals of Music 4,Author C. Williams,MIT Press,1998,BK-008,978-803495433
+BM-0392,The Art of Calculus 5,Author V. Smith,Springer,2002,BK-011,978-282831184
+BM-0393,History of Chemistry 6,Author W. Brown,O'Reilly,2007,BK-007,978-181280700
+BM-0394,Guide to Art 2,Author N. Williams,MIT Press,2005,BK-002,978-674949466
+BM-0395,Mastering History 8,Author U. Williams,McGraw-Hill,1998,BK-011,978-873516170
+BM-0396,The Art of Music 10,Author K. Jones,Penguin,1993,BK-005,978-681938181
+BM-0397,History of Philosophy 10,Author A. Williams,O'Reilly,1996,BK-017,978-513733800
+BM-0398,Handbook of Machine Learning 2,Author N. Smith,Wiley,1993,BK-006,978-402520442
+BM-0399,Guide to Art 2,Author D. Jones,McGraw-Hill,2020,BK-015,978-779590257
+BM-0400,The Art of Philosophy 4,Author P. Johnson,MIT Press,2007,BK-020,978-986847922
+BM-0401,Mastering History 6,Author R. Smith,Penguin,1990,BK-008,978-980523445
+BM-0402,Guide to Java 8,Author Q. Brown,Pearson,2008,BK-013,978-356697712
+BM-0403,Fundamentals of AI 5,Author Z. Jones,O'Reilly,1993,BK-006,978-730228189
+BM-0404,Guide to Chemistry 6,Author T. Brown,Wiley,2007,BK-001,978-578334844
+BM-0405,Fundamentals of Machine Learning 9,Author F. Johnson,Penguin,2016,BK-003,978-860276901
+BM-0406,Guide to Java 2,Author U. Brown,McGraw-Hill,2022,BK-010,978-159782163
+BM-0407,Advanced Calculus 5,Author B. Smith,O'Reilly,1995,BK-011,978-736797656
+BM-0408,Handbook of History 6,Author G. Johnson,Springer,2016,BK-001,978-425708653
+BM-0409,Advanced Calculus 1,Author H. Jones,Wiley,2001,BK-003,978-353168626
+BM-0410,History of Java 3,Author E. Jones,O'Reilly,2013,BK-002,978-874513442
+BM-0411,Fundamentals of Machine Learning 5,Author H. Brown,Pearson,1998,BK-014,978-761858266
+BM-0412,The Art of Calculus 1,Author R. Jones,Springer,1998,BK-016,978-692190516
+BM-0413,Fundamentals of Chemistry 7,Author C. Brown,Wiley,2015,BK-003,978-230086132
+BM-0414,Advanced Economics 9,Author W. Johnson,MIT Press,2005,BK-004,978-154640090
+BM-0415,Mastering AI 9,Author Z. Johnson,Springer,1993,BK-014,978-432600685
+BM-0416,Handbook of Python 2,Author D. Jones,McGraw-Hill,2002,BK-016,978-955726041
+BM-0417,Advanced Java 7,Author V. Johnson,Springer,2013,BK-008,978-396608119
+BM-0418,Fundamentals of Java 10,Author Z. Johnson,Springer,2023,BK-010,978-685275238
+BM-0419,Mastering History 3,Author H. Williams,MIT Press,2019,BK-011,978-133997334
+BM-0420,History of Calculus 7,Author N. Williams,McGraw-Hill,2024,BK-018,978-346887557
+BM-0421,Mastering Music 8,Author P. Brown,O'Reilly,2018,BK-012,978-293198019
+BM-0422,The Art of Calculus 1,Author W. Johnson,O'Reilly,1993,BK-004,978-532082005
+BM-0423,Fundamentals of Physics 1,Author G. Smith,MIT Press,2020,BK-016,978-480702099
+BM-0424,The Art of Economics 4,Author O. Williams,Springer,2006,BK-008,978-401014660
+BM-0425,Introduction to Python 3,Author S. Williams,Pearson,2009,BK-012,978-386120633
+BM-0426,Guide to AI 4,Author L. Jones,McGraw-Hill,1994,BK-019,978-964035842
+BM-0427,Handbook of Physics 2,Author R. Brown,McGraw-Hill,2014,BK-012,978-130930126
+BM-0428,Mastering Music 8,Author P. Williams,McGraw-Hill,1992,BK-016,978-768265892
+BM-0429,The Art of Machine Learning 9,Author H. Jones,McGraw-Hill,2004,BK-011,978-906484083
+BM-0430,Introduction to Art 6,Author R. Williams,McGraw-Hill,2006,BK-014,978-606475702
+BM-0431,Handbook of Java 6,Author H. Johnson,Wiley,1999,BK-004,978-780697102
+BM-0432,Mastering History 6,Author F. Johnson,O'Reilly,2008,BK-020,978-549446388
+BM-0433,Introduction to Physics 6,Author F. Smith,Penguin,2000,BK-014,978-647314277
+BM-0434,Fundamentals of Java 8,Author N. Brown,Springer,2004,BK-002,978-212077906
+BM-0435,Mastering Java 8,Author L. Jones,Pearson,1997,BK-018,978-763706703
+BM-0436,Advanced Economics 7,Author M. Smith,McGraw-Hill,2008,BK-017,978-917518374
+BM-0437,Advanced Physics 1,Author P. Johnson,Penguin,1997,BK-002,978-764275680
+BM-0438,Guide to History 1,Author Q. Brown,Wiley,2015,BK-005,978-893410912
+BM-0439,The Art of Biology 8,Author C. Johnson,Pearson,2002,BK-004,978-618953944
+BM-0440,History of Physics 1,Author X. Smith,Wiley,2005,BK-005,978-355190213
+BM-0441,Advanced Music 8,Author I. Smith,Springer,2015,BK-010,978-547948568
+BM-0442,The Art of Music 3,Author Y. Jones,Wiley,1990,BK-019,978-531180495
+BM-0443,Introduction to Chemistry 9,Author E. Jones,Penguin,1999,BK-015,978-194859778
+BM-0444,History of Chemistry 10,Author R. Johnson,Pearson,2024,BK-011,978-196783584
+BM-0445,The Art of Philosophy 1,Author X. Jones,Pearson,2011,BK-006,978-744490487
+BM-0446,Introduction to Philosophy 1,Author G. Brown,McGraw-Hill,2006,BK-012,978-970604942
+BM-0447,The Art of Economics 7,Author U. Williams,O'Reilly,2023,BK-010,978-133595733
+BM-0448,Fundamentals of AI 9,Author G. Jones,MIT Press,2002,BK-009,978-594434474
+BM-0449,Handbook of Art 6,Author B. Williams,McGraw-Hill,2008,BK-006,978-419491950
+BM-0450,The Art of Calculus 3,Author S. Johnson,Penguin,2015,BK-014,978-649071571
+BM-0451,History of Python 10,Author R. Jones,O'Reilly,2006,BK-014,978-839802291
+BM-0452,Advanced AI 2,Author N. Smith,Penguin,2006,BK-008,978-676868210
+BM-0453,Handbook of Python 2,Author P. Johnson,MIT Press,2015,BK-006,978-936549720
+BM-0454,History of Physics 1,Author L. Brown,Wiley,2010,BK-006,978-509796760
+BM-0455,The Art of Python 5,Author I. Jones,Springer,2003,BK-009,978-370136852
+BM-0456,Guide to Art 6,Author P. Johnson,Wiley,2005,BK-019,978-242739457
+BM-0457,Introduction to Chemistry 9,Author Z. Johnson,Pearson,2008,BK-011,978-486816073
+BM-0458,Advanced Music 6,Author B. Smith,MIT Press,2023,BK-018,978-150082418
+BM-0459,Introduction to Philosophy 10,Author J. Williams,Springer,2024,BK-007,978-244019427
+BM-0460,Mastering Python 6,Author O. Jones,Penguin,2023,BK-007,978-760454491
+BM-0461,Guide to Music 2,Author F. Williams,Springer,1992,BK-016,978-464819358
+BM-0462,Handbook of Philosophy 10,Author D. Brown,Springer,2024,BK-012,978-181713371
+BM-0463,The Art of Biology 6,Author X. Brown,MIT Press,2018,BK-008,978-841321211
+BM-0464,History of Machine Learning 2,Author B. Brown,McGraw-Hill,2002,BK-007,978-781706715
+BM-0465,Mastering Calculus 6,Author A. Johnson,Pearson,2007,BK-016,978-197321305
+BM-0466,Handbook of Art 10,Author P. Jones,O'Reilly,2021,BK-011,978-725224927
+BM-0467,Handbook of Java 4,Author J. Jones,O'Reilly,1998,BK-012,978-587735700
+BM-0468,History of Economics 1,Author H. Jones,McGraw-Hill,2008,BK-013,978-179313258
+BM-0469,The Art of History 2,Author U. Johnson,Springer,2018,BK-020,978-851917290
+BM-0470,The Art of Art 5,Author L. Jones,Pearson,1997,BK-012,978-862242957
+BM-0471,Advanced Python 5,Author T. Jones,MIT Press,2007,BK-013,978-376721820
+BM-0472,Fundamentals of Python 1,Author I. Jones,Wiley,2003,BK-001,978-650451128
+BM-0473,Introduction to History 8,Author N. Williams,McGraw-Hill,1996,BK-009,978-791359726
+BM-0474,Fundamentals of Machine Learning 5,Author U. Smith,MIT Press,2006,BK-010,978-271979146
+BM-0475,Fundamentals of Calculus 10,Author C. Johnson,Penguin,2000,BK-010,978-228909250
+BM-0476,Handbook of Calculus 4,Author H. Jones,O'Reilly,2004,BK-005,978-145467253
+BM-0477,The Art of Biology 1,Author Z. Williams,Wiley,2014,BK-012,978-119905206
+BM-0478,The Art of Art 2,Author K. Smith,Penguin,2011,BK-015,978-162096799
+BM-0479,Advanced History 5,Author I. Johnson,McGraw-Hill,2018,BK-012,978-214447045
+BM-0480,Handbook of Music 6,Author U. Johnson,Springer,2015,BK-006,978-216962981
+BM-0481,Advanced Physics 4,Author Q. Jones,Penguin,2009,BK-006,978-109039465
+BM-0482,Handbook of Philosophy 10,Author B. Brown,Pearson,2013,BK-019,978-751882130
+BM-0483,History of Philosophy 1,Author Q. Johnson,Wiley,2010,BK-003,978-350879790
+BM-0484,The Art of Economics 8,Author P. Jones,Pearson,1992,BK-010,978-519538351
+BM-0485,Fundamentals of Python 7,Author V. Jones,Penguin,2011,BK-010,978-507150024
+BM-0486,The Art of Music 6,Author G. Johnson,Springer,2001,BK-014,978-931874554
+BM-0487,Advanced Python 10,Author H. Brown,Penguin,2014,BK-020,978-762460126
+BM-0488,History of Python 9,Author P. Brown,McGraw-Hill,1993,BK-008,978-465958237
+BM-0489,Introduction to Biology 6,Author S. Smith,Pearson,1995,BK-003,978-110646261
+BM-0490,Mastering Chemistry 3,Author R. Smith,Wiley,2007,BK-005,978-246564860
+BM-0491,The Art of Python 7,Author H. Smith,Pearson,2017,BK-004,978-475987641
+BM-0492,The Art of Physics 5,Author N. Smith,O'Reilly,2002,BK-010,978-906691289
+BM-0493,Handbook of Java 7,Author N. Smith,MIT Press,2001,BK-005,978-214469272
+BM-0494,Advanced Machine Learning 7,Author R. Smith,Wiley,1999,BK-020,978-682019630
+BM-0495,Advanced Music 1,Author T. Johnson,Pearson,2010,BK-018,978-515271373
+BM-0496,Fundamentals of Java 7,Author Y. Jones,Penguin,1990,BK-005,978-304949120
+BM-0497,Mastering Java 6,Author U. Johnson,MIT Press,2003,BK-017,978-484435615
+BM-0498,The Art of Philosophy 3,Author O. Smith,Wiley,2002,BK-012,978-715832586
+BM-0499,Fundamentals of Java 7,Author M. Johnson,O'Reilly,1999,BK-018,978-213544160
+BM-0500,The Art of Biology 2,Author Z. Smith,MIT Press,2011,BK-018,978-131264985
+BM-0501,The Art of Physics 7,Author O. Johnson,Pearson,2011,BK-017,978-600838923
+BM-0502,Introduction to Chemistry 3,Author C. Williams,Springer,2007,BK-003,978-352195090
+BM-0503,Fundamentals of Chemistry 8,Author O. Jones,MIT Press,1990,BK-015,978-616158814
+BM-0504,Guide to Biology 1,Author M. Smith,Penguin,2011,BK-017,978-570992695
+BM-0505,History of History 10,Author H. Jones,MIT Press,2019,BK-004,978-104060042
+BM-0506,Mastering History 7,Author T. Johnson,Springer,2019,BK-011,978-399758820
+BM-0507,Guide to Art 1,Author R. Johnson,Wiley,2017,BK-003,978-411239083
+BM-0508,Fundamentals of Calculus 7,Author G. Smith,Pearson,2016,BK-012,978-107098645
+BM-0509,The Art of History 7,Author N. Brown,Wiley,2010,BK-016,978-276288699
+BM-0510,Mastering Machine Learning 3,Author Q. Brown,O'Reilly,2020,BK-007,978-754891785
+BM-0511,Mastering Python 4,Author T. Williams,Penguin,2011,BK-012,978-704531283
+BM-0512,Advanced Economics 7,Author J. Brown,MIT Press,2024,BK-008,978-311343286
+BM-0513,Fundamentals of Music 7,Author H. Johnson,Wiley,2015,BK-010,978-326290550
+BM-0514,Introduction to Philosophy 6,Author U. Brown,Wiley,2014,BK-006,978-940068861
+BM-0515,Guide to Biology 10,Author S. Williams,O'Reilly,2004,BK-005,978-406733632
+BM-0516,The Art of Art 10,Author F. Johnson,Pearson,2010,BK-008,978-404593778
+BM-0517,Guide to Calculus 1,Author D. Jones,Penguin,2013,BK-019,978-158467253
+BM-0518,History of Python 8,Author T. Brown,Penguin,2000,BK-002,978-334104260
+BM-0519,Mastering Chemistry 9,Author E. Johnson,O'Reilly,1997,BK-016,978-168357491
+BM-0520,Advanced Music 2,Author S. Smith,MIT Press,2010,BK-014,978-629205845
+BM-0521,Advanced History 10,Author I. Williams,O'Reilly,2023,BK-011,978-594351862
+BM-0522,History of Music 5,Author R. Jones,MIT Press,1991,BK-003,978-643637138
+BM-0523,Advanced Calculus 9,Author M. Brown,McGraw-Hill,1992,BK-010,978-212532412
+BM-0524,Advanced AI 6,Author F. Johnson,McGraw-Hill,2009,BK-014,978-836570498
+BM-0525,The Art of Philosophy 5,Author C. Brown,Springer,2010,BK-011,978-807133798
+BM-0526,History of Calculus 7,Author G. Jones,Springer,1991,BK-007,978-391952210
+BM-0527,History of Machine Learning 4,Author Y. Williams,McGraw-Hill,2013,BK-018,978-749445050
+BM-0528,Handbook of Machine Learning 7,Author F. Jones,Penguin,2010,BK-016,978-694071920
+BM-0529,Advanced Chemistry 5,Author T. Smith,Springer,2010,BK-001,978-817630138
+BM-0530,Mastering AI 6,Author W. Williams,McGraw-Hill,1997,BK-013,978-274006591
+BM-0531,Introduction to Python 7,Author A. Johnson,Springer,1999,BK-019,978-283755379
+BM-0532,Mastering Chemistry 8,Author K. Williams,Pearson,2016,BK-006,978-134180203
+BM-0533,History of Art 3,Author S. Jones,Springer,1996,BK-003,978-918786220
+BM-0534,Mastering History 2,Author S. Brown,O'Reilly,1993,BK-018,978-416994363
+BM-0535,The Art of Art 10,Author I. Jones,Wiley,2001,BK-014,978-469836238
+BM-0536,Introduction to History 9,Author H. Jones,Penguin,2005,BK-002,978-202322207
+BM-0537,Guide to Calculus 10,Author R. Brown,Springer,2018,BK-004,978-165406329
+BM-0538,Advanced Music 10,Author Q. Williams,Pearson,2013,BK-004,978-952264335
+BM-0539,Fundamentals of Java 3,Author F. Williams,Penguin,2007,BK-001,978-319525137
+BM-0540,Introduction to Biology 2,Author Q. Williams,Pearson,2002,BK-020,978-854854130
+BM-0541,Handbook of Chemistry 5,Author Y. Jones,Springer,2007,BK-003,978-112708879
+BM-0542,Mastering AI 9,Author I. Jones,O'Reilly,2020,BK-011,978-841809796
+BM-0543,The Art of Chemistry 3,Author G. Johnson,Pearson,2020,BK-017,978-110997380
+BM-0544,History of Biology 9,Author Z. Brown,O'Reilly,1997,BK-015,978-312631693
+BM-0545,Introduction to Chemistry 5,Author K. Williams,O'Reilly,2017,BK-011,978-479083628
+BM-0546,Fundamentals of Philosophy 4,Author T. Williams,McGraw-Hill,2008,BK-001,978-128091805
+BM-0547,Introduction to Chemistry 5,Author U. Williams,Wiley,2002,BK-017,978-570901608
+BM-0548,Guide to Music 2,Author N. Johnson,Pearson,2017,BK-010,978-867561801
+BM-0549,Introduction to Java 1,Author B. Smith,Penguin,2019,BK-005,978-460634530
+BM-0550,Mastering History 2,Author T. Brown,O'Reilly,2004,BK-019,978-833730782
+BM-0551,Guide to Java 2,Author Q. Williams,Penguin,2016,BK-020,978-664869197
+BM-0552,Fundamentals of Economics 7,Author H. Brown,Wiley,2004,BK-008,978-612450051
+BM-0553,Handbook of Economics 3,Author A. Williams,Penguin,1990,BK-004,978-145098058
+BM-0554,Introduction to Python 6,Author X. Jones,Penguin,2001,BK-007,978-313064058
+BM-0555,Guide to Java 10,Author M. Smith,McGraw-Hill,2019,BK-002,978-575868381
+BM-0556,Mastering Music 6,Author I. Jones,McGraw-Hill,2010,BK-020,978-939906051
+BM-0557,Guide to Music 1,Author V. Jones,McGraw-Hill,1997,BK-008,978-149000104
+BM-0558,Mastering AI 9,Author I. Johnson,Wiley,1998,BK-016,978-128978606
+BM-0559,Mastering Physics 9,Author L. Brown,McGraw-Hill,2013,BK-013,978-561769848
+BM-0560,Mastering Calculus 9,Author L. Williams,McGraw-Hill,2021,BK-016,978-680840932
+BM-0561,Fundamentals of Calculus 4,Author I. Brown,O'Reilly,2023,BK-020,978-723848763
+BM-0562,Advanced History 3,Author T. Jones,Penguin,2011,BK-016,978-563750134
+BM-0563,Handbook of Chemistry 5,Author B. Jones,Wiley,2006,BK-012,978-889336882
+BM-0564,History of Machine Learning 8,Author R. Johnson,Wiley,2002,BK-012,978-724925695
+BM-0565,Handbook of Art 5,Author K. Brown,Pearson,2018,BK-006,978-313837860
+BM-0566,The Art of Physics 10,Author Q. Jones,Penguin,1996,BK-007,978-124598721
+BM-0567,Mastering Art 4,Author M. Smith,Wiley,2017,BK-012,978-293309494
+BM-0568,Fundamentals of Machine Learning 5,Author G. Smith,Penguin,2000,BK-004,978-566614236
+BM-0569,Fundamentals of Physics 6,Author I. Johnson,O'Reilly,2015,BK-013,978-221614070
+BM-0570,Handbook of Calculus 2,Author X. Brown,Springer,2003,BK-016,978-427719097
+BM-0571,The Art of Physics 2,Author U. Williams,Pearson,2024,BK-017,978-200671485
+BM-0572,Handbook of Economics 2,Author I. Johnson,Springer,2009,BK-002,978-384032406
+BM-0573,Mastering Calculus 3,Author C. Jones,Wiley,2014,BK-018,978-655378664
+BM-0574,Fundamentals of Biology 2,Author Y. Smith,MIT Press,1990,BK-016,978-940632554
+BM-0575,Handbook of Java 3,Author Y. Smith,McGraw-Hill,1991,BK-008,978-562059935
+BM-0576,Fundamentals of Physics 5,Author M. Brown,Wiley,2007,BK-001,978-388381866
+BM-0577,Introduction to Physics 3,Author K. Brown,Wiley,1999,BK-017,978-167939889
+BM-0578,Mastering History 7,Author Z. Brown,Pearson,1999,BK-018,978-209735464
+BM-0579,Guide to AI 3,Author U. Smith,Wiley,2000,BK-005,978-463379470
+BM-0580,The Art of Art 5,Author I. Brown,McGraw-Hill,2018,BK-012,978-818518504
+BM-0581,The Art of Calculus 3,Author V. Johnson,Springer,2009,BK-020,978-752407386
+BM-0582,Advanced Machine Learning 1,Author W. Jones,Penguin,2016,BK-002,978-916095137
+BM-0583,Handbook of Physics 4,Author H. Williams,O'Reilly,2009,BK-013,978-663914264
+BM-0584,The Art of Art 8,Author C. Johnson,O'Reilly,2005,BK-013,978-669196622
+BM-0585,Introduction to Physics 10,Author R. Brown,O'Reilly,1997,BK-005,978-286351299
+BM-0586,Advanced AI 6,Author U. Jones,Springer,2018,BK-002,978-262119841
+BM-0587,History of Art 6,Author N. Johnson,Pearson,2000,BK-014,978-699134038
+BM-0588,History of Chemistry 5,Author T. Johnson,Wiley,2007,BK-004,978-355907765
+BM-0589,Introduction to Philosophy 6,Author N. Smith,McGraw-Hill,2018,BK-013,978-809033117
+BM-0590,Handbook of Python 6,Author P. Smith,O'Reilly,1998,BK-019,978-688634006
+BM-0591,Guide to Music 5,Author P. Smith,MIT Press,1991,BK-014,978-611719249
+BM-0592,Handbook of Chemistry 6,Author G. Brown,O'Reilly,2022,BK-008,978-321653275
+BM-0593,The Art of Calculus 7,Author X. Johnson,Wiley,2007,BK-019,978-770722797
+BM-0594,Guide to Python 7,Author N. Johnson,Springer,1996,BK-003,978-706466067
+BM-0595,Fundamentals of Java 3,Author K. Brown,Penguin,2021,BK-009,978-522069332
+BM-0596,History of Music 7,Author Q. Williams,Springer,2002,BK-009,978-895979193
+BM-0597,Fundamentals of Biology 3,Author F. Williams,MIT Press,2000,BK-005,978-447680528
+BM-0598,Mastering Calculus 1,Author P. Smith,Springer,2006,BK-008,978-255003544
+BM-0599,History of Machine Learning 1,Author Y. Smith,O'Reilly,2020,BK-012,978-251849064
+BM-0600,Handbook of Art 7,Author O. Brown,Wiley,2002,BK-013,978-996844624
+BM-0601,The Art of Chemistry 8,Author W. Smith,Wiley,2010,BK-014,978-734368450
+BM-0602,History of Physics 1,Author D. Jones,Pearson,1993,BK-011,978-100574588
+BM-0603,Advanced Art 8,Author T. Johnson,McGraw-Hill,1999,BK-005,978-906731822
+BM-0604,Introduction to Calculus 8,Author O. Smith,Springer,2005,BK-013,978-139324154
+BM-0605,Guide to Chemistry 6,Author X. Smith,O'Reilly,2014,BK-014,978-396964351
+BM-0606,The Art of Python 7,Author G. Jones,Wiley,2021,BK-016,978-416534148
+BM-0607,The Art of Economics 3,Author V. Johnson,Pearson,2019,BK-012,978-250825123
+BM-0608,Advanced Philosophy 2,Author W. Smith,MIT Press,2011,BK-013,978-330486307
+BM-0609,Advanced Python 1,Author F. Smith,Pearson,2018,BK-019,978-142822889
+BM-0610,The Art of History 9,Author F. Williams,Wiley,2016,BK-019,978-605285685
+BM-0611,Handbook of Physics 7,Author N. Johnson,Penguin,2020,BK-012,978-526030598
+BM-0612,The Art of History 10,Author F. Johnson,MIT Press,1991,BK-020,978-360085379
+BM-0613,The Art of Python 9,Author Z. Brown,Pearson,2018,BK-003,978-825003271
+BM-0614,Fundamentals of Physics 3,Author D. Brown,Penguin,2022,BK-001,978-736088715
+BM-0615,History of Calculus 8,Author X. Jones,MIT Press,2009,BK-005,978-338404948
+BM-0616,Mastering Machine Learning 8,Author I. Jones,O'Reilly,1998,BK-012,978-644127328
+BM-0617,Mastering Calculus 4,Author P. Brown,O'Reilly,2011,BK-012,978-638149267
+BM-0618,Handbook of Java 6,Author S. Williams,O'Reilly,1998,BK-011,978-948334827
+BM-0619,Fundamentals of Physics 9,Author A. Johnson,Pearson,1990,BK-005,978-372018565
+BM-0620,The Art of Python 8,Author W. Brown,Springer,2005,BK-010,978-465880156
+BM-0621,Introduction to Economics 3,Author T. Smith,Springer,2009,BK-017,978-153248241
+BM-0622,Fundamentals of Physics 10,Author K. Williams,Pearson,2005,BK-011,978-814728612
+BM-0623,Introduction to Calculus 3,Author O. Johnson,Pearson,2013,BK-011,978-620612055
+BM-0624,The Art of Music 1,Author G. Williams,Penguin,2013,BK-003,978-724795984
+BM-0625,Handbook of Art 7,Author V. Johnson,Wiley,2023,BK-012,978-797402407
+BM-0626,Advanced AI 1,Author Q. Brown,MIT Press,2022,BK-002,978-848638428
+BM-0627,The Art of Art 9,Author U. Brown,MIT Press,2001,BK-018,978-501479840
+BM-0628,Advanced Philosophy 7,Author U. Jones,O'Reilly,2018,BK-018,978-956868114
+BM-0629,Introduction to Economics 4,Author J. Williams,O'Reilly,2013,BK-020,978-739026072
+BM-0630,The Art of Philosophy 4,Author B. Williams,McGraw-Hill,1993,BK-005,978-556024962
+BM-0631,Handbook of Art 1,Author X. Brown,MIT Press,1994,BK-006,978-696592766
+BM-0632,Mastering Calculus 8,Author K. Williams,O'Reilly,2024,BK-015,978-265717717
+BM-0633,Fundamentals of Physics 9,Author D. Smith,Penguin,1999,BK-007,978-940409219
+BM-0634,Handbook of Machine Learning 7,Author G. Jones,Springer,2017,BK-016,978-752294991
+BM-0635,Introduction to History 4,Author S. Johnson,Pearson,2005,BK-019,978-788804138
+BM-0636,Fundamentals of Machine Learning 3,Author H. Smith,Wiley,2021,BK-002,978-532052245
+BM-0637,Introduction to Music 2,Author Q. Johnson,Springer,2023,BK-012,978-471690339
+BM-0638,Handbook of Music 5,Author S. Smith,MIT Press,2023,BK-012,978-994693638
+BM-0639,The Art of Economics 3,Author L. Johnson,Penguin,2023,BK-004,978-260382113
+BM-0640,Mastering Biology 7,Author K. Smith,Penguin,2013,BK-014,978-850490542
+BM-0641,History of Philosophy 8,Author X. Brown,O'Reilly,1995,BK-012,978-406821976
+BM-0642,Introduction to Music 4,Author V. Jones,O'Reilly,1999,BK-016,978-904843395
+BM-0643,Handbook of History 3,Author R. Brown,Springer,1996,BK-012,978-515134523
+BM-0644,Fundamentals of Java 10,Author A. Jones,Wiley,2001,BK-015,978-755521579
+BM-0645,Fundamentals of Calculus 10,Author L. Johnson,MIT Press,2013,BK-013,978-706868556
+BM-0646,Guide to Python 10,Author M. Williams,O'Reilly,2012,BK-005,978-185127055
+BM-0647,Advanced Philosophy 10,Author K. Johnson,O'Reilly,1990,BK-017,978-952447603
+BM-0648,Handbook of Chemistry 2,Author F. Johnson,Wiley,1992,BK-002,978-973343531
+BM-0649,Mastering Art 10,Author H. Smith,Wiley,2006,BK-011,978-212845147
+BM-0650,The Art of History 1,Author B. Johnson,Wiley,2022,BK-001,978-981488128
+BM-0651,Advanced Java 1,Author O. Johnson,McGraw-Hill,1996,BK-001,978-422410886
+BM-0652,Handbook of Philosophy 1,Author A. Johnson,O'Reilly,2019,BK-003,978-309754692
+BM-0653,The Art of Economics 9,Author N. Jones,MIT Press,1990,BK-018,978-565879257
+BM-0654,Mastering Physics 3,Author W. Smith,Pearson,1996,BK-003,978-817329596
+BM-0655,Introduction to Economics 6,Author Q. Jones,Pearson,2022,BK-012,978-554547331
+BM-0656,History of Music 2,Author A. Smith,Springer,1992,BK-012,978-555328413
+BM-0657,Advanced Economics 10,Author U. Smith,Wiley,2019,BK-017,978-403327605
+BM-0658,Introduction to Music 9,Author S. Brown,Wiley,2009,BK-010,978-390308820
+BM-0659,Introduction to Art 5,Author R. Johnson,Springer,2001,BK-016,978-460288187
+BM-0660,Advanced Python 5,Author B. Johnson,MIT Press,2020,BK-017,978-842402177
+BM-0661,Guide to AI 9,Author Z. Williams,O'Reilly,2006,BK-001,978-957254403
+BM-0662,Introduction to Chemistry 5,Author Q. Brown,Pearson,1999,BK-015,978-377078476
+BM-0663,Mastering Philosophy 5,Author X. Johnson,MIT Press,1998,BK-010,978-822897808
+BM-0664,Guide to Calculus 9,Author F. Williams,Wiley,2016,BK-012,978-217518427
+BM-0665,The Art of Java 3,Author D. Williams,MIT Press,2001,BK-013,978-752942285
+BM-0666,Handbook of AI 10,Author I. Smith,MIT Press,2022,BK-020,978-665831106
+BM-0667,Mastering Art 6,Author W. Johnson,Wiley,2000,BK-010,978-185392222
+BM-0668,Fundamentals of AI 5,Author L. Johnson,MIT Press,2002,BK-020,978-425528709
+BM-0669,Fundamentals of Physics 5,Author N. Jones,MIT Press,1991,BK-014,978-674639454
+BM-0670,Handbook of Java 8,Author F. Johnson,Penguin,1995,BK-020,978-805383283
+BM-0671,History of Biology 8,Author X. Jones,Penguin,2005,BK-004,978-347485311
+BM-0672,Advanced Music 8,Author D. Jones,Pearson,2003,BK-014,978-362307685
+BM-0673,Fundamentals of Chemistry 2,Author N. Johnson,O'Reilly,2018,BK-018,978-410104499
+BM-0674,Handbook of Music 7,Author B. Smith,Wiley,2020,BK-013,978-125103972
+BM-0675,Mastering Physics 1,Author U. Johnson,Pearson,2013,BK-014,978-673458783
+BM-0676,Fundamentals of Python 1,Author V. Williams,Pearson,2017,BK-003,978-934070605
+BM-0677,Guide to Python 1,Author J. Smith,O'Reilly,2011,BK-002,978-469201501
+BM-0678,History of Biology 2,Author L. Williams,Springer,2019,BK-014,978-689404012
+BM-0679,Mastering Java 10,Author Y. Williams,Springer,1990,BK-015,978-879935834
+BM-0680,The Art of History 10,Author O. Brown,MIT Press,2019,BK-018,978-132623565
+BM-0681,The Art of Physics 10,Author J. Williams,McGraw-Hill,2010,BK-015,978-181525680
+BM-0682,Fundamentals of AI 1,Author F. Jones,McGraw-Hill,2014,BK-004,978-869245879
+BM-0683,Guide to Machine Learning 8,Author V. Brown,Penguin,1996,BK-002,978-517531064
+BM-0684,Handbook of Economics 9,Author L. Johnson,Springer,1999,BK-010,978-384528534
+BM-0685,History of AI 3,Author E. Williams,MIT Press,2019,BK-002,978-569415341
+BM-0686,The Art of Calculus 3,Author P. Johnson,McGraw-Hill,2016,BK-004,978-915663589
+BM-0687,Advanced Physics 3,Author Y. Brown,Pearson,1995,BK-003,978-492094382
+BM-0688,The Art of Art 3,Author I. Jones,MIT Press,2005,BK-003,978-868884427
+BM-0689,Introduction to Music 3,Author I. Johnson,Pearson,2022,BK-001,978-674380099
+BM-0690,Handbook of Philosophy 9,Author H. Williams,Wiley,2024,BK-010,978-990812472
+BM-0691,The Art of Philosophy 9,Author L. Williams,O'Reilly,2014,BK-001,978-141370041
+BM-0692,Handbook of Physics 4,Author P. Jones,Penguin,2016,BK-016,978-998966003
+BM-0693,Handbook of AI 6,Author Y. Johnson,Penguin,2010,BK-019,978-844568302
+BM-0694,Fundamentals of Chemistry 10,Author K. Brown,Wiley,2005,BK-001,978-175862496
+BM-0695,The Art of History 1,Author V. Williams,O'Reilly,2018,BK-005,978-232051260
+BM-0696,Fundamentals of Biology 2,Author A. Brown,McGraw-Hill,2019,BK-006,978-379287965
+BM-0697,Handbook of Python 6,Author L. Johnson,Wiley,2001,BK-014,978-971058119
+BM-0698,The Art of Music 1,Author O. Smith,Wiley,1991,BK-007,978-157061410
+BM-0699,Guide to History 7,Author D. Brown,Penguin,1991,BK-007,978-796294118
+BM-0700,Handbook of Machine Learning 5,Author Q. Smith,Springer,1995,BK-016,978-705319176
+BM-0701,Advanced Chemistry 10,Author Y. Williams,Pearson,2024,BK-020,978-117280409
+BM-0702,History of History 2,Author E. Williams,Pearson,1993,BK-003,978-740200163
+BM-0703,Fundamentals of Python 9,Author J. Johnson,MIT Press,2018,BK-001,978-408391900
+BM-0704,Mastering Music 8,Author X. Jones,Pearson,1991,BK-008,978-513065497
+BM-0705,Handbook of Philosophy 9,Author Q. Jones,O'Reilly,2006,BK-001,978-749834205
+BM-0706,Introduction to Music 10,Author T. Williams,MIT Press,1996,BK-001,978-673821435
+BM-0707,The Art of History 6,Author O. Smith,McGraw-Hill,2008,BK-018,978-945598225
+BM-0708,The Art of Physics 5,Author G. Jones,Pearson,2003,BK-010,978-478542689
+BM-0709,History of Machine Learning 1,Author G. Brown,Penguin,1994,BK-002,978-384381435
+BM-0710,History of AI 7,Author M. Brown,O'Reilly,1990,BK-014,978-703655515
+BM-0711,Fundamentals of Biology 4,Author H. Williams,Springer,1998,BK-015,978-892323773
+BM-0712,Mastering History 8,Author T. Smith,Springer,1997,BK-012,978-615776865
+BM-0713,Introduction to Music 1,Author R. Johnson,Penguin,2008,BK-007,978-891242794
+BM-0714,Handbook of Art 1,Author N. Williams,Wiley,2003,BK-008,978-507989024
+BM-0715,Introduction to Calculus 3,Author B. Johnson,Penguin,2021,BK-013,978-477082193
+BM-0716,History of Biology 4,Author L. Smith,Springer,2024,BK-006,978-525598925
+BM-0717,Introduction to Philosophy 9,Author V. Brown,Pearson,2007,BK-001,978-553021097
+BM-0718,The Art of History 1,Author S. Jones,Springer,1990,BK-004,978-930492682
+BM-0719,History of AI 9,Author B. Williams,McGraw-Hill,2001,BK-014,978-545446432
+BM-0720,The Art of Python 8,Author A. Johnson,Wiley,2007,BK-013,978-725423313
+BM-0721,Mastering Java 3,Author Q. Williams,Pearson,1997,BK-003,978-322520891
+BM-0722,The Art of Calculus 1,Author X. Jones,Penguin,2008,BK-019,978-744574240
+BM-0723,Mastering Calculus 9,Author W. Johnson,Pearson,2013,BK-007,978-935536758
+BM-0724,History of Machine Learning 8,Author P. Smith,O'Reilly,2006,BK-008,978-192204611
+BM-0725,Guide to AI 6,Author X. Johnson,McGraw-Hill,2018,BK-020,978-643958184
+BM-0726,Fundamentals of Java 1,Author V. Williams,Penguin,2010,BK-011,978-290404453
+BM-0727,History of Music 6,Author M. Jones,MIT Press,2017,BK-006,978-273587741
+BM-0728,Advanced Art 2,Author C. Williams,Pearson,2009,BK-010,978-941312128
+BM-0729,Advanced Biology 1,Author F. Jones,O'Reilly,2000,BK-005,978-401083567
+BM-0730,Handbook of Philosophy 2,Author H. Williams,McGraw-Hill,2019,BK-002,978-141547389
+BM-0731,History of Biology 1,Author M. Williams,McGraw-Hill,2021,BK-016,978-240408416
+BM-0732,History of AI 5,Author V. Jones,MIT Press,2018,BK-004,978-363818421
+BM-0733,Fundamentals of Art 3,Author X. Williams,McGraw-Hill,1990,BK-005,978-597768369
+BM-0734,Introduction to Physics 3,Author J. Johnson,Penguin,2017,BK-019,978-683178044
+BM-0735,Guide to Biology 7,Author W. Johnson,MIT Press,1998,BK-002,978-765708895
+BM-0736,Introduction to Art 1,Author O. Johnson,Penguin,2016,BK-020,978-904255954
+BM-0737,The Art of Biology 6,Author G. Jones,Penguin,2000,BK-004,978-498434571
+BM-0738,Handbook of Calculus 7,Author F. Jones,O'Reilly,2011,BK-012,978-536930338
+BM-0739,The Art of Economics 2,Author H. Brown,O'Reilly,2000,BK-008,978-962077719
+BM-0740,The Art of AI 9,Author Y. Brown,Penguin,2022,BK-005,978-402449805
+BM-0741,Introduction to Python 6,Author B. Smith,Pearson,2019,BK-003,978-503987361
+BM-0742,Guide to Art 2,Author T. Williams,McGraw-Hill,2005,BK-009,978-385488132
+BM-0743,History of Machine Learning 8,Author D. Williams,Wiley,2022,BK-014,978-966858259
+BM-0744,The Art of Physics 5,Author F. Jones,O'Reilly,2003,BK-001,978-962180842
+BM-0745,Guide to Music 8,Author L. Johnson,Springer,2020,BK-018,978-552431437
+BM-0746,Advanced Music 5,Author M. Brown,Pearson,2010,BK-005,978-186602078
+BM-0747,Introduction to Music 3,Author H. Brown,MIT Press,1990,BK-005,978-477351772
+BM-0748,Advanced History 7,Author D. Williams,Springer,2014,BK-019,978-631113674
+BM-0749,Handbook of Chemistry 5,Author Z. Brown,Pearson,2004,BK-011,978-142507023
+BM-0750,History of Machine Learning 10,Author Y. Smith,Pearson,2008,BK-014,978-390731894
+BM-0751,History of Philosophy 8,Author S. Brown,Wiley,2023,BK-004,978-702090424
+BM-0752,The Art of Philosophy 8,Author C. Jones,Wiley,1991,BK-005,978-727098882
+BM-0753,The Art of History 5,Author U. Jones,O'Reilly,2007,BK-001,978-307347549
+BM-0754,Guide to Python 4,Author M. Brown,O'Reilly,1996,BK-003,978-714344820
+BM-0755,History of Philosophy 1,Author A. Smith,McGraw-Hill,1998,BK-006,978-457205854
+BM-0756,Introduction to Python 7,Author S. Brown,Pearson,1993,BK-001,978-210386155
+BM-0757,Mastering Music 8,Author F. Smith,O'Reilly,1997,BK-004,978-199995047
+BM-0758,Mastering Philosophy 7,Author J. Brown,Springer,2003,BK-005,978-712873914
+BM-0759,The Art of Economics 8,Author Y. Smith,Penguin,1990,BK-010,978-190945503
+BM-0760,Fundamentals of Physics 9,Author G. Smith,Penguin,2004,BK-006,978-295722766
+BM-0761,Mastering Java 4,Author K. Smith,MIT Press,2004,BK-016,978-456552560
+BM-0762,Fundamentals of Economics 6,Author G. Johnson,Pearson,2010,BK-011,978-361937192
+BM-0763,History of Economics 6,Author N. Smith,Wiley,2001,BK-015,978-463383429
+BM-0764,Handbook of History 9,Author B. Williams,Pearson,2024,BK-015,978-439830163
+BM-0765,Guide to Machine Learning 5,Author A. Smith,MIT Press,2005,BK-003,978-711652199
+BM-0766,History of AI 10,Author K. Williams,McGraw-Hill,2022,BK-004,978-356782505
+BM-0767,The Art of Python 5,Author G. Johnson,Penguin,2017,BK-018,978-613037176
+BM-0768,Handbook of Economics 4,Author W. Jones,Pearson,2004,BK-010,978-341783856
+BM-0769,Mastering Java 3,Author P. Johnson,O'Reilly,1999,BK-004,978-243734419
+BM-0770,Guide to Biology 10,Author J. Johnson,McGraw-Hill,2017,BK-005,978-623621213
+BM-0771,History of Machine Learning 2,Author P. Johnson,Penguin,1999,BK-002,978-616586704
+BM-0772,Handbook of Java 9,Author J. Brown,Penguin,2014,BK-007,978-790907853
+BM-0773,Fundamentals of Chemistry 8,Author Z. Williams,Penguin,2017,BK-018,978-651627626
+BM-0774,Fundamentals of Art 6,Author U. Williams,Pearson,2009,BK-008,978-993305169
+BM-0775,Guide to AI 3,Author Z. Jones,Springer,1999,BK-018,978-630136830
+BM-0776,The Art of Biology 7,Author Y. Brown,O'Reilly,2005,BK-019,978-304145589
+BM-0777,Handbook of Biology 9,Author S. Johnson,McGraw-Hill,2010,BK-011,978-661585951
+BM-0778,Handbook of Chemistry 5,Author L. Brown,Springer,2004,BK-011,978-175775875
+BM-0779,Guide to History 7,Author R. Brown,Springer,1996,BK-009,978-152488223
+BM-0780,History of Physics 1,Author S. Smith,MIT Press,1994,BK-016,978-502647320
+BM-0781,Fundamentals of Economics 9,Author R. Brown,MIT Press,1996,BK-008,978-739858402
+BM-0782,Introduction to Art 6,Author E. Jones,Wiley,2017,BK-001,978-735410661
+BM-0783,Advanced AI 1,Author M. Smith,Penguin,2023,BK-005,978-812528067
+BM-0784,Introduction to Python 5,Author Q. Smith,Penguin,1999,BK-012,978-381372668
+BM-0785,Mastering Philosophy 9,Author W. Brown,Wiley,2024,BK-020,978-940633416
+BM-0786,History of Calculus 3,Author G. Johnson,McGraw-Hill,2019,BK-012,978-574281359
+BM-0787,Advanced AI 2,Author Z. Jones,Wiley,1996,BK-007,978-185330481
+BM-0788,Advanced Calculus 8,Author O. Brown,Pearson,2002,BK-012,978-703970976
+BM-0789,The Art of Java 2,Author G. Smith,O'Reilly,1999,BK-006,978-799592665
+BM-0790,History of Biology 8,Author X. Smith,Springer,2000,BK-008,978-712786620
+BM-0791,The Art of History 8,Author B. Johnson,O'Reilly,2003,BK-002,978-766194699
+BM-0792,Fundamentals of Art 5,Author K. Brown,Pearson,2014,BK-007,978-199606346
+BM-0793,History of Java 9,Author F. Jones,O'Reilly,2021,BK-010,978-988578236
+BM-0794,Handbook of Physics 10,Author H. Jones,Penguin,2020,BK-017,978-842299645
+BM-0795,Mastering History 7,Author Y. Brown,O'Reilly,2005,BK-012,978-882418940
+BM-0796,Fundamentals of Physics 6,Author M. Jones,O'Reilly,2012,BK-008,978-391014762
+BM-0797,Fundamentals of Python 10,Author V. Williams,MIT Press,2000,BK-012,978-499925237
+BM-0798,Introduction to Chemistry 10,Author M. Jones,McGraw-Hill,1994,BK-001,978-324675736
+BM-0799,Handbook of Economics 9,Author M. Williams,Pearson,2007,BK-016,978-715768409
+BM-0800,Introduction to Art 2,Author K. Smith,Pearson,1990,BK-016,978-836048606
+BM-0801,Advanced Chemistry 1,Author E. Smith,McGraw-Hill,2012,BK-002,978-625207434
+BM-0802,History of Java 6,Author K. Smith,Pearson,2011,BK-014,978-566722249
+BM-0803,Handbook of Machine Learning 6,Author U. Williams,Wiley,1995,BK-017,978-676326822
+BM-0804,Guide to Physics 7,Author X. Williams,Penguin,2014,BK-013,978-767064268
+BM-0805,Handbook of Calculus 4,Author G. Johnson,Pearson,2022,BK-017,978-869273465
+BM-0806,Advanced Chemistry 5,Author S. Jones,McGraw-Hill,2023,BK-015,978-600838606
+BM-0807,Mastering Biology 4,Author H. Jones,Pearson,2014,BK-010,978-729425554
+BM-0808,Advanced Music 4,Author O. Williams,Pearson,2004,BK-015,978-101835668
+BM-0809,Advanced Economics 5,Author G. Smith,MIT Press,2011,BK-006,978-156454563
+BM-0810,Introduction to Biology 9,Author Z. Williams,Penguin,1997,BK-005,978-834663253
+BM-0811,Advanced Java 5,Author F. Smith,O'Reilly,2017,BK-015,978-562969102
+BM-0812,Fundamentals of Chemistry 6,Author H. Brown,Wiley,1996,BK-002,978-475591159
+BM-0813,Handbook of History 9,Author O. Brown,Penguin,2022,BK-014,978-911326936
+BM-0814,Advanced Physics 2,Author E. Brown,Penguin,2005,BK-017,978-402364011
+BM-0815,Mastering Philosophy 2,Author O. Brown,MIT Press,1994,BK-006,978-154411411
+BM-0816,Mastering Calculus 1,Author K. Smith,O'Reilly,2003,BK-015,978-335585300
+BM-0817,Introduction to History 10,Author Y. Williams,Springer,2013,BK-020,978-452378603
+BM-0818,Advanced Calculus 5,Author C. Jones,Pearson,1996,BK-005,978-977953222
+BM-0819,Mastering Art 1,Author M. Jones,Springer,2006,BK-015,978-685006503
+BM-0820,Guide to Physics 4,Author D. Williams,Pearson,1996,BK-001,978-777157571
+BM-0821,Mastering Calculus 3,Author P. Brown,McGraw-Hill,1998,BK-018,978-480739063
+BM-0822,History of Chemistry 5,Author P. Jones,MIT Press,1990,BK-013,978-830452903
+BM-0823,History of Music 5,Author X. Brown,O'Reilly,2023,BK-009,978-113639235
+BM-0824,The Art of Python 2,Author N. Johnson,Wiley,2016,BK-002,978-639905586
+BM-0825,The Art of Java 6,Author Q. Brown,Springer,2007,BK-011,978-200447082
+BM-0826,Advanced History 6,Author D. Williams,Penguin,2012,BK-016,978-473440600
+BM-0827,History of Philosophy 9,Author A. Williams,Wiley,2013,BK-019,978-882404235
+BM-0828,The Art of Calculus 7,Author V. Brown,Pearson,2015,BK-010,978-518557930
+BM-0829,Handbook of Chemistry 5,Author Y. Brown,O'Reilly,2006,BK-017,978-845115566
+BM-0830,Guide to Python 6,Author F. Williams,MIT Press,2003,BK-001,978-742364290
+BM-0831,Advanced Economics 5,Author X. Brown,Penguin,2022,BK-007,978-248241518
+BM-0832,Introduction to Machine Learning 2,Author G. Johnson,Wiley,2006,BK-014,978-965474337
+BM-0833,History of Economics 6,Author P. Smith,McGraw-Hill,2000,BK-011,978-601811754
+BM-0834,History of Java 1,Author O. Smith,MIT Press,1996,BK-010,978-687656605
+BM-0835,Guide to AI 10,Author I. Williams,McGraw-Hill,1995,BK-016,978-578426693
+BM-0836,Advanced Java 8,Author V. Smith,Springer,2022,BK-011,978-509793899
+BM-0837,Handbook of Python 4,Author P. Smith,Springer,2011,BK-014,978-368784236
+BM-0838,Mastering Economics 9,Author Q. Brown,Pearson,2022,BK-018,978-294796662
+BM-0839,Fundamentals of Java 3,Author Q. Johnson,Springer,2003,BK-010,978-739503892
+BM-0840,Guide to Calculus 2,Author G. Brown,Wiley,2014,BK-019,978-505233277
+BM-0841,Fundamentals of Music 8,Author V. Johnson,McGraw-Hill,1991,BK-014,978-903814543
+BM-0842,Fundamentals of Physics 6,Author X. Smith,Penguin,2000,BK-009,978-724564173
+BM-0843,The Art of Machine Learning 9,Author Y. Williams,Pearson,2010,BK-011,978-992363270
+BM-0844,History of Physics 6,Author N. Johnson,Penguin,1996,BK-015,978-232703239
+BM-0845,Mastering Philosophy 4,Author U. Williams,MIT Press,1995,BK-015,978-476296347
+BM-0846,Introduction to Calculus 10,Author C. Jones,Pearson,2010,BK-009,978-708590290
+BM-0847,History of Art 2,Author N. Brown,Wiley,1991,BK-007,978-293161517
+BM-0848,Handbook of Music 2,Author G. Johnson,MIT Press,1994,BK-013,978-252894199
+BM-0849,Guide to Music 2,Author S. Smith,Wiley,2003,BK-019,978-354846486
+BM-0850,Mastering Biology 6,Author P. Brown,MIT Press,2008,BK-014,978-559875108
+BM-0851,The Art of Biology 9,Author E. Smith,Wiley,1994,BK-006,978-968843589
+BM-0852,Mastering AI 6,Author M. Johnson,McGraw-Hill,2021,BK-008,978-312479139
+BM-0853,The Art of History 2,Author J. Williams,Springer,2007,BK-002,978-701965234
+BM-0854,Guide to Physics 1,Author S. Smith,Springer,2002,BK-014,978-312941552
+BM-0855,Mastering Chemistry 4,Author H. Johnson,McGraw-Hill,1991,BK-003,978-201809084
+BM-0856,Fundamentals of Music 4,Author V. Johnson,Wiley,2010,BK-007,978-428088619
+BM-0857,History of Music 4,Author L. Brown,O'Reilly,2023,BK-018,978-574809942
+BM-0858,History of Chemistry 9,Author I. Williams,McGraw-Hill,2017,BK-015,978-623388413
+BM-0859,The Art of Economics 8,Author P. Johnson,Springer,2001,BK-020,978-340163119
+BM-0860,Introduction to Physics 1,Author F. Brown,Springer,2011,BK-020,978-112996112
+BM-0861,The Art of Python 9,Author F. Williams,McGraw-Hill,2022,BK-018,978-996698079
+BM-0862,History of History 2,Author X. Johnson,McGraw-Hill,2004,BK-009,978-318945568
+BM-0863,The Art of Art 1,Author T. Jones,McGraw-Hill,2015,BK-004,978-300879597
+BM-0864,Advanced Philosophy 9,Author B. Brown,Springer,2012,BK-004,978-147790725
+BM-0865,Advanced Chemistry 1,Author S. Smith,McGraw-Hill,2024,BK-013,978-648293270
+BM-0866,History of History 7,Author L. Williams,McGraw-Hill,2014,BK-007,978-163786065
+BM-0867,Guide to AI 5,Author P. Brown,Penguin,2015,BK-008,978-640463330
+BM-0868,Guide to Philosophy 3,Author R. Johnson,Wiley,2014,BK-020,978-486167348
+BM-0869,Mastering Chemistry 2,Author C. Brown,Springer,2015,BK-011,978-399390236
+BM-0870,Mastering Philosophy 4,Author J. Jones,MIT Press,2003,BK-001,978-955389636
+BM-0871,Fundamentals of Chemistry 9,Author F. Smith,McGraw-Hill,2022,BK-015,978-881108560
+BM-0872,Introduction to Physics 3,Author M. Williams,McGraw-Hill,2017,BK-007,978-381397872
+BM-0873,Introduction to Machine Learning 7,Author E. Johnson,Wiley,2017,BK-005,978-862215571
+BM-0874,Handbook of Physics 10,Author P. Brown,Pearson,2012,BK-007,978-826480982
+BM-0875,Advanced Chemistry 4,Author T. Jones,Springer,2004,BK-004,978-720751516
+BM-0876,Introduction to Calculus 3,Author M. Williams,McGraw-Hill,2017,BK-015,978-231312218
+BM-0877,Fundamentals of Chemistry 1,Author Q. Brown,Wiley,2013,BK-009,978-674655866
+BM-0878,The Art of Java 2,Author G. Williams,McGraw-Hill,2012,BK-007,978-459494028
+BM-0879,Handbook of Java 1,Author H. Williams,Wiley,2022,BK-014,978-670837536
+BM-0880,Handbook of Python 7,Author K. Smith,Springer,2021,BK-008,978-626649898
+BM-0881,Mastering Music 10,Author L. Jones,Wiley,2011,BK-010,978-216595832
+BM-0882,Guide to Music 4,Author G. Johnson,O'Reilly,2022,BK-007,978-486487224
+BM-0883,History of Calculus 4,Author Y. Brown,Wiley,1996,BK-001,978-536329157
+BM-0884,Advanced Chemistry 1,Author S. Johnson,Wiley,2007,BK-015,978-476096748
+BM-0885,Mastering History 6,Author E. Smith,Wiley,2000,BK-010,978-771454903
+BM-0886,Advanced Chemistry 5,Author G. Smith,O'Reilly,2018,BK-008,978-321558799
+BM-0887,Guide to Physics 1,Author C. Smith,Pearson,2008,BK-015,978-474538069
+BM-0888,Fundamentals of Philosophy 4,Author Q. Jones,Wiley,2008,BK-002,978-496144224
+BM-0889,Mastering Economics 5,Author M. Jones,MIT Press,1994,BK-015,978-763912872
+BM-0890,Guide to Biology 8,Author J. Williams,Penguin,2008,BK-008,978-419239805
+BM-0891,Guide to Biology 7,Author M. Williams,Penguin,2010,BK-020,978-695325185
+BM-0892,Introduction to Economics 9,Author H. Jones,Wiley,1994,BK-014,978-925453280
+BM-0893,Guide to Philosophy 1,Author W. Smith,Springer,2015,BK-015,978-571174150
+BM-0894,Advanced Physics 8,Author G. Johnson,MIT Press,2009,BK-008,978-927568783
+BM-0895,Advanced Machine Learning 8,Author L. Williams,Wiley,1992,BK-003,978-344083413
+BM-0896,Mastering Java 10,Author K. Williams,Penguin,2008,BK-014,978-124259938
+BM-0897,History of Philosophy 3,Author Q. Smith,Penguin,2015,BK-008,978-260505115
+BM-0898,Advanced Java 1,Author D. Johnson,Springer,1994,BK-005,978-119479790
+BM-0899,Handbook of Philosophy 5,Author M. Johnson,McGraw-Hill,1993,BK-014,978-165504181
+BM-0900,Handbook of Calculus 3,Author X. Johnson,O'Reilly,1990,BK-014,978-791628852
+BM-0901,The Art of Economics 2,Author H. Smith,McGraw-Hill,2017,BK-010,978-730942420
+BM-0902,Introduction to Music 5,Author G. Jones,Pearson,2004,BK-012,978-240068765
+BM-0903,Guide to AI 6,Author P. Smith,Pearson,2020,BK-019,978-741402763
+BM-0904,Mastering Economics 10,Author X. Smith,Pearson,2005,BK-014,978-353163587
+BM-0905,History of Chemistry 10,Author B. Williams,Springer,2016,BK-010,978-708726666
+BM-0906,Fundamentals of AI 7,Author K. Jones,McGraw-Hill,2003,BK-019,978-797616742
+BM-0907,Fundamentals of Music 3,Author A. Brown,O'Reilly,2011,BK-009,978-346762165
+BM-0908,History of Calculus 8,Author F. Williams,Pearson,2003,BK-007,978-527114762
+BM-0909,Guide to Music 9,Author J. Jones,McGraw-Hill,1990,BK-010,978-217028381
+BM-0910,Handbook of Music 3,Author P. Brown,McGraw-Hill,2024,BK-018,978-746485268
+BM-0911,The Art of Biology 1,Author G. Smith,Penguin,2009,BK-020,978-538633481
+BM-0912,History of Music 9,Author L. Johnson,Pearson,2015,BK-016,978-724494221
+BM-0913,Fundamentals of Java 1,Author M. Jones,McGraw-Hill,2018,BK-010,978-447006087
+BM-0914,The Art of Java 4,Author E. Smith,McGraw-Hill,2020,BK-015,978-933587019
+BM-0915,Introduction to Machine Learning 1,Author R. Williams,McGraw-Hill,2016,BK-016,978-351079162
+BM-0916,Mastering Music 10,Author P. Jones,Wiley,2006,BK-018,978-761425035
+BM-0917,Mastering Biology 6,Author V. Williams,Springer,2010,BK-017,978-708599260
+BM-0918,Guide to Philosophy 6,Author M. Brown,Pearson,1991,BK-019,978-324949991
+BM-0919,Handbook of Calculus 8,Author O. Brown,McGraw-Hill,2003,BK-019,978-441876177
+BM-0920,Advanced Calculus 8,Author G. Williams,Pearson,2014,BK-005,978-110203114
+BM-0921,Fundamentals of AI 4,Author G. Williams,O'Reilly,2011,BK-006,978-859031908
+BM-0922,History of Biology 2,Author B. Johnson,O'Reilly,2008,BK-005,978-367905545
+BM-0923,Fundamentals of Calculus 2,Author O. Smith,McGraw-Hill,2023,BK-006,978-891574272
+BM-0924,Guide to Calculus 3,Author O. Jones,Springer,2007,BK-016,978-492836495
+BM-0925,Advanced History 4,Author K. Williams,Springer,2008,BK-001,978-760574586
+BM-0926,Advanced Java 3,Author L. Smith,O'Reilly,2021,BK-010,978-358568294
+BM-0927,History of Music 3,Author Y. Jones,Pearson,2010,BK-009,978-705356968
+BM-0928,The Art of History 5,Author Y. Brown,Wiley,2002,BK-005,978-910986243
+BM-0929,Introduction to Machine Learning 7,Author R. Smith,Pearson,1990,BK-019,978-438161026
+BM-0930,Introduction to History 7,Author F. Williams,Wiley,2019,BK-007,978-332576375
+BM-0931,Fundamentals of Music 1,Author G. Williams,McGraw-Hill,2000,BK-017,978-936508510
+BM-0932,Introduction to AI 10,Author V. Johnson,Springer,2000,BK-020,978-554812932
+BM-0933,History of Calculus 1,Author I. Smith,Springer,2009,BK-015,978-501073923
+BM-0934,Fundamentals of Python 1,Author J. Williams,Wiley,2015,BK-013,978-503461628
+BM-0935,Mastering Art 10,Author I. Smith,MIT Press,2004,BK-007,978-131065468
+BM-0936,History of Economics 3,Author R. Williams,Springer,1990,BK-011,978-373703831
+BM-0937,Mastering Art 2,Author L. Jones,Penguin,2008,BK-008,978-907571684
+BM-0938,Mastering Philosophy 4,Author O. Smith,MIT Press,2018,BK-013,978-110468544
+BM-0939,Advanced Physics 2,Author Y. Brown,MIT Press,2020,BK-012,978-116631356
+BM-0940,Guide to AI 1,Author W. Smith,O'Reilly,2024,BK-017,978-368983024
+BM-0941,Introduction to Economics 7,Author A. Jones,Penguin,2018,BK-007,978-642788781
+BM-0942,Guide to Calculus 3,Author F. Brown,MIT Press,2002,BK-003,978-570093822
+BM-0943,Guide to History 8,Author C. Williams,Springer,2012,BK-002,978-260751649
+BM-0944,Mastering Calculus 6,Author B. Jones,Penguin,1998,BK-005,978-629403702
+BM-0945,Mastering Physics 3,Author Z. Smith,Springer,1990,BK-013,978-218151485
+BM-0946,Fundamentals of Machine Learning 6,Author A. Jones,Penguin,2019,BK-002,978-904459815
+BM-0947,The Art of Chemistry 4,Author O. Smith,Springer,2018,BK-007,978-562059081
+BM-0948,Fundamentals of Economics 7,Author H. Jones,Penguin,2023,BK-015,978-186074184
+BM-0949,Guide to Python 10,Author Y. Jones,Wiley,2013,BK-001,978-451878189
+BM-0950,Guide to Machine Learning 2,Author N. Williams,Pearson,2020,BK-020,978-649604255
+BM-0951,The Art of Calculus 8,Author S. Brown,Pearson,1996,BK-008,978-205960035
+BM-0952,The Art of Art 2,Author E. Johnson,Springer,2011,BK-001,978-686111418
+BM-0953,History of AI 3,Author K. Smith,MIT Press,2003,BK-010,978-325248600
+BM-0954,Mastering Calculus 9,Author Z. Williams,McGraw-Hill,1995,BK-011,978-843449257
+BM-0955,Introduction to Java 2,Author F. Johnson,Wiley,2001,BK-017,978-283993306
+BM-0956,The Art of Biology 9,Author N. Smith,Wiley,1991,BK-020,978-260628337
+BM-0957,Introduction to AI 3,Author P. Johnson,Wiley,2012,BK-013,978-698152297
+BM-0958,Mastering Music 10,Author N. Johnson,Springer,2012,BK-004,978-946685140
+BM-0959,The Art of Art 10,Author X. Johnson,MIT Press,1994,BK-017,978-620746314
+BM-0960,Mastering Chemistry 10,Author R. Williams,Wiley,1997,BK-011,978-439243427
+BM-0961,History of History 7,Author D. Brown,McGraw-Hill,2017,BK-007,978-392584257
+BM-0962,Mastering Music 10,Author F. Williams,Springer,2000,BK-014,978-929558222
+BM-0963,The Art of History 4,Author T. Jones,Springer,1994,BK-017,978-518982803
+BM-0964,History of Physics 3,Author X. Johnson,Wiley,2019,BK-003,978-332826469
+BM-0965,Fundamentals of Chemistry 4,Author U. Johnson,McGraw-Hill,2008,BK-009,978-384729363
+BM-0966,Advanced Chemistry 10,Author Z. Williams,Penguin,2005,BK-001,978-816370269
+BM-0967,Fundamentals of Python 7,Author Y. Smith,O'Reilly,2010,BK-010,978-386381984
+BM-0968,Advanced Chemistry 5,Author Y. Brown,Pearson,1997,BK-007,978-276282619
+BM-0969,The Art of Machine Learning 3,Author D. Smith,Springer,2017,BK-009,978-578249528
+BM-0970,Handbook of Java 3,Author U. Brown,MIT Press,2004,BK-003,978-331713625
+BM-0971,Guide to Biology 7,Author T. Jones,Springer,2013,BK-006,978-237407244
+BM-0972,Mastering Chemistry 7,Author U. Smith,Penguin,2003,BK-019,978-762273507
+BM-0973,Handbook of Economics 1,Author U. Jones,MIT Press,2006,BK-003,978-671621122
+BM-0974,Mastering Music 1,Author S. Williams,McGraw-Hill,2009,BK-015,978-736607763
+BM-0975,History of Biology 8,Author I. Smith,McGraw-Hill,1998,BK-011,978-295429340
+BM-0976,Mastering Java 8,Author B. Johnson,O'Reilly,2016,BK-020,978-959663130
+BM-0977,History of Calculus 3,Author E. Johnson,Pearson,2024,BK-012,978-278684947
+BM-0978,Introduction to Economics 10,Author G. Williams,Penguin,1997,BK-008,978-713329406
+BM-0979,Mastering Music 1,Author L. Brown,O'Reilly,2010,BK-008,978-891477539
+BM-0980,Guide to AI 10,Author K. Williams,McGraw-Hill,2022,BK-008,978-580657698
+BM-0981,History of History 1,Author R. Jones,Pearson,1998,BK-018,978-789354439
+BM-0982,History of AI 2,Author O. Jones,Penguin,1991,BK-010,978-214848777
+BM-0983,Handbook of Chemistry 6,Author A. Williams,MIT Press,2012,BK-002,978-531034889
+BM-0984,Handbook of AI 3,Author E. Smith,MIT Press,2022,BK-020,978-175929278
+BM-0985,Advanced Physics 2,Author Z. Smith,Wiley,1997,BK-017,978-988193657
+BM-0986,Handbook of Biology 5,Author B. Brown,O'Reilly,1994,BK-015,978-772468733
+BM-0987,Advanced Calculus 8,Author J. Jones,MIT Press,2007,BK-013,978-773264425
+BM-0988,The Art of Java 4,Author L. Jones,Pearson,1992,BK-001,978-313985454
+BM-0989,History of Physics 7,Author G. Brown,Pearson,2019,BK-019,978-310236730
+BM-0990,Advanced Java 1,Author G. Brown,MIT Press,2008,BK-006,978-812609483
+BM-0991,Guide to Calculus 3,Author E. Johnson,MIT Press,2001,BK-017,978-269969652
+BM-0992,Guide to Art 1,Author A. Brown,MIT Press,1993,BK-009,978-277598482
+BM-0993,The Art of Java 6,Author U. Brown,MIT Press,2006,BK-001,978-639732926
+BM-0994,Handbook of History 2,Author U. Smith,Pearson,2000,BK-009,978-676691349
+BM-0995,Advanced Biology 3,Author C. Brown,Penguin,1990,BK-002,978-878511683
+BM-0996,Advanced Calculus 6,Author H. Smith,Wiley,2011,BK-018,978-831046921
+BM-0997,Mastering Philosophy 1,Author P. Brown,MIT Press,2023,BK-002,978-978202051
+BM-0998,Introduction to Physics 8,Author S. Smith,Springer,2018,BK-008,978-570767132
+BM-0999,Mastering Art 2,Author Z. Williams,Wiley,1994,BK-001,978-990974796
+BM-1000,History of Economics 8,Author P. Brown,Springer,2021,BK-017,978-521399814
