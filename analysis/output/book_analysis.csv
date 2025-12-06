@@ -1,0 +1,1001 @@
+id,title,author,year,borrow_count,category
+BM-0001,Introduction to Music 3,Author D. Brown,2000,8.0,EVERGREEN
+BM-0002,History of Art 8,Author G. Williams,2004,3.0,AVERAGE
+BM-0003,Mastering Chemistry 2,Author E. Smith,2021,2.0,DEAD STOCK
+BM-0004,Mastering Biology 4,Author V. Smith,2005,2.0,DEAD STOCK
+BM-0005,Fundamentals of Chemistry 9,Author J. Smith,2023,3.0,AVERAGE
+BM-0006,The Art of Calculus 8,Author P. Johnson,2004,3.0,AVERAGE
+BM-0007,The Art of History 4,Author X. Brown,2018,3.0,AVERAGE
+BM-0008,Fundamentals of Java 1,Author F. Williams,2012,3.0,AVERAGE
+BM-0009,Advanced Art 6,Author K. Smith,2000,5.0,EVERGREEN
+BM-0010,Introduction to Machine Learning 3,Author I. Smith,2008,2.0,DEAD STOCK
+BM-0011,History of History 3,Author V. Brown,2005,1.0,DEAD STOCK
+BM-0012,The Art of Economics 4,Author U. Jones,2009,2.0,DEAD STOCK
+BM-0013,Handbook of Music 6,Author N. Johnson,1990,3.0,AVERAGE
+BM-0014,The Art of History 3,Author A. Jones,2000,6.0,EVERGREEN
+BM-0015,History of Chemistry 7,Author W. Williams,1995,5.0,EVERGREEN
+BM-0016,Advanced Java 7,Author T. Johnson,2024,2.0,FLOP
+BM-0017,Mastering Machine Learning 10,Author L. Johnson,2008,1.0,DEAD STOCK
+BM-0018,History of Calculus 10,Author S. Williams,1990,1.0,DEAD STOCK
+BM-0019,Mastering Python 4,Author Q. Johnson,2000,2.0,DEAD STOCK
+BM-0020,Handbook of Java 2,Author W. Jones,2009,6.0,EVERGREEN
+BM-0021,The Art of Chemistry 2,Author O. Jones,2019,3.0,AVERAGE
+BM-0022,Fundamentals of Calculus 7,Author E. Smith,2008,2.0,DEAD STOCK
+BM-0023,Advanced Art 4,Author O. Johnson,2013,5.0,EVERGREEN
+BM-0024,Handbook of Python 7,Author V. Jones,2023,3.0,AVERAGE
+BM-0025,Advanced Calculus 8,Author O. Brown,2011,2.0,DEAD STOCK
+BM-0026,Advanced Python 9,Author M. Brown,2007,3.0,AVERAGE
+BM-0027,Fundamentals of Chemistry 4,Author F. Jones,2000,6.0,EVERGREEN
+BM-0028,Guide to Art 5,Author P. Jones,2011,1.0,DEAD STOCK
+BM-0029,Introduction to Python 7,Author Z. Smith,2022,2.0,DEAD STOCK
+BM-0030,Handbook of Music 9,Author A. Smith,1996,3.0,AVERAGE
+BM-0031,Mastering AI 7,Author X. Brown,2011,5.0,EVERGREEN
+BM-0032,Guide to Machine Learning 3,Author Y. Williams,1999,0.0,DEAD STOCK
+BM-0033,Advanced Physics 2,Author I. Smith,2015,4.0,EVERGREEN
+BM-0034,Advanced Physics 8,Author N. Johnson,2006,2.0,DEAD STOCK
+BM-0035,Mastering Music 9,Author F. Smith,2018,4.0,EVERGREEN
+BM-0036,Mastering Machine Learning 3,Author J. Brown,1999,1.0,DEAD STOCK
+BM-0037,Mastering Python 4,Author W. Smith,2000,2.0,DEAD STOCK
+BM-0038,Fundamentals of Philosophy 6,Author M. Smith,2009,5.0,EVERGREEN
+BM-0039,Fundamentals of Chemistry 6,Author L. Jones,1991,7.0,EVERGREEN
+BM-0040,History of AI 2,Author Z. Smith,1993,1.0,DEAD STOCK
+BM-0041,Mastering Music 6,Author I. Williams,1999,2.0,DEAD STOCK
+BM-0042,Mastering Java 10,Author X. Williams,1992,4.0,EVERGREEN
+BM-0043,Fundamentals of Art 4,Author G. Jones,2022,1.0,DEAD STOCK
+BM-0044,Fundamentals of Music 9,Author Y. Williams,2016,3.0,AVERAGE
+BM-0045,Advanced Chemistry 9,Author K. Jones,1992,3.0,AVERAGE
+BM-0046,Guide to AI 9,Author U. Johnson,1997,4.0,EVERGREEN
+BM-0047,Mastering Java 8,Author G. Jones,2011,3.0,AVERAGE
+BM-0048,The Art of Art 9,Author L. Jones,2012,3.0,AVERAGE
+BM-0049,Handbook of Python 6,Author Y. Brown,2011,2.0,DEAD STOCK
+BM-0050,Introduction to Machine Learning 3,Author C. Williams,1995,2.0,DEAD STOCK
+BM-0051,Handbook of History 6,Author O. Jones,2022,3.0,AVERAGE
+BM-0052,Mastering Physics 7,Author S. Williams,2020,1.0,DEAD STOCK
+BM-0053,The Art of Calculus 5,Author B. Jones,1997,4.0,EVERGREEN
+BM-0054,History of Java 8,Author Z. Williams,2004,0.0,DEAD STOCK
+BM-0055,Advanced Chemistry 8,Author K. Jones,2003,3.0,AVERAGE
+BM-0056,History of Chemistry 4,Author Z. Jones,1999,5.0,EVERGREEN
+BM-0057,Mastering Chemistry 9,Author V. Williams,2017,3.0,AVERAGE
+BM-0058,Advanced Music 5,Author M. Jones,2017,2.0,DEAD STOCK
+BM-0059,Introduction to Economics 4,Author G. Brown,1995,1.0,DEAD STOCK
+BM-0060,Mastering Calculus 9,Author K. Johnson,2024,2.0,FLOP
+BM-0061,Fundamentals of Art 10,Author X. Johnson,2004,4.0,EVERGREEN
+BM-0062,Handbook of History 8,Author O. Brown,1999,2.0,DEAD STOCK
+BM-0063,Introduction to AI 4,Author G. Smith,2012,4.0,EVERGREEN
+BM-0064,The Art of Economics 7,Author W. Jones,2024,2.0,FLOP
+BM-0065,Introduction to Philosophy 7,Author A. Jones,2001,5.0,EVERGREEN
+BM-0066,History of Machine Learning 9,Author U. Smith,1993,2.0,DEAD STOCK
+BM-0067,Advanced Philosophy 1,Author W. Jones,2012,3.0,AVERAGE
+BM-0068,Advanced Biology 10,Author L. Williams,1991,2.0,DEAD STOCK
+BM-0069,Fundamentals of Biology 8,Author U. Johnson,2022,1.0,DEAD STOCK
+BM-0070,Fundamentals of AI 6,Author M. Brown,1993,2.0,DEAD STOCK
+BM-0071,Advanced Biology 4,Author U. Smith,2024,2.0,FLOP
+BM-0072,History of Physics 6,Author I. Jones,1998,5.0,EVERGREEN
+BM-0073,Mastering Philosophy 6,Author W. Smith,2017,3.0,AVERAGE
+BM-0074,History of Machine Learning 2,Author N. Williams,1993,1.0,DEAD STOCK
+BM-0075,Advanced History 5,Author Q. Johnson,2001,2.0,DEAD STOCK
+BM-0076,Advanced AI 4,Author K. Johnson,2007,1.0,DEAD STOCK
+BM-0077,Introduction to AI 8,Author M. Smith,2001,4.0,EVERGREEN
+BM-0078,Advanced Economics 7,Author F. Williams,1998,4.0,EVERGREEN
+BM-0079,Advanced Chemistry 9,Author C. Smith,1998,1.0,DEAD STOCK
+BM-0080,Introduction to Chemistry 1,Author C. Williams,1998,3.0,AVERAGE
+BM-0081,Advanced Calculus 7,Author I. Brown,2013,4.0,EVERGREEN
+BM-0082,Advanced AI 1,Author F. Smith,1993,4.0,EVERGREEN
+BM-0083,Guide to Biology 2,Author Z. Jones,2021,2.0,DEAD STOCK
+BM-0084,Handbook of Physics 8,Author Z. Johnson,2024,2.0,FLOP
+BM-0085,The Art of Calculus 8,Author P. Johnson,2020,4.0,EVERGREEN
+BM-0086,Handbook of Physics 7,Author A. Smith,1993,2.0,DEAD STOCK
+BM-0087,Introduction to Philosophy 1,Author I. Jones,2017,3.0,AVERAGE
+BM-0088,History of Economics 4,Author T. Williams,2015,0.0,DEAD STOCK
+BM-0089,History of Biology 6,Author P. Brown,2023,8.0,HOT
+BM-0090,Mastering Python 4,Author B. Brown,2011,2.0,DEAD STOCK
+BM-0091,Introduction to Philosophy 5,Author P. Brown,1998,2.0,DEAD STOCK
+BM-0092,Advanced Python 7,Author L. Johnson,2014,4.0,EVERGREEN
+BM-0093,Introduction to Music 8,Author J. Jones,2019,4.0,EVERGREEN
+BM-0094,Introduction to Machine Learning 10,Author N. Williams,2008,4.0,EVERGREEN
+BM-0095,Mastering Biology 6,Author R. Jones,1990,2.0,DEAD STOCK
+BM-0096,Advanced Biology 4,Author F. Williams,1993,2.0,DEAD STOCK
+BM-0097,Handbook of Java 9,Author I. Brown,2001,3.0,AVERAGE
+BM-0098,History of Calculus 5,Author M. Smith,1995,4.0,EVERGREEN
+BM-0099,Fundamentals of Physics 1,Author W. Williams,2022,5.0,EVERGREEN
+BM-0100,Introduction to History 6,Author X. Johnson,2005,1.0,DEAD STOCK
+BM-0101,Introduction to Biology 4,Author I. Johnson,2001,4.0,EVERGREEN
+BM-0102,Fundamentals of Philosophy 8,Author V. Brown,2024,5.0,HOT
+BM-0103,Handbook of Economics 3,Author U. Smith,2022,3.0,AVERAGE
+BM-0104,The Art of Physics 7,Author U. Williams,2011,4.0,EVERGREEN
+BM-0105,Mastering AI 6,Author T. Brown,2023,6.0,HOT
+BM-0106,The Art of Machine Learning 3,Author H. Smith,2007,1.0,DEAD STOCK
+BM-0107,Guide to Machine Learning 6,Author G. Williams,2011,3.0,AVERAGE
+BM-0108,Guide to Biology 3,Author K. Jones,1997,3.0,AVERAGE
+BM-0109,Advanced Chemistry 6,Author V. Johnson,2016,4.0,EVERGREEN
+BM-0110,History of Machine Learning 9,Author H. Johnson,2004,5.0,EVERGREEN
+BM-0111,Mastering Chemistry 1,Author L. Smith,2007,1.0,DEAD STOCK
+BM-0112,Mastering AI 4,Author G. Jones,1992,0.0,DEAD STOCK
+BM-0113,Guide to Economics 5,Author G. Johnson,2013,3.0,AVERAGE
+BM-0114,The Art of Physics 1,Author C. Johnson,2008,4.0,EVERGREEN
+BM-0115,Guide to Philosophy 2,Author V. Williams,1999,3.0,AVERAGE
+BM-0116,Introduction to AI 6,Author U. Williams,2000,4.0,EVERGREEN
+BM-0117,History of Philosophy 9,Author G. Johnson,1991,3.0,AVERAGE
+BM-0118,Advanced Chemistry 7,Author J. Williams,1991,0.0,DEAD STOCK
+BM-0119,Advanced Art 2,Author J. Brown,2010,3.0,AVERAGE
+BM-0120,Guide to AI 5,Author B. Smith,2010,5.0,EVERGREEN
+BM-0121,Advanced Biology 10,Author A. Jones,2018,5.0,EVERGREEN
+BM-0122,History of Economics 5,Author F. Jones,2018,3.0,AVERAGE
+BM-0123,Handbook of Chemistry 5,Author T. Johnson,1997,3.0,AVERAGE
+BM-0124,Handbook of History 9,Author G. Jones,2005,3.0,AVERAGE
+BM-0125,Mastering Art 9,Author K. Johnson,2004,5.0,EVERGREEN
+BM-0126,Fundamentals of Python 3,Author K. Johnson,2000,3.0,AVERAGE
+BM-0127,History of Biology 3,Author W. Williams,2006,7.0,EVERGREEN
+BM-0128,Guide to Art 2,Author U. Brown,2007,1.0,DEAD STOCK
+BM-0129,Handbook of Machine Learning 5,Author L. Smith,2004,3.0,AVERAGE
+BM-0130,History of Music 7,Author N. Williams,2008,5.0,EVERGREEN
+BM-0131,History of Python 8,Author W. Johnson,2009,2.0,DEAD STOCK
+BM-0132,Handbook of Python 9,Author M. Brown,1993,2.0,DEAD STOCK
+BM-0133,The Art of Chemistry 1,Author S. Johnson,2001,4.0,EVERGREEN
+BM-0134,History of AI 8,Author B. Jones,2011,2.0,DEAD STOCK
+BM-0135,Introduction to AI 10,Author F. Smith,2019,6.0,EVERGREEN
+BM-0136,Mastering Python 3,Author D. Jones,2023,1.0,FLOP
+BM-0137,Guide to History 8,Author E. Smith,2006,3.0,AVERAGE
+BM-0138,The Art of Biology 10,Author F. Johnson,1998,4.0,EVERGREEN
+BM-0139,Handbook of Machine Learning 6,Author T. Williams,1997,0.0,DEAD STOCK
+BM-0140,Handbook of Art 7,Author G. Brown,2001,4.0,EVERGREEN
+BM-0141,History of Economics 1,Author G. Johnson,2015,3.0,AVERAGE
+BM-0142,Guide to Java 5,Author O. Smith,2010,0.0,DEAD STOCK
+BM-0143,Mastering Art 9,Author M. Williams,2020,3.0,AVERAGE
+BM-0144,Introduction to Physics 5,Author Y. Smith,1990,2.0,DEAD STOCK
+BM-0145,Guide to Calculus 6,Author U. Brown,2016,4.0,EVERGREEN
+BM-0146,Advanced Java 8,Author E. Brown,2016,7.0,EVERGREEN
+BM-0147,Fundamentals of Java 6,Author O. Brown,2007,6.0,EVERGREEN
+BM-0148,Introduction to Calculus 2,Author Z. Smith,2019,7.0,EVERGREEN
+BM-0149,Fundamentals of Physics 9,Author B. Smith,2004,2.0,DEAD STOCK
+BM-0150,History of Economics 4,Author M. Johnson,2001,2.0,DEAD STOCK
+BM-0151,Fundamentals of Philosophy 9,Author R. Johnson,1999,4.0,EVERGREEN
+BM-0152,History of Chemistry 7,Author E. Brown,1994,0.0,DEAD STOCK
+BM-0153,Fundamentals of Biology 4,Author Q. Johnson,1997,1.0,DEAD STOCK
+BM-0154,The Art of Java 3,Author R. Brown,2003,0.0,DEAD STOCK
+BM-0155,The Art of Physics 8,Author O. Johnson,2008,3.0,AVERAGE
+BM-0156,Handbook of Biology 7,Author F. Johnson,2008,4.0,EVERGREEN
+BM-0157,History of AI 7,Author X. Johnson,2012,6.0,EVERGREEN
+BM-0158,Guide to Economics 1,Author P. Jones,1999,4.0,EVERGREEN
+BM-0159,Introduction to Machine Learning 1,Author E. Smith,2020,1.0,DEAD STOCK
+BM-0160,Advanced History 3,Author F. Jones,2008,3.0,AVERAGE
+BM-0161,Mastering Chemistry 9,Author U. Johnson,2005,2.0,DEAD STOCK
+BM-0162,The Art of Biology 3,Author L. Jones,2020,1.0,DEAD STOCK
+BM-0163,Fundamentals of Java 9,Author C. Williams,2013,4.0,EVERGREEN
+BM-0164,Advanced Philosophy 2,Author G. Williams,2020,3.0,AVERAGE
+BM-0165,History of Chemistry 9,Author Y. Jones,1999,2.0,DEAD STOCK
+BM-0166,Guide to Java 4,Author C. Brown,2006,2.0,DEAD STOCK
+BM-0167,The Art of Machine Learning 6,Author N. Smith,2003,1.0,DEAD STOCK
+BM-0168,Handbook of Machine Learning 9,Author O. Brown,2024,4.0,HOT
+BM-0169,Introduction to History 10,Author B. Johnson,2009,3.0,AVERAGE
+BM-0170,Advanced History 4,Author B. Johnson,1990,1.0,DEAD STOCK
+BM-0171,History of Physics 1,Author V. Johnson,2016,4.0,EVERGREEN
+BM-0172,Handbook of Python 6,Author T. Williams,2001,2.0,DEAD STOCK
+BM-0173,History of Python 7,Author E. Johnson,1990,2.0,DEAD STOCK
+BM-0174,Introduction to Music 3,Author K. Williams,2009,5.0,EVERGREEN
+BM-0175,Introduction to Biology 6,Author P. Johnson,1990,2.0,DEAD STOCK
+BM-0176,Mastering Machine Learning 1,Author N. Jones,1992,2.0,DEAD STOCK
+BM-0177,Handbook of Philosophy 10,Author F. Smith,2023,7.0,HOT
+BM-0178,Handbook of AI 9,Author M. Johnson,2006,2.0,DEAD STOCK
+BM-0179,Introduction to Machine Learning 8,Author M. Brown,2023,3.0,AVERAGE
+BM-0180,The Art of Machine Learning 2,Author I. Brown,2000,4.0,EVERGREEN
+BM-0181,Handbook of Biology 7,Author N. Johnson,2018,1.0,DEAD STOCK
+BM-0182,Handbook of Economics 9,Author W. Jones,2013,4.0,EVERGREEN
+BM-0183,Introduction to Java 8,Author N. Jones,2015,3.0,AVERAGE
+BM-0184,Handbook of Machine Learning 3,Author X. Johnson,2017,3.0,AVERAGE
+BM-0185,Advanced Music 8,Author P. Williams,2009,5.0,EVERGREEN
+BM-0186,Fundamentals of Art 3,Author L. Williams,2009,1.0,DEAD STOCK
+BM-0187,Fundamentals of Music 6,Author Z. Smith,2024,2.0,FLOP
+BM-0188,Fundamentals of Python 8,Author Q. Jones,2014,2.0,DEAD STOCK
+BM-0189,Advanced Economics 1,Author H. Johnson,2015,2.0,DEAD STOCK
+BM-0190,Fundamentals of Calculus 10,Author A. Williams,2006,3.0,AVERAGE
+BM-0191,Guide to Python 7,Author L. Brown,1992,4.0,EVERGREEN
+BM-0192,Guide to Physics 1,Author O. Jones,1999,7.0,EVERGREEN
+BM-0193,The Art of Biology 2,Author I. Jones,2014,1.0,DEAD STOCK
+BM-0194,Advanced Python 8,Author H. Johnson,2004,5.0,EVERGREEN
+BM-0195,Fundamentals of Physics 9,Author V. Jones,2008,4.0,EVERGREEN
+BM-0196,The Art of Economics 9,Author R. Smith,1994,7.0,EVERGREEN
+BM-0197,Fundamentals of Calculus 1,Author E. Brown,2022,4.0,EVERGREEN
+BM-0198,Guide to Java 4,Author R. Johnson,1991,3.0,AVERAGE
+BM-0199,Introduction to Economics 3,Author N. Williams,1997,3.0,AVERAGE
+BM-0200,Advanced Chemistry 8,Author J. Brown,1999,4.0,EVERGREEN
+BM-0201,History of Art 2,Author M. Jones,2018,5.0,EVERGREEN
+BM-0202,History of Python 6,Author H. Williams,2017,2.0,DEAD STOCK
+BM-0203,Advanced Java 7,Author Q. Smith,1993,3.0,AVERAGE
+BM-0204,Guide to AI 5,Author U. Johnson,1991,2.0,DEAD STOCK
+BM-0205,Guide to Calculus 10,Author I. Smith,2007,0.0,DEAD STOCK
+BM-0206,Mastering Chemistry 1,Author E. Johnson,2020,1.0,DEAD STOCK
+BM-0207,Fundamentals of Biology 4,Author T. Brown,2014,4.0,EVERGREEN
+BM-0208,Introduction to Java 5,Author N. Williams,1999,6.0,EVERGREEN
+BM-0209,Guide to Economics 1,Author E. Smith,2000,3.0,AVERAGE
+BM-0210,Fundamentals of Philosophy 2,Author J. Jones,1997,6.0,EVERGREEN
+BM-0211,Introduction to Machine Learning 7,Author M. Brown,2002,2.0,DEAD STOCK
+BM-0212,Advanced Biology 5,Author Z. Brown,1997,1.0,DEAD STOCK
+BM-0213,Handbook of Calculus 1,Author P. Brown,2024,2.0,FLOP
+BM-0214,Mastering Chemistry 6,Author O. Williams,2017,2.0,DEAD STOCK
+BM-0215,Handbook of AI 2,Author I. Williams,1999,0.0,DEAD STOCK
+BM-0216,Guide to Art 1,Author Y. Jones,2012,3.0,AVERAGE
+BM-0217,Fundamentals of Biology 10,Author K. Smith,1991,2.0,DEAD STOCK
+BM-0218,Mastering Calculus 7,Author V. Johnson,1993,2.0,DEAD STOCK
+BM-0219,Fundamentals of Chemistry 9,Author Q. Johnson,1998,4.0,EVERGREEN
+BM-0220,Advanced Economics 3,Author F. Williams,1997,3.0,AVERAGE
+BM-0221,Introduction to Physics 8,Author V. Jones,1995,1.0,DEAD STOCK
+BM-0222,Mastering Machine Learning 10,Author Z. Williams,1990,4.0,EVERGREEN
+BM-0223,Mastering Music 7,Author V. Brown,1997,2.0,DEAD STOCK
+BM-0224,Mastering Economics 7,Author U. Smith,1991,3.0,AVERAGE
+BM-0225,Fundamentals of Art 7,Author T. Williams,2007,2.0,DEAD STOCK
+BM-0226,The Art of Art 6,Author Z. Brown,2008,1.0,DEAD STOCK
+BM-0227,Mastering Java 8,Author V. Brown,1992,1.0,DEAD STOCK
+BM-0228,History of Java 1,Author O. Brown,1990,1.0,DEAD STOCK
+BM-0229,The Art of Philosophy 9,Author T. Jones,1991,3.0,AVERAGE
+BM-0230,History of Chemistry 2,Author C. Johnson,2024,2.0,FLOP
+BM-0231,Mastering Java 10,Author E. Johnson,2013,3.0,AVERAGE
+BM-0232,Fundamentals of Java 9,Author H. Brown,2016,3.0,AVERAGE
+BM-0233,The Art of AI 7,Author G. Brown,2003,1.0,DEAD STOCK
+BM-0234,Guide to Art 2,Author B. Johnson,2009,0.0,DEAD STOCK
+BM-0235,Advanced Calculus 7,Author P. Smith,2024,6.0,HOT
+BM-0236,Guide to Philosophy 9,Author R. Johnson,2004,3.0,AVERAGE
+BM-0237,Guide to Biology 3,Author E. Williams,2006,2.0,DEAD STOCK
+BM-0238,Fundamentals of Biology 4,Author F. Smith,1996,5.0,EVERGREEN
+BM-0239,Advanced Machine Learning 1,Author Z. Brown,1997,7.0,EVERGREEN
+BM-0240,Mastering Biology 8,Author O. Williams,2015,4.0,EVERGREEN
+BM-0241,The Art of Calculus 8,Author M. Smith,2009,4.0,EVERGREEN
+BM-0242,Mastering Machine Learning 2,Author P. Jones,2024,3.0,AVERAGE
+BM-0243,History of Biology 5,Author C. Brown,2005,3.0,AVERAGE
+BM-0244,Handbook of Java 8,Author J. Brown,2003,2.0,DEAD STOCK
+BM-0245,History of Chemistry 2,Author N. Smith,2002,4.0,EVERGREEN
+BM-0246,Introduction to Art 6,Author Y. Smith,2024,3.0,AVERAGE
+BM-0247,Introduction to Machine Learning 7,Author A. Smith,2021,5.0,EVERGREEN
+BM-0248,Handbook of Physics 1,Author A. Smith,2018,1.0,DEAD STOCK
+BM-0249,Fundamentals of AI 9,Author J. Smith,2020,2.0,DEAD STOCK
+BM-0250,Advanced Chemistry 4,Author Y. Smith,2015,1.0,DEAD STOCK
+BM-0251,The Art of Chemistry 1,Author O. Williams,2007,2.0,DEAD STOCK
+BM-0252,Guide to Art 3,Author I. Williams,2010,2.0,DEAD STOCK
+BM-0253,Introduction to Art 4,Author A. Jones,1996,1.0,DEAD STOCK
+BM-0254,Advanced Music 2,Author I. Brown,2008,0.0,DEAD STOCK
+BM-0255,History of Philosophy 10,Author V. Johnson,2002,3.0,AVERAGE
+BM-0256,History of Calculus 4,Author Y. Williams,1991,3.0,AVERAGE
+BM-0257,Introduction to Python 1,Author V. Johnson,2018,3.0,AVERAGE
+BM-0258,Advanced Chemistry 5,Author U. Williams,2012,6.0,EVERGREEN
+BM-0259,Handbook of Biology 10,Author U. Smith,1999,6.0,EVERGREEN
+BM-0260,Guide to AI 4,Author P. Smith,2018,2.0,DEAD STOCK
+BM-0261,Guide to Chemistry 2,Author H. Jones,2001,6.0,EVERGREEN
+BM-0262,The Art of Philosophy 6,Author Q. Smith,2023,6.0,HOT
+BM-0263,Fundamentals of Economics 7,Author I. Williams,2023,3.0,AVERAGE
+BM-0264,Handbook of Chemistry 7,Author N. Jones,2000,5.0,EVERGREEN
+BM-0265,Handbook of Biology 7,Author G. Jones,1999,3.0,AVERAGE
+BM-0266,Introduction to Physics 8,Author X. Smith,2002,1.0,DEAD STOCK
+BM-0267,The Art of Physics 3,Author J. Johnson,2022,2.0,DEAD STOCK
+BM-0268,Mastering Economics 7,Author V. Williams,2013,3.0,AVERAGE
+BM-0269,Mastering Calculus 7,Author P. Jones,2010,2.0,DEAD STOCK
+BM-0270,Handbook of Music 2,Author J. Williams,2023,1.0,FLOP
+BM-0271,Guide to Economics 3,Author O. Jones,2018,1.0,DEAD STOCK
+BM-0272,The Art of Python 3,Author V. Williams,2001,5.0,EVERGREEN
+BM-0273,The Art of History 8,Author Q. Jones,1997,5.0,EVERGREEN
+BM-0274,History of Chemistry 10,Author A. Jones,2020,2.0,DEAD STOCK
+BM-0275,Mastering Economics 7,Author T. Jones,2009,4.0,EVERGREEN
+BM-0276,Advanced Calculus 1,Author R. Smith,2012,4.0,EVERGREEN
+BM-0277,Advanced Art 1,Author V. Smith,2024,6.0,HOT
+BM-0278,Mastering Art 8,Author M. Smith,1994,3.0,AVERAGE
+BM-0279,The Art of Art 8,Author V. Brown,2007,8.0,EVERGREEN
+BM-0280,Introduction to Java 9,Author T. Jones,2002,2.0,DEAD STOCK
+BM-0281,The Art of Physics 8,Author P. Williams,2008,2.0,DEAD STOCK
+BM-0282,Introduction to Art 2,Author Q. Johnson,2024,3.0,AVERAGE
+BM-0283,Mastering Java 10,Author X. Smith,1996,4.0,EVERGREEN
+BM-0284,Advanced History 10,Author I. Williams,1999,2.0,DEAD STOCK
+BM-0285,Handbook of AI 9,Author K. Brown,2013,4.0,EVERGREEN
+BM-0286,Advanced Chemistry 1,Author U. Brown,2007,3.0,AVERAGE
+BM-0287,Introduction to Philosophy 4,Author W. Smith,2008,1.0,DEAD STOCK
+BM-0288,Advanced Java 3,Author H. Jones,2013,3.0,AVERAGE
+BM-0289,Advanced Economics 7,Author F. Smith,2002,7.0,EVERGREEN
+BM-0290,Advanced History 4,Author Y. Jones,1993,4.0,EVERGREEN
+BM-0291,Introduction to Java 10,Author R. Williams,1996,3.0,AVERAGE
+BM-0292,Guide to AI 8,Author P. Williams,2017,5.0,EVERGREEN
+BM-0293,Mastering Physics 4,Author Y. Brown,2013,2.0,DEAD STOCK
+BM-0294,Introduction to AI 8,Author H. Williams,2002,3.0,AVERAGE
+BM-0295,Advanced Music 1,Author E. Smith,2001,4.0,EVERGREEN
+BM-0296,Guide to Biology 9,Author G. Williams,1990,4.0,EVERGREEN
+BM-0297,Guide to History 9,Author V. Jones,1993,4.0,EVERGREEN
+BM-0298,Fundamentals of Java 3,Author Q. Brown,1999,2.0,DEAD STOCK
+BM-0299,The Art of Java 7,Author K. Jones,1993,3.0,AVERAGE
+BM-0300,Guide to Machine Learning 1,Author P. Williams,1994,3.0,AVERAGE
+BM-0301,Mastering AI 7,Author Z. Jones,2013,2.0,DEAD STOCK
+BM-0302,Guide to Music 4,Author W. Jones,2021,2.0,DEAD STOCK
+BM-0303,Fundamentals of Python 4,Author L. Brown,2018,4.0,EVERGREEN
+BM-0304,Fundamentals of History 5,Author T. Smith,1996,1.0,DEAD STOCK
+BM-0305,History of Machine Learning 6,Author W. Smith,1999,5.0,EVERGREEN
+BM-0306,Guide to Java 8,Author N. Brown,2017,3.0,AVERAGE
+BM-0307,Introduction to History 1,Author A. Johnson,2024,3.0,AVERAGE
+BM-0308,Advanced Python 3,Author O. Johnson,2017,1.0,DEAD STOCK
+BM-0309,Mastering Chemistry 1,Author K. Brown,1995,2.0,DEAD STOCK
+BM-0310,The Art of History 5,Author K. Brown,2001,6.0,EVERGREEN
+BM-0311,Fundamentals of Physics 2,Author Y. Johnson,2014,4.0,EVERGREEN
+BM-0312,Handbook of Java 1,Author W. Smith,2023,5.0,HOT
+BM-0313,History of Physics 10,Author Q. Johnson,1990,2.0,DEAD STOCK
+BM-0314,Mastering AI 10,Author R. Johnson,2020,2.0,DEAD STOCK
+BM-0315,Mastering Economics 2,Author S. Williams,2016,1.0,DEAD STOCK
+BM-0316,Mastering Python 6,Author C. Johnson,2009,6.0,EVERGREEN
+BM-0317,Mastering Calculus 2,Author T. Smith,2021,2.0,DEAD STOCK
+BM-0318,Fundamentals of Python 10,Author G. Johnson,2022,1.0,DEAD STOCK
+BM-0319,Advanced Python 7,Author D. Smith,2014,2.0,DEAD STOCK
+BM-0320,Guide to Java 4,Author Z. Williams,1997,2.0,DEAD STOCK
+BM-0321,Advanced Machine Learning 1,Author D. Williams,2010,2.0,DEAD STOCK
+BM-0322,Advanced Java 4,Author J. Brown,2000,0.0,DEAD STOCK
+BM-0323,Fundamentals of Music 1,Author N. Johnson,2012,3.0,AVERAGE
+BM-0324,Fundamentals of Economics 4,Author V. Johnson,2008,7.0,EVERGREEN
+BM-0325,History of Python 7,Author O. Williams,1993,0.0,DEAD STOCK
+BM-0326,Mastering Economics 10,Author V. Smith,1994,4.0,EVERGREEN
+BM-0327,Mastering Python 6,Author F. Brown,2018,2.0,DEAD STOCK
+BM-0328,History of Biology 9,Author T. Williams,2003,3.0,AVERAGE
+BM-0329,History of Calculus 2,Author G. Williams,2001,3.0,AVERAGE
+BM-0330,The Art of Biology 6,Author B. Jones,1992,4.0,EVERGREEN
+BM-0331,Handbook of Physics 7,Author Q. Smith,2013,2.0,DEAD STOCK
+BM-0332,History of Economics 4,Author L. Smith,1990,5.0,EVERGREEN
+BM-0333,History of Machine Learning 5,Author N. Smith,2016,4.0,EVERGREEN
+BM-0334,The Art of Java 8,Author G. Jones,2011,1.0,DEAD STOCK
+BM-0335,Guide to Calculus 9,Author H. Brown,2003,1.0,DEAD STOCK
+BM-0336,Advanced Biology 9,Author G. Smith,1993,2.0,DEAD STOCK
+BM-0337,Handbook of Music 8,Author J. Williams,2010,1.0,DEAD STOCK
+BM-0338,Mastering Philosophy 5,Author Y. Brown,2000,3.0,AVERAGE
+BM-0339,Introduction to Python 10,Author N. Johnson,1996,0.0,DEAD STOCK
+BM-0340,The Art of Philosophy 1,Author U. Jones,2001,5.0,EVERGREEN
+BM-0341,Handbook of Python 2,Author T. Williams,2003,1.0,DEAD STOCK
+BM-0342,Advanced Philosophy 2,Author B. Johnson,1990,2.0,DEAD STOCK
+BM-0343,Mastering Art 6,Author U. Smith,1996,2.0,DEAD STOCK
+BM-0344,Advanced Calculus 6,Author Q. Smith,2018,5.0,EVERGREEN
+BM-0345,Guide to Art 3,Author V. Smith,2002,4.0,EVERGREEN
+BM-0346,The Art of Java 9,Author M. Smith,2010,1.0,DEAD STOCK
+BM-0347,Advanced Chemistry 7,Author K. Williams,2023,3.0,AVERAGE
+BM-0348,History of Music 10,Author Y. Smith,2000,2.0,DEAD STOCK
+BM-0349,Advanced Economics 5,Author Q. Smith,2015,3.0,AVERAGE
+BM-0350,Advanced Music 2,Author R. Williams,1996,2.0,DEAD STOCK
+BM-0351,Handbook of Economics 9,Author T. Brown,2006,2.0,DEAD STOCK
+BM-0352,History of History 4,Author T. Williams,2019,2.0,DEAD STOCK
+BM-0353,Handbook of Java 9,Author I. Williams,2013,3.0,AVERAGE
+BM-0354,Advanced Java 1,Author Y. Smith,1992,5.0,EVERGREEN
+BM-0355,Fundamentals of Chemistry 7,Author U. Williams,1991,6.0,EVERGREEN
+BM-0356,Guide to Art 10,Author I. Brown,2012,5.0,EVERGREEN
+BM-0357,The Art of Python 6,Author U. Brown,1990,2.0,DEAD STOCK
+BM-0358,Advanced History 6,Author O. Jones,1991,2.0,DEAD STOCK
+BM-0359,Mastering Physics 5,Author F. Johnson,2022,3.0,AVERAGE
+BM-0360,Advanced Python 2,Author W. Williams,1999,6.0,EVERGREEN
+BM-0361,Guide to Art 5,Author W. Johnson,2015,1.0,DEAD STOCK
+BM-0362,Advanced Java 2,Author G. Williams,2000,3.0,AVERAGE
+BM-0363,History of History 7,Author B. Jones,2022,6.0,EVERGREEN
+BM-0364,Fundamentals of Calculus 2,Author S. Smith,1996,1.0,DEAD STOCK
+BM-0365,The Art of History 5,Author V. Jones,2016,2.0,DEAD STOCK
+BM-0366,History of Art 7,Author V. Smith,2011,5.0,EVERGREEN
+BM-0367,The Art of History 9,Author Y. Jones,2011,3.0,AVERAGE
+BM-0368,Handbook of Chemistry 5,Author S. Jones,1994,0.0,DEAD STOCK
+BM-0369,Advanced Music 2,Author C. Williams,1990,3.0,AVERAGE
+BM-0370,Mastering Economics 2,Author V. Johnson,2002,2.0,DEAD STOCK
+BM-0371,Mastering Biology 9,Author M. Johnson,2024,3.0,AVERAGE
+BM-0372,History of Economics 3,Author L. Brown,1994,2.0,DEAD STOCK
+BM-0373,History of Machine Learning 10,Author U. Jones,2014,2.0,DEAD STOCK
+BM-0374,Advanced Calculus 9,Author J. Brown,1994,2.0,DEAD STOCK
+BM-0375,The Art of AI 10,Author F. Smith,1998,4.0,EVERGREEN
+BM-0376,Handbook of Music 6,Author I. Johnson,1994,4.0,EVERGREEN
+BM-0377,Guide to Art 1,Author P. Jones,2022,4.0,EVERGREEN
+BM-0378,Fundamentals of AI 2,Author T. Brown,2008,4.0,EVERGREEN
+BM-0379,The Art of History 9,Author X. Williams,2003,3.0,AVERAGE
+BM-0380,Mastering Philosophy 1,Author D. Brown,1990,2.0,DEAD STOCK
+BM-0381,Advanced AI 4,Author S. Jones,1991,1.0,DEAD STOCK
+BM-0382,Introduction to Philosophy 3,Author T. Jones,2010,4.0,EVERGREEN
+BM-0383,Mastering Biology 8,Author H. Johnson,1995,7.0,EVERGREEN
+BM-0384,Advanced Art 9,Author C. Williams,2013,4.0,EVERGREEN
+BM-0385,Advanced Python 4,Author R. Johnson,1990,2.0,DEAD STOCK
+BM-0386,Fundamentals of AI 2,Author G. Jones,2017,1.0,DEAD STOCK
+BM-0387,Introduction to Chemistry 2,Author A. Johnson,2000,1.0,DEAD STOCK
+BM-0388,Handbook of Philosophy 7,Author G. Williams,1990,4.0,EVERGREEN
+BM-0389,Introduction to Java 8,Author C. Jones,2017,3.0,AVERAGE
+BM-0390,Advanced Python 4,Author D. Jones,2012,2.0,DEAD STOCK
+BM-0391,Fundamentals of Music 4,Author C. Williams,1998,3.0,AVERAGE
+BM-0392,The Art of Calculus 5,Author V. Smith,2002,2.0,DEAD STOCK
+BM-0393,History of Chemistry 6,Author W. Brown,2007,2.0,DEAD STOCK
+BM-0394,Guide to Art 2,Author N. Williams,2005,2.0,DEAD STOCK
+BM-0395,Mastering History 8,Author U. Williams,1998,4.0,EVERGREEN
+BM-0396,The Art of Music 10,Author K. Jones,1993,0.0,DEAD STOCK
+BM-0397,History of Philosophy 10,Author A. Williams,1996,2.0,DEAD STOCK
+BM-0398,Handbook of Machine Learning 2,Author N. Smith,1993,3.0,AVERAGE
+BM-0399,Guide to Art 2,Author D. Jones,2020,5.0,EVERGREEN
+BM-0400,The Art of Philosophy 4,Author P. Johnson,2007,2.0,DEAD STOCK
+BM-0401,Mastering History 6,Author R. Smith,1990,3.0,AVERAGE
+BM-0402,Guide to Java 8,Author Q. Brown,2008,3.0,AVERAGE
+BM-0403,Fundamentals of AI 5,Author Z. Jones,1993,2.0,DEAD STOCK
+BM-0404,Guide to Chemistry 6,Author T. Brown,2007,1.0,DEAD STOCK
+BM-0405,Fundamentals of Machine Learning 9,Author F. Johnson,2016,4.0,EVERGREEN
+BM-0406,Guide to Java 2,Author U. Brown,2022,4.0,EVERGREEN
+BM-0407,Advanced Calculus 5,Author B. Smith,1995,1.0,DEAD STOCK
+BM-0408,Handbook of History 6,Author G. Johnson,2016,1.0,DEAD STOCK
+BM-0409,Advanced Calculus 1,Author H. Jones,2001,3.0,AVERAGE
+BM-0410,History of Java 3,Author E. Jones,2013,1.0,DEAD STOCK
+BM-0411,Fundamentals of Machine Learning 5,Author H. Brown,1998,1.0,DEAD STOCK
+BM-0412,The Art of Calculus 1,Author R. Jones,1998,4.0,EVERGREEN
+BM-0413,Fundamentals of Chemistry 7,Author C. Brown,2015,6.0,EVERGREEN
+BM-0414,Advanced Economics 9,Author W. Johnson,2005,7.0,EVERGREEN
+BM-0415,Mastering AI 9,Author Z. Johnson,1993,1.0,DEAD STOCK
+BM-0416,Handbook of Python 2,Author D. Jones,2002,4.0,EVERGREEN
+BM-0417,Advanced Java 7,Author V. Johnson,2013,4.0,EVERGREEN
+BM-0418,Fundamentals of Java 10,Author Z. Johnson,2023,1.0,FLOP
+BM-0419,Mastering History 3,Author H. Williams,2019,6.0,EVERGREEN
+BM-0420,History of Calculus 7,Author N. Williams,2024,2.0,FLOP
+BM-0421,Mastering Music 8,Author P. Brown,2018,3.0,AVERAGE
+BM-0422,The Art of Calculus 1,Author W. Johnson,1993,2.0,DEAD STOCK
+BM-0423,Fundamentals of Physics 1,Author G. Smith,2020,1.0,DEAD STOCK
+BM-0424,The Art of Economics 4,Author O. Williams,2006,3.0,AVERAGE
+BM-0425,Introduction to Python 3,Author S. Williams,2009,1.0,DEAD STOCK
+BM-0426,Guide to AI 4,Author L. Jones,1994,1.0,DEAD STOCK
+BM-0427,Handbook of Physics 2,Author R. Brown,2014,3.0,AVERAGE
+BM-0428,Mastering Music 8,Author P. Williams,1992,3.0,AVERAGE
+BM-0429,The Art of Machine Learning 9,Author H. Jones,2004,1.0,DEAD STOCK
+BM-0430,Introduction to Art 6,Author R. Williams,2006,6.0,EVERGREEN
+BM-0431,Handbook of Java 6,Author H. Johnson,1999,3.0,AVERAGE
+BM-0432,Mastering History 6,Author F. Johnson,2008,3.0,AVERAGE
+BM-0433,Introduction to Physics 6,Author F. Smith,2000,1.0,DEAD STOCK
+BM-0434,Fundamentals of Java 8,Author N. Brown,2004,2.0,DEAD STOCK
+BM-0435,Mastering Java 8,Author L. Jones,1997,2.0,DEAD STOCK
+BM-0436,Advanced Economics 7,Author M. Smith,2008,3.0,AVERAGE
+BM-0437,Advanced Physics 1,Author P. Johnson,1997,0.0,DEAD STOCK
+BM-0438,Guide to History 1,Author Q. Brown,2015,3.0,AVERAGE
+BM-0439,The Art of Biology 8,Author C. Johnson,2002,4.0,EVERGREEN
+BM-0440,History of Physics 1,Author X. Smith,2005,3.0,AVERAGE
+BM-0441,Advanced Music 8,Author I. Smith,2015,4.0,EVERGREEN
+BM-0442,The Art of Music 3,Author Y. Jones,1990,5.0,EVERGREEN
+BM-0443,Introduction to Chemistry 9,Author E. Jones,1999,3.0,AVERAGE
+BM-0444,History of Chemistry 10,Author R. Johnson,2024,3.0,AVERAGE
+BM-0445,The Art of Philosophy 1,Author X. Jones,2011,3.0,AVERAGE
+BM-0446,Introduction to Philosophy 1,Author G. Brown,2006,3.0,AVERAGE
+BM-0447,The Art of Economics 7,Author U. Williams,2023,1.0,FLOP
+BM-0448,Fundamentals of AI 9,Author G. Jones,2002,1.0,DEAD STOCK
+BM-0449,Handbook of Art 6,Author B. Williams,2008,2.0,DEAD STOCK
+BM-0450,The Art of Calculus 3,Author S. Johnson,2015,6.0,EVERGREEN
+BM-0451,History of Python 10,Author R. Jones,2006,4.0,EVERGREEN
+BM-0452,Advanced AI 2,Author N. Smith,2006,3.0,AVERAGE
+BM-0453,Handbook of Python 2,Author P. Johnson,2015,2.0,DEAD STOCK
+BM-0454,History of Physics 1,Author L. Brown,2010,3.0,AVERAGE
+BM-0455,The Art of Python 5,Author I. Jones,2003,6.0,EVERGREEN
+BM-0456,Guide to Art 6,Author P. Johnson,2005,4.0,EVERGREEN
+BM-0457,Introduction to Chemistry 9,Author Z. Johnson,2008,3.0,AVERAGE
+BM-0458,Advanced Music 6,Author B. Smith,2023,1.0,FLOP
+BM-0459,Introduction to Philosophy 10,Author J. Williams,2024,2.0,FLOP
+BM-0460,Mastering Python 6,Author O. Jones,2023,2.0,FLOP
+BM-0461,Guide to Music 2,Author F. Williams,1992,8.0,EVERGREEN
+BM-0462,Handbook of Philosophy 10,Author D. Brown,2024,1.0,FLOP
+BM-0463,The Art of Biology 6,Author X. Brown,2018,4.0,EVERGREEN
+BM-0464,History of Machine Learning 2,Author B. Brown,2002,1.0,DEAD STOCK
+BM-0465,Mastering Calculus 6,Author A. Johnson,2007,5.0,EVERGREEN
+BM-0466,Handbook of Art 10,Author P. Jones,2021,4.0,EVERGREEN
+BM-0467,Handbook of Java 4,Author J. Jones,1998,4.0,EVERGREEN
+BM-0468,History of Economics 1,Author H. Jones,2008,3.0,AVERAGE
+BM-0469,The Art of History 2,Author U. Johnson,2018,2.0,DEAD STOCK
+BM-0470,The Art of Art 5,Author L. Jones,1997,2.0,DEAD STOCK
+BM-0471,Advanced Python 5,Author T. Jones,2007,2.0,DEAD STOCK
+BM-0472,Fundamentals of Python 1,Author I. Jones,2003,6.0,EVERGREEN
+BM-0473,Introduction to History 8,Author N. Williams,1996,4.0,EVERGREEN
+BM-0474,Fundamentals of Machine Learning 5,Author U. Smith,2006,7.0,EVERGREEN
+BM-0475,Fundamentals of Calculus 10,Author C. Johnson,2000,2.0,DEAD STOCK
+BM-0476,Handbook of Calculus 4,Author H. Jones,2004,5.0,EVERGREEN
+BM-0477,The Art of Biology 1,Author Z. Williams,2014,2.0,DEAD STOCK
+BM-0478,The Art of Art 2,Author K. Smith,2011,3.0,AVERAGE
+BM-0479,Advanced History 5,Author I. Johnson,2018,6.0,EVERGREEN
+BM-0480,Handbook of Music 6,Author U. Johnson,2015,1.0,DEAD STOCK
+BM-0481,Advanced Physics 4,Author Q. Jones,2009,5.0,EVERGREEN
+BM-0482,Handbook of Philosophy 10,Author B. Brown,2013,4.0,EVERGREEN
+BM-0483,History of Philosophy 1,Author Q. Johnson,2010,4.0,EVERGREEN
+BM-0484,The Art of Economics 8,Author P. Jones,1992,4.0,EVERGREEN
+BM-0485,Fundamentals of Python 7,Author V. Jones,2011,6.0,EVERGREEN
+BM-0486,The Art of Music 6,Author G. Johnson,2001,3.0,AVERAGE
+BM-0487,Advanced Python 10,Author H. Brown,2014,7.0,EVERGREEN
+BM-0488,History of Python 9,Author P. Brown,1993,4.0,EVERGREEN
+BM-0489,Introduction to Biology 6,Author S. Smith,1995,2.0,DEAD STOCK
+BM-0490,Mastering Chemistry 3,Author R. Smith,2007,2.0,DEAD STOCK
+BM-0491,The Art of Python 7,Author H. Smith,2017,3.0,AVERAGE
+BM-0492,The Art of Physics 5,Author N. Smith,2002,6.0,EVERGREEN
+BM-0493,Handbook of Java 7,Author N. Smith,2001,3.0,AVERAGE
+BM-0494,Advanced Machine Learning 7,Author R. Smith,1999,1.0,DEAD STOCK
+BM-0495,Advanced Music 1,Author T. Johnson,2010,2.0,DEAD STOCK
+BM-0496,Fundamentals of Java 7,Author Y. Jones,1990,5.0,EVERGREEN
+BM-0497,Mastering Java 6,Author U. Johnson,2003,4.0,EVERGREEN
+BM-0498,The Art of Philosophy 3,Author O. Smith,2002,4.0,EVERGREEN
+BM-0499,Fundamentals of Java 7,Author M. Johnson,1999,5.0,EVERGREEN
+BM-0500,The Art of Biology 2,Author Z. Smith,2011,1.0,DEAD STOCK
+BM-0501,The Art of Physics 7,Author O. Johnson,2011,4.0,EVERGREEN
+BM-0502,Introduction to Chemistry 3,Author C. Williams,2007,4.0,EVERGREEN
+BM-0503,Fundamentals of Chemistry 8,Author O. Jones,1990,4.0,EVERGREEN
+BM-0504,Guide to Biology 1,Author M. Smith,2011,2.0,DEAD STOCK
+BM-0505,History of History 10,Author H. Jones,2019,7.0,EVERGREEN
+BM-0506,Mastering History 7,Author T. Johnson,2019,1.0,DEAD STOCK
+BM-0507,Guide to Art 1,Author R. Johnson,2017,1.0,DEAD STOCK
+BM-0508,Fundamentals of Calculus 7,Author G. Smith,2016,4.0,EVERGREEN
+BM-0509,The Art of History 7,Author N. Brown,2010,2.0,DEAD STOCK
+BM-0510,Mastering Machine Learning 3,Author Q. Brown,2020,2.0,DEAD STOCK
+BM-0511,Mastering Python 4,Author T. Williams,2011,2.0,DEAD STOCK
+BM-0512,Advanced Economics 7,Author J. Brown,2024,3.0,AVERAGE
+BM-0513,Fundamentals of Music 7,Author H. Johnson,2015,2.0,DEAD STOCK
+BM-0514,Introduction to Philosophy 6,Author U. Brown,2014,3.0,AVERAGE
+BM-0515,Guide to Biology 10,Author S. Williams,2004,4.0,EVERGREEN
+BM-0516,The Art of Art 10,Author F. Johnson,2010,2.0,DEAD STOCK
+BM-0517,Guide to Calculus 1,Author D. Jones,2013,3.0,AVERAGE
+BM-0518,History of Python 8,Author T. Brown,2000,1.0,DEAD STOCK
+BM-0519,Mastering Chemistry 9,Author E. Johnson,1997,2.0,DEAD STOCK
+BM-0520,Advanced Music 2,Author S. Smith,2010,2.0,DEAD STOCK
+BM-0521,Advanced History 10,Author I. Williams,2023,4.0,HOT
+BM-0522,History of Music 5,Author R. Jones,1991,5.0,EVERGREEN
+BM-0523,Advanced Calculus 9,Author M. Brown,1992,3.0,AVERAGE
+BM-0524,Advanced AI 6,Author F. Johnson,2009,2.0,DEAD STOCK
+BM-0525,The Art of Philosophy 5,Author C. Brown,2010,5.0,EVERGREEN
+BM-0526,History of Calculus 7,Author G. Jones,1991,4.0,EVERGREEN
+BM-0527,History of Machine Learning 4,Author Y. Williams,2013,3.0,AVERAGE
+BM-0528,Handbook of Machine Learning 7,Author F. Jones,2010,4.0,EVERGREEN
+BM-0529,Advanced Chemistry 5,Author T. Smith,2010,0.0,DEAD STOCK
+BM-0530,Mastering AI 6,Author W. Williams,1997,3.0,AVERAGE
+BM-0531,Introduction to Python 7,Author A. Johnson,1999,2.0,DEAD STOCK
+BM-0532,Mastering Chemistry 8,Author K. Williams,2016,1.0,DEAD STOCK
+BM-0533,History of Art 3,Author S. Jones,1996,6.0,EVERGREEN
+BM-0534,Mastering History 2,Author S. Brown,1993,7.0,EVERGREEN
+BM-0535,The Art of Art 10,Author I. Jones,2001,4.0,EVERGREEN
+BM-0536,Introduction to History 9,Author H. Jones,2005,7.0,EVERGREEN
+BM-0537,Guide to Calculus 10,Author R. Brown,2018,3.0,AVERAGE
+BM-0538,Advanced Music 10,Author Q. Williams,2013,3.0,AVERAGE
+BM-0539,Fundamentals of Java 3,Author F. Williams,2007,2.0,DEAD STOCK
+BM-0540,Introduction to Biology 2,Author Q. Williams,2002,1.0,DEAD STOCK
+BM-0541,Handbook of Chemistry 5,Author Y. Jones,2007,2.0,DEAD STOCK
+BM-0542,Mastering AI 9,Author I. Jones,2020,2.0,DEAD STOCK
+BM-0543,The Art of Chemistry 3,Author G. Johnson,2020,3.0,AVERAGE
+BM-0544,History of Biology 9,Author Z. Brown,1997,2.0,DEAD STOCK
+BM-0545,Introduction to Chemistry 5,Author K. Williams,2017,3.0,AVERAGE
+BM-0546,Fundamentals of Philosophy 4,Author T. Williams,2008,2.0,DEAD STOCK
+BM-0547,Introduction to Chemistry 5,Author U. Williams,2002,6.0,EVERGREEN
+BM-0548,Guide to Music 2,Author N. Johnson,2017,2.0,DEAD STOCK
+BM-0549,Introduction to Java 1,Author B. Smith,2019,3.0,AVERAGE
+BM-0550,Mastering History 2,Author T. Brown,2004,5.0,EVERGREEN
+BM-0551,Guide to Java 2,Author Q. Williams,2016,3.0,AVERAGE
+BM-0552,Fundamentals of Economics 7,Author H. Brown,2004,3.0,AVERAGE
+BM-0553,Handbook of Economics 3,Author A. Williams,1990,3.0,AVERAGE
+BM-0554,Introduction to Python 6,Author X. Jones,2001,1.0,DEAD STOCK
+BM-0555,Guide to Java 10,Author M. Smith,2019,3.0,AVERAGE
+BM-0556,Mastering Music 6,Author I. Jones,2010,5.0,EVERGREEN
+BM-0557,Guide to Music 1,Author V. Jones,1997,2.0,DEAD STOCK
+BM-0558,Mastering AI 9,Author I. Johnson,1998,3.0,AVERAGE
+BM-0559,Mastering Physics 9,Author L. Brown,2013,4.0,EVERGREEN
+BM-0560,Mastering Calculus 9,Author L. Williams,2021,2.0,DEAD STOCK
+BM-0561,Fundamentals of Calculus 4,Author I. Brown,2023,2.0,FLOP
+BM-0562,Advanced History 3,Author T. Jones,2011,3.0,AVERAGE
+BM-0563,Handbook of Chemistry 5,Author B. Jones,2006,3.0,AVERAGE
+BM-0564,History of Machine Learning 8,Author R. Johnson,2002,5.0,EVERGREEN
+BM-0565,Handbook of Art 5,Author K. Brown,2018,6.0,EVERGREEN
+BM-0566,The Art of Physics 10,Author Q. Jones,1996,2.0,DEAD STOCK
+BM-0567,Mastering Art 4,Author M. Smith,2017,1.0,DEAD STOCK
+BM-0568,Fundamentals of Machine Learning 5,Author G. Smith,2000,3.0,AVERAGE
+BM-0569,Fundamentals of Physics 6,Author I. Johnson,2015,3.0,AVERAGE
+BM-0570,Handbook of Calculus 2,Author X. Brown,2003,4.0,EVERGREEN
+BM-0571,The Art of Physics 2,Author U. Williams,2024,4.0,HOT
+BM-0572,Handbook of Economics 2,Author I. Johnson,2009,7.0,EVERGREEN
+BM-0573,Mastering Calculus 3,Author C. Jones,2014,3.0,AVERAGE
+BM-0574,Fundamentals of Biology 2,Author Y. Smith,1990,3.0,AVERAGE
+BM-0575,Handbook of Java 3,Author Y. Smith,1991,2.0,DEAD STOCK
+BM-0576,Fundamentals of Physics 5,Author M. Brown,2007,7.0,EVERGREEN
+BM-0577,Introduction to Physics 3,Author K. Brown,1999,6.0,EVERGREEN
+BM-0578,Mastering History 7,Author Z. Brown,1999,1.0,DEAD STOCK
+BM-0579,Guide to AI 3,Author U. Smith,2000,3.0,AVERAGE
+BM-0580,The Art of Art 5,Author I. Brown,2018,1.0,DEAD STOCK
+BM-0581,The Art of Calculus 3,Author V. Johnson,2009,3.0,AVERAGE
+BM-0582,Advanced Machine Learning 1,Author W. Jones,2016,4.0,EVERGREEN
+BM-0583,Handbook of Physics 4,Author H. Williams,2009,1.0,DEAD STOCK
+BM-0584,The Art of Art 8,Author C. Johnson,2005,3.0,AVERAGE
+BM-0585,Introduction to Physics 10,Author R. Brown,1997,4.0,EVERGREEN
+BM-0586,Advanced AI 6,Author U. Jones,2018,3.0,AVERAGE
+BM-0587,History of Art 6,Author N. Johnson,2000,3.0,AVERAGE
+BM-0588,History of Chemistry 5,Author T. Johnson,2007,2.0,DEAD STOCK
+BM-0589,Introduction to Philosophy 6,Author N. Smith,2018,2.0,DEAD STOCK
+BM-0590,Handbook of Python 6,Author P. Smith,1998,1.0,DEAD STOCK
+BM-0591,Guide to Music 5,Author P. Smith,1991,3.0,AVERAGE
+BM-0592,Handbook of Chemistry 6,Author G. Brown,2022,1.0,DEAD STOCK
+BM-0593,The Art of Calculus 7,Author X. Johnson,2007,2.0,DEAD STOCK
+BM-0594,Guide to Python 7,Author N. Johnson,1996,3.0,AVERAGE
+BM-0595,Fundamentals of Java 3,Author K. Brown,2021,8.0,EVERGREEN
+BM-0596,History of Music 7,Author Q. Williams,2002,1.0,DEAD STOCK
+BM-0597,Fundamentals of Biology 3,Author F. Williams,2000,2.0,DEAD STOCK
+BM-0598,Mastering Calculus 1,Author P. Smith,2006,3.0,AVERAGE
+BM-0599,History of Machine Learning 1,Author Y. Smith,2020,4.0,EVERGREEN
+BM-0600,Handbook of Art 7,Author O. Brown,2002,4.0,EVERGREEN
+BM-0601,The Art of Chemistry 8,Author W. Smith,2010,1.0,DEAD STOCK
+BM-0602,History of Physics 1,Author D. Jones,1993,2.0,DEAD STOCK
+BM-0603,Advanced Art 8,Author T. Johnson,1999,3.0,AVERAGE
+BM-0604,Introduction to Calculus 8,Author O. Smith,2005,0.0,DEAD STOCK
+BM-0605,Guide to Chemistry 6,Author X. Smith,2014,1.0,DEAD STOCK
+BM-0606,The Art of Python 7,Author G. Jones,2021,4.0,EVERGREEN
+BM-0607,The Art of Economics 3,Author V. Johnson,2019,4.0,EVERGREEN
+BM-0608,Advanced Philosophy 2,Author W. Smith,2011,5.0,EVERGREEN
+BM-0609,Advanced Python 1,Author F. Smith,2018,5.0,EVERGREEN
+BM-0610,The Art of History 9,Author F. Williams,2016,2.0,DEAD STOCK
+BM-0611,Handbook of Physics 7,Author N. Johnson,2020,2.0,DEAD STOCK
+BM-0612,The Art of History 10,Author F. Johnson,1991,6.0,EVERGREEN
+BM-0613,The Art of Python 9,Author Z. Brown,2018,1.0,DEAD STOCK
+BM-0614,Fundamentals of Physics 3,Author D. Brown,2022,3.0,AVERAGE
+BM-0615,History of Calculus 8,Author X. Jones,2009,7.0,EVERGREEN
+BM-0616,Mastering Machine Learning 8,Author I. Jones,1998,3.0,AVERAGE
+BM-0617,Mastering Calculus 4,Author P. Brown,2011,2.0,DEAD STOCK
+BM-0618,Handbook of Java 6,Author S. Williams,1998,4.0,EVERGREEN
+BM-0619,Fundamentals of Physics 9,Author A. Johnson,1990,1.0,DEAD STOCK
+BM-0620,The Art of Python 8,Author W. Brown,2005,2.0,DEAD STOCK
+BM-0621,Introduction to Economics 3,Author T. Smith,2009,2.0,DEAD STOCK
+BM-0622,Fundamentals of Physics 10,Author K. Williams,2005,3.0,AVERAGE
+BM-0623,Introduction to Calculus 3,Author O. Johnson,2013,1.0,DEAD STOCK
+BM-0624,The Art of Music 1,Author G. Williams,2013,4.0,EVERGREEN
+BM-0625,Handbook of Art 7,Author V. Johnson,2023,0.0,FLOP
+BM-0626,Advanced AI 1,Author Q. Brown,2022,2.0,DEAD STOCK
+BM-0627,The Art of Art 9,Author U. Brown,2001,4.0,EVERGREEN
+BM-0628,Advanced Philosophy 7,Author U. Jones,2018,1.0,DEAD STOCK
+BM-0629,Introduction to Economics 4,Author J. Williams,2013,4.0,EVERGREEN
+BM-0630,The Art of Philosophy 4,Author B. Williams,1993,2.0,DEAD STOCK
+BM-0631,Handbook of Art 1,Author X. Brown,1994,3.0,AVERAGE
+BM-0632,Mastering Calculus 8,Author K. Williams,2024,3.0,AVERAGE
+BM-0633,Fundamentals of Physics 9,Author D. Smith,1999,1.0,DEAD STOCK
+BM-0634,Handbook of Machine Learning 7,Author G. Jones,2017,2.0,DEAD STOCK
+BM-0635,Introduction to History 4,Author S. Johnson,2005,3.0,AVERAGE
+BM-0636,Fundamentals of Machine Learning 3,Author H. Smith,2021,5.0,EVERGREEN
+BM-0637,Introduction to Music 2,Author Q. Johnson,2023,2.0,FLOP
+BM-0638,Handbook of Music 5,Author S. Smith,2023,2.0,FLOP
+BM-0639,The Art of Economics 3,Author L. Johnson,2023,3.0,AVERAGE
+BM-0640,Mastering Biology 7,Author K. Smith,2013,3.0,AVERAGE
+BM-0641,History of Philosophy 8,Author X. Brown,1995,4.0,EVERGREEN
+BM-0642,Introduction to Music 4,Author V. Jones,1999,2.0,DEAD STOCK
+BM-0643,Handbook of History 3,Author R. Brown,1996,3.0,AVERAGE
+BM-0644,Fundamentals of Java 10,Author A. Jones,2001,3.0,AVERAGE
+BM-0645,Fundamentals of Calculus 10,Author L. Johnson,2013,5.0,EVERGREEN
+BM-0646,Guide to Python 10,Author M. Williams,2012,4.0,EVERGREEN
+BM-0647,Advanced Philosophy 10,Author K. Johnson,1990,2.0,DEAD STOCK
+BM-0648,Handbook of Chemistry 2,Author F. Johnson,1992,1.0,DEAD STOCK
+BM-0649,Mastering Art 10,Author H. Smith,2006,4.0,EVERGREEN
+BM-0650,The Art of History 1,Author B. Johnson,2022,11.0,EVERGREEN
+BM-0651,Advanced Java 1,Author O. Johnson,1996,5.0,EVERGREEN
+BM-0652,Handbook of Philosophy 1,Author A. Johnson,2019,0.0,DEAD STOCK
+BM-0653,The Art of Economics 9,Author N. Jones,1990,3.0,AVERAGE
+BM-0654,Mastering Physics 3,Author W. Smith,1996,8.0,EVERGREEN
+BM-0655,Introduction to Economics 6,Author Q. Jones,2022,1.0,DEAD STOCK
+BM-0656,History of Music 2,Author A. Smith,1992,6.0,EVERGREEN
+BM-0657,Advanced Economics 10,Author U. Smith,2019,3.0,AVERAGE
+BM-0658,Introduction to Music 9,Author S. Brown,2009,5.0,EVERGREEN
+BM-0659,Introduction to Art 5,Author R. Johnson,2001,5.0,EVERGREEN
+BM-0660,Advanced Python 5,Author B. Johnson,2020,2.0,DEAD STOCK
+BM-0661,Guide to AI 9,Author Z. Williams,2006,2.0,DEAD STOCK
+BM-0662,Introduction to Chemistry 5,Author Q. Brown,1999,7.0,EVERGREEN
+BM-0663,Mastering Philosophy 5,Author X. Johnson,1998,2.0,DEAD STOCK
+BM-0664,Guide to Calculus 9,Author F. Williams,2016,5.0,EVERGREEN
+BM-0665,The Art of Java 3,Author D. Williams,2001,1.0,DEAD STOCK
+BM-0666,Handbook of AI 10,Author I. Smith,2022,3.0,AVERAGE
+BM-0667,Mastering Art 6,Author W. Johnson,2000,3.0,AVERAGE
+BM-0668,Fundamentals of AI 5,Author L. Johnson,2002,5.0,EVERGREEN
+BM-0669,Fundamentals of Physics 5,Author N. Jones,1991,2.0,DEAD STOCK
+BM-0670,Handbook of Java 8,Author F. Johnson,1995,2.0,DEAD STOCK
+BM-0671,History of Biology 8,Author X. Jones,2005,4.0,EVERGREEN
+BM-0672,Advanced Music 8,Author D. Jones,2003,1.0,DEAD STOCK
+BM-0673,Fundamentals of Chemistry 2,Author N. Johnson,2018,3.0,AVERAGE
+BM-0674,Handbook of Music 7,Author B. Smith,2020,3.0,AVERAGE
+BM-0675,Mastering Physics 1,Author U. Johnson,2013,4.0,EVERGREEN
+BM-0676,Fundamentals of Python 1,Author V. Williams,2017,0.0,DEAD STOCK
+BM-0677,Guide to Python 1,Author J. Smith,2011,7.0,EVERGREEN
+BM-0678,History of Biology 2,Author L. Williams,2019,3.0,AVERAGE
+BM-0679,Mastering Java 10,Author Y. Williams,1990,2.0,DEAD STOCK
+BM-0680,The Art of History 10,Author O. Brown,2019,2.0,DEAD STOCK
+BM-0681,The Art of Physics 10,Author J. Williams,2010,0.0,DEAD STOCK
+BM-0682,Fundamentals of AI 1,Author F. Jones,2014,3.0,AVERAGE
+BM-0683,Guide to Machine Learning 8,Author V. Brown,1996,1.0,DEAD STOCK
+BM-0684,Handbook of Economics 9,Author L. Johnson,1999,2.0,DEAD STOCK
+BM-0685,History of AI 3,Author E. Williams,2019,0.0,DEAD STOCK
+BM-0686,The Art of Calculus 3,Author P. Johnson,2016,4.0,EVERGREEN
+BM-0687,Advanced Physics 3,Author Y. Brown,1995,2.0,DEAD STOCK
+BM-0688,The Art of Art 3,Author I. Jones,2005,3.0,AVERAGE
+BM-0689,Introduction to Music 3,Author I. Johnson,2022,6.0,EVERGREEN
+BM-0690,Handbook of Philosophy 9,Author H. Williams,2024,3.0,AVERAGE
+BM-0691,The Art of Philosophy 9,Author L. Williams,2014,5.0,EVERGREEN
+BM-0692,Handbook of Physics 4,Author P. Jones,2016,3.0,AVERAGE
+BM-0693,Handbook of AI 6,Author Y. Johnson,2010,3.0,AVERAGE
+BM-0694,Fundamentals of Chemistry 10,Author K. Brown,2005,3.0,AVERAGE
+BM-0695,The Art of History 1,Author V. Williams,2018,6.0,EVERGREEN
+BM-0696,Fundamentals of Biology 2,Author A. Brown,2019,1.0,DEAD STOCK
+BM-0697,Handbook of Python 6,Author L. Johnson,2001,1.0,DEAD STOCK
+BM-0698,The Art of Music 1,Author O. Smith,1991,2.0,DEAD STOCK
+BM-0699,Guide to History 7,Author D. Brown,1991,3.0,AVERAGE
+BM-0700,Handbook of Machine Learning 5,Author Q. Smith,1995,6.0,EVERGREEN
+BM-0701,Advanced Chemistry 10,Author Y. Williams,2024,4.0,HOT
+BM-0702,History of History 2,Author E. Williams,1993,3.0,AVERAGE
+BM-0703,Fundamentals of Python 9,Author J. Johnson,2018,1.0,DEAD STOCK
+BM-0704,Mastering Music 8,Author X. Jones,1991,1.0,DEAD STOCK
+BM-0705,Handbook of Philosophy 9,Author Q. Jones,2006,0.0,DEAD STOCK
+BM-0706,Introduction to Music 10,Author T. Williams,1996,5.0,EVERGREEN
+BM-0707,The Art of History 6,Author O. Smith,2008,7.0,EVERGREEN
+BM-0708,The Art of Physics 5,Author G. Jones,2003,1.0,DEAD STOCK
+BM-0709,History of Machine Learning 1,Author G. Brown,1994,6.0,EVERGREEN
+BM-0710,History of AI 7,Author M. Brown,1990,3.0,AVERAGE
+BM-0711,Fundamentals of Biology 4,Author H. Williams,1998,4.0,EVERGREEN
+BM-0712,Mastering History 8,Author T. Smith,1997,2.0,DEAD STOCK
+BM-0713,Introduction to Music 1,Author R. Johnson,2008,4.0,EVERGREEN
+BM-0714,Handbook of Art 1,Author N. Williams,2003,5.0,EVERGREEN
+BM-0715,Introduction to Calculus 3,Author B. Johnson,2021,1.0,DEAD STOCK
+BM-0716,History of Biology 4,Author L. Smith,2024,1.0,FLOP
+BM-0717,Introduction to Philosophy 9,Author V. Brown,2007,2.0,DEAD STOCK
+BM-0718,The Art of History 1,Author S. Jones,1990,1.0,DEAD STOCK
+BM-0719,History of AI 9,Author B. Williams,2001,4.0,EVERGREEN
+BM-0720,The Art of Python 8,Author A. Johnson,2007,3.0,AVERAGE
+BM-0721,Mastering Java 3,Author Q. Williams,1997,3.0,AVERAGE
+BM-0722,The Art of Calculus 1,Author X. Jones,2008,2.0,DEAD STOCK
+BM-0723,Mastering Calculus 9,Author W. Johnson,2013,3.0,AVERAGE
+BM-0724,History of Machine Learning 8,Author P. Smith,2006,1.0,DEAD STOCK
+BM-0725,Guide to AI 6,Author X. Johnson,2018,3.0,AVERAGE
+BM-0726,Fundamentals of Java 1,Author V. Williams,2010,4.0,EVERGREEN
+BM-0727,History of Music 6,Author M. Jones,2017,2.0,DEAD STOCK
+BM-0728,Advanced Art 2,Author C. Williams,2009,1.0,DEAD STOCK
+BM-0729,Advanced Biology 1,Author F. Jones,2000,3.0,AVERAGE
+BM-0730,Handbook of Philosophy 2,Author H. Williams,2019,2.0,DEAD STOCK
+BM-0731,History of Biology 1,Author M. Williams,2021,3.0,AVERAGE
+BM-0732,History of AI 5,Author V. Jones,2018,2.0,DEAD STOCK
+BM-0733,Fundamentals of Art 3,Author X. Williams,1990,1.0,DEAD STOCK
+BM-0734,Introduction to Physics 3,Author J. Johnson,2017,0.0,DEAD STOCK
+BM-0735,Guide to Biology 7,Author W. Johnson,1998,3.0,AVERAGE
+BM-0736,Introduction to Art 1,Author O. Johnson,2016,2.0,DEAD STOCK
+BM-0737,The Art of Biology 6,Author G. Jones,2000,3.0,AVERAGE
+BM-0738,Handbook of Calculus 7,Author F. Jones,2011,1.0,DEAD STOCK
+BM-0739,The Art of Economics 2,Author H. Brown,2000,1.0,DEAD STOCK
+BM-0740,The Art of AI 9,Author Y. Brown,2022,7.0,EVERGREEN
+BM-0741,Introduction to Python 6,Author B. Smith,2019,3.0,AVERAGE
+BM-0742,Guide to Art 2,Author T. Williams,2005,3.0,AVERAGE
+BM-0743,History of Machine Learning 8,Author D. Williams,2022,1.0,DEAD STOCK
+BM-0744,The Art of Physics 5,Author F. Jones,2003,0.0,DEAD STOCK
+BM-0745,Guide to Music 8,Author L. Johnson,2020,4.0,EVERGREEN
+BM-0746,Advanced Music 5,Author M. Brown,2010,3.0,AVERAGE
+BM-0747,Introduction to Music 3,Author H. Brown,1990,1.0,DEAD STOCK
+BM-0748,Advanced History 7,Author D. Williams,2014,6.0,EVERGREEN
+BM-0749,Handbook of Chemistry 5,Author Z. Brown,2004,1.0,DEAD STOCK
+BM-0750,History of Machine Learning 10,Author Y. Smith,2008,3.0,AVERAGE
+BM-0751,History of Philosophy 8,Author S. Brown,2023,4.0,HOT
+BM-0752,The Art of Philosophy 8,Author C. Jones,1991,3.0,AVERAGE
+BM-0753,The Art of History 5,Author U. Jones,2007,4.0,EVERGREEN
+BM-0754,Guide to Python 4,Author M. Brown,1996,4.0,EVERGREEN
+BM-0755,History of Philosophy 1,Author A. Smith,1998,0.0,DEAD STOCK
+BM-0756,Introduction to Python 7,Author S. Brown,1993,2.0,DEAD STOCK
+BM-0757,Mastering Music 8,Author F. Smith,1997,4.0,EVERGREEN
+BM-0758,Mastering Philosophy 7,Author J. Brown,2003,4.0,EVERGREEN
+BM-0759,The Art of Economics 8,Author Y. Smith,1990,5.0,EVERGREEN
+BM-0760,Fundamentals of Physics 9,Author G. Smith,2004,3.0,AVERAGE
+BM-0761,Mastering Java 4,Author K. Smith,2004,2.0,DEAD STOCK
+BM-0762,Fundamentals of Economics 6,Author G. Johnson,2010,5.0,EVERGREEN
+BM-0763,History of Economics 6,Author N. Smith,2001,3.0,AVERAGE
+BM-0764,Handbook of History 9,Author B. Williams,2024,3.0,AVERAGE
+BM-0765,Guide to Machine Learning 5,Author A. Smith,2005,5.0,EVERGREEN
+BM-0766,History of AI 10,Author K. Williams,2022,1.0,DEAD STOCK
+BM-0767,The Art of Python 5,Author G. Johnson,2017,3.0,AVERAGE
+BM-0768,Handbook of Economics 4,Author W. Jones,2004,2.0,DEAD STOCK
+BM-0769,Mastering Java 3,Author P. Johnson,1999,4.0,EVERGREEN
+BM-0770,Guide to Biology 10,Author J. Johnson,2017,2.0,DEAD STOCK
+BM-0771,History of Machine Learning 2,Author P. Johnson,1999,3.0,AVERAGE
+BM-0772,Handbook of Java 9,Author J. Brown,2014,1.0,DEAD STOCK
+BM-0773,Fundamentals of Chemistry 8,Author Z. Williams,2017,3.0,AVERAGE
+BM-0774,Fundamentals of Art 6,Author U. Williams,2009,2.0,DEAD STOCK
+BM-0775,Guide to AI 3,Author Z. Jones,1999,3.0,AVERAGE
+BM-0776,The Art of Biology 7,Author Y. Brown,2005,5.0,EVERGREEN
+BM-0777,Handbook of Biology 9,Author S. Johnson,2010,2.0,DEAD STOCK
+BM-0778,Handbook of Chemistry 5,Author L. Brown,2004,2.0,DEAD STOCK
+BM-0779,Guide to History 7,Author R. Brown,1996,5.0,EVERGREEN
+BM-0780,History of Physics 1,Author S. Smith,1994,1.0,DEAD STOCK
+BM-0781,Fundamentals of Economics 9,Author R. Brown,1996,3.0,AVERAGE
+BM-0782,Introduction to Art 6,Author E. Jones,2017,2.0,DEAD STOCK
+BM-0783,Advanced AI 1,Author M. Smith,2023,4.0,HOT
+BM-0784,Introduction to Python 5,Author Q. Smith,1999,5.0,EVERGREEN
+BM-0785,Mastering Philosophy 9,Author W. Brown,2024,9.0,HOT
+BM-0786,History of Calculus 3,Author G. Johnson,2019,5.0,EVERGREEN
+BM-0787,Advanced AI 2,Author Z. Jones,1996,2.0,DEAD STOCK
+BM-0788,Advanced Calculus 8,Author O. Brown,2002,0.0,DEAD STOCK
+BM-0789,The Art of Java 2,Author G. Smith,1999,3.0,AVERAGE
+BM-0790,History of Biology 8,Author X. Smith,2000,0.0,DEAD STOCK
+BM-0791,The Art of History 8,Author B. Johnson,2003,2.0,DEAD STOCK
+BM-0792,Fundamentals of Art 5,Author K. Brown,2014,3.0,AVERAGE
+BM-0793,History of Java 9,Author F. Jones,2021,4.0,EVERGREEN
+BM-0794,Handbook of Physics 10,Author H. Jones,2020,1.0,DEAD STOCK
+BM-0795,Mastering History 7,Author Y. Brown,2005,3.0,AVERAGE
+BM-0796,Fundamentals of Physics 6,Author M. Jones,2012,3.0,AVERAGE
+BM-0797,Fundamentals of Python 10,Author V. Williams,2000,2.0,DEAD STOCK
+BM-0798,Introduction to Chemistry 10,Author M. Jones,1994,1.0,DEAD STOCK
+BM-0799,Handbook of Economics 9,Author M. Williams,2007,2.0,DEAD STOCK
+BM-0800,Introduction to Art 2,Author K. Smith,1990,1.0,DEAD STOCK
+BM-0801,Advanced Chemistry 1,Author E. Smith,2012,5.0,EVERGREEN
+BM-0802,History of Java 6,Author K. Smith,2011,1.0,DEAD STOCK
+BM-0803,Handbook of Machine Learning 6,Author U. Williams,1995,0.0,DEAD STOCK
+BM-0804,Guide to Physics 7,Author X. Williams,2014,1.0,DEAD STOCK
+BM-0805,Handbook of Calculus 4,Author G. Johnson,2022,2.0,DEAD STOCK
+BM-0806,Advanced Chemistry 5,Author S. Jones,2023,3.0,AVERAGE
+BM-0807,Mastering Biology 4,Author H. Jones,2014,2.0,DEAD STOCK
+BM-0808,Advanced Music 4,Author O. Williams,2004,9.0,EVERGREEN
+BM-0809,Advanced Economics 5,Author G. Smith,2011,6.0,EVERGREEN
+BM-0810,Introduction to Biology 9,Author Z. Williams,1997,2.0,DEAD STOCK
+BM-0811,Advanced Java 5,Author F. Smith,2017,3.0,AVERAGE
+BM-0812,Fundamentals of Chemistry 6,Author H. Brown,1996,3.0,AVERAGE
+BM-0813,Handbook of History 9,Author O. Brown,2022,4.0,EVERGREEN
+BM-0814,Advanced Physics 2,Author E. Brown,2005,4.0,EVERGREEN
+BM-0815,Mastering Philosophy 2,Author O. Brown,1994,5.0,EVERGREEN
+BM-0816,Mastering Calculus 1,Author K. Smith,2003,6.0,EVERGREEN
+BM-0817,Introduction to History 10,Author Y. Williams,2013,3.0,AVERAGE
+BM-0818,Advanced Calculus 5,Author C. Jones,1996,6.0,EVERGREEN
+BM-0819,Mastering Art 1,Author M. Jones,2006,1.0,DEAD STOCK
+BM-0820,Guide to Physics 4,Author D. Williams,1996,3.0,AVERAGE
+BM-0821,Mastering Calculus 3,Author P. Brown,1998,2.0,DEAD STOCK
+BM-0822,History of Chemistry 5,Author P. Jones,1990,3.0,AVERAGE
+BM-0823,History of Music 5,Author X. Brown,2023,1.0,FLOP
+BM-0824,The Art of Python 2,Author N. Johnson,2016,0.0,DEAD STOCK
+BM-0825,The Art of Java 6,Author Q. Brown,2007,2.0,DEAD STOCK
+BM-0826,Advanced History 6,Author D. Williams,2012,2.0,DEAD STOCK
+BM-0827,History of Philosophy 9,Author A. Williams,2013,1.0,DEAD STOCK
+BM-0828,The Art of Calculus 7,Author V. Brown,2015,0.0,DEAD STOCK
+BM-0829,Handbook of Chemistry 5,Author Y. Brown,2006,2.0,DEAD STOCK
+BM-0830,Guide to Python 6,Author F. Williams,2003,3.0,AVERAGE
+BM-0831,Advanced Economics 5,Author X. Brown,2022,0.0,DEAD STOCK
+BM-0832,Introduction to Machine Learning 2,Author G. Johnson,2006,3.0,AVERAGE
+BM-0833,History of Economics 6,Author P. Smith,2000,2.0,DEAD STOCK
+BM-0834,History of Java 1,Author O. Smith,1996,5.0,EVERGREEN
+BM-0835,Guide to AI 10,Author I. Williams,1995,5.0,EVERGREEN
+BM-0836,Advanced Java 8,Author V. Smith,2022,3.0,AVERAGE
+BM-0837,Handbook of Python 4,Author P. Smith,2011,4.0,EVERGREEN
+BM-0838,Mastering Economics 9,Author Q. Brown,2022,3.0,AVERAGE
+BM-0839,Fundamentals of Java 3,Author Q. Johnson,2003,5.0,EVERGREEN
+BM-0840,Guide to Calculus 2,Author G. Brown,2014,2.0,DEAD STOCK
+BM-0841,Fundamentals of Music 8,Author V. Johnson,1991,2.0,DEAD STOCK
+BM-0842,Fundamentals of Physics 6,Author X. Smith,2000,1.0,DEAD STOCK
+BM-0843,The Art of Machine Learning 9,Author Y. Williams,2010,4.0,EVERGREEN
+BM-0844,History of Physics 6,Author N. Johnson,1996,5.0,EVERGREEN
+BM-0845,Mastering Philosophy 4,Author U. Williams,1995,4.0,EVERGREEN
+BM-0846,Introduction to Calculus 10,Author C. Jones,2010,2.0,DEAD STOCK
+BM-0847,History of Art 2,Author N. Brown,1991,3.0,AVERAGE
+BM-0848,Handbook of Music 2,Author G. Johnson,1994,4.0,EVERGREEN
+BM-0849,Guide to Music 2,Author S. Smith,2003,3.0,AVERAGE
+BM-0850,Mastering Biology 6,Author P. Brown,2008,2.0,DEAD STOCK
+BM-0851,The Art of Biology 9,Author E. Smith,1994,1.0,DEAD STOCK
+BM-0852,Mastering AI 6,Author M. Johnson,2021,4.0,EVERGREEN
+BM-0853,The Art of History 2,Author J. Williams,2007,4.0,EVERGREEN
+BM-0854,Guide to Physics 1,Author S. Smith,2002,5.0,EVERGREEN
+BM-0855,Mastering Chemistry 4,Author H. Johnson,1991,2.0,DEAD STOCK
+BM-0856,Fundamentals of Music 4,Author V. Johnson,2010,1.0,DEAD STOCK
+BM-0857,History of Music 4,Author L. Brown,2023,3.0,AVERAGE
+BM-0858,History of Chemistry 9,Author I. Williams,2017,2.0,DEAD STOCK
+BM-0859,The Art of Economics 8,Author P. Johnson,2001,5.0,EVERGREEN
+BM-0860,Introduction to Physics 1,Author F. Brown,2011,3.0,AVERAGE
+BM-0861,The Art of Python 9,Author F. Williams,2022,5.0,EVERGREEN
+BM-0862,History of History 2,Author X. Johnson,2004,4.0,EVERGREEN
+BM-0863,The Art of Art 1,Author T. Jones,2015,2.0,DEAD STOCK
+BM-0864,Advanced Philosophy 9,Author B. Brown,2012,3.0,AVERAGE
+BM-0865,Advanced Chemistry 1,Author S. Smith,2024,4.0,HOT
+BM-0866,History of History 7,Author L. Williams,2014,5.0,EVERGREEN
+BM-0867,Guide to AI 5,Author P. Brown,2015,4.0,EVERGREEN
+BM-0868,Guide to Philosophy 3,Author R. Johnson,2014,6.0,EVERGREEN
+BM-0869,Mastering Chemistry 2,Author C. Brown,2015,5.0,EVERGREEN
+BM-0870,Mastering Philosophy 4,Author J. Jones,2003,2.0,DEAD STOCK
+BM-0871,Fundamentals of Chemistry 9,Author F. Smith,2022,4.0,EVERGREEN
+BM-0872,Introduction to Physics 3,Author M. Williams,2017,4.0,EVERGREEN
+BM-0873,Introduction to Machine Learning 7,Author E. Johnson,2017,3.0,AVERAGE
+BM-0874,Handbook of Physics 10,Author P. Brown,2012,4.0,EVERGREEN
+BM-0875,Advanced Chemistry 4,Author T. Jones,2004,6.0,EVERGREEN
+BM-0876,Introduction to Calculus 3,Author M. Williams,2017,0.0,DEAD STOCK
+BM-0877,Fundamentals of Chemistry 1,Author Q. Brown,2013,0.0,DEAD STOCK
+BM-0878,The Art of Java 2,Author G. Williams,2012,5.0,EVERGREEN
+BM-0879,Handbook of Java 1,Author H. Williams,2022,0.0,DEAD STOCK
+BM-0880,Handbook of Python 7,Author K. Smith,2021,0.0,DEAD STOCK
+BM-0881,Mastering Music 10,Author L. Jones,2011,3.0,AVERAGE
+BM-0882,Guide to Music 4,Author G. Johnson,2022,4.0,EVERGREEN
+BM-0883,History of Calculus 4,Author Y. Brown,1996,5.0,EVERGREEN
+BM-0884,Advanced Chemistry 1,Author S. Johnson,2007,2.0,DEAD STOCK
+BM-0885,Mastering History 6,Author E. Smith,2000,5.0,EVERGREEN
+BM-0886,Advanced Chemistry 5,Author G. Smith,2018,7.0,EVERGREEN
+BM-0887,Guide to Physics 1,Author C. Smith,2008,0.0,DEAD STOCK
+BM-0888,Fundamentals of Philosophy 4,Author Q. Jones,2008,1.0,DEAD STOCK
+BM-0889,Mastering Economics 5,Author M. Jones,1994,5.0,EVERGREEN
+BM-0890,Guide to Biology 8,Author J. Williams,2008,3.0,AVERAGE
+BM-0891,Guide to Biology 7,Author M. Williams,2010,5.0,EVERGREEN
+BM-0892,Introduction to Economics 9,Author H. Jones,1994,1.0,DEAD STOCK
+BM-0893,Guide to Philosophy 1,Author W. Smith,2015,2.0,DEAD STOCK
+BM-0894,Advanced Physics 8,Author G. Johnson,2009,1.0,DEAD STOCK
+BM-0895,Advanced Machine Learning 8,Author L. Williams,1992,4.0,EVERGREEN
+BM-0896,Mastering Java 10,Author K. Williams,2008,3.0,AVERAGE
+BM-0897,History of Philosophy 3,Author Q. Smith,2015,2.0,DEAD STOCK
+BM-0898,Advanced Java 1,Author D. Johnson,1994,4.0,EVERGREEN
+BM-0899,Handbook of Philosophy 5,Author M. Johnson,1993,2.0,DEAD STOCK
+BM-0900,Handbook of Calculus 3,Author X. Johnson,1990,3.0,AVERAGE
+BM-0901,The Art of Economics 2,Author H. Smith,2017,3.0,AVERAGE
+BM-0902,Introduction to Music 5,Author G. Jones,2004,1.0,DEAD STOCK
+BM-0903,Guide to AI 6,Author P. Smith,2020,3.0,AVERAGE
+BM-0904,Mastering Economics 10,Author X. Smith,2005,6.0,EVERGREEN
+BM-0905,History of Chemistry 10,Author B. Williams,2016,4.0,EVERGREEN
+BM-0906,Fundamentals of AI 7,Author K. Jones,2003,3.0,AVERAGE
+BM-0907,Fundamentals of Music 3,Author A. Brown,2011,3.0,AVERAGE
+BM-0908,History of Calculus 8,Author F. Williams,2003,4.0,EVERGREEN
+BM-0909,Guide to Music 9,Author J. Jones,1990,6.0,EVERGREEN
+BM-0910,Handbook of Music 3,Author P. Brown,2024,2.0,FLOP
+BM-0911,The Art of Biology 1,Author G. Smith,2009,2.0,DEAD STOCK
+BM-0912,History of Music 9,Author L. Johnson,2015,7.0,EVERGREEN
+BM-0913,Fundamentals of Java 1,Author M. Jones,2018,7.0,EVERGREEN
+BM-0914,The Art of Java 4,Author E. Smith,2020,3.0,AVERAGE
+BM-0915,Introduction to Machine Learning 1,Author R. Williams,2016,4.0,EVERGREEN
+BM-0916,Mastering Music 10,Author P. Jones,2006,5.0,EVERGREEN
+BM-0917,Mastering Biology 6,Author V. Williams,2010,3.0,AVERAGE
+BM-0918,Guide to Philosophy 6,Author M. Brown,1991,3.0,AVERAGE
+BM-0919,Handbook of Calculus 8,Author O. Brown,2003,5.0,EVERGREEN
+BM-0920,Advanced Calculus 8,Author G. Williams,2014,5.0,EVERGREEN
+BM-0921,Fundamentals of AI 4,Author G. Williams,2011,2.0,DEAD STOCK
+BM-0922,History of Biology 2,Author B. Johnson,2008,0.0,DEAD STOCK
+BM-0923,Fundamentals of Calculus 2,Author O. Smith,2023,4.0,HOT
+BM-0924,Guide to Calculus 3,Author O. Jones,2007,2.0,DEAD STOCK
+BM-0925,Advanced History 4,Author K. Williams,2008,4.0,EVERGREEN
+BM-0926,Advanced Java 3,Author L. Smith,2021,7.0,EVERGREEN
+BM-0927,History of Music 3,Author Y. Jones,2010,2.0,DEAD STOCK
+BM-0928,The Art of History 5,Author Y. Brown,2002,3.0,AVERAGE
+BM-0929,Introduction to Machine Learning 7,Author R. Smith,1990,2.0,DEAD STOCK
+BM-0930,Introduction to History 7,Author F. Williams,2019,5.0,EVERGREEN
+BM-0931,Fundamentals of Music 1,Author G. Williams,2000,5.0,EVERGREEN
+BM-0932,Introduction to AI 10,Author V. Johnson,2000,1.0,DEAD STOCK
+BM-0933,History of Calculus 1,Author I. Smith,2009,3.0,AVERAGE
+BM-0934,Fundamentals of Python 1,Author J. Williams,2015,6.0,EVERGREEN
+BM-0935,Mastering Art 10,Author I. Smith,2004,2.0,DEAD STOCK
+BM-0936,History of Economics 3,Author R. Williams,1990,1.0,DEAD STOCK
+BM-0937,Mastering Art 2,Author L. Jones,2008,2.0,DEAD STOCK
+BM-0938,Mastering Philosophy 4,Author O. Smith,2018,3.0,AVERAGE
+BM-0939,Advanced Physics 2,Author Y. Brown,2020,8.0,EVERGREEN
+BM-0940,Guide to AI 1,Author W. Smith,2024,5.0,HOT
+BM-0941,Introduction to Economics 7,Author A. Jones,2018,2.0,DEAD STOCK
+BM-0942,Guide to Calculus 3,Author F. Brown,2002,2.0,DEAD STOCK
+BM-0943,Guide to History 8,Author C. Williams,2012,0.0,DEAD STOCK
+BM-0944,Mastering Calculus 6,Author B. Jones,1998,2.0,DEAD STOCK
+BM-0945,Mastering Physics 3,Author Z. Smith,1990,2.0,DEAD STOCK
+BM-0946,Fundamentals of Machine Learning 6,Author A. Jones,2019,1.0,DEAD STOCK
+BM-0947,The Art of Chemistry 4,Author O. Smith,2018,1.0,DEAD STOCK
+BM-0948,Fundamentals of Economics 7,Author H. Jones,2023,2.0,FLOP
+BM-0949,Guide to Python 10,Author Y. Jones,2013,3.0,AVERAGE
+BM-0950,Guide to Machine Learning 2,Author N. Williams,2020,4.0,EVERGREEN
+BM-0951,The Art of Calculus 8,Author S. Brown,1996,2.0,DEAD STOCK
+BM-0952,The Art of Art 2,Author E. Johnson,2011,1.0,DEAD STOCK
+BM-0953,History of AI 3,Author K. Smith,2003,3.0,AVERAGE
+BM-0954,Mastering Calculus 9,Author Z. Williams,1995,4.0,EVERGREEN
+BM-0955,Introduction to Java 2,Author F. Johnson,2001,3.0,AVERAGE
+BM-0956,The Art of Biology 9,Author N. Smith,1991,1.0,DEAD STOCK
+BM-0957,Introduction to AI 3,Author P. Johnson,2012,6.0,EVERGREEN
+BM-0958,Mastering Music 10,Author N. Johnson,2012,3.0,AVERAGE
+BM-0959,The Art of Art 10,Author X. Johnson,1994,3.0,AVERAGE
+BM-0960,Mastering Chemistry 10,Author R. Williams,1997,4.0,EVERGREEN
+BM-0961,History of History 7,Author D. Brown,2017,4.0,EVERGREEN
+BM-0962,Mastering Music 10,Author F. Williams,2000,0.0,DEAD STOCK
+BM-0963,The Art of History 4,Author T. Jones,1994,3.0,AVERAGE
+BM-0964,History of Physics 3,Author X. Johnson,2019,2.0,DEAD STOCK
+BM-0965,Fundamentals of Chemistry 4,Author U. Johnson,2008,5.0,EVERGREEN
+BM-0966,Advanced Chemistry 10,Author Z. Williams,2005,2.0,DEAD STOCK
+BM-0967,Fundamentals of Python 7,Author Y. Smith,2010,3.0,AVERAGE
+BM-0968,Advanced Chemistry 5,Author Y. Brown,1997,2.0,DEAD STOCK
+BM-0969,The Art of Machine Learning 3,Author D. Smith,2017,1.0,DEAD STOCK
+BM-0970,Handbook of Java 3,Author U. Brown,2004,3.0,AVERAGE
+BM-0971,Guide to Biology 7,Author T. Jones,2013,5.0,EVERGREEN
+BM-0972,Mastering Chemistry 7,Author U. Smith,2003,4.0,EVERGREEN
+BM-0973,Handbook of Economics 1,Author U. Jones,2006,1.0,DEAD STOCK
+BM-0974,Mastering Music 1,Author S. Williams,2009,4.0,EVERGREEN
+BM-0975,History of Biology 8,Author I. Smith,1998,1.0,DEAD STOCK
+BM-0976,Mastering Java 8,Author B. Johnson,2016,2.0,DEAD STOCK
+BM-0977,History of Calculus 3,Author E. Johnson,2024,1.0,FLOP
+BM-0978,Introduction to Economics 10,Author G. Williams,1997,2.0,DEAD STOCK
+BM-0979,Mastering Music 1,Author L. Brown,2010,3.0,AVERAGE
+BM-0980,Guide to AI 10,Author K. Williams,2022,3.0,AVERAGE
+BM-0981,History of History 1,Author R. Jones,1998,0.0,DEAD STOCK
+BM-0982,History of AI 2,Author O. Jones,1991,2.0,DEAD STOCK
+BM-0983,Handbook of Chemistry 6,Author A. Williams,2012,7.0,EVERGREEN
+BM-0984,Handbook of AI 3,Author E. Smith,2022,1.0,DEAD STOCK
+BM-0985,Advanced Physics 2,Author Z. Smith,1997,4.0,EVERGREEN
+BM-0986,Handbook of Biology 5,Author B. Brown,1994,3.0,AVERAGE
+BM-0987,Advanced Calculus 8,Author J. Jones,2007,6.0,EVERGREEN
+BM-0988,The Art of Java 4,Author L. Jones,1992,1.0,DEAD STOCK
+BM-0989,History of Physics 7,Author G. Brown,2019,1.0,DEAD STOCK
+BM-0990,Advanced Java 1,Author G. Brown,2008,2.0,DEAD STOCK
+BM-0991,Guide to Calculus 3,Author E. Johnson,2001,3.0,AVERAGE
+BM-0992,Guide to Art 1,Author A. Brown,1993,1.0,DEAD STOCK
+BM-0993,The Art of Java 6,Author U. Brown,2006,3.0,AVERAGE
+BM-0994,Handbook of History 2,Author U. Smith,2000,4.0,EVERGREEN
+BM-0995,Advanced Biology 3,Author C. Brown,1990,3.0,AVERAGE
+BM-0996,Advanced Calculus 6,Author H. Smith,2011,2.0,DEAD STOCK
+BM-0997,Mastering Philosophy 1,Author P. Brown,2023,6.0,HOT
+BM-0998,Introduction to Physics 8,Author S. Smith,2018,5.0,EVERGREEN
+BM-0999,Mastering Art 2,Author Z. Williams,1994,3.0,AVERAGE
+BM-1000,History of Economics 8,Author P. Brown,2021,4.0,EVERGREEN

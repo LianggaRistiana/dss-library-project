@@ -17,8 +17,8 @@ venv.bak/
 .idea/
 
 # Analysis Outputs
-analysis/output/
-analysis/visualizations/
+# analysis/output/
+# analysis/visualizations/
 
 # Logs
 *.log

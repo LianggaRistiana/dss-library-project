@@ -1,0 +1,381 @@
+Antecedent,Consequent,Support,Confidence,Lift,Count
+Non-Fiksi,Biografi,0.0185,0.1682,1.4019,18
+Biografi,Non-Fiksi,0.0185,0.1538,1.4019,18
+Sains Fiksi,Teknologi,0.0154,0.1376,1.198,15
+Teknologi,Sains Fiksi,0.0154,0.1339,1.198,15
+Anak-Anak,Komik & Manga,0.0144,0.1386,1.196,14
+Komik & Manga,Anak-Anak,0.0144,0.1239,1.196,14
+Horor,Agama & Spiritual,0.0164,0.1441,1.191,16
+Agama & Spiritual,Horor,0.0164,0.1356,1.191,16
+Fiksi,Kesehatan,0.0205,0.1653,1.185,20
+Kesehatan,Fiksi,0.0205,0.1471,1.185,20
+Fantasi,Sains Fiksi,0.0123,0.1277,1.1419,12
+Sains Fiksi,Fantasi,0.0123,0.1101,1.1419,12
+Pengembangan Diri,Bisnis & Ekonomi,0.0154,0.15,1.0754,15
+Bisnis & Ekonomi,Pengembangan Diri,0.0154,0.1103,1.0754,15
+Kesehatan,Sains & Alam,0.0215,0.1544,1.0383,21
+Sains & Alam,Kesehatan,0.0215,0.1448,1.0383,21
+Fiksi,Travel,0.0205,0.1653,1.0072,20
+Travel,Fiksi,0.0205,0.125,1.0072,20
+Anak-Anak,Bisnis & Ekonomi,0.0144,0.1386,0.9937,14
+Bisnis & Ekonomi,Anak-Anak,0.0144,0.1029,0.9937,14
+Misteri & Thriller,Agama & Spiritual,0.0123,0.1188,0.9817,12
+Agama & Spiritual,Misteri & Thriller,0.0123,0.1017,0.9817,12
+Seni & Fotografi,Bisnis & Ekonomi,0.0174,0.136,0.975,17
+Bisnis & Ekonomi,Seni & Fotografi,0.0174,0.125,0.975,17
+Pengembangan Diri,Horor,0.0113,0.11,0.9662,11
+Horor,Pengembangan Diri,0.0113,0.0991,0.9662,11
+Fantasi,Masakan & Kuliner,0.0123,0.1277,0.9501,12
+Masakan & Kuliner,Fantasi,0.0123,0.0916,0.9501,12
+Anak-Anak,Teknologi,0.0113,0.1089,0.9481,11
+Teknologi,Anak-Anak,0.0113,0.0982,0.9481,11
+Misteri & Thriller,Komik & Manga,0.0113,0.1089,0.9397,11
+Komik & Manga,Misteri & Thriller,0.0113,0.0973,0.9397,11
+Pengembangan Diri,Romansa,0.0133,0.13,0.9389,13
+Romansa,Pengembangan Diri,0.0133,0.0963,0.9389,13
+Sains & Alam,Travel,0.0226,0.1517,0.9246,22
+Travel,Sains & Alam,0.0226,0.1375,0.9246,22
+Fantasi,Kesehatan,0.0123,0.1277,0.9152,12
+Kesehatan,Fantasi,0.0123,0.0882,0.9152,12
+Komik & Manga,Romansa,0.0144,0.1239,0.8948,14
+Romansa,Komik & Manga,0.0144,0.1037,0.8948,14
+Komik & Manga,Bisnis & Ekonomi,0.0144,0.1239,0.8882,14
+Bisnis & Ekonomi,Komik & Manga,0.0144,0.1029,0.8882,14
+Sains Fiksi,Fiksi,0.0123,0.1101,0.8871,12
+Fiksi,Sains Fiksi,0.0123,0.0992,0.8871,12
+Sejarah,Biografi,0.0103,0.1064,0.8865,10
+Biografi,Sejarah,0.0103,0.0855,0.8865,10
+Masakan & Kuliner,Sains & Alam,0.0174,0.1298,0.8726,17
+Sains & Alam,Masakan & Kuliner,0.0174,0.1172,0.8726,17
+Sejarah,Non-Fiksi,0.0092,0.0957,0.8724,9
+Fantasi,Non-Fiksi,0.0092,0.0957,0.8724,9
+Non-Fiksi,Sejarah,0.0092,0.0841,0.8724,9
+Non-Fiksi,Fantasi,0.0092,0.0841,0.8724,9
+Pengembangan Diri,Anak-Anak,0.0092,0.09,0.8688,9
+Anak-Anak,Pengembangan Diri,0.0092,0.0891,0.8688,9
+Horor,Teknologi,0.0113,0.0991,0.8627,11
+Teknologi,Horor,0.0113,0.0982,0.8627,11
+Biografi,Sains & Alam,0.0154,0.1282,0.8621,15
+Sains & Alam,Biografi,0.0154,0.1034,0.8621,15
+Biografi,Kesehatan,0.0144,0.1197,0.8578,14
+Kesehatan,Biografi,0.0144,0.1029,0.8578,14
+Non-Fiksi,Agama & Spiritual,0.0113,0.1028,0.8494,11
+Agama & Spiritual,Non-Fiksi,0.0113,0.0932,0.8494,11
+Horor,Bisnis & Ekonomi,0.0133,0.1171,0.8396,13
+Bisnis & Ekonomi,Horor,0.0133,0.0956,0.8396,13
+Sejarah,Kesehatan,0.0113,0.117,0.8389,11
+Kesehatan,Sejarah,0.0113,0.0809,0.8389,11
+Fiksi,Seni & Fotografi,0.0133,0.1074,0.838,13
+Seni & Fotografi,Fiksi,0.0133,0.104,0.838,13
+Sejarah,Pengembangan Diri,0.0082,0.0851,0.8298,8
+Pengembangan Diri,Sejarah,0.0082,0.08,0.8298,8
+Fantasi,Komik & Manga,0.0092,0.0957,0.8261,9
+Komik & Manga,Fantasi,0.0092,0.0796,0.8261,9
+Pengembangan Diri,Masakan & Kuliner,0.0113,0.11,0.8187,11
+Masakan & Kuliner,Pengembangan Diri,0.0113,0.084,0.8187,11
+Non-Fiksi,Sains & Alam,0.0133,0.1215,0.817,13
+Sains & Alam,Non-Fiksi,0.0133,0.0897,0.817,13
+Anak-Anak,Masakan & Kuliner,0.0113,0.1089,0.8106,11
+Masakan & Kuliner,Anak-Anak,0.0113,0.084,0.8106,11
+Seni & Fotografi,Romansa,0.0144,0.112,0.8089,14
+Romansa,Seni & Fotografi,0.0144,0.1037,0.8089,14
+Sains Fiksi,Horor,0.0103,0.0917,0.8059,10
+Horor,Sains Fiksi,0.0103,0.0901,0.8059,10
+Pengembangan Diri,Sains Fiksi,0.0092,0.09,0.805,9
+Sains Fiksi,Pengembangan Diri,0.0092,0.0826,0.805,9
+Non-Fiksi,Bisnis & Ekonomi,0.0123,0.1121,0.804,12
+Bisnis & Ekonomi,Non-Fiksi,0.0123,0.0882,0.804,12
+Fiksi,Masakan & Kuliner,0.0133,0.1074,0.7996,13
+Masakan & Kuliner,Fiksi,0.0133,0.0992,0.7996,13
+Teknologi,Masakan & Kuliner,0.0123,0.1071,0.7974,12
+Masakan & Kuliner,Teknologi,0.0123,0.0916,0.7974,12
+Anak-Anak,Sains Fiksi,0.0092,0.0891,0.7971,9
+Sains Fiksi,Anak-Anak,0.0092,0.0826,0.7971,9
+Agama & Spiritual,Romansa,0.0133,0.1102,0.7957,13
+Romansa,Agama & Spiritual,0.0133,0.0963,0.7957,13
+Sains Fiksi,Romansa,0.0123,0.1101,0.7951,12
+Romansa,Sains Fiksi,0.0123,0.0889,0.7951,12
+Pengembangan Diri,Travel,0.0133,0.13,0.7922,13
+Travel,Pengembangan Diri,0.0133,0.0813,0.7922,13
+Agama & Spiritual,Kesehatan,0.0133,0.1102,0.7898,13
+Kesehatan,Agama & Spiritual,0.0133,0.0956,0.7898,13
+Sains Fiksi,Kesehatan,0.0123,0.1101,0.7893,12
+Kesehatan,Sains Fiksi,0.0123,0.0882,0.7893,12
+Sains Fiksi,Seni & Fotografi,0.0113,0.1009,0.7872,11
+Seni & Fotografi,Sains Fiksi,0.0113,0.088,0.7872,11
+Fantasi,Sains & Alam,0.0113,0.117,0.7869,11
+Sains & Alam,Fantasi,0.0113,0.0759,0.7869,11
+Komik & Manga,Fiksi,0.0113,0.0973,0.7844,11
+Fiksi,Komik & Manga,0.0113,0.0909,0.7844,11
+Anak-Anak,Travel,0.0133,0.1287,0.7843,13
+Travel,Anak-Anak,0.0133,0.0813,0.7843,13
+Sains Fiksi,Travel,0.0144,0.1284,0.7827,14
+Travel,Sains Fiksi,0.0144,0.0875,0.7827,14
+Misteri & Thriller,Bisnis & Ekonomi,0.0113,0.1089,0.7808,11
+Bisnis & Ekonomi,Misteri & Thriller,0.0113,0.0809,0.7808,11
+Agama & Spiritual,Travel,0.0154,0.1271,0.7746,15
+Travel,Agama & Spiritual,0.0154,0.0938,0.7746,15
+Komik & Manga,Sains & Alam,0.0133,0.115,0.7736,13
+Sains & Alam,Komik & Manga,0.0133,0.0897,0.7736,13
+Anak-Anak,Seni & Fotografi,0.0103,0.099,0.7723,10
+Seni & Fotografi,Anak-Anak,0.0103,0.08,0.7723,10
+Masakan & Kuliner,Romansa,0.0144,0.1069,0.7718,14
+Romansa,Masakan & Kuliner,0.0144,0.1037,0.7718,14
+Horor,Travel,0.0144,0.1261,0.7686,14
+Travel,Horor,0.0144,0.0875,0.7686,14
+Non-Fiksi,Masakan & Kuliner,0.0113,0.1028,0.7651,11
+Masakan & Kuliner,Non-Fiksi,0.0113,0.084,0.7651,11
+Biografi,Masakan & Kuliner,0.0123,0.1026,0.7634,12
+Masakan & Kuliner,Biografi,0.0123,0.0916,0.7634,12
+Teknologi,Travel,0.0144,0.125,0.7617,14
+Travel,Teknologi,0.0144,0.0875,0.7617,14
+Horor,Biografi,0.0103,0.0901,0.7508,10
+Biografi,Horor,0.0103,0.0855,0.7508,10
+Seni & Fotografi,Kesehatan,0.0133,0.104,0.7456,13
+Kesehatan,Seni & Fotografi,0.0133,0.0956,0.7456,13
+Teknologi,Biografi,0.0103,0.0893,0.744,10
+Biografi,Teknologi,0.0103,0.0855,0.744,10
+Pengembangan Diri,Agama & Spiritual,0.0092,0.09,0.7436,9
+Agama & Spiritual,Pengembangan Diri,0.0092,0.0763,0.7436,9
+Fantasi,Teknologi,0.0082,0.0851,0.7409,8
+Teknologi,Fantasi,0.0082,0.0714,0.7409,8
+Komik & Manga,Biografi,0.0103,0.0885,0.7375,10
+Biografi,Komik & Manga,0.0103,0.0855,0.7375,10
+Non-Fiksi,Seni & Fotografi,0.0103,0.0935,0.729,10
+Seni & Fotografi,Non-Fiksi,0.0103,0.08,0.729,10
+Misteri & Thriller,Travel,0.0123,0.1188,0.724,12
+Travel,Misteri & Thriller,0.0123,0.075,0.724,12
+Sejarah,Anak-Anak,0.0072,0.0745,0.7189,7
+Anak-Anak,Sejarah,0.0072,0.0693,0.7189,7
+Pengembangan Diri,Seni & Fotografi,0.0092,0.09,0.702,9
+Seni & Fotografi,Pengembangan Diri,0.0092,0.072,0.702,9
+Misteri & Thriller,Horor,0.0082,0.0792,0.6957,8
+Horor,Misteri & Thriller,0.0082,0.0721,0.6957,8
+Teknologi,Komik & Manga,0.0092,0.0804,0.6933,9
+Komik & Manga,Teknologi,0.0092,0.0796,0.6933,9
+Komik & Manga,Seni & Fotografi,0.0103,0.0885,0.6903,10
+Pengembangan Diri,Komik & Manga,0.0082,0.08,0.6903,8
+Seni & Fotografi,Komik & Manga,0.0103,0.08,0.6903,10
+Komik & Manga,Pengembangan Diri,0.0082,0.0708,0.6903,8
+Biografi,Fiksi,0.0103,0.0855,0.6887,10
+Fiksi,Biografi,0.0103,0.0826,0.6887,10
+Sejarah,Bisnis & Ekonomi,0.0092,0.0957,0.6864,9
+Bisnis & Ekonomi,Sejarah,0.0092,0.0662,0.6864,9
+Fantasi,Fiksi,0.0082,0.0851,0.6858,8
+Sejarah,Fiksi,0.0082,0.0851,0.6858,8
+Fiksi,Fantasi,0.0082,0.0661,0.6858,8
+Fiksi,Sejarah,0.0082,0.0661,0.6858,8
+Non-Fiksi,Travel,0.0123,0.1121,0.6834,12
+Travel,Non-Fiksi,0.0123,0.075,0.6834,12
+Biografi,Travel,0.0133,0.1111,0.6771,13
+Travel,Biografi,0.0133,0.0813,0.6771,13
+Non-Fiksi,Romansa,0.0103,0.0935,0.675,10
+Romansa,Non-Fiksi,0.0103,0.0741,0.675,10
+Biografi,Seni & Fotografi,0.0103,0.0855,0.6667,10
+Seni & Fotografi,Biografi,0.0103,0.08,0.6667,10
+Horor,Sains & Alam,0.0113,0.0991,0.6664,11
+Sains & Alam,Horor,0.0113,0.0759,0.6664,11
+Sejarah,Sains Fiksi,0.0072,0.0745,0.6661,7
+Sains Fiksi,Sejarah,0.0072,0.0642,0.6661,7
+Misteri & Thriller,Sains & Alam,0.0103,0.099,0.6658,10
+Anak-Anak,Sains & Alam,0.0103,0.099,0.6658,10
+Sains & Alam,Misteri & Thriller,0.0103,0.069,0.6658,10
+Sains & Alam,Anak-Anak,0.0103,0.069,0.6658,10
+Misteri & Thriller,Masakan & Kuliner,0.0092,0.0891,0.6632,9
+Masakan & Kuliner,Misteri & Thriller,0.0092,0.0687,0.6632,9
+Seni & Fotografi,Masakan & Kuliner,0.0113,0.088,0.655,11
+Masakan & Kuliner,Seni & Fotografi,0.0113,0.084,0.655,11
+Anak-Anak,Agama & Spiritual,0.0082,0.0792,0.6545,8
+Agama & Spiritual,Anak-Anak,0.0082,0.0678,0.6545,8
+Fantasi,Horor,0.0072,0.0745,0.6541,7
+Horor,Fantasi,0.0072,0.0631,0.6541,7
+Non-Fiksi,Teknologi,0.0082,0.0748,0.6509,8
+Teknologi,Non-Fiksi,0.0082,0.0714,0.6509,8
+Sejarah,Travel,0.0103,0.1064,0.6483,10
+Sejarah,Teknologi,0.0072,0.0745,0.6483,7
+Travel,Sejarah,0.0103,0.0625,0.6483,10
+Teknologi,Sejarah,0.0072,0.0625,0.6483,7
+Teknologi,Fiksi,0.0092,0.0804,0.6475,9
+Fiksi,Teknologi,0.0092,0.0744,0.6475,9
+Anak-Anak,Romansa,0.0092,0.0891,0.6436,9
+Romansa,Anak-Anak,0.0092,0.0667,0.6436,9
+Pengembangan Diri,Non-Fiksi,0.0072,0.07,0.6379,7
+Non-Fiksi,Pengembangan Diri,0.0072,0.0654,0.6379,7
+Sejarah,Masakan & Kuliner,0.0082,0.0851,0.6334,8
+Masakan & Kuliner,Sejarah,0.0082,0.0611,0.6334,8
+Horor,Seni & Fotografi,0.0092,0.0811,0.6324,9
+Seni & Fotografi,Horor,0.0092,0.072,0.6324,9
+Romansa,Travel,0.0144,0.1037,0.6319,14
+Travel,Romansa,0.0144,0.0875,0.6319,14
+Kesehatan,Travel,0.0144,0.1029,0.6273,14
+Travel,Kesehatan,0.0144,0.0875,0.6273,14
+Agama & Spiritual,Sains & Alam,0.0113,0.0932,0.6268,11
+Sains & Alam,Agama & Spiritual,0.0113,0.0759,0.6268,11
+Sains Fiksi,Sains & Alam,0.0103,0.0917,0.6169,10
+Sains & Alam,Sains Fiksi,0.0103,0.069,0.6169,10
+Sejarah,Misteri & Thriller,0.0062,0.0638,0.6162,6
+Fantasi,Misteri & Thriller,0.0062,0.0638,0.6162,6
+Misteri & Thriller,Sejarah,0.0062,0.0594,0.6162,6
+Misteri & Thriller,Fantasi,0.0062,0.0594,0.6162,6
+Sejarah,Agama & Spiritual,0.0072,0.0745,0.6153,7
+Agama & Spiritual,Sejarah,0.0072,0.0593,0.6153,7
+Sejarah,Romansa,0.0082,0.0851,0.6147,8
+Romansa,Sejarah,0.0082,0.0593,0.6147,8
+Sains Fiksi,Agama & Spiritual,0.0082,0.0734,0.6064,8
+Agama & Spiritual,Sains Fiksi,0.0082,0.0678,0.6064,8
+Misteri & Thriller,Teknologi,0.0072,0.0693,0.6033,7
+Teknologi,Misteri & Thriller,0.0072,0.0625,0.6033,7
+Masakan & Kuliner,Kesehatan,0.0113,0.084,0.602,11
+Kesehatan,Masakan & Kuliner,0.0113,0.0809,0.602,11
+Bisnis & Ekonomi,Sains & Alam,0.0123,0.0882,0.5933,12
+Sains & Alam,Bisnis & Ekonomi,0.0123,0.0828,0.5933,12
+Sains Fiksi,Bisnis & Ekonomi,0.0092,0.0826,0.5919,9
+Bisnis & Ekonomi,Sains Fiksi,0.0092,0.0662,0.5919,9
+Teknologi,Agama & Spiritual,0.0082,0.0714,0.5902,8
+Agama & Spiritual,Teknologi,0.0082,0.0678,0.5902,8
+Seni & Fotografi,Travel,0.0123,0.096,0.585,12
+Travel,Seni & Fotografi,0.0123,0.075,0.585,12
+Horor,Kesehatan,0.0092,0.0811,0.5813,9
+Kesehatan,Horor,0.0092,0.0662,0.5813,9
+Teknologi,Romansa,0.0092,0.0804,0.5804,9
+Romansa,Teknologi,0.0092,0.0667,0.5804,9
+Teknologi,Kesehatan,0.0092,0.0804,0.5761,9
+Kesehatan,Teknologi,0.0092,0.0662,0.5761,9
+Anak-Anak,Misteri & Thriller,0.0062,0.0594,0.5735,6
+Misteri & Thriller,Anak-Anak,0.0062,0.0594,0.5735,6
+Sejarah,Sains & Alam,0.0082,0.0851,0.5723,8
+Sains & Alam,Sejarah,0.0082,0.0552,0.5723,8
+Misteri & Thriller,Romansa,0.0082,0.0792,0.5721,8
+Romansa,Misteri & Thriller,0.0082,0.0593,0.5721,8
+Komik & Manga,Kesehatan,0.0092,0.0796,0.571,9
+Kesehatan,Komik & Manga,0.0092,0.0662,0.571,9
+Misteri & Thriller,Kesehatan,0.0082,0.0792,0.5679,8
+Kesehatan,Misteri & Thriller,0.0082,0.0588,0.5679,8
+Agama & Spiritual,Masakan & Kuliner,0.0092,0.0763,0.5677,9
+Masakan & Kuliner,Agama & Spiritual,0.0092,0.0687,0.5677,9
+Biografi,Agama & Spiritual,0.0082,0.0684,0.565,8
+Agama & Spiritual,Biografi,0.0082,0.0678,0.565,8
+Pengembangan Diri,Fiksi,0.0072,0.07,0.564,7
+Fiksi,Pengembangan Diri,0.0072,0.0579,0.564,7
+Sejarah,Horor,0.0062,0.0638,0.5607,6
+Horor,Sejarah,0.0062,0.0541,0.5607,6
+Fiksi,Sains & Alam,0.0103,0.0826,0.5557,10
+Sains & Alam,Fiksi,0.0103,0.069,0.5557,10
+Misteri & Thriller,Non-Fiksi,0.0062,0.0594,0.5413,6
+Anak-Anak,Non-Fiksi,0.0062,0.0594,0.5413,6
+Non-Fiksi,Misteri & Thriller,0.0062,0.0561,0.5413,6
+Non-Fiksi,Anak-Anak,0.0062,0.0561,0.5413,6
+Misteri & Thriller,Seni & Fotografi,0.0072,0.0693,0.5406,7
+Seni & Fotografi,Misteri & Thriller,0.0072,0.056,0.5406,7
+Seni & Fotografi,Sains & Alam,0.0103,0.08,0.5379,10
+Sains & Alam,Seni & Fotografi,0.0103,0.069,0.5379,10
+Fantasi,Romansa,0.0072,0.0745,0.5378,7
+Romansa,Fantasi,0.0072,0.0519,0.5378,7
+Fantasi,Bisnis & Ekonomi,0.0072,0.0745,0.5339,7
+Bisnis & Ekonomi,Fantasi,0.0072,0.0515,0.5339,7
+Misteri & Thriller,Sains Fiksi,0.0062,0.0594,0.5314,6
+Sains Fiksi,Misteri & Thriller,0.0062,0.055,0.5314,6
+Romansa,Kesehatan,0.0103,0.0741,0.531,10
+Kesehatan,Romansa,0.0103,0.0735,0.531,10
+Fantasi,Agama & Spiritual,0.0062,0.0638,0.5274,6
+Agama & Spiritual,Fantasi,0.0062,0.0508,0.5274,6
+Bisnis & Ekonomi,Kesehatan,0.0103,0.0735,0.5271,10
+Kesehatan,Bisnis & Ekonomi,0.0103,0.0735,0.5271,10
+Fantasi,Travel,0.0082,0.0851,0.5186,8
+Travel,Fantasi,0.0082,0.05,0.5186,8
+Masakan & Kuliner,Travel,0.0113,0.084,0.5117,11
+Travel,Masakan & Kuliner,0.0113,0.0688,0.5117,11
+Sejarah,Seni & Fotografi,0.0062,0.0638,0.4979,6
+Seni & Fotografi,Sejarah,0.0062,0.048,0.4979,6
+Misteri & Thriller,Biografi,0.0062,0.0594,0.495,6
+Biografi,Misteri & Thriller,0.0062,0.0513,0.495,6
+Bisnis & Ekonomi,Travel,0.0113,0.0809,0.4929,11
+Travel,Bisnis & Ekonomi,0.0113,0.0688,0.4929,11
+Biografi,Bisnis & Ekonomi,0.0082,0.0684,0.4902,8
+Bisnis & Ekonomi,Biografi,0.0082,0.0588,0.4902,8
+Teknologi,Seni & Fotografi,0.0072,0.0625,0.4875,7
+Seni & Fotografi,Teknologi,0.0072,0.056,0.4875,7
+Pengembangan Diri,Misteri & Thriller,0.0051,0.05,0.4827,5
+Misteri & Thriller,Pengembangan Diri,0.0051,0.0495,0.4827,5
+Anak-Anak,Fiksi,0.0062,0.0594,0.4787,6
+Fiksi,Anak-Anak,0.0062,0.0496,0.4787,6
+Sains Fiksi,Masakan & Kuliner,0.0072,0.0642,0.478,7
+Agama & Spiritual,Fiksi,0.0072,0.0593,0.478,7
+Fiksi,Agama & Spiritual,0.0072,0.0579,0.478,7
+Masakan & Kuliner,Sains Fiksi,0.0072,0.0534,0.478,7
+Romansa,Bisnis & Ekonomi,0.0092,0.0667,0.4779,9
+Bisnis & Ekonomi,Romansa,0.0092,0.0662,0.4779,9
+Fiksi,Romansa,0.0082,0.0661,0.4775,8
+Romansa,Fiksi,0.0082,0.0593,0.4775,8
+Pengembangan Diri,Sains & Alam,0.0072,0.07,0.4707,7
+Sains & Alam,Pengembangan Diri,0.0072,0.0483,0.4707,7
+Horor,Masakan & Kuliner,0.0072,0.0631,0.4694,7
+Masakan & Kuliner,Horor,0.0072,0.0534,0.4694,7
+Agama & Spiritual,Seni & Fotografi,0.0072,0.0593,0.4627,7
+Seni & Fotografi,Agama & Spiritual,0.0072,0.056,0.4627,7
+Sejarah,Komik & Manga,0.0051,0.0532,0.459,5
+Komik & Manga,Sejarah,0.0051,0.0442,0.459,5
+Sains Fiksi,Biografi,0.0062,0.055,0.4587,6
+Biografi,Sains Fiksi,0.0062,0.0513,0.4587,6
+Horor,Romansa,0.0072,0.0631,0.4555,7
+Romansa,Horor,0.0072,0.0519,0.4555,7
+Romansa,Sains & Alam,0.0092,0.0667,0.4483,9
+Sains & Alam,Romansa,0.0092,0.0621,0.4483,9
+Teknologi,Bisnis & Ekonomi,0.0072,0.0625,0.4481,7
+Bisnis & Ekonomi,Teknologi,0.0072,0.0515,0.4481,7
+Fantasi,Biografi,0.0051,0.0532,0.4433,5
+Biografi,Fantasi,0.0051,0.0427,0.4433,5
+Fantasi,Sejarah,0.0041,0.0426,0.4414,4
+Sejarah,Fantasi,0.0041,0.0426,0.4414,4
+Komik & Manga,Agama & Spiritual,0.0062,0.0531,0.4387,6
+Agama & Spiritual,Komik & Manga,0.0062,0.0508,0.4387,6
+Masakan & Kuliner,Bisnis & Ekonomi,0.0082,0.0611,0.4378,8
+Bisnis & Ekonomi,Masakan & Kuliner,0.0082,0.0588,0.4378,8
+Pengembangan Diri,Teknologi,0.0051,0.05,0.4353,5
+Teknologi,Pengembangan Diri,0.0051,0.0446,0.4353,5
+Anak-Anak,Horor,0.0051,0.0495,0.4348,5
+Horor,Anak-Anak,0.0051,0.045,0.4348,5
+Biografi,Romansa,0.0072,0.0598,0.4321,7
+Romansa,Biografi,0.0072,0.0519,0.4321,7
+Pengembangan Diri,Kesehatan,0.0062,0.06,0.4301,6
+Kesehatan,Pengembangan Diri,0.0062,0.0441,0.4301,6
+Agama & Spiritual,Bisnis & Ekonomi,0.0072,0.0593,0.4253,7
+Bisnis & Ekonomi,Agama & Spiritual,0.0072,0.0515,0.4253,7
+Fantasi,Pengembangan Diri,0.0041,0.0426,0.4149,4
+Pengembangan Diri,Fantasi,0.0041,0.04,0.4149,4
+Fiksi,Bisnis & Ekonomi,0.0072,0.0579,0.4147,7
+Bisnis & Ekonomi,Fiksi,0.0072,0.0515,0.4147,7
+Fantasi,Anak-Anak,0.0041,0.0426,0.4108,4
+Anak-Anak,Fantasi,0.0041,0.0396,0.4108,4
+Non-Fiksi,Horor,0.0051,0.0467,0.4105,5
+Horor,Non-Fiksi,0.0051,0.045,0.4105,5
+Non-Fiksi,Kesehatan,0.0062,0.0561,0.402,6
+Kesehatan,Non-Fiksi,0.0062,0.0441,0.402,6
+Sains Fiksi,Komik & Manga,0.0051,0.0459,0.3958,5
+Komik & Manga,Sains Fiksi,0.0051,0.0442,0.3958,5
+Horor,Komik & Manga,0.0051,0.045,0.3887,5
+Komik & Manga,Horor,0.0051,0.0442,0.3887,5
+Non-Fiksi,Fiksi,0.0051,0.0467,0.3765,5
+Fiksi,Non-Fiksi,0.0051,0.0413,0.3765,5
+Horor,Fiksi,0.0051,0.045,0.363,5
+Fiksi,Horor,0.0051,0.0413,0.363,5
+Non-Fiksi,Sains Fiksi,0.0041,0.0374,0.3344,4
+Sains Fiksi,Non-Fiksi,0.0041,0.0367,0.3344,4
+Pengembangan Diri,Biografi,0.0041,0.04,0.3333,4
+Biografi,Pengembangan Diri,0.0041,0.0342,0.3333,4
+Anak-Anak,Biografi,0.0041,0.0396,0.33,4
+Biografi,Anak-Anak,0.0041,0.0342,0.33,4
+Komik & Manga,Masakan & Kuliner,0.0051,0.0442,0.3293,5
+Masakan & Kuliner,Komik & Manga,0.0051,0.0382,0.3293,5
+Komik & Manga,Travel,0.0062,0.0531,0.3236,6
+Travel,Komik & Manga,0.0062,0.0375,0.3236,6
+Teknologi,Sains & Alam,0.0051,0.0446,0.3002,5
+Sains & Alam,Teknologi,0.0051,0.0345,0.3002,5
+Anak-Anak,Kesehatan,0.0041,0.0396,0.2839,4
+Kesehatan,Anak-Anak,0.0041,0.0294,0.2839,4
+Fantasi,Seni & Fotografi,0.0031,0.0319,0.2489,3
+Seni & Fotografi,Fantasi,0.0031,0.024,0.2489,3
+Non-Fiksi,Komik & Manga,0.0031,0.028,0.2419,3
+Komik & Manga,Non-Fiksi,0.0031,0.0265,0.2419,3
+Misteri & Thriller,Fiksi,0.0031,0.0297,0.2393,3
+Fiksi,Misteri & Thriller,0.0031,0.0248,0.2393,3

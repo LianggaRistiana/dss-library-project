@@ -1,0 +1,956 @@
+masterId,title,author,borrow_count,total_copies,poor_copies,fair_copies,recommendation_score,recommended_action
+BM-0127,History of Biology 3,Author W. Williams,7,7,4,3,53.0,Replace 4 Poor copies
+BM-0196,The Art of Economics 9,Author R. Smith,7,7,4,1,49.0,Replace 4 Poor copies
+BM-0414,Advanced Economics 9,Author W. Johnson,7,7,4,1,49.0,Replace 4 Poor copies
+BM-0536,Introduction to History 9,Author H. Jones,7,7,4,1,49.0,Replace 4 Poor copies
+BM-0261,Guide to Chemistry 2,Author H. Jones,6,6,4,1,48.0,Replace 4 Poor copies
+BM-0366,History of Art 7,Author V. Smith,5,5,4,0,45.0,Replace 4 Poor copies
+BM-0650,The Art of History 1,Author B. Johnson,11,11,3,1,43.0,"Replace 3 Poor copies, Buy more copies (High Demand)"
+BM-0654,Mastering Physics 3,Author W. Smith,8,8,3,2,42.0,Replace 3 Poor copies
+BM-0289,Advanced Economics 7,Author F. Smith,7,7,3,2,41.0,Replace 3 Poor copies
+BM-0662,Introduction to Chemistry 5,Author Q. Brown,7,7,3,2,41.0,Replace 3 Poor copies
+BM-0413,Fundamentals of Chemistry 7,Author C. Brown,6,6,3,2,40.0,Replace 3 Poor copies
+BM-0157,History of AI 7,Author X. Johnson,6,6,3,2,40.0,Replace 3 Poor copies
+BM-0615,History of Calculus 8,Author X. Jones,7,7,3,1,39.0,Replace 3 Poor copies
+BM-0556,Mastering Music 6,Author I. Jones,5,5,3,2,39.0,Replace 3 Poor copies
+BM-0487,Advanced Python 10,Author H. Brown,7,7,3,1,39.0,Replace 3 Poor copies
+BM-0056,History of Chemistry 4,Author Z. Jones,5,5,3,1,37.0,Replace 3 Poor copies
+BM-0356,Guide to Art 10,Author I. Brown,5,5,3,1,37.0,Replace 3 Poor copies
+BM-0874,Handbook of Physics 10,Author P. Brown,4,4,3,1,36.0,Replace 3 Poor copies
+BM-0904,Mastering Economics 10,Author X. Smith,6,6,3,0,36.0,Replace 3 Poor copies
+BM-0689,Introduction to Music 3,Author I. Johnson,6,6,3,0,36.0,Replace 3 Poor copies
+BM-0651,Advanced Java 1,Author O. Johnson,5,5,3,0,35.0,Replace 3 Poor copies
+BM-0521,Advanced History 10,Author I. Williams,4,4,3,0,34.0,Replace 3 Poor copies
+BM-0104,The Art of Physics 7,Author U. Williams,4,4,3,0,34.0,Replace 3 Poor copies
+BM-0528,Handbook of Machine Learning 7,Author F. Jones,4,4,3,0,34.0,Replace 3 Poor copies
+BM-0754,Guide to Python 4,Author M. Brown,4,4,3,0,34.0,Replace 3 Poor copies
+BM-0333,History of Machine Learning 5,Author N. Smith,4,4,3,0,34.0,Replace 3 Poor copies
+BM-0089,History of Biology 6,Author P. Brown,8,8,2,3,34.0,Replace 2 Poor copies
+BM-0792,Fundamentals of Art 5,Author K. Brown,3,3,3,0,33.0,Replace 3 Poor copies
+BM-0993,The Art of Java 6,Author U. Brown,3,3,3,0,33.0,Replace 3 Poor copies
+BM-0455,The Art of Python 5,Author I. Jones,6,6,2,3,32.0,Replace 2 Poor copies
+BM-0479,Advanced History 5,Author I. Johnson,6,6,2,3,32.0,Replace 2 Poor copies
+BM-0939,Advanced Physics 2,Author Y. Brown,8,8,2,2,32.0,Replace 2 Poor copies
+BM-0707,The Art of History 6,Author O. Smith,7,7,2,2,31.0,Replace 2 Poor copies
+BM-0636,Fundamentals of Machine Learning 3,Author H. Smith,5,5,2,3,31.0,Replace 2 Poor copies
+BM-0474,Fundamentals of Machine Learning 5,Author U. Smith,7,7,2,2,31.0,Replace 2 Poor copies
+BM-0525,The Art of Philosophy 5,Author C. Brown,5,5,2,3,31.0,Replace 2 Poor copies
+BM-0450,The Art of Calculus 3,Author S. Johnson,6,6,2,2,30.0,Replace 2 Poor copies
+BM-0027,Fundamentals of Chemistry 4,Author F. Jones,6,6,2,2,30.0,Replace 2 Poor copies
+BM-0355,Fundamentals of Chemistry 7,Author U. Williams,6,6,2,2,30.0,Replace 2 Poor copies
+BM-0208,Introduction to Java 5,Author N. Williams,6,6,2,2,30.0,Replace 2 Poor copies
+BM-0259,Handbook of Biology 10,Author U. Smith,6,6,2,2,30.0,Replace 2 Poor copies
+BM-0001,Introduction to Music 3,Author D. Brown,8,8,2,1,30.0,Replace 2 Poor copies
+BM-0934,Fundamentals of Python 1,Author J. Williams,6,6,2,2,30.0,Replace 2 Poor copies
+BM-0668,Fundamentals of AI 5,Author L. Johnson,5,5,2,2,29.0,Replace 2 Poor copies
+BM-0174,Introduction to Music 3,Author K. Williams,5,5,2,2,29.0,Replace 2 Poor copies
+BM-0913,Fundamentals of Java 1,Author M. Jones,7,7,2,1,29.0,Replace 2 Poor copies
+BM-0912,History of Music 9,Author L. Johnson,7,7,2,1,29.0,Replace 2 Poor copies
+BM-0785,Mastering Philosophy 9,Author W. Brown,9,9,1,5,29.0,Replace 1 Poor copy
+BM-0534,Mastering History 2,Author S. Brown,7,7,2,1,29.0,Replace 2 Poor copies
+BM-0023,Advanced Art 4,Author O. Johnson,5,5,2,2,29.0,Replace 2 Poor copies
+BM-0014,The Art of History 3,Author A. Jones,6,6,2,1,28.0,Replace 2 Poor copies
+BM-0695,The Art of History 1,Author V. Williams,6,6,2,1,28.0,Replace 2 Poor copies
+BM-0582,Advanced Machine Learning 1,Author W. Jones,4,4,2,2,28.0,Replace 2 Poor copies
+BM-0748,Advanced History 7,Author D. Williams,6,6,2,1,28.0,Replace 2 Poor copies
+BM-0053,The Art of Calculus 5,Author B. Jones,4,4,2,2,28.0,Replace 2 Poor copies
+BM-0809,Advanced Economics 5,Author G. Smith,6,6,2,1,28.0,Replace 2 Poor copies
+BM-0207,Fundamentals of Biology 4,Author T. Brown,4,4,2,2,28.0,Replace 2 Poor copies
+BM-0505,History of History 10,Author H. Jones,7,7,2,0,27.0,Replace 2 Poor copies
+BM-0883,History of Calculus 4,Author Y. Brown,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0499,Fundamentals of Java 7,Author M. Johnson,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0762,Fundamentals of Economics 6,Author G. Johnson,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0691,The Art of Philosophy 9,Author L. Williams,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0476,Handbook of Calculus 4,Author H. Jones,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0185,Advanced Music 8,Author P. Williams,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0859,The Art of Economics 8,Author P. Johnson,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0072,History of Physics 6,Author I. Jones,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0916,Mastering Music 10,Author P. Jones,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0998,Introduction to Physics 8,Author S. Smith,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0931,Fundamentals of Music 1,Author G. Williams,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0009,Advanced Art 6,Author K. Smith,5,5,2,1,27.0,Replace 2 Poor copies
+BM-0994,Handbook of History 2,Author U. Smith,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0296,Guide to Biology 9,Author G. Williams,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0793,History of Java 9,Author F. Jones,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0852,Mastering AI 6,Author M. Johnson,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0488,History of Python 9,Author P. Brown,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0867,Guide to AI 5,Author P. Brown,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0219,Fundamentals of Chemistry 9,Author Q. Johnson,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0656,History of Music 2,Author A. Smith,6,6,2,0,26.0,Replace 2 Poor copies
+BM-0235,Advanced Calculus 7,Author P. Smith,6,6,2,0,26.0,Replace 2 Poor copies
+BM-0627,The Art of Art 9,Author U. Brown,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0570,Handbook of Calculus 2,Author X. Brown,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0508,Fundamentals of Calculus 7,Author G. Smith,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0063,Introduction to AI 4,Author G. Smith,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0303,Fundamentals of Python 4,Author L. Brown,4,4,2,1,26.0,Replace 2 Poor copies
+BM-0048,The Art of Art 9,Author L. Jones,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0273,The Art of History 8,Author Q. Jones,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0706,Introduction to Music 10,Author T. Williams,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0965,Fundamentals of Chemistry 4,Author U. Johnson,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0099,Fundamentals of Physics 1,Author W. Williams,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0603,Advanced Art 8,Author T. Johnson,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0229,The Art of Philosophy 9,Author T. Jones,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0552,Fundamentals of Economics 7,Author H. Brown,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0971,Guide to Biology 7,Author T. Jones,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0983,Handbook of Chemistry 6,Author A. Williams,7,7,1,4,25.0,Replace 1 Poor copy
+BM-0272,The Art of Python 3,Author V. Williams,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0659,Introduction to Art 5,Author R. Johnson,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0468,History of Economics 1,Author H. Jones,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0113,Guide to Economics 5,Author G. Johnson,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0569,Fundamentals of Physics 6,Author I. Johnson,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0522,History of Music 5,Author R. Jones,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0901,The Art of Economics 2,Author H. Smith,3,3,2,1,25.0,Replace 2 Poor copies
+BM-0854,Guide to Physics 1,Author S. Smith,5,5,2,0,25.0,Replace 2 Poor copies
+BM-0571,The Art of Physics 2,Author U. Williams,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0974,Mastering Music 1,Author S. Williams,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0701,Advanced Chemistry 10,Author Y. Williams,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0276,Advanced Calculus 1,Author R. Smith,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0641,History of Philosophy 8,Author X. Brown,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0158,Guide to Economics 1,Author P. Jones,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0713,Introduction to Music 1,Author R. Johnson,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0406,Guide to Java 2,Author U. Brown,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0316,Mastering Python 6,Author C. Johnson,6,6,1,4,24.0,Replace 1 Poor copy
+BM-0456,Guide to Art 6,Author P. Johnson,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0871,Fundamentals of Chemistry 9,Author F. Smith,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0461,Guide to Music 2,Author F. Williams,8,8,1,3,24.0,Replace 1 Poor copy
+BM-0908,History of Calculus 8,Author F. Williams,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0853,The Art of History 2,Author J. Williams,4,4,2,0,24.0,Replace 2 Poor copies
+BM-0220,Advanced Economics 3,Author F. Williams,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0239,Advanced Machine Learning 1,Author Z. Brown,7,7,1,3,23.0,Replace 1 Poor copy
+BM-0192,Guide to Physics 1,Author O. Jones,7,7,1,3,23.0,Replace 1 Poor copy
+BM-0421,Mastering Music 8,Author P. Brown,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0699,Guide to History 7,Author D. Brown,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0486,The Art of Music 6,Author G. Johnson,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0021,The Art of Chemistry 2,Author O. Jones,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0119,Advanced Art 2,Author J. Brown,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0067,Advanced Philosophy 1,Author W. Jones,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0288,Advanced Java 3,Author H. Jones,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0563,Handbook of Chemistry 5,Author B. Jones,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0391,Fundamentals of Music 4,Author C. Williams,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0255,History of Philosophy 10,Author V. Johnson,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0169,Introduction to History 10,Author B. Johnson,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0073,Mastering Philosophy 6,Author W. Smith,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0673,Fundamentals of Chemistry 2,Author N. Johnson,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0478,The Art of Art 2,Author K. Smith,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0933,History of Calculus 1,Author I. Smith,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0639,The Art of Economics 3,Author L. Johnson,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0896,Mastering Java 10,Author K. Williams,3,3,2,0,23.0,Replace 2 Poor copies
+BM-0801,Advanced Chemistry 1,Author E. Smith,5,5,1,4,23.0,Replace 1 Poor copy
+BM-0968,Advanced Chemistry 5,Author Y. Brown,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0365,The Art of History 5,Author V. Jones,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0214,Mastering Chemistry 6,Author O. Williams,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0850,Mastering Biology 6,Author P. Brown,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0277,Advanced Art 1,Author V. Smith,6,6,1,3,22.0,Replace 1 Poor copy
+BM-0978,Introduction to Economics 10,Author G. Williams,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0302,Guide to Music 4,Author W. Jones,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0147,Fundamentals of Java 6,Author O. Brown,6,6,1,3,22.0,Replace 1 Poor copy
+BM-0987,Advanced Calculus 8,Author J. Jones,6,6,1,3,22.0,Replace 1 Poor copy
+BM-0597,Fundamentals of Biology 3,Author F. Williams,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0066,History of Machine Learning 9,Author U. Smith,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0477,The Art of Biology 1,Author Z. Williams,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0083,Guide to Biology 2,Author Z. Jones,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0178,Handbook of AI 9,Author M. Johnson,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0787,Advanced AI 2,Author Z. Jones,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0722,The Art of Calculus 1,Author X. Jones,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0230,History of Chemistry 2,Author C. Johnson,2,2,2,0,22.0,Replace 2 Poor copies
+BM-0472,Fundamentals of Python 1,Author I. Jones,6,6,1,3,22.0,Replace 1 Poor copy
+BM-0442,The Art of Music 3,Author Y. Jones,5,5,1,3,21.0,Replace 1 Poor copy
+BM-0658,Introduction to Music 9,Author S. Brown,5,5,1,3,21.0,Replace 1 Poor copy
+BM-0201,History of Art 2,Author M. Jones,5,5,1,3,21.0,Replace 1 Poor copy
+BM-0886,Advanced Chemistry 5,Author G. Smith,7,7,1,2,21.0,Replace 1 Poor copy
+BM-0383,Mastering Biology 8,Author H. Johnson,7,7,1,2,21.0,Replace 1 Poor copy
+BM-0576,Fundamentals of Physics 5,Author M. Brown,7,7,1,2,21.0,Replace 1 Poor copy
+BM-0148,Introduction to Calculus 2,Author Z. Smith,7,7,1,2,21.0,Replace 1 Poor copy
+BM-0957,Introduction to AI 3,Author P. Johnson,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0419,Mastering History 3,Author H. Williams,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0533,History of Art 3,Author S. Jones,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0363,History of History 7,Author B. Jones,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0709,History of Machine Learning 1,Author G. Brown,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0612,The Art of History 10,Author F. Johnson,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0818,Advanced Calculus 5,Author C. Jones,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0430,Introduction to Art 6,Author R. Williams,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0258,Advanced Chemistry 5,Author U. Williams,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0484,The Art of Economics 8,Author P. Jones,4,4,1,3,20.0,Replace 1 Poor copy
+BM-0020,Handbook of Java 2,Author W. Jones,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0909,Guide to Music 9,Author J. Jones,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0262,The Art of Philosophy 6,Author Q. Smith,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0997,Mastering Philosophy 1,Author P. Brown,6,6,1,2,20.0,Replace 1 Poor copy
+BM-0279,The Art of Art 8,Author V. Brown,8,8,1,1,20.0,Replace 1 Poor copy
+BM-0324,Fundamentals of Economics 4,Author V. Johnson,7,7,1,1,19.0,Replace 1 Poor copy
+BM-0177,Handbook of Philosophy 10,Author F. Smith,7,7,1,1,19.0,Replace 1 Poor copy
+BM-0465,Mastering Calculus 6,Author A. Johnson,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0344,Advanced Calculus 6,Author Q. Smith,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0844,History of Physics 6,Author N. Johnson,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0885,Mastering History 6,Author E. Smith,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0664,Guide to Calculus 9,Author F. Williams,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0340,The Art of Philosophy 1,Author U. Jones,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0354,Advanced Java 1,Author Y. Smith,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0808,Advanced Music 4,Author O. Williams,9,9,0,5,19.0,No Action Needed
+BM-0645,Fundamentals of Calculus 10,Author L. Johnson,5,5,1,2,19.0,Replace 1 Poor copy
+BM-0039,Fundamentals of Chemistry 6,Author L. Jones,7,7,1,1,19.0,Replace 1 Poor copy
+BM-0245,History of Chemistry 2,Author N. Smith,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0310,The Art of History 5,Author K. Brown,6,6,1,1,18.0,Replace 1 Poor copy
+BM-0492,The Art of Physics 5,Author N. Smith,6,6,1,1,18.0,Replace 1 Poor copy
+BM-0618,Handbook of Java 6,Author S. Williams,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0577,Introduction to Physics 3,Author K. Brown,6,6,1,1,18.0,Replace 1 Poor copy
+BM-0035,Mastering Music 9,Author F. Smith,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0156,Handbook of Biology 7,Author F. Johnson,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0085,The Art of Calculus 8,Author P. Johnson,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0384,Advanced Art 9,Author C. Williams,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0345,Guide to Art 3,Author V. Smith,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0814,Advanced Physics 2,Author E. Brown,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0395,Mastering History 8,Author U. Williams,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0283,Mastering Java 10,Author X. Smith,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0675,Mastering Physics 1,Author U. Johnson,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0042,Mastering Java 10,Author X. Williams,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0960,Mastering Chemistry 10,Author R. Williams,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0082,Advanced AI 1,Author F. Smith,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0868,Guide to Philosophy 3,Author R. Johnson,6,6,1,1,18.0,Replace 1 Poor copy
+BM-0405,Fundamentals of Machine Learning 9,Author F. Johnson,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0441,Advanced Music 8,Author I. Smith,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0382,Introduction to Philosophy 3,Author T. Jones,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0467,Handbook of Java 4,Author J. Jones,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0222,Mastering Machine Learning 10,Author Z. Williams,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0950,Guide to Machine Learning 2,Author N. Williams,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0497,Mastering Java 6,Author U. Johnson,4,4,1,2,18.0,Replace 1 Poor copy
+BM-0869,Mastering Chemistry 2,Author C. Brown,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0146,Advanced Java 8,Author E. Brown,7,7,1,0,17.0,Replace 1 Poor copy
+BM-0514,Introduction to Philosophy 6,Author U. Brown,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0216,Guide to Art 1,Author Y. Jones,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0203,Advanced Java 7,Author Q. Smith,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0878,The Art of Java 2,Author G. Williams,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0786,History of Calculus 3,Author G. Johnson,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0238,Fundamentals of Biology 4,Author F. Smith,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0765,Guide to Machine Learning 5,Author A. Smith,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0834,History of Java 1,Author O. Smith,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0784,Introduction to Python 5,Author Q. Smith,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0891,Guide to Biology 7,Author M. Williams,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0264,Handbook of Chemistry 7,Author N. Jones,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0257,Introduction to Python 1,Author V. Johnson,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0573,Mastering Calculus 3,Author C. Jones,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0581,The Art of Calculus 3,Author V. Johnson,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0750,History of Machine Learning 10,Author Y. Smith,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0452,Advanced AI 2,Author N. Smith,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0940,Guide to AI 1,Author W. Smith,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0312,Handbook of Java 1,Author W. Smith,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0779,Guide to History 7,Author R. Brown,5,5,1,1,17.0,Replace 1 Poor copy
+BM-0594,Guide to Python 7,Author N. Johnson,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0002,History of Art 8,Author G. Williams,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0379,The Art of History 9,Author X. Williams,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0424,The Art of Economics 4,Author O. Williams,3,3,1,2,17.0,Replace 1 Poor copy
+BM-0595,Fundamentals of Java 3,Author K. Brown,8,8,0,4,16.0,No Action Needed
+BM-0547,Introduction to Chemistry 5,Author U. Williams,6,6,1,0,16.0,Replace 1 Poor copy
+BM-0783,Advanced AI 1,Author M. Smith,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0416,Handbook of Python 2,Author D. Jones,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0360,Advanced Python 2,Author W. Williams,6,6,1,0,16.0,Replace 1 Poor copy
+BM-0719,History of AI 9,Author B. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0061,Fundamentals of Art 10,Author X. Johnson,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0240,Mastering Biology 8,Author O. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0905,History of Chemistry 10,Author B. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0535,The Art of Art 10,Author I. Jones,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0985,Advanced Physics 2,Author Z. Smith,4,4,1,1,16.0,Replace 1 Poor copy
+BM-1000,History of Economics 8,Author P. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0599,History of Machine Learning 1,Author Y. Smith,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0600,Handbook of Art 7,Author O. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0923,Fundamentals of Calculus 2,Author O. Smith,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0961,History of History 7,Author D. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0378,Fundamentals of AI 2,Author T. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0769,Mastering Java 3,Author P. Johnson,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0813,Handbook of History 9,Author O. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0843,The Art of Machine Learning 9,Author Y. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0502,Introduction to Chemistry 3,Author C. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0195,Fundamentals of Physics 9,Author V. Jones,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0200,Advanced Chemistry 8,Author J. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0872,Introduction to Physics 3,Author M. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0145,Guide to Calculus 6,Author U. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0094,Introduction to Machine Learning 10,Author N. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0848,Handbook of Music 2,Author G. Johnson,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0171,History of Physics 1,Author V. Johnson,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0109,Advanced Chemistry 6,Author V. Johnson,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0133,The Art of Chemistry 1,Author S. Johnson,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0182,Handbook of Economics 9,Author W. Jones,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0191,Guide to Python 7,Author L. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0295,Advanced Music 1,Author E. Smith,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0758,Mastering Philosophy 7,Author J. Brown,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0388,Handbook of Philosophy 7,Author G. Williams,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0466,Handbook of Art 10,Author P. Jones,4,4,1,1,16.0,Replace 1 Poor copy
+BM-0538,Advanced Music 10,Author Q. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0690,Handbook of Philosophy 9,Author H. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0688,The Art of Art 3,Author I. Jones,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0674,Handbook of Music 7,Author B. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0246,Introduction to Art 6,Author Y. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0838,Mastering Economics 9,Author Q. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0836,Advanced Java 8,Author V. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0832,Introduction to Machine Learning 2,Author G. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0292,Guide to AI 8,Author P. Williams,5,5,1,0,15.0,Replace 1 Poor copy
+BM-0428,Mastering Music 8,Author P. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0860,Introduction to Physics 1,Author F. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0857,History of Music 4,Author L. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0635,Introduction to History 4,Author S. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0906,Fundamentals of AI 7,Author K. Jones,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0822,History of Chemistry 5,Author P. Jones,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0714,Handbook of Art 1,Author N. Williams,5,5,1,0,15.0,Replace 1 Poor copy
+BM-0300,Guide to Machine Learning 1,Author P. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0903,Guide to AI 6,Author P. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0820,Guide to Physics 4,Author D. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0812,Fundamentals of Chemistry 6,Author H. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0436,Advanced Economics 7,Author M. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0087,Introduction to Philosophy 1,Author I. Jones,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0735,Guide to Biology 7,Author W. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0731,History of Biology 1,Author M. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0110,History of Machine Learning 9,Author H. Johnson,5,5,1,0,15.0,Replace 1 Poor copy
+BM-0591,Guide to Music 5,Author P. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0598,Mastering Calculus 1,Author P. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0729,Advanced Biology 1,Author F. Jones,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0725,Guide to AI 6,Author X. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0795,Mastering History 7,Author Y. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0328,History of Biology 9,Author T. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0030,Handbook of Music 9,Author A. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0398,Handbook of Machine Learning 2,Author N. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0543,The Art of Chemistry 3,Author G. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0551,Guide to Java 2,Author Q. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0102,Fundamentals of Philosophy 8,Author V. Brown,5,5,1,0,15.0,Replace 1 Poor copy
+BM-0481,Advanced Physics 4,Author Q. Jones,5,5,1,0,15.0,Replace 1 Poor copy
+BM-0720,The Art of Python 8,Author A. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0742,Guide to Art 2,Author T. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0362,Advanced Java 2,Author G. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0955,Introduction to Java 2,Author F. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0026,Advanced Python 9,Author M. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0347,Advanced Chemistry 7,Author K. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0773,Fundamentals of Chemistry 8,Author Z. Williams,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0015,History of Chemistry 7,Author W. Williams,5,5,1,0,15.0,Replace 1 Poor copy
+BM-0918,Guide to Philosophy 6,Author M. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0657,Advanced Economics 10,Author U. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0055,Advanced Chemistry 8,Author K. Jones,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0198,Guide to Java 4,Author R. Johnson,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0493,Handbook of Java 7,Author N. Smith,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0653,The Art of Economics 9,Author N. Jones,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0232,Fundamentals of Java 9,Author H. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0926,Advanced Java 3,Author L. Smith,7,7,0,4,15.0,No Action Needed
+BM-0179,Introduction to Machine Learning 8,Author M. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0512,Advanced Economics 7,Author J. Brown,3,3,1,1,15.0,Replace 1 Poor copy
+BM-0572,Handbook of Economics 2,Author I. Johnson,7,7,0,4,15.0,No Action Needed
+BM-0375,The Art of AI 10,Author F. Smith,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0941,Introduction to Economics 7,Author A. Jones,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0412,The Art of Calculus 1,Author R. Jones,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0972,Mastering Chemistry 7,Author U. Smith,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0606,The Art of Python 7,Author G. Jones,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0751,History of Philosophy 8,Author S. Brown,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0726,Fundamentals of Java 1,Author V. Williams,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0417,Advanced Java 7,Author V. Johnson,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0925,Advanced History 4,Author K. Williams,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0377,Guide to Art 1,Author P. Jones,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0330,The Art of Biology 6,Author B. Jones,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0544,History of Biology 9,Author Z. Brown,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0634,Handbook of Machine Learning 7,Author G. Jones,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0237,Guide to Biology 3,Author E. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0166,Guide to Java 4,Author C. Brown,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0777,Handbook of Biology 9,Author S. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0671,History of Biology 8,Author X. Jones,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0098,History of Calculus 5,Author M. Smith,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0865,Advanced Chemistry 1,Author S. Smith,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0910,Handbook of Music 3,Author P. Brown,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0400,The Art of Philosophy 4,Author P. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0882,Guide to Music 4,Author G. Johnson,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0490,Mastering Chemistry 3,Author R. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0460,Mastering Python 6,Author O. Jones,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0899,Handbook of Philosophy 5,Author M. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0680,The Art of History 10,Author O. Brown,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0336,Advanced Biology 9,Author G. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0343,Mastering Art 6,Author U. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0459,Introduction to Philosophy 10,Author J. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0473,Introduction to History 8,Author N. Williams,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0241,The Art of Calculus 8,Author M. Smith,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0451,History of Python 10,Author R. Jones,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0004,Mastering Biology 4,Author V. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0805,Handbook of Calculus 4,Author G. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0663,Mastering Philosophy 5,Author X. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0321,Advanced Machine Learning 1,Author D. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0929,Introduction to Machine Learning 7,Author R. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0096,Advanced Biology 4,Author F. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0092,Advanced Python 7,Author L. Johnson,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0621,Introduction to Economics 3,Author T. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0589,Introduction to Philosophy 6,Author N. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0588,History of Chemistry 5,Author T. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0761,Mastering Java 4,Author K. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0774,Fundamentals of Art 6,Author U. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0394,Guide to Art 2,Author N. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0778,Handbook of Chemistry 5,Author L. Brown,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0225,Fundamentals of Art 7,Author T. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0314,Mastering AI 10,Author R. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0646,Guide to Python 10,Author M. Williams,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0151,Fundamentals of Philosophy 9,Author R. Johnson,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0898,Advanced Java 1,Author D. Johnson,4,4,1,0,14.0,Replace 1 Poor copy
+BM-0385,Advanced Python 4,Author R. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0037,Mastering Python 4,Author W. Smith,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0189,Advanced Economics 1,Author H. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0211,Introduction to Machine Learning 7,Author M. Brown,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0202,History of Python 6,Author H. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0172,Handbook of Python 6,Author T. Williams,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0131,History of Python 8,Author W. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0173,History of Python 7,Author E. Johnson,2,2,1,1,14.0,Replace 1 Poor copy
+BM-0008,Fundamentals of Java 1,Author F. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0979,Mastering Music 1,Author L. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0256,History of Calculus 4,Author Y. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0199,Introduction to Economics 3,Author N. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0963,The Art of History 4,Author T. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0740,The Art of AI 9,Author Y. Brown,7,7,0,3,13.0,No Action Needed
+BM-0231,Mastering Java 10,Author E. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0044,Fundamentals of Music 9,Author Y. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0242,Mastering Machine Learning 2,Author P. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0847,History of Art 2,Author N. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0953,History of AI 3,Author K. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0184,Handbook of Machine Learning 3,Author X. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0183,Introduction to Java 8,Author N. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0432,Mastering History 6,Author F. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0007,The Art of History 4,Author X. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0160,Advanced History 3,Author F. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0640,Mastering Biology 7,Author K. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0678,History of Biology 2,Author L. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0682,Fundamentals of AI 1,Author F. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0278,Mastering Art 8,Author M. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0124,Handbook of History 9,Author G. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0263,Fundamentals of Economics 7,Author I. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0817,Introduction to History 10,Author Y. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0080,Introduction to Chemistry 1,Author C. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0268,Mastering Economics 7,Author V. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0122,History of Economics 5,Author F. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0873,Introduction to Machine Learning 7,Author E. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0236,Guide to Philosophy 9,Author R. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0431,Handbook of Java 6,Author H. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0616,Mastering Machine Learning 8,Author I. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0938,Mastering Philosophy 4,Author O. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0549,Introduction to Java 1,Author B. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0568,Fundamentals of Machine Learning 5,Author G. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0928,The Art of History 5,Author Y. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0427,Handbook of Physics 2,Author R. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0587,History of Art 6,Author N. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0781,Fundamentals of Economics 9,Author R. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0013,Handbook of Music 6,Author N. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0999,Mastering Art 2,Author Z. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0369,Advanced Music 2,Author C. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0108,Guide to Biology 3,Author K. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0579,Guide to AI 3,Author U. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0409,Advanced Calculus 1,Author H. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0586,Advanced AI 6,Author U. Jones,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0349,Advanced Economics 5,Author Q. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0763,History of Economics 6,Author N. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0338,Mastering Philosophy 5,Author Y. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0446,Introduction to Philosophy 1,Author G. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0143,Mastering Art 9,Author M. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0141,History of Economics 1,Author G. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0137,Guide to History 8,Author E. Smith,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0694,Fundamentals of Chemistry 10,Author K. Brown,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0553,Handbook of Economics 3,Author A. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0693,Handbook of AI 6,Author Y. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0702,History of History 2,Author E. Williams,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0444,History of Chemistry 10,Author R. Johnson,3,3,1,0,13.0,Replace 1 Poor copy
+BM-0513,Fundamentals of Music 7,Author H. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0509,The Art of History 7,Author N. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0510,Mastering Machine Learning 3,Author Q. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0670,Handbook of Java 8,Author F. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0669,Fundamentals of Physics 5,Author N. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0091,Introduction to Philosophy 5,Author P. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0531,Introduction to Python 7,Author A. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0638,Handbook of Music 5,Author S. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0637,Introduction to Music 2,Author Q. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0630,The Art of Philosophy 4,Author B. Williams,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0548,Guide to Music 2,Author N. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0948,Fundamentals of Economics 7,Author H. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0937,Mastering Art 2,Author L. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0516,The Art of Art 10,Author F. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0022,Fundamentals of Calculus 7,Author E. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0660,Advanced Python 5,Author B. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0825,The Art of Java 6,Author Q. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0084,Handbook of Physics 8,Author Z. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0086,Handbook of Physics 7,Author A. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0575,Handbook of Java 3,Author Y. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0560,Mastering Calculus 9,Author L. Williams,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0927,History of Music 3,Author Y. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0298,Fundamentals of Java 3,Author Q. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0397,History of Philosophy 10,Author A. Williams,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0976,Mastering Java 8,Author B. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0284,Advanced History 10,Author I. Williams,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0180,The Art of Machine Learning 2,Author I. Brown,4,4,0,4,12.0,No Action Needed
+BM-0471,Advanced Python 5,Author T. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0475,Fundamentals of Calculus 10,Author C. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0698,The Art of Music 1,Author O. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0489,Introduction to Biology 6,Author S. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0003,Mastering Chemistry 2,Author E. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0435,Mastering Java 8,Author L. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0840,Guide to Calculus 2,Author G. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0252,Guide to Art 3,Author I. Williams,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0319,Advanced Python 7,Author D. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0982,History of AI 2,Author O. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0684,Handbook of Economics 9,Author L. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0893,Guide to Philosophy 1,Author W. Smith,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0357,The Art of Python 6,Author U. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0223,Mastering Music 7,Author V. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0218,Mastering Calculus 7,Author V. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0422,The Art of Calculus 1,Author W. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0453,Handbook of Python 2,Author P. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0700,Handbook of Machine Learning 5,Author Q. Smith,6,6,0,3,12.0,No Action Needed
+BM-0846,Introduction to Calculus 10,Author C. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0390,Advanced Python 4,Author D. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0372,History of Economics 3,Author L. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0858,History of Chemistry 9,Author I. Williams,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0213,Handbook of Calculus 1,Author P. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0244,Handbook of Java 8,Author J. Brown,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0727,History of Music 6,Author M. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0870,Mastering Philosophy 4,Author J. Jones,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0593,The Art of Calculus 7,Author X. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0019,Mastering Python 4,Author Q. Johnson,2,2,1,0,12.0,Replace 1 Poor copy
+BM-0956,The Art of Biology 9,Author N. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0076,Advanced AI 4,Author K. Johnson,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0106,The Art of Machine Learning 3,Author H. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0448,Fundamentals of AI 9,Author G. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0447,The Art of Economics 7,Author U. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0697,Handbook of Python 6,Author L. Johnson,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0128,Guide to Art 2,Author U. Brown,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0718,The Art of History 1,Author S. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0426,Guide to AI 4,Author L. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0433,Introduction to Physics 6,Author F. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0410,History of Java 3,Author E. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0728,Advanced Art 2,Author C. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0733,Fundamentals of Art 3,Author X. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0738,Handbook of Calculus 7,Author F. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0802,History of Java 6,Author K. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0747,Introduction to Music 3,Author H. Brown,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0227,Mastering Java 8,Author V. Brown,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0856,Fundamentals of Music 4,Author V. Johnson,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0315,Mastering Economics 2,Author S. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0780,History of Physics 1,Author S. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0337,Handbook of Music 8,Author J. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0253,Introduction to Art 4,Author A. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0212,Advanced Biology 5,Author Z. Brown,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0206,Mastering Chemistry 1,Author E. Johnson,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0988,The Art of Java 4,Author L. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0590,Handbook of Python 6,Author P. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0819,Mastering Art 1,Author M. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0827,History of Philosophy 9,Author A. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0250,Advanced Chemistry 4,Author Y. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0318,Fundamentals of Python 10,Author G. Johnson,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0969,The Art of Machine Learning 3,Author D. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0984,Handbook of AI 3,Author E. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0608,Advanced Philosophy 2,Author W. Smith,5,5,0,3,11.0,No Action Needed
+BM-0677,Guide to Python 1,Author J. Smith,7,7,0,2,11.0,No Action Needed
+BM-0932,Introduction to AI 10,Author V. Johnson,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0947,The Art of Chemistry 4,Author O. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0059,Introduction to Economics 4,Author G. Brown,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0936,History of Economics 3,Author R. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0605,Guide to Chemistry 6,Author X. Smith,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0665,The Art of Java 3,Author D. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0399,Guide to Art 2,Author D. Jones,5,5,0,3,11.0,No Action Needed
+BM-0930,Introduction to History 7,Author F. Williams,5,5,0,3,11.0,No Action Needed
+BM-0919,Handbook of Calculus 8,Author O. Brown,5,5,0,3,11.0,No Action Needed
+BM-0069,Fundamentals of Biology 8,Author U. Johnson,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0672,Advanced Music 8,Author D. Jones,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0540,Introduction to Biology 2,Author Q. Williams,1,1,1,0,11.0,Replace 1 Poor copy
+BM-0565,Handbook of Art 5,Author K. Brown,6,6,0,2,10.0,No Action Needed
+BM-0875,Advanced Chemistry 4,Author T. Jones,6,6,0,2,10.0,No Action Needed
+BM-0033,Advanced Physics 2,Author I. Smith,4,4,0,3,10.0,No Action Needed
+BM-0559,Mastering Physics 9,Author L. Brown,4,4,0,3,10.0,No Action Needed
+BM-0210,Fundamentals of Philosophy 2,Author J. Jones,6,6,0,2,10.0,No Action Needed
+BM-0130,History of Music 7,Author N. Williams,5,5,0,2,9.0,No Action Needed
+BM-0121,Advanced Biology 10,Author A. Jones,5,5,0,2,9.0,No Action Needed
+BM-0609,Advanced Python 1,Author F. Smith,5,5,0,2,9.0,No Action Needed
+BM-0517,Guide to Calculus 1,Author D. Jones,3,3,0,3,9.0,No Action Needed
+BM-0120,Guide to AI 5,Author B. Smith,5,5,0,2,9.0,No Action Needed
+BM-0545,Introduction to Chemistry 5,Author K. Williams,3,3,0,3,9.0,No Action Needed
+BM-0861,The Art of Python 9,Author F. Williams,5,5,0,2,9.0,No Action Needed
+BM-0920,Advanced Calculus 8,Author G. Williams,5,5,0,2,9.0,No Action Needed
+BM-0065,Introduction to Philosophy 7,Author A. Jones,5,5,0,2,9.0,No Action Needed
+BM-0815,Mastering Philosophy 2,Author O. Brown,5,5,0,2,9.0,No Action Needed
+BM-0485,Fundamentals of Python 7,Author V. Jones,6,6,0,1,8.0,No Action Needed
+BM-0081,Advanced Calculus 7,Author I. Brown,4,4,0,2,8.0,No Action Needed
+BM-0297,Guide to History 9,Author V. Jones,4,4,0,2,8.0,No Action Needed
+BM-0285,Handbook of AI 9,Author K. Brown,4,4,0,2,8.0,No Action Needed
+BM-0526,History of Calculus 7,Author G. Jones,4,4,0,2,8.0,No Action Needed
+BM-0503,Fundamentals of Chemistry 8,Author O. Jones,4,4,0,2,8.0,No Action Needed
+BM-0116,Introduction to AI 6,Author U. Williams,4,4,0,2,8.0,No Action Needed
+BM-0482,Handbook of Philosophy 10,Author B. Brown,4,4,0,2,8.0,No Action Needed
+BM-0046,Guide to AI 9,Author U. Johnson,4,4,0,2,8.0,No Action Needed
+BM-0624,The Art of Music 1,Author G. Williams,4,4,0,2,8.0,No Action Needed
+BM-0311,Fundamentals of Physics 2,Author Y. Johnson,4,4,0,2,8.0,No Action Needed
+BM-0439,The Art of Biology 8,Author C. Johnson,4,4,0,2,8.0,No Action Needed
+BM-0138,The Art of Biology 10,Author F. Johnson,4,4,0,2,8.0,No Action Needed
+BM-0757,Mastering Music 8,Author F. Smith,4,4,0,2,8.0,No Action Needed
+BM-0135,Introduction to AI 10,Author F. Smith,6,6,0,1,8.0,No Action Needed
+BM-0105,Mastering AI 6,Author T. Brown,6,6,0,1,8.0,No Action Needed
+BM-0753,The Art of History 5,Author U. Jones,4,4,0,2,8.0,No Action Needed
+BM-0649,Mastering Art 10,Author H. Smith,4,4,0,2,8.0,No Action Needed
+BM-0555,Guide to Java 10,Author M. Smith,3,3,0,2,7.0,No Action Needed
+BM-0550,Mastering History 2,Author T. Brown,5,5,0,1,7.0,No Action Needed
+BM-0864,Advanced Philosophy 9,Author B. Brown,3,3,0,2,7.0,No Action Needed
+BM-0005,Fundamentals of Chemistry 9,Author J. Smith,3,3,0,2,7.0,No Action Needed
+BM-0564,History of Machine Learning 8,Author R. Johnson,5,5,0,1,7.0,No Action Needed
+BM-0332,History of Economics 4,Author L. Smith,5,5,0,1,7.0,No Action Needed
+BM-0194,Advanced Python 8,Author H. Johnson,5,5,0,1,7.0,No Action Needed
+BM-0835,Guide to AI 10,Author I. Williams,5,5,0,1,7.0,No Action Needed
+BM-0889,Mastering Economics 5,Author M. Jones,5,5,0,1,7.0,No Action Needed
+BM-0759,The Art of Economics 8,Author Y. Smith,5,5,0,1,7.0,No Action Needed
+BM-0839,Fundamentals of Java 3,Author Q. Johnson,5,5,0,1,7.0,No Action Needed
+BM-0247,Introduction to Machine Learning 7,Author A. Smith,5,5,0,1,7.0,No Action Needed
+BM-0776,The Art of Biology 7,Author Y. Brown,5,5,0,1,7.0,No Action Needed
+BM-0305,History of Machine Learning 6,Author W. Smith,5,5,0,1,7.0,No Action Needed
+BM-0125,Mastering Art 9,Author K. Johnson,5,5,0,1,7.0,No Action Needed
+BM-0767,The Art of Python 5,Author G. Johnson,3,3,0,2,7.0,No Action Needed
+BM-0291,Introduction to Java 10,Author R. Williams,3,3,0,2,7.0,No Action Needed
+BM-0632,Mastering Calculus 8,Author K. Williams,3,3,0,2,7.0,No Action Needed
+BM-0530,Mastering AI 6,Author W. Williams,3,3,0,2,7.0,No Action Needed
+BM-0667,Mastering Art 6,Author W. Johnson,3,3,0,2,7.0,No Action Needed
+BM-0294,Introduction to AI 8,Author H. Williams,3,3,0,2,7.0,No Action Needed
+BM-0890,Guide to Biology 8,Author J. Williams,3,3,0,2,7.0,No Action Needed
+BM-0438,Guide to History 1,Author Q. Brown,3,3,0,2,7.0,No Action Needed
+BM-0243,History of Biology 5,Author C. Brown,3,3,0,2,7.0,No Action Needed
+BM-0031,Mastering AI 7,Author X. Brown,5,5,0,1,7.0,No Action Needed
+BM-0959,The Art of Art 10,Author X. Johnson,3,3,0,2,7.0,No Action Needed
+BM-0764,Handbook of History 9,Author B. Williams,3,3,0,2,7.0,No Action Needed
+BM-0666,Handbook of AI 10,Author I. Smith,3,3,0,2,7.0,No Action Needed
+BM-0849,Guide to Music 2,Author S. Smith,3,3,0,2,7.0,No Action Needed
+BM-0224,Mastering Economics 7,Author U. Smith,3,3,0,2,7.0,No Action Needed
+BM-0491,The Art of Python 7,Author H. Smith,3,3,0,2,7.0,No Action Needed
+BM-0511,Mastering Python 4,Author T. Williams,2,2,0,2,6.0,No Action Needed
+BM-0826,Advanced History 6,Author D. Williams,2,2,0,2,6.0,No Action Needed
+BM-0062,Handbook of History 8,Author O. Brown,2,2,0,2,6.0,No Action Needed
+BM-0610,The Art of History 9,Author F. Williams,2,2,0,2,6.0,No Action Needed
+BM-0602,History of Physics 1,Author D. Jones,2,2,0,2,6.0,No Action Needed
+BM-0293,Mastering Physics 4,Author Y. Brown,2,2,0,2,6.0,No Action Needed
+BM-0964,History of Physics 3,Author X. Johnson,2,2,0,2,6.0,No Action Needed
+BM-0016,Advanced Java 7,Author T. Johnson,2,2,0,2,6.0,No Action Needed
+BM-0816,Mastering Calculus 1,Author K. Smith,6,6,0,0,6.0,No Action Needed
+BM-0275,Mastering Economics 7,Author T. Jones,4,4,0,1,6.0,No Action Needed
+BM-0101,Introduction to Biology 4,Author I. Johnson,4,4,0,1,6.0,No Action Needed
+BM-0483,History of Philosophy 1,Author Q. Johnson,4,4,0,1,6.0,No Action Needed
+BM-0954,Mastering Calculus 9,Author Z. Williams,4,4,0,1,6.0,No Action Needed
+BM-0895,Advanced Machine Learning 8,Author L. Williams,4,4,0,1,6.0,No Action Needed
+BM-0077,Introduction to AI 8,Author M. Smith,4,4,0,1,6.0,No Action Needed
+BM-0924,Guide to Calculus 3,Author O. Jones,2,2,0,2,6.0,No Action Needed
+BM-0862,History of History 2,Author X. Johnson,4,4,0,1,6.0,No Action Needed
+BM-0150,History of Economics 4,Author M. Johnson,2,2,0,2,6.0,No Action Needed
+BM-0168,Handbook of Machine Learning 9,Author O. Brown,4,4,0,1,6.0,No Action Needed
+BM-0629,Introduction to Economics 4,Author J. Williams,4,4,0,1,6.0,No Action Needed
+BM-0163,Fundamentals of Java 9,Author C. Williams,4,4,0,1,6.0,No Action Needed
+BM-0756,Introduction to Python 7,Author S. Brown,2,2,0,2,6.0,No Action Needed
+BM-0197,Fundamentals of Calculus 1,Author E. Brown,4,4,0,1,6.0,No Action Needed
+BM-0176,Mastering Machine Learning 1,Author N. Jones,2,2,0,2,6.0,No Action Needed
+BM-0175,Introduction to Biology 6,Author P. Johnson,2,2,0,2,6.0,No Action Needed
+BM-0501,The Art of Physics 7,Author O. Johnson,4,4,0,1,6.0,No Action Needed
+BM-0515,Guide to Biology 10,Author S. Williams,4,4,0,1,6.0,No Action Needed
+BM-0463,The Art of Biology 6,Author X. Brown,4,4,0,1,6.0,No Action Needed
+BM-0679,Mastering Java 10,Author Y. Williams,2,2,0,2,6.0,No Action Needed
+BM-0837,Handbook of Python 4,Author P. Smith,4,4,0,1,6.0,No Action Needed
+BM-0078,Advanced Economics 7,Author F. Williams,4,4,0,1,6.0,No Action Needed
+BM-0944,Mastering Calculus 6,Author B. Jones,2,2,0,2,6.0,No Action Needed
+BM-0845,Mastering Philosophy 4,Author U. Williams,4,4,0,1,6.0,No Action Needed
+BM-0326,Mastering Economics 10,Author V. Smith,4,4,0,1,6.0,No Action Needed
+BM-0745,Guide to Music 8,Author L. Johnson,4,4,0,1,6.0,No Action Needed
+BM-0686,The Art of Calculus 3,Author P. Johnson,4,4,0,1,6.0,No Action Needed
+BM-0376,Handbook of Music 6,Author I. Johnson,4,4,0,1,6.0,No Action Needed
+BM-0140,Handbook of Art 7,Author G. Brown,4,4,0,1,6.0,No Action Needed
+BM-0806,Advanced Chemistry 5,Author S. Jones,3,3,0,1,5.0,No Action Needed
+BM-0614,Fundamentals of Physics 3,Author D. Brown,3,3,0,1,5.0,No Action Needed
+BM-0917,Mastering Biology 6,Author V. Williams,3,3,0,1,5.0,No Action Needed
+BM-0760,Fundamentals of Physics 9,Author G. Smith,3,3,0,1,5.0,No Action Needed
+BM-0574,Fundamentals of Biology 2,Author Y. Smith,3,3,0,1,5.0,No Action Needed
+BM-0622,Fundamentals of Physics 10,Author K. Williams,3,3,0,1,5.0,No Action Needed
+BM-0117,History of Philosophy 9,Author G. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0967,Fundamentals of Python 7,Author Y. Smith,3,3,0,1,5.0,No Action Needed
+BM-0496,Fundamentals of Java 7,Author Y. Jones,5,5,0,0,5.0,No Action Needed
+BM-0866,History of History 7,Author L. Williams,5,5,0,0,5.0,No Action Needed
+BM-0643,Handbook of History 3,Author R. Brown,3,3,0,1,5.0,No Action Needed
+BM-0155,The Art of Physics 8,Author O. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0164,Advanced Philosophy 2,Author G. Williams,3,3,0,1,5.0,No Action Needed
+BM-0830,Guide to Python 6,Author F. Williams,3,3,0,1,5.0,No Action Needed
+BM-0692,Handbook of Physics 4,Author P. Jones,3,3,0,1,5.0,No Action Needed
+BM-0443,Introduction to Chemistry 9,Author E. Jones,3,3,0,1,5.0,No Action Needed
+BM-0914,The Art of Java 4,Author E. Smith,3,3,0,1,5.0,No Action Needed
+BM-0527,History of Machine Learning 4,Author Y. Williams,3,3,0,1,5.0,No Action Needed
+BM-0454,History of Physics 1,Author L. Brown,3,3,0,1,5.0,No Action Needed
+BM-0103,Handbook of Economics 3,Author U. Smith,3,3,0,1,5.0,No Action Needed
+BM-0190,Fundamentals of Calculus 10,Author A. Williams,3,3,0,1,5.0,No Action Needed
+BM-0523,Advanced Calculus 9,Author M. Brown,3,3,0,1,5.0,No Action Needed
+BM-0123,Handbook of Chemistry 5,Author T. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0126,Fundamentals of Python 3,Author K. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0457,Introduction to Chemistry 9,Author Z. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0209,Guide to Economics 1,Author E. Smith,3,3,0,1,5.0,No Action Needed
+BM-0286,Advanced Chemistry 1,Author U. Brown,3,3,0,1,5.0,No Action Needed
+BM-0537,Guide to Calculus 10,Author R. Brown,3,3,0,1,5.0,No Action Needed
+BM-0741,Introduction to Python 6,Author B. Smith,3,3,0,1,5.0,No Action Needed
+BM-0307,Introduction to History 1,Author A. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0721,Mastering Java 3,Author Q. Williams,3,3,0,1,5.0,No Action Needed
+BM-0991,Guide to Calculus 3,Author E. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0723,Mastering Calculus 9,Author W. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0789,The Art of Java 2,Author G. Smith,3,3,0,1,5.0,No Action Needed
+BM-0775,Guide to AI 3,Author Z. Jones,3,3,0,1,5.0,No Action Needed
+BM-0746,Advanced Music 5,Author M. Brown,3,3,0,1,5.0,No Action Needed
+BM-0371,Mastering Biology 9,Author M. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0995,Advanced Biology 3,Author C. Brown,3,3,0,1,5.0,No Action Needed
+BM-0584,The Art of Art 8,Author C. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0958,Mastering Music 10,Author N. Johnson,3,3,0,1,5.0,No Action Needed
+BM-0038,Fundamentals of Philosophy 6,Author M. Smith,5,5,0,0,5.0,No Action Needed
+BM-0389,Introduction to Java 8,Author C. Jones,3,3,0,1,5.0,No Action Needed
+BM-0980,Guide to AI 10,Author K. Williams,3,3,0,1,5.0,No Action Needed
+BM-0970,Handbook of Java 3,Author U. Brown,3,3,0,1,5.0,No Action Needed
+BM-0269,Mastering Calculus 7,Author P. Jones,2,2,0,1,4.0,No Action Needed
+BM-0070,Fundamentals of AI 6,Author M. Brown,2,2,0,1,4.0,No Action Needed
+BM-0557,Guide to Music 1,Author V. Jones,2,2,0,1,4.0,No Action Needed
+BM-0620,The Art of Python 8,Author W. Brown,2,2,0,1,4.0,No Action Needed
+BM-0611,Handbook of Physics 7,Author N. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0617,Mastering Calculus 4,Author P. Brown,2,2,0,1,4.0,No Action Needed
+BM-0025,Advanced Calculus 8,Author O. Brown,2,2,0,1,4.0,No Action Needed
+BM-0075,Advanced History 5,Author Q. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0050,Introduction to Machine Learning 3,Author C. Williams,2,2,0,1,4.0,No Action Needed
+BM-0029,Introduction to Python 7,Author Z. Smith,2,2,0,1,4.0,No Action Needed
+BM-0034,Advanced Physics 8,Author N. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0309,Mastering Chemistry 1,Author K. Brown,2,2,0,1,4.0,No Action Needed
+BM-0041,Mastering Music 6,Author I. Williams,2,2,0,1,4.0,No Action Needed
+BM-0301,Mastering AI 7,Author Z. Jones,2,2,0,1,4.0,No Action Needed
+BM-0833,History of Economics 6,Author P. Smith,2,2,0,1,4.0,No Action Needed
+BM-0274,History of Chemistry 10,Author A. Jones,2,2,0,1,4.0,No Action Needed
+BM-0251,The Art of Chemistry 1,Author O. Williams,2,2,0,1,4.0,No Action Needed
+BM-0585,Introduction to Physics 10,Author R. Brown,4,4,0,0,4.0,No Action Needed
+BM-0090,Mastering Python 4,Author B. Brown,2,2,0,1,4.0,No Action Needed
+BM-0642,Introduction to Music 4,Author V. Jones,2,2,0,1,4.0,No Action Needed
+BM-0249,Fundamentals of AI 9,Author J. Smith,2,2,0,1,4.0,No Action Needed
+BM-0841,Fundamentals of Music 8,Author V. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0797,Fundamentals of Python 10,Author V. Williams,2,2,0,1,4.0,No Action Needed
+BM-0327,Mastering Python 6,Author F. Brown,2,2,0,1,4.0,No Action Needed
+BM-0915,Introduction to Machine Learning 1,Author R. Williams,4,4,0,0,4.0,No Action Needed
+BM-0060,Mastering Calculus 9,Author K. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0799,Handbook of Economics 9,Author M. Williams,2,2,0,1,4.0,No Action Needed
+BM-0810,Introduction to Biology 9,Author Z. Williams,2,2,0,1,4.0,No Action Needed
+BM-0342,Advanced Philosophy 2,Author B. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0782,Introduction to Art 6,Author E. Jones,2,2,0,1,4.0,No Action Needed
+BM-0498,The Art of Philosophy 3,Author O. Smith,4,4,0,0,4.0,No Action Needed
+BM-0093,Introduction to Music 8,Author J. Jones,4,4,0,0,4.0,No Action Needed
+BM-0470,The Art of Art 5,Author L. Jones,2,2,0,1,4.0,No Action Needed
+BM-0687,Advanced Physics 3,Author Y. Brown,2,2,0,1,4.0,No Action Needed
+BM-0469,The Art of History 2,Author U. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0504,Guide to Biology 1,Author M. Smith,2,2,0,1,4.0,No Action Needed
+BM-0524,Advanced AI 6,Author F. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0607,The Art of Economics 3,Author V. Johnson,4,4,0,0,4.0,No Action Needed
+BM-0520,Advanced Music 2,Author S. Smith,2,2,0,1,4.0,No Action Needed
+BM-0095,Mastering Biology 6,Author R. Jones,2,2,0,1,4.0,No Action Needed
+BM-0711,Fundamentals of Biology 4,Author H. Williams,4,4,0,0,4.0,No Action Needed
+BM-0290,Advanced History 4,Author Y. Jones,4,4,0,0,4.0,No Action Needed
+BM-0149,Fundamentals of Physics 9,Author B. Smith,2,2,0,1,4.0,No Action Needed
+BM-0114,The Art of Physics 1,Author C. Johnson,4,4,0,0,4.0,No Action Needed
+BM-0897,History of Philosophy 3,Author Q. Smith,2,2,0,1,4.0,No Action Needed
+BM-0712,Mastering History 8,Author T. Smith,2,2,0,1,4.0,No Action Needed
+BM-0358,Advanced History 6,Author O. Jones,2,2,0,1,4.0,No Action Needed
+BM-0352,History of History 4,Author T. Williams,2,2,0,1,4.0,No Action Needed
+BM-0317,Mastering Calculus 2,Author T. Smith,2,2,0,1,4.0,No Action Needed
+BM-0134,History of AI 8,Author B. Jones,2,2,0,1,4.0,No Action Needed
+BM-0884,Advanced Chemistry 1,Author S. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0188,Fundamentals of Python 8,Author Q. Jones,2,2,0,1,4.0,No Action Needed
+BM-0204,Guide to AI 5,Author U. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0187,Fundamentals of Music 6,Author Z. Smith,2,2,0,1,4.0,No Action Needed
+BM-0730,Handbook of Philosophy 2,Author H. Williams,2,2,0,1,4.0,No Action Needed
+BM-0732,History of AI 5,Author V. Jones,2,2,0,1,4.0,No Action Needed
+BM-0736,Introduction to Art 1,Author O. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0331,Handbook of Physics 7,Author Q. Smith,2,2,0,1,4.0,No Action Needed
+BM-0370,Mastering Economics 2,Author V. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0373,History of Machine Learning 10,Author U. Jones,2,2,0,1,4.0,No Action Needed
+BM-0855,Mastering Chemistry 4,Author H. Johnson,2,2,0,1,4.0,No Action Needed
+BM-0217,Fundamentals of Biology 10,Author K. Smith,2,2,0,1,4.0,No Action Needed
+BM-0554,Introduction to Python 6,Author X. Jones,1,1,0,1,3.0,No Action Needed
+BM-0578,Mastering History 7,Author Z. Brown,1,1,0,1,3.0,No Action Needed
+BM-0329,History of Calculus 2,Author G. Williams,3,3,0,0,3.0,No Action Needed
+BM-0006,The Art of Calculus 8,Author P. Johnson,3,3,0,0,3.0,No Action Needed
+BM-0494,Advanced Machine Learning 7,Author R. Smith,1,1,0,1,3.0,No Action Needed
+BM-0500,The Art of Biology 2,Author Z. Smith,1,1,0,1,3.0,No Action Needed
+BM-0583,Handbook of Physics 4,Author H. Williams,1,1,0,1,3.0,No Action Needed
+BM-0580,The Art of Art 5,Author I. Brown,1,1,0,1,3.0,No Action Needed
+BM-0771,History of Machine Learning 2,Author P. Johnson,3,3,0,0,3.0,No Action Needed
+BM-0367,The Art of History 9,Author Y. Jones,3,3,0,0,3.0,No Action Needed
+BM-0186,Fundamentals of Art 3,Author L. Williams,1,1,0,1,3.0,No Action Needed
+BM-0181,Handbook of Biology 7,Author N. Johnson,1,1,0,1,3.0,No Action Needed
+BM-0440,History of Physics 1,Author X. Smith,3,3,0,0,3.0,No Action Needed
+BM-0299,The Art of Java 7,Author K. Jones,3,3,0,0,3.0,No Action Needed
+BM-0907,Fundamentals of Music 3,Author A. Brown,3,3,0,0,3.0,No Action Needed
+BM-0129,Handbook of Machine Learning 5,Author L. Smith,3,3,0,0,3.0,No Action Needed
+BM-0407,Advanced Calculus 5,Author B. Smith,1,1,0,1,3.0,No Action Needed
+BM-0045,Advanced Chemistry 9,Author K. Jones,3,3,0,0,3.0,No Action Needed
+BM-0644,Fundamentals of Java 10,Author A. Jones,3,3,0,0,3.0,No Action Needed
+BM-0900,Handbook of Calculus 3,Author X. Johnson,3,3,0,0,3.0,No Action Needed
+BM-0894,Advanced Physics 8,Author G. Johnson,1,1,0,1,3.0,No Action Needed
+BM-0167,The Art of Machine Learning 6,Author N. Smith,1,1,0,1,3.0,No Action Needed
+BM-0193,The Art of Biology 2,Author I. Jones,1,1,0,1,3.0,No Action Needed
+BM-0381,Advanced AI 4,Author S. Jones,1,1,0,1,3.0,No Action Needed
+BM-0445,The Art of Philosophy 1,Author X. Jones,3,3,0,0,3.0,No Action Needed
+BM-0265,Handbook of Biology 7,Author G. Jones,3,3,0,0,3.0,No Action Needed
+BM-0811,Advanced Java 5,Author F. Smith,3,3,0,0,3.0,No Action Needed
+BM-0423,Fundamentals of Physics 1,Author G. Smith,1,1,0,1,3.0,No Action Needed
+BM-0047,Mastering Java 8,Author G. Jones,3,3,0,0,3.0,No Action Needed
+BM-0881,Mastering Music 10,Author L. Jones,3,3,0,0,3.0,No Action Needed
+BM-0051,Handbook of History 6,Author O. Jones,3,3,0,0,3.0,No Action Needed
+BM-0097,Handbook of Java 9,Author I. Brown,3,3,0,0,3.0,No Action Needed
+BM-0429,The Art of Machine Learning 9,Author H. Jones,1,1,0,1,3.0,No Action Needed
+BM-0696,Fundamentals of Biology 2,Author A. Brown,1,1,0,1,3.0,No Action Needed
+BM-0949,Guide to Python 10,Author Y. Jones,3,3,0,0,3.0,No Action Needed
+BM-0057,Mastering Chemistry 9,Author V. Williams,3,3,0,0,3.0,No Action Needed
+BM-0902,Introduction to Music 5,Author G. Jones,1,1,0,1,3.0,No Action Needed
+BM-0724,History of Machine Learning 8,Author P. Smith,1,1,0,1,3.0,No Action Needed
+BM-0715,Introduction to Calculus 3,Author B. Johnson,1,1,0,1,3.0,No Action Needed
+BM-0425,Introduction to Python 3,Author S. Williams,1,1,0,1,3.0,No Action Needed
+BM-0017,Mastering Machine Learning 10,Author L. Johnson,1,1,0,1,3.0,No Action Needed
+BM-0018,History of Calculus 10,Author S. Williams,1,1,0,1,3.0,No Action Needed
+BM-0462,Handbook of Philosophy 10,Author D. Brown,1,1,0,1,3.0,No Action Needed
+BM-0655,Introduction to Economics 6,Author Q. Jones,1,1,0,1,3.0,No Action Needed
+BM-0111,Mastering Chemistry 1,Author L. Smith,1,1,0,1,3.0,No Action Needed
+BM-0683,Guide to Machine Learning 8,Author V. Brown,1,1,0,1,3.0,No Action Needed
+BM-0986,Handbook of Biology 5,Author B. Brown,3,3,0,0,3.0,No Action Needed
+BM-0024,Handbook of Python 7,Author V. Jones,3,3,0,0,3.0,No Action Needed
+BM-0306,Guide to Java 8,Author N. Brown,3,3,0,0,3.0,No Action Needed
+BM-0737,The Art of Biology 6,Author G. Jones,3,3,0,0,3.0,No Action Needed
+BM-0402,Guide to Java 8,Author Q. Brown,3,3,0,0,3.0,No Action Needed
+BM-0282,Introduction to Art 2,Author Q. Johnson,3,3,0,0,3.0,No Action Needed
+BM-0710,History of AI 7,Author M. Brown,3,3,0,0,3.0,No Action Needed
+BM-0562,Advanced History 3,Author T. Jones,3,3,0,0,3.0,No Action Needed
+BM-0401,Mastering History 6,Author R. Smith,3,3,0,0,3.0,No Action Needed
+BM-0743,History of Machine Learning 8,Author D. Williams,1,1,0,1,3.0,No Action Needed
+BM-0271,Guide to Economics 3,Author O. Jones,1,1,0,1,3.0,No Action Needed
+BM-0270,Handbook of Music 2,Author J. Williams,1,1,0,1,3.0,No Action Needed
+BM-0842,Fundamentals of Physics 6,Author X. Smith,1,1,0,1,3.0,No Action Needed
+BM-0772,Handbook of Java 9,Author J. Brown,1,1,0,1,3.0,No Action Needed
+BM-0287,Introduction to Philosophy 4,Author W. Smith,1,1,0,1,3.0,No Action Needed
+BM-0558,Mastering AI 9,Author I. Johnson,3,3,0,0,3.0,No Action Needed
+BM-0115,Guide to Philosophy 2,Author V. Williams,3,3,0,0,3.0,No Action Needed
+BM-0323,Fundamentals of Music 1,Author N. Johnson,3,3,0,0,3.0,No Action Needed
+BM-0796,Fundamentals of Physics 6,Author M. Jones,3,3,0,0,3.0,No Action Needed
+BM-0592,Handbook of Chemistry 6,Author G. Brown,1,1,0,1,3.0,No Action Needed
+BM-0028,Guide to Art 5,Author P. Jones,1,1,0,1,3.0,No Action Needed
+BM-0596,History of Music 7,Author Q. Williams,1,1,0,1,3.0,No Action Needed
+BM-0752,The Art of Philosophy 8,Author C. Jones,3,3,0,0,3.0,No Action Needed
+BM-0353,Handbook of Java 9,Author I. Williams,3,3,0,0,3.0,No Action Needed
+BM-0359,Mastering Physics 5,Author F. Johnson,3,3,0,0,3.0,No Action Needed
+BM-0107,Guide to Machine Learning 6,Author G. Williams,3,3,0,0,3.0,No Action Needed
+BM-0708,The Art of Physics 5,Author G. Jones,1,1,0,1,3.0,No Action Needed
+BM-0631,Handbook of Art 1,Author X. Brown,3,3,0,0,3.0,No Action Needed
+BM-0404,Guide to Chemistry 6,Author T. Brown,1,1,0,1,3.0,No Action Needed
+BM-0280,Introduction to Java 9,Author T. Jones,2,2,0,0,2.0,No Action Needed
+BM-0951,The Art of Calculus 8,Author S. Brown,2,2,0,0,2.0,No Action Needed
+BM-0049,Handbook of Python 6,Author Y. Brown,2,2,0,0,2.0,No Action Needed
+BM-0281,The Art of Physics 8,Author P. Williams,2,2,0,0,2.0,No Action Needed
+BM-0996,Advanced Calculus 6,Author H. Smith,2,2,0,0,2.0,No Action Needed
+BM-0990,Advanced Java 1,Author G. Brown,2,2,0,0,2.0,No Action Needed
+BM-0010,Introduction to Machine Learning 3,Author I. Smith,2,2,0,0,2.0,No Action Needed
+BM-0012,The Art of Economics 4,Author U. Jones,2,2,0,0,2.0,No Action Needed
+BM-0132,Handbook of Python 9,Author M. Brown,2,2,0,0,2.0,No Action Needed
+BM-0165,History of Chemistry 9,Author Y. Jones,2,2,0,0,2.0,No Action Needed
+BM-0420,History of Calculus 7,Author N. Williams,2,2,0,0,2.0,No Action Needed
+BM-0966,Advanced Chemistry 10,Author Z. Williams,2,2,0,0,2.0,No Action Needed
+BM-0058,Advanced Music 5,Author M. Jones,2,2,0,0,2.0,No Action Needed
+BM-0791,The Art of History 8,Author B. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0921,Fundamentals of AI 4,Author G. Williams,2,2,0,0,2.0,No Action Needed
+BM-0495,Advanced Music 1,Author T. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0661,Guide to AI 9,Author Z. Williams,2,2,0,0,2.0,No Action Needed
+BM-0647,Advanced Philosophy 10,Author K. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0519,Mastering Chemistry 9,Author E. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0626,Advanced AI 1,Author Q. Brown,2,2,0,0,2.0,No Action Needed
+BM-0561,Fundamentals of Calculus 4,Author I. Brown,2,2,0,0,2.0,No Action Needed
+BM-0935,Mastering Art 10,Author I. Smith,2,2,0,0,2.0,No Action Needed
+BM-0821,Mastering Calculus 3,Author P. Brown,2,2,0,0,2.0,No Action Needed
+BM-0068,Advanced Biology 10,Author L. Williams,2,2,0,0,2.0,No Action Needed
+BM-0071,Advanced Biology 4,Author U. Smith,2,2,0,0,2.0,No Action Needed
+BM-0546,Fundamentals of Philosophy 4,Author T. Williams,2,2,0,0,2.0,No Action Needed
+BM-0542,Mastering AI 9,Author I. Jones,2,2,0,0,2.0,No Action Needed
+BM-0449,Handbook of Art 6,Author B. Williams,2,2,0,0,2.0,No Action Needed
+BM-0380,Mastering Philosophy 1,Author D. Brown,2,2,0,0,2.0,No Action Needed
+BM-0260,Guide to AI 4,Author P. Smith,2,2,0,0,2.0,No Action Needed
+BM-0770,Guide to Biology 10,Author J. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0768,Handbook of Economics 4,Author W. Jones,2,2,0,0,2.0,No Action Needed
+BM-0863,The Art of Art 1,Author T. Jones,2,2,0,0,2.0,No Action Needed
+BM-0161,Mastering Chemistry 9,Author U. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0403,Fundamentals of AI 5,Author Z. Jones,2,2,0,0,2.0,No Action Needed
+BM-0144,Introduction to Physics 5,Author Y. Smith,2,2,0,0,2.0,No Action Needed
+BM-0434,Fundamentals of Java 8,Author N. Brown,2,2,0,0,2.0,No Action Needed
+BM-0807,Mastering Biology 4,Author H. Jones,2,2,0,0,2.0,No Action Needed
+BM-0320,Guide to Java 4,Author Z. Williams,2,2,0,0,2.0,No Action Needed
+BM-0911,The Art of Biology 1,Author G. Smith,2,2,0,0,2.0,No Action Needed
+BM-0267,The Art of Physics 3,Author J. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0945,Mastering Physics 3,Author Z. Smith,2,2,0,0,2.0,No Action Needed
+BM-0942,Guide to Calculus 3,Author F. Brown,2,2,0,0,2.0,No Action Needed
+BM-0064,The Art of Economics 7,Author W. Jones,2,2,0,0,2.0,No Action Needed
+BM-0566,The Art of Physics 10,Author Q. Jones,2,2,0,0,2.0,No Action Needed
+BM-0313,History of Physics 10,Author Q. Johnson,2,2,0,0,2.0,No Action Needed
+BM-0717,Introduction to Philosophy 9,Author V. Brown,2,2,0,0,2.0,No Action Needed
+BM-0393,History of Chemistry 6,Author W. Brown,2,2,0,0,2.0,No Action Needed
+BM-0392,The Art of Calculus 5,Author V. Smith,2,2,0,0,2.0,No Action Needed
+BM-0374,Advanced Calculus 9,Author J. Brown,2,2,0,0,2.0,No Action Needed
+BM-0351,Handbook of Economics 9,Author T. Brown,2,2,0,0,2.0,No Action Needed
+BM-0350,Advanced Music 2,Author R. Williams,2,2,0,0,2.0,No Action Needed
+BM-0348,History of Music 10,Author Y. Smith,2,2,0,0,2.0,No Action Needed
+BM-0541,Handbook of Chemistry 5,Author Y. Jones,2,2,0,0,2.0,No Action Needed
+BM-0539,Fundamentals of Java 3,Author F. Williams,2,2,0,0,2.0,No Action Needed
+BM-0829,Handbook of Chemistry 5,Author Y. Brown,2,2,0,0,2.0,No Action Needed
+BM-0518,History of Python 8,Author T. Brown,1,1,0,0,1.0,No Action Needed
+BM-0567,Mastering Art 4,Author M. Smith,1,1,0,0,1.0,No Action Needed
+BM-0623,Introduction to Calculus 3,Author O. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0628,Advanced Philosophy 7,Author U. Jones,1,1,0,0,1.0,No Action Needed
+BM-0633,Fundamentals of Physics 9,Author D. Smith,1,1,0,0,1.0,No Action Needed
+BM-0613,The Art of Python 9,Author Z. Brown,1,1,0,0,1.0,No Action Needed
+BM-0079,Advanced Chemistry 9,Author C. Smith,1,1,0,0,1.0,No Action Needed
+BM-0619,Fundamentals of Physics 9,Author A. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0074,History of Machine Learning 2,Author N. Williams,1,1,0,0,1.0,No Action Needed
+BM-0648,Handbook of Chemistry 2,Author F. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0532,Mastering Chemistry 8,Author K. Williams,1,1,0,0,1.0,No Action Needed
+BM-0043,Fundamentals of Art 4,Author G. Jones,1,1,0,0,1.0,No Action Needed
+BM-0052,Mastering Physics 7,Author S. Williams,1,1,0,0,1.0,No Action Needed
+BM-0506,Mastering History 7,Author T. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0507,Guide to Art 1,Author R. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0946,Fundamentals of Machine Learning 6,Author A. Jones,1,1,0,0,1.0,No Action Needed
+BM-0804,Guide to Physics 7,Author X. Williams,1,1,0,0,1.0,No Action Needed
+BM-0798,Introduction to Chemistry 10,Author M. Jones,1,1,0,0,1.0,No Action Needed
+BM-0800,Introduction to Art 2,Author K. Smith,1,1,0,0,1.0,No Action Needed
+BM-0335,Guide to Calculus 9,Author H. Brown,1,1,0,0,1.0,No Action Needed
+BM-0266,Introduction to Physics 8,Author X. Smith,1,1,0,0,1.0,No Action Needed
+BM-0248,Handbook of Physics 1,Author A. Smith,1,1,0,0,1.0,No Action Needed
+BM-0823,History of Music 5,Author X. Brown,1,1,0,0,1.0,No Action Needed
+BM-0975,History of Biology 8,Author I. Smith,1,1,0,0,1.0,No Action Needed
+BM-0040,History of AI 2,Author Z. Smith,1,1,0,0,1.0,No Action Needed
+BM-0973,Handbook of Economics 1,Author U. Jones,1,1,0,0,1.0,No Action Needed
+BM-0977,History of Calculus 3,Author E. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0989,History of Physics 7,Author G. Brown,1,1,0,0,1.0,No Action Needed
+BM-0992,Guide to Art 1,Author A. Brown,1,1,0,0,1.0,No Action Needed
+BM-0036,Mastering Machine Learning 3,Author J. Brown,1,1,0,0,1.0,No Action Needed
+BM-0601,The Art of Chemistry 8,Author W. Smith,1,1,0,0,1.0,No Action Needed
+BM-0304,Fundamentals of History 5,Author T. Smith,1,1,0,0,1.0,No Action Needed
+BM-0308,Advanced Python 3,Author O. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0341,Handbook of Python 2,Author T. Williams,1,1,0,0,1.0,No Action Needed
+BM-0346,The Art of Java 9,Author M. Smith,1,1,0,0,1.0,No Action Needed
+BM-0361,Guide to Art 5,Author W. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0766,History of AI 10,Author K. Williams,1,1,0,0,1.0,No Action Needed
+BM-0364,Fundamentals of Calculus 2,Author S. Smith,1,1,0,0,1.0,No Action Needed
+BM-0387,Introduction to Chemistry 2,Author A. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0386,Fundamentals of AI 2,Author G. Jones,1,1,0,0,1.0,No Action Needed
+BM-0233,The Art of AI 7,Author G. Brown,1,1,0,0,1.0,No Action Needed
+BM-0334,The Art of Java 8,Author G. Jones,1,1,0,0,1.0,No Action Needed
+BM-0851,The Art of Biology 9,Author E. Smith,1,1,0,0,1.0,No Action Needed
+BM-0794,Handbook of Physics 10,Author H. Jones,1,1,0,0,1.0,No Action Needed
+BM-0170,Advanced History 4,Author B. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0226,The Art of Art 6,Author Z. Brown,1,1,0,0,1.0,No Action Needed
+BM-0221,Introduction to Physics 8,Author V. Jones,1,1,0,0,1.0,No Action Needed
+BM-0228,History of Java 1,Author O. Brown,1,1,0,0,1.0,No Action Needed
+BM-0418,Fundamentals of Java 10,Author Z. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0749,Handbook of Chemistry 5,Author Z. Brown,1,1,0,0,1.0,No Action Needed
+BM-0408,Handbook of History 6,Author G. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0411,Fundamentals of Machine Learning 5,Author H. Brown,1,1,0,0,1.0,No Action Needed
+BM-0739,The Art of Economics 2,Author H. Brown,1,1,0,0,1.0,No Action Needed
+BM-0892,Introduction to Economics 9,Author H. Jones,1,1,0,0,1.0,No Action Needed
+BM-0888,Fundamentals of Philosophy 4,Author Q. Jones,1,1,0,0,1.0,No Action Needed
+BM-0458,Advanced Music 6,Author B. Smith,1,1,0,0,1.0,No Action Needed
+BM-0162,The Art of Biology 3,Author L. Jones,1,1,0,0,1.0,No Action Needed
+BM-0716,History of Biology 4,Author L. Smith,1,1,0,0,1.0,No Action Needed
+BM-0153,Fundamentals of Biology 4,Author Q. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0159,Introduction to Machine Learning 1,Author E. Smith,1,1,0,0,1.0,No Action Needed
+BM-0703,Fundamentals of Python 9,Author J. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0464,History of Machine Learning 2,Author B. Brown,1,1,0,0,1.0,No Action Needed
+BM-0480,Handbook of Music 6,Author U. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0704,Mastering Music 8,Author X. Jones,1,1,0,0,1.0,No Action Needed
+BM-0415,Mastering AI 9,Author Z. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0952,The Art of Art 2,Author E. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0100,Introduction to History 6,Author X. Johnson,1,1,0,0,1.0,No Action Needed
+BM-0136,Mastering Python 3,Author D. Jones,1,1,0,0,1.0,No Action Needed
+BM-0011,History of History 3,Author V. Brown,1,1,0,0,1.0,No Action Needed
