@@ -142,7 +142,17 @@ Kami menggunakan pendekatan *Market Basket Analysis* yang diperluas untuk menemu
 ### 3. Analisis Ukuran Transaksi
 Menganalisis perilaku peminjaman siswa berdasarkan jumlah buku yang dipinjam dalam satu waktu (Single, Double, atau Triple books).
 
-### 4. Weighted Scoring Model (DSS)
+### 4. Book Clustering Analysis
+Kami menggunakan algoritma **K-Means Clustering** untuk mengelompokkan buku berdasarkan kemiripan pola karakteristik.
+
+**Fitur yang digunakan:**
+*   **Borrow Frequency**: Tingkat popularitas peminjaman.
+*   **Publication Year**: Tahun terbit buku.
+*   **Category**: Genre buku.
+
+Tujuannya adalah untuk mengidentifikasi segmen buku seperti "Buku Klasik Populer", "Buku Baru Niche", dll.
+
+### 5. Weighted Scoring Model (DSS)
 Untuk rekomendasi pengadaan buku, kami menggunakan model pembobotan sederhana namun efektif.
 
 **Rumus Dasar:**
@@ -207,11 +217,18 @@ Grafik ini menampilkan kombinasi item (buku/kategori) yang paling sering muncul 
 Daftar prioritas pengadaan buku. Grafik ini menyoroti buku-buku yang paling mendesak untuk dibeli kembali.
 ![DSS Recommendations](analysis/visualizations/dss_top_recommendations.png)
 
+### 7. Hasil Clustering Buku
+Pengelompokan buku berdasarkan frekuensi dan metadata.
+*   **Scatter Plot (Tahun vs Frekuensi):**
+    ![Clustering Scatter](analysis/visualizations/book_clustering_scatter.png)
+*   **Distribusi Peminjaman per Cluster:**
+    ![Clustering Boxplot](analysis/visualizations/book_clustering_boxplot.png)
+
 ---
 
 ## 🚀 Cara Menjalankan
 
-Pastikan Anda telah menginstal Python dan library yang dibutuhkan (`pandas`, `matplotlib`, `seaborn`, `networkx`).
+Pastikan Anda telah menginstal Python dan library yang dibutuhkan (`pandas`, `matplotlib`, `seaborn`, `networkx`, `scikit-learn`).
 
 1.  **Jalankan Analisis**:
     ```bash
@@ -221,6 +238,7 @@ Pastikan Anda telah menginstal Python dan library yang dibutuhkan (`pandas`, `ma
     python analysis/analyze_category_popularity.py
     python analysis/analyze_category_association.py
     python analysis/dss_recommendation.py
+    python analysis/analyze_book_clustering.py
     ```
 
 2.  **Generate Visualisasi**:
@@ -237,6 +255,7 @@ Pastikan Anda telah menginstal Python dan library yang dibutuhkan (`pandas`, `ma
         *   `top_3_itemsets.png`: Frekuensi kombinasi 3 buku.
         *   `top_3_category_itemsets.png`: Frekuensi kombinasi 3 kategori.
         *   `transaction_size_distribution.png`: Distribusi jumlah buku per transaksi.
+        *   `book_clustering_scatter.png`: Visualisasi cluster buku.
 
 ---
 *Dikembangkan untuk Proyek DSS Perpustakaan*
