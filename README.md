@@ -125,12 +125,24 @@ Kami menggunakan kombinasi **usia buku** dan **frekuensi peminjaman** untuk meng
 | **AVERAGE** | Any | Average | Buku dengan performa standar. |
 
 ### 2. Association Rule Mining (Pola Asosiasi)
-Kami menggunakan pendekatan *Market Basket Analysis* untuk menemukan hubungan antar item.
+Kami menggunakan pendekatan *Market Basket Analysis* yang diperluas untuk menemukan hubungan antar item dengan alur **Apriori-like**:
+
+1.  **Itemset Generation**:
+    *   **1-Itemset**: Frekuensi item tunggal.
+    *   **2-Itemset**: Kombinasi sepasang item.
+    *   **3-Itemset**: Kombinasi tiga item (Triple Association).
+2.  **Frequent Itemset Filtering**: Hanya kombinasi yang memenuhi `MIN_SUPPORT` yang diproses lanjut.
+3.  **Rule Generation**: Membentuk aturan sebab-akibat dari frequent itemsets.
+
+**Metrik:**
 *   **Support**: Seberapa populer suatu kombinasi item.
 *   **Confidence**: Seberapa kuat hubungan sebab-akibat (Jika A maka B).
-*   **Lift**: Rasio ketergantungan. Nilai `Lift > 1` menunjukkan hubungan yang signifikan dan bukan kebetulan.
+*   **Lift**: Rasio ketergantungan. Nilai `Lift > 1` menunjukkan hubungan yang signifikan.
 
-### 3. Weighted Scoring Model (DSS)
+### 3. Analisis Ukuran Transaksi
+Menganalisis perilaku peminjaman siswa berdasarkan jumlah buku yang dipinjam dalam satu waktu (Single, Double, atau Triple books).
+
+### 4. Weighted Scoring Model (DSS)
 Untuk rekomendasi pengadaan buku, kami menggunakan model pembobotan sederhana namun efektif.
 
 **Rumus Dasar:**
@@ -172,7 +184,26 @@ Visualisasi graf yang menunjukkan keterhubungan antar buku dan antar kategori. K
 **Asosiasi Kategori:**
 ![Category Association Network](analysis/visualizations/category_association_network.png)
 
-### 💡 5. Rekomendasi Pembelian (DSS)
+### 5. Frequent Itemsets (Top Kombinasi)
+Grafik ini menampilkan kombinasi item (buku/kategori) yang paling sering muncul dalam transaksi.
+
+**A. Analisis Buku:**
+*   **Top 1-Itemset (Buku Tunggal):**
+    ![Top 1 Book Itemsets](analysis/visualizations/top_1_itemsets.png)
+*   **Top 2-Itemset (Pasangan Buku):**
+    ![Top 2 Book Itemsets](analysis/visualizations/top_2_itemsets.png)
+*   **Top 3-Itemset (Tiga Buku):**
+    ![Top 3 Book Itemsets](analysis/visualizations/top_3_itemsets.png)
+
+**B. Analisis Kategori:**
+*   **Top 1-Itemset (Kategori Tunggal):**
+    ![Top 1 Category Itemsets](analysis/visualizations/top_1_category_itemsets.png)
+*   **Top 2-Itemset (Pasangan Kategori):**
+    ![Top 2 Category Itemsets](analysis/visualizations/top_2_category_itemsets.png)
+*   **Top 3-Itemset (Tiga Kategori):**
+    ![Top 3 Category Itemsets](analysis/visualizations/top_3_category_itemsets.png)
+
+### 6. Rekomendasi Pembelian (DSS)
 Daftar prioritas pengadaan buku. Grafik ini menyoroti buku-buku yang paling mendesak untuk dibeli kembali.
 ![DSS Recommendations](analysis/visualizations/dss_top_recommendations.png)
 
@@ -195,11 +226,17 @@ Pastikan Anda telah menginstal Python dan library yang dibutuhkan (`pandas`, `ma
 2.  **Generate Visualisasi**:
     ```bash
     python analysis/visualize_results.py
+    python analysis/visualize_itemsets.py
+    python analysis/visualize_category_itemsets.py
+    python analysis/analyze_transaction_size.py
     ```
 
 3.  **Lihat Hasil**:
     *   Data CSV: `analysis/output/`
     *   Gambar Grafik: `analysis/visualizations/`
+        *   `top_3_itemsets.png`: Frekuensi kombinasi 3 buku.
+        *   `top_3_category_itemsets.png`: Frekuensi kombinasi 3 kategori.
+        *   `transaction_size_distribution.png`: Distribusi jumlah buku per transaksi.
 
 ---
 *Dikembangkan untuk Proyek DSS Perpustakaan*
