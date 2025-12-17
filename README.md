@@ -25,30 +25,65 @@ Sistem ini dirancang untuk membantu pustakawan dalam mengambil keputusan berbasi
 
 ## 🗄️ Struktur Dataset
 
-Analisis ini didukung oleh dataset relasional yang mencakup:
+Dataset ini terdiri dari 8 file CSV yang saling berelasi dengan total ribuan record data. Berikut adalah detail schema dan statistik jumlah data untuk setiap file:
 
-### 1. Data Buku
-*   **`book_masters.csv`**: Katalog utama buku.
-    *   `id`: Kode unik buku (Primary Key).
+### 1. Data Master (Referensi)
+
+*   **`categorys.csv`** (21 records)
+    *   `id`: ID unik kategori.
+    *   `name`: Nama kategori (misal: *Fiction*, *Science*, *History*).
+    *   `description`: Deskripsi singkat mengenai kategori tersebut.
+
+*   **`students.csv`** (101 records)
+    *   `id`: ID unik siswa (Primary Key).
+    *   `nis`: Nomor Induk Siswa.
+    *   `name`: Nama lengkap siswa.
+
+*   **`book_masters.csv`** (1,001 records)
+    *   `id`: ID unik buku (Primary Key).
     *   `title`: Judul lengkap buku.
     *   `author`: Nama penulis.
-    *   `categoryId`: Kode kategori buku.
-*   **`book_items.csv`**: Inventaris fisik buku (eksemplar).
-    *   `id`: Kode unik eksemplar.
-    *   `masterId`: Referensi ke `book_masters`.
-    *   `condition`: Kondisi fisik (`New`, `Good`, `Fair`, `Poor`).
-    *   `status`: Status peminjaman (`Available`, `Borrowed`, `Lost`).
-*   **`categorys.csv`**: Daftar kategori/genre.
-    *   `id`: Kode kategori.
-    *   `name`: Nama kategori (misal: *Fiksi*, *Sains*, *Sejarah*).
+    *   `publisher`: Nama penerbit.
+    *   `year`: Tahun terbit buku.
+    *   `categoryId`: ID kategori (Foreign Key ke `categorys.csv`).
+    *   `isbn`: Nomor ISBN buku.
+
+*   **`book_items.csv`** (3,001 records)
+    *   `id`: ID unik eksemplar buku (Primary Key).
+    *   `masterId`: Referensi ke data buku utama (`book_masters`).
+    *   `code`: Kode inventaris unik (barcode) untuk setiap eksemplar.
+    *   `condition`: Kondisi fisik saat ini (`New`, `Good`, `Fair`, `Poor`).
+    *   `status`: Status ketersediaan (`Available`, `Borrowed`, `Lost`, `Maintenance`).
+    *   `createdAt`: Tanggal eksemplar didaftarkan ke sistem.
 
 ### 2. Data Transaksi
-*   **`borrow_transactions.csv`**: Catatan peminjaman.
-    *   `id`: Kode transaksi.
-    *   `borrowDate`: Tanggal transaksi dilakukan.
-*   **`borrow_details.csv`**: Rincian buku yang dipinjam.
-    *   `borrowId`: Referensi ke transaksi.
-    *   `bookItemId`: Referensi ke eksemplar buku yang dipinjam.
+
+*   **`borrow_transactions.csv`** (1,512 records)
+    *   `id`: ID transaksi peminjaman (Primary Key).
+    *   `adminId`: ID petugas yang memproses peminjaman.
+    *   `studentId`: ID siswa yang meminjam (Foreign Key ke `students.csv`).
+    *   `borrowedAt`: Tanggal dan waktu peminjaman.
+    *   `dueDate`: Tanggal jatuh tempo pengembalian.
+    *   `status`: Status transaksi (`Borrowed`, `Returned`, `Overdue`).
+
+*   **`borrow_details.csv`** (3,001 records)
+    *   `id`: ID detail peminjaman.
+    *   `borrowId`: ID transaksi peminjaman (Foreign Key ke `borrow_transactions.csv`).
+    *   `bookItemId`: ID eksemplar buku yang dipinjam (Foreign Key ke `book_items.csv`).
+    *   `conditionAtBorrow`: Kondisi fisik buku saat dipinjam.
+
+*   **`return_transactions.csv`** (1,501 records)
+    *   `id`: ID transaksi pengembalian.
+    *   `borrowId`: ID transaksi peminjaman yang dikembalikan (Foreign Key ke `borrow_transactions.csv`).
+    *   `adminId`: ID petugas yang menerima pengembalian.
+    *   `returnedAt`: Tanggal dan waktu pengembalian.
+
+*   **`return_details.csv`** (2,982 records)
+    *   `id`: ID detail pengembalian.
+    *   `returnId`: ID transaksi pengembalian (Foreign Key ke `return_transactions.csv`).
+    *   `bookItemId`: ID eksemplar buku yang dikembalikan.
+    *   `conditionAtReturn`: Kondisi fisik buku saat dikembalikan (Validasi perubahan kondisi).
+    *   `notes`: Catatan tambahan mengenai pengembalian (kerusakan, denda, dll).
 
 ---
 

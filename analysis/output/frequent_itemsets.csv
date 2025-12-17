@@ -1,0 +1,3023 @@
+Itemset,Itemset_Size,Count,Support
+Advanced Physics 2,1,20,0.0132
+Introduction to Music 3,1,20,0.0132
+Advanced Chemistry 5,1,18,0.0119
+The Art of History 1,1,18,0.0119
+Fundamentals of Java 3,1,17,0.0113
+Mastering Java 10,1,16,0.0106
+Introduction to Chemistry 5,1,16,0.0106
+Advanced Economics 7,1,16,0.0106
+Advanced Java 1,1,15,0.0099
+The Art of History 5,1,15,0.0099
+History of History 7,1,15,0.0099
+Fundamentals of Biology 4,1,14,0.0093
+Fundamentals of Java 1,1,14,0.0093
+The Art of Economics 8,1,14,0.0093
+The Art of Calculus 3,1,13,0.0086
+Guide to Biology 7,1,13,0.0086
+The Art of Calculus 8,1,13,0.0086
+Mastering AI 6,1,13,0.0086
+Advanced Calculus 8,1,13,0.0086
+Handbook of Chemistry 5,1,13,0.0086
+Guide to Music 2,1,13,0.0086
+Advanced Machine Learning 1,1,13,0.0086
+History of Physics 1,1,13,0.0086
+Advanced Chemistry 1,1,13,0.0086
+Fundamentals of Python 1,1,12,0.0079
+Introduction to Machine Learning 7,1,12,0.0079
+Fundamentals of Chemistry 7,1,12,0.0079
+Handbook of Philosophy 10,1,12,0.0079
+Mastering History 2,1,12,0.0079
+Guide to Physics 1,1,12,0.0079
+History of Calculus 8,1,11,0.0073
+Mastering Music 10,1,11,0.0073
+Fundamentals of Physics 9,1,11,0.0073
+Fundamentals of Machine Learning 5,1,11,0.0073
+Guide to Art 2,1,11,0.0073
+The Art of Art 8,1,11,0.0073
+Mastering Calculus 9,1,11,0.0073
+Guide to AI 5,1,11,0.0073
+Mastering Biology 8,1,11,0.0073
+Fundamentals of Chemistry 4,1,11,0.0073
+Mastering History 6,1,11,0.0073
+Introduction to Art 6,1,11,0.0073
+Fundamentals of Chemistry 9,1,11,0.0073
+Mastering Music 8,1,11,0.0073
+The Art of Biology 6,1,11,0.0073
+Advanced Music 8,1,10,0.0066
+The Art of Economics 9,1,10,0.0066
+Handbook of History 9,1,10,0.0066
+History of Physics 6,1,10,0.0066
+Mastering Python 6,1,10,0.0066
+Advanced Java 3,1,10,0.0066
+Handbook of Economics 9,1,10,0.0066
+Advanced AI 1,1,10,0.0066
+History of Machine Learning 1,1,10,0.0066
+Fundamentals of Calculus 10,1,10,0.0066
+Mastering Physics 3,1,10,0.0066
+Mastering Economics 10,1,10,0.0066
+Advanced Philosophy 2,1,10,0.0066
+Fundamentals of Java 7,1,10,0.0066
+Mastering Economics 7,1,10,0.0066
+Introduction to Physics 3,1,10,0.0066
+Fundamentals of Chemistry 6,1,10,0.0066
+Advanced Calculus 7,1,10,0.0066
+Advanced Java 8,1,10,0.0066
+History of Chemistry 10,1,9,0.006
+Advanced Music 4,1,9,0.006
+Advanced Java 7,1,9,0.006
+Mastering Philosophy 4,1,9,0.006
+Advanced History 4,1,9,0.006
+The Art of Art 10,1,9,0.006
+Advanced Economics 5,1,9,0.006
+Mastering Calculus 1,1,9,0.006
+Mastering Philosophy 9,1,9,0.006
+Handbook of Machine Learning 5,1,9,0.006
+The Art of Python 5,1,9,0.006
+Fundamentals of Physics 5,1,9,0.006
+History of AI 7,1,9,0.006
+Fundamentals of Python 7,1,9,0.006
+Guide to Art 1,1,9,0.006
+The Art of Philosophy 9,1,8,0.0053
+History of Art 2,1,8,0.0053
+Mastering Philosophy 1,1,8,0.0053
+Guide to AI 10,1,8,0.0053
+History of Philosophy 8,1,8,0.0053
+History of Calculus 4,1,8,0.0053
+Mastering Java 8,1,8,0.0053
+Guide to History 7,1,8,0.0053
+Mastering Python 4,1,8,0.0053
+Handbook of Biology 7,1,8,0.0053
+The Art of Philosophy 1,1,8,0.0053
+Fundamentals of Music 1,1,8,0.0053
+Handbook of Chemistry 6,1,8,0.0053
+The Art of Java 2,1,8,0.0053
+The Art of Physics 7,1,8,0.0053
+Handbook of Music 6,1,8,0.0053
+The Art of Calculus 1,1,8,0.0053
+History of Biology 6,1,8,0.0053
+The Art of History 10,1,8,0.0053
+The Art of History 9,1,8,0.0053
+Advanced History 5,1,8,0.0053
+Handbook of Art 7,1,8,0.0053
+Fundamentals of Economics 7,1,8,0.0053
+Handbook of Art 1,1,8,0.0053
+Mastering Art 9,1,8,0.0053
+Guide to Java 2,1,7,0.0046
+The Art of AI 9,1,7,0.0046
+Guide to Calculus 3,1,7,0.0046
+Handbook of Economics 2,1,7,0.0046
+The Art of Art 9,1,7,0.0046
+Introduction to Physics 8,1,7,0.0046
+Guide to Python 7,1,7,0.0046
+History of Biology 3,1,7,0.0046
+Mastering Calculus 6,1,7,0.0046
+Advanced Biology 10,1,7,0.0046
+Mastering Java 3,1,7,0.0046
+Advanced Calculus 5,1,7,0.0046
+History of Machine Learning 8,1,7,0.0046
+Handbook of Java 9,1,7,0.0046
+Handbook of Java 6,1,7,0.0046
+Fundamentals of AI 5,1,7,0.0046
+Mastering Music 1,1,7,0.0046
+Fundamentals of Java 9,1,7,0.0046
+Guide to Python 1,1,7,0.0046
+History of History 2,1,7,0.0046
+The Art of Economics 3,1,7,0.0046
+The Art of Python 7,1,7,0.0046
+Mastering AI 7,1,7,0.0046
+Fundamentals of Physics 6,1,7,0.0046
+History of Economics 4,1,7,0.0046
+Mastering Music 6,1,7,0.0046
+Handbook of Calculus 4,1,7,0.0046
+Advanced Calculus 6,1,7,0.0046
+Introduction to AI 10,1,7,0.0046
+Handbook of Python 2,1,7,0.0046
+Mastering Biology 6,1,7,0.0046
+The Art of History 6,1,7,0.0046
+History of History 10,1,7,0.0046
+Introduction to AI 8,1,7,0.0046
+History of Machine Learning 9,1,7,0.0046
+Mastering Chemistry 9,1,7,0.0046
+History of Music 9,1,7,0.0046
+Fundamentals of Chemistry 8,1,7,0.0046
+Advanced Calculus 1,1,7,0.0046
+The Art of History 8,1,7,0.0046
+The Art of Physics 5,1,7,0.0046
+Introduction to History 9,1,7,0.0046
+Introduction to Calculus 2,1,7,0.0046
+Guide to Python 10,1,7,0.0046
+Advanced Music 2,1,7,0.0046
+Advanced Economics 9,1,7,0.0046
+Advanced Python 10,1,7,0.0046
+Guide to Economics 1,1,7,0.0046
+Advanced Chemistry 8,1,7,0.0046
+Mastering Chemistry 2,1,7,0.0046
+Advanced Chemistry 4,1,7,0.0046
+Fundamentals of Economics 4,1,7,0.0046
+Guide to Java 4,1,7,0.0046
+Handbook of Physics 7,1,6,0.004
+Mastering Art 10,1,6,0.004
+History of Calculus 7,1,6,0.004
+The Art of History 2,1,6,0.004
+The Art of History 4,1,6,0.004
+Advanced Python 7,1,6,0.004
+Handbook of Python 6,1,6,0.004
+Guide to Music 9,1,6,0.004
+Guide to AI 3,1,6,0.004
+Advanced Chemistry 10,1,6,0.004
+Fundamentals of Java 6,1,6,0.004
+Advanced Art 1,1,6,0.004
+History of Java 1,1,6,0.004
+Guide to Art 3,1,6,0.004
+Fundamentals of Calculus 7,1,6,0.004
+History of Music 2,1,6,0.004
+Guide to Java 8,1,6,0.004
+History of Chemistry 2,1,6,0.004
+Mastering AI 9,1,6,0.004
+The Art of Python 9,1,6,0.004
+Handbook of AI 9,1,6,0.004
+History of Music 7,1,6,0.004
+Introduction to Java 8,1,6,0.004
+Guide to Music 4,1,6,0.004
+Mastering History 8,1,6,0.004
+Introduction to History 10,1,6,0.004
+The Art of Music 1,1,6,0.004
+Guide to Biology 10,1,6,0.004
+Advanced History 7,1,6,0.004
+The Art of Chemistry 1,1,6,0.004
+Guide to Calculus 9,1,6,0.004
+Introduction to Philosophy 1,1,6,0.004
+Guide to AI 6,1,6,0.004
+Introduction to AI 3,1,6,0.004
+Advanced Music 1,1,6,0.004
+Handbook of Art 5,1,6,0.004
+History of Economics 1,1,6,0.004
+Introduction to Chemistry 9,1,6,0.004
+Guide to Philosophy 3,1,6,0.004
+History of Calculus 3,1,6,0.004
+Guide to Chemistry 2,1,6,0.004
+Advanced History 3,1,6,0.004
+History of Art 3,1,6,0.004
+Fundamentals of Philosophy 2,1,6,0.004
+The Art of Philosophy 6,1,6,0.004
+Handbook of Economics 3,1,6,0.004
+The Art of History 3,1,6,0.004
+Introduction to Python 7,1,6,0.004
+Introduction to Java 5,1,6,0.004
+Handbook of Machine Learning 7,1,6,0.004
+Handbook of Java 2,1,6,0.004
+Mastering History 3,1,6,0.004
+Guide to AI 9,1,6,0.004
+Advanced History 10,1,6,0.004
+Fundamentals of Physics 1,1,6,0.004
+The Art of Calculus 5,1,6,0.004
+Advanced Python 2,1,6,0.004
+Handbook of Biology 10,1,6,0.004
+History of Music 5,1,6,0.004
+Fundamentals of Economics 6,1,5,0.0033
+History of Chemistry 7,1,5,0.0033
+History of Biology 9,1,5,0.0033
+The Art of Music 3,1,5,0.0033
+The Art of Python 8,1,5,0.0033
+Fundamentals of AI 2,1,5,0.0033
+Introduction to Python 5,1,5,0.0033
+Mastering Art 6,1,5,0.0033
+Mastering Philosophy 5,1,5,0.0033
+History of Machine Learning 6,1,5,0.0033
+History of Economics 6,1,5,0.0033
+Mastering Economics 5,1,5,0.0033
+Mastering Art 2,1,5,0.0033
+Mastering Calculus 3,1,5,0.0033
+Advanced Python 1,1,5,0.0033
+Mastering Machine Learning 10,1,5,0.0033
+History of Machine Learning 10,1,5,0.0033
+The Art of Machine Learning 9,1,5,0.0033
+The Art of Python 3,1,5,0.0033
+Guide to Art 10,1,5,0.0033
+Introduction to Economics 4,1,5,0.0033
+Fundamentals of Philosophy 8,1,5,0.0033
+Advanced AI 6,1,5,0.0033
+Advanced Music 5,1,5,0.0033
+History of Chemistry 4,1,5,0.0033
+History of Machine Learning 2,1,5,0.0033
+Introduction to Economics 3,1,5,0.0033
+Introduction to History 7,1,5,0.0033
+History of Philosophy 10,1,5,0.0033
+Handbook of Java 1,1,5,0.0033
+The Art of Biology 7,1,5,0.0033
+The Art of Philosophy 5,1,5,0.0033
+Handbook of Calculus 8,1,5,0.0033
+Introduction to Music 10,1,5,0.0033
+Advanced AI 2,1,5,0.0033
+History of Chemistry 5,1,5,0.0033
+Guide to Biology 3,1,5,0.0033
+Guide to AI 8,1,5,0.0033
+Introduction to Philosophy 7,1,5,0.0033
+Mastering Philosophy 2,1,5,0.0033
+Advanced Python 8,1,5,0.0033
+The Art of Java 6,1,5,0.0033
+Advanced Calculus 9,1,5,0.0033
+Fundamentals of Machine Learning 3,1,5,0.0033
+Handbook of Physics 10,1,5,0.0033
+Introduction to Art 5,1,5,0.0033
+Fundamentals of Philosophy 6,1,5,0.0033
+Advanced Art 6,1,5,0.0033
+Mastering History 7,1,5,0.0033
+History of Art 7,1,5,0.0033
+Introduction to Machine Learning 1,1,5,0.0033
+Handbook of Java 3,1,5,0.0033
+The Art of Economics 4,1,5,0.0033
+Guide to AI 1,1,5,0.0033
+Advanced Art 4,1,5,0.0033
+Guide to Machine Learning 5,1,5,0.0033
+History of Biology 8,1,5,0.0033
+Handbook of Chemistry 7,1,5,0.0033
+Introduction to Philosophy 6,1,5,0.0033
+Fundamentals of Calculus 2,1,5,0.0033
+Advanced Physics 4,1,5,0.0033
+Introduction to Music 9,1,5,0.0033
+Handbook of Music 2,1,5,0.0033
+The Art of Physics 8,1,5,0.0033
+The Art of Java 4,1,4,0.0026
+Introduction to AI 4,1,4,0.0026
+The Art of Biology 1,1,4,0.0026
+Advanced Art 2,1,4,0.0026
+Handbook of Python 4,1,4,0.0026
+The Art of Art 2,1,4,0.0026
+Mastering Biology 4,1,4,0.0026
+History of Economics 8,1,4,0.0026
+Handbook of Art 10,1,4,0.0026
+Mastering Chemistry 1,1,4,0.0026
+Guide to History 9,1,4,0.0026
+Introduction to Physics 10,1,4,0.0026
+Advanced Art 9,1,4,0.0026
+Mastering Philosophy 7,1,4,0.0026
+Guide to Music 8,1,4,0.0026
+Introduction to AI 6,1,4,0.0026
+The Art of Economics 2,1,4,0.0026
+Fundamentals of Physics 2,1,4,0.0026
+History of Philosophy 9,1,4,0.0026
+Mastering Calculus 7,1,4,0.0026
+Fundamentals of Art 10,1,4,0.0026
+Fundamentals of Python 4,1,4,0.0026
+Handbook of Machine Learning 9,1,4,0.0026
+Introduction to Biology 6,1,4,0.0026
+History of AI 9,1,4,0.0026
+Introduction to Python 6,1,4,0.0026
+Guide to Calculus 6,1,4,0.0026
+History of Python 10,1,4,0.0026
+Fundamentals of Java 10,1,4,0.0026
+Mastering Physics 9,1,4,0.0026
+Mastering Java 6,1,4,0.0026
+Introduction to Art 2,1,4,0.0026
+The Art of Physics 2,1,4,0.0026
+Introduction to Machine Learning 10,1,4,0.0026
+Handbook of Java 8,1,4,0.0026
+Fundamentals of Machine Learning 9,1,4,0.0026
+The Art of Physics 1,1,4,0.0026
+The Art of AI 10,1,4,0.0026
+Mastering Music 9,1,4,0.0026
+Fundamentals of Music 4,1,4,0.0026
+Introduction to Philosophy 3,1,4,0.0026
+The Art of Philosophy 4,1,4,0.0026
+Handbook of History 6,1,4,0.0026
+Introduction to Biology 4,1,4,0.0026
+Advanced History 6,1,4,0.0026
+Handbook of Java 4,1,4,0.0026
+Handbook of Calculus 2,1,4,0.0026
+Mastering Physics 1,1,4,0.0026
+History of Java 9,1,4,0.0026
+Advanced Chemistry 9,1,4,0.0026
+History of Python 9,1,4,0.0026
+Guide to Python 4,1,4,0.0026
+History of Calculus 5,1,4,0.0026
+Introduction to History 8,1,4,0.0026
+The Art of Machine Learning 2,1,4,0.0026
+History of Philosophy 1,1,4,0.0026
+Guide to Art 6,1,4,0.0026
+Introduction to Music 1,1,4,0.0026
+Guide to Machine Learning 2,1,4,0.0026
+The Art of Philosophy 3,1,4,0.0026
+History of Chemistry 9,1,4,0.0026
+Introduction to Chemistry 3,1,4,0.0026
+Mastering Chemistry 10,1,4,0.0026
+Advanced Chemistry 6,1,4,0.0026
+The Art of Biology 8,1,4,0.0026
+Advanced Python 5,1,4,0.0026
+Mastering Chemistry 7,1,4,0.0026
+Fundamentals of Philosophy 9,1,4,0.0026
+Fundamentals of Calculus 1,1,4,0.0026
+Handbook of Physics 4,1,4,0.0026
+Advanced Biology 4,1,4,0.0026
+Handbook of History 2,1,4,0.0026
+Advanced Machine Learning 8,1,4,0.0026
+Introduction to Music 8,1,4,0.0026
+History of Machine Learning 5,1,4,0.0026
+Introduction to Machine Learning 3,1,4,0.0026
+The Art of Biology 10,1,4,0.0026
+Guide to Biology 9,1,4,0.0026
+Handbook of Philosophy 7,1,4,0.0026
+Fundamentals of Biology 2,1,4,0.0026
+Mastering Economics 2,1,3,0.002
+Introduction to Machine Learning 2,1,3,0.002
+Guide to Economics 5,1,3,0.002
+Fundamentals of Art 5,1,3,0.002
+Mastering Economics 9,1,3,0.002
+Fundamentals of Economics 9,1,3,0.002
+Handbook of Machine Learning 2,1,3,0.002
+History of AI 2,1,3,0.002
+History of Biology 2,1,3,0.002
+Handbook of AI 10,1,3,0.002
+Advanced Python 9,1,3,0.002
+Guide to Machine Learning 1,1,3,0.002
+Advanced Philosophy 9,1,3,0.002
+Fundamentals of Chemistry 2,1,3,0.002
+History of AI 3,1,3,0.002
+Advanced Economics 10,1,3,0.002
+Handbook of Music 7,1,3,0.002
+Guide to Machine Learning 6,1,3,0.002
+The Art of Art 5,1,3,0.002
+Guide to Python 6,1,3,0.002
+Advanced Philosophy 1,1,3,0.002
+Introduction to History 4,1,3,0.002
+Introduction to Java 2,1,3,0.002
+The Art of Chemistry 2,1,3,0.002
+Handbook of Machine Learning 3,1,3,0.002
+Introduction to History 1,1,3,0.002
+Guide to Philosophy 9,1,3,0.002
+Guide to Calculus 1,1,3,0.002
+Introduction to Java 10,1,3,0.002
+Guide to Biology 8,1,3,0.002
+The Art of Art 3,1,3,0.002
+Handbook of Calculus 3,1,3,0.002
+Fundamentals of Physics 3,1,3,0.002
+History of Economics 5,1,3,0.002
+Fundamentals of Python 10,1,3,0.002
+Mastering Biology 7,1,3,0.002
+Advanced Java 5,1,3,0.002
+Fundamentals of Music 3,1,3,0.002
+The Art of Java 7,1,3,0.002
+Fundamentals of AI 9,1,3,0.002
+Guide to Calculus 10,1,3,0.002
+The Art of Music 6,1,3,0.002
+Fundamentals of Python 3,1,3,0.002
+Introduction to Physics 1,1,3,0.002
+Fundamentals of Chemistry 10,1,3,0.002
+Advanced Art 8,1,3,0.002
+History of Economics 3,1,3,0.002
+Guide to Physics 4,1,3,0.002
+Mastering Machine Learning 3,1,3,0.002
+Guide to Philosophy 2,1,3,0.002
+Mastering Calculus 8,1,3,0.002
+Fundamentals of AI 1,1,3,0.002
+Advanced Biology 3,1,3,0.002
+Guide to History 1,1,3,0.002
+Guide to History 8,1,3,0.002
+History of Art 8,1,3,0.002
+The Art of Economics 7,1,3,0.002
+Advanced Java 2,1,3,0.002
+Advanced Economics 3,1,3,0.002
+Advanced Physics 8,1,3,0.002
+History of Machine Learning 4,1,3,0.002
+Handbook of Biology 5,1,3,0.002
+Mastering Philosophy 6,1,3,0.002
+Mastering Art 8,1,3,0.002
+Guide to Music 5,1,3,0.002
+Introduction to Python 1,1,3,0.002
+History of Calculus 1,1,3,0.002
+Mastering Biology 9,1,3,0.002
+History of Music 4,1,3,0.002
+Handbook of Java 7,1,3,0.002
+History of Biology 1,1,3,0.002
+Introduction to Machine Learning 8,1,3,0.002
+Advanced Music 10,1,3,0.002
+Handbook of Philosophy 9,1,3,0.002
+Handbook of Python 7,1,3,0.002
+Advanced Biology 1,1,3,0.002
+Handbook of History 3,1,3,0.002
+History of Calculus 2,1,3,0.002
+Mastering Physics 5,1,3,0.002
+Handbook of AI 6,1,3,0.002
+Handbook of Physics 2,1,3,0.002
+Advanced Python 4,1,3,0.002
+Advanced Chemistry 7,1,3,0.002
+Guide to AI 4,1,3,0.002
+History of Art 6,1,3,0.002
+Guide to Java 10,1,3,0.002
+History of Biology 5,1,3,0.002
+Fundamentals of AI 7,1,3,0.002
+The Art of Chemistry 3,1,3,0.002
+Introduction to Java 1,1,3,0.002
+Fundamentals of Philosophy 4,1,3,0.002
+Mastering Machine Learning 2,1,3,0.002
+Fundamentals of Music 9,1,3,0.002
+The Art of Philosophy 8,1,3,0.002
+Mastering Machine Learning 8,1,3,0.002
+History of Python 8,1,3,0.002
+Introduction to Chemistry 1,1,3,0.002
+Guide to Philosophy 6,1,3,0.002
+Handbook of Music 9,1,3,0.002
+Fundamentals of Physics 10,1,3,0.002
+Handbook of Philosophy 2,1,2,0.0013
+The Art of Art 1,1,2,0.0013
+Advanced Philosophy 10,1,2,0.0013
+Fundamentals of Music 6,1,2,0.0013
+Handbook of Music 3,1,2,0.0013
+Handbook of Biology 9,1,2,0.0013
+Guide to Calculus 2,1,2,0.0013
+The Art of Physics 3,1,2,0.0013
+Guide to Biology 2,1,2,0.0013
+History of Music 6,1,2,0.0013
+Guide to Music 1,1,2,0.0013
+History of Chemistry 6,1,2,0.0013
+Fundamentals of Python 8,1,2,0.0013
+Handbook of Physics 8,1,2,0.0013
+Mastering Java 4,1,2,0.0013
+History of Music 3,1,2,0.0013
+History of Music 10,1,2,0.0013
+Guide to Art 5,1,2,0.0013
+Mastering Music 7,1,2,0.0013
+Fundamentals of AI 6,1,2,0.0013
+The Art of Biology 9,1,2,0.0013
+Introduction to Physics 5,1,2,0.0013
+Introduction to Art 1,1,2,0.0013
+Introduction to Music 2,1,2,0.0013
+History of Philosophy 3,1,2,0.0013
+Advanced Biology 9,1,2,0.0013
+Fundamentals of Java 8,1,2,0.0013
+Fundamentals of Calculus 4,1,2,0.0013
+Mastering Physics 4,1,2,0.0013
+Fundamentals of AI 4,1,2,0.0013
+Mastering Chemistry 6,1,2,0.0013
+Handbook of Philosophy 5,1,2,0.0013
+Introduction to Philosophy 9,1,2,0.0013
+Handbook of Art 6,1,2,0.0013
+Introduction to Music 4,1,2,0.0013
+History of Physics 3,1,2,0.0013
+Introduction to Philosophy 10,1,2,0.0013
+History of History 4,1,2,0.0013
+Introduction to Economics 7,1,2,0.0013
+The Art of History 7,1,2,0.0013
+Fundamentals of Art 3,1,2,0.0013
+Fundamentals of Art 7,1,2,0.0013
+Fundamentals of Biology 3,1,2,0.0013
+Fundamentals of Music 8,1,2,0.0013
+Mastering Calculus 4,1,2,0.0013
+Mastering Chemistry 3,1,2,0.0013
+Fundamentals of Art 6,1,2,0.0013
+Mastering Chemistry 4,1,2,0.0013
+The Art of Calculus 7,1,2,0.0013
+Handbook of Music 5,1,2,0.0013
+The Art of Physics 10,1,2,0.0013
+Introduction to Philosophy 5,1,2,0.0013
+History of AI 5,1,2,0.0013
+Introduction to Java 9,1,2,0.0013
+The Art of Python 6,1,2,0.0013
+Guide to Biology 1,1,2,0.0013
+History of Python 7,1,2,0.0013
+History of AI 8,1,2,0.0013
+The Art of Machine Learning 3,1,2,0.0013
+Mastering Calculus 2,1,2,0.0013
+Fundamentals of Music 7,1,2,0.0013
+Handbook of Economics 4,1,2,0.0013
+Advanced Economics 1,1,2,0.0013
+History of Physics 10,1,2,0.0013
+Handbook of Calculus 1,1,2,0.0013
+Introduction to Calculus 3,1,2,0.0013
+Introduction to Calculus 10,1,2,0.0013
+Handbook of History 8,1,2,0.0013
+Mastering Machine Learning 1,1,2,0.0013
+Guide to Chemistry 6,1,2,0.0013
+Introduction to Economics 10,1,2,0.0013
+Advanced Physics 3,1,2,0.0013
+Introduction to Biology 9,1,2,0.0013
+Fundamentals of Biology 10,1,2,0.0013
+History of Python 6,1,2,0.0013
+Handbook of Python 9,1,2,0.0013
+Advanced AI 4,1,2,0.0013
+Mastering AI 10,1,2,0.0013
+The Art of Biology 2,1,2,0.0013
+Guide to Philosophy 1,1,2,0.0013
+Guide to Machine Learning 8,1,1,0.0007
+Mastering Physics 7,1,1,0.0007
+Advanced Machine Learning 7,1,1,0.0007
+Fundamentals of History 5,1,1,0.0007
+The Art of Java 8,1,1,0.0007
+History of Physics 7,1,1,0.0007
+History of History 3,1,1,0.0007
+Handbook of Physics 1,1,1,0.0007
+Mastering Art 4,1,1,0.0007
+Introduction to Art 4,1,1,0.0007
+The Art of Java 3,1,1,0.0007
+History of Java 3,1,1,0.0007
+Handbook of Music 8,1,1,0.0007
+Advanced Biology 5,1,1,0.0007
+Guide to Economics 3,1,1,0.0007
+Advanced Python 3,1,1,0.0007
+Fundamentals of Machine Learning 6,1,1,0.0007
+History of Calculus 10,1,1,0.0007
+The Art of AI 7,1,1,0.0007
+Fundamentals of Python 9,1,1,0.0007
+The Art of Chemistry 8,1,1,0.0007
+Introduction to Chemistry 10,1,1,0.0007
+The Art of Art 6,1,1,0.0007
+Introduction to Physics 6,1,1,0.0007
+The Art of Java 9,1,1,0.0007
+Handbook of AI 3,1,1,0.0007
+Advanced Music 6,1,1,0.0007
+Handbook of Chemistry 2,1,1,0.0007
+Advanced Philosophy 7,1,1,0.0007
+Mastering Art 1,1,1,0.0007
+History of AI 10,1,1,0.0007
+History of Biology 4,1,1,0.0007
+Fundamentals of Art 4,1,1,0.0007
+The Art of Machine Learning 6,1,1,0.0007
+Fundamentals of Biology 8,1,1,0.0007
+Introduction to History 6,1,1,0.0007
+Introduction to Biology 2,1,1,0.0007
+Introduction to Philosophy 4,1,1,0.0007
+The Art of Chemistry 4,1,1,0.0007
+Introduction to Economics 6,1,1,0.0007
+Introduction to Economics 9,1,1,0.0007
+Guide to Physics 7,1,1,0.0007
+Introduction to Music 5,1,1,0.0007
+Mastering Python 3,1,1,0.0007
+The Art of Biology 3,1,1,0.0007
+Introduction to Chemistry 2,1,1,0.0007
+Handbook of Economics 1,1,1,0.0007
+Mastering Chemistry 8,1,1,0.0007
+Introduction to Python 3,1,1,0.0007
+Handbook of Calculus 7,1,1,0.0007
+History of Java 6,1,1,0.0007
+The Art of Biology 1 | The Art of Economics 9,2,2,0.0013
+History of Economics 8 | Mastering Calculus 6,2,2,0.0013
+Introduction to AI 10 | The Art of History 1,2,2,0.0013
+Introduction to Physics 3 | The Art of History 6,2,2,0.0013
+Advanced Calculus 7 | Mastering Biology 8,2,2,0.0013
+Guide to AI 3 | Mastering Java 6,2,2,0.0013
+Handbook of Machine Learning 9 | Introduction to Art 6,2,2,0.0013
+Fundamentals of Chemistry 9 | Mastering Java 10,2,2,0.0013
+Advanced Art 1 | Fundamentals of Economics 6,2,2,0.0013
+Handbook of Calculus 2 | Introduction to Music 3,2,2,0.0013
+Advanced Machine Learning 1 | Fundamentals of Chemistry 4,2,2,0.0013
+Advanced Chemistry 1 | Advanced Physics 2,2,2,0.0013
+Advanced Economics 7 | Fundamentals of Java 3,2,2,0.0013
+Advanced Calculus 7 | Fundamentals of Biology 4,2,2,0.0013
+History of Music 2 | The Art of History 1,2,2,0.0013
+Handbook of Calculus 8 | Handbook of Philosophy 10,2,2,0.0013
+Advanced Philosophy 2 | History of History 7,2,2,0.0013
+Advanced Java 7 | Mastering Calculus 9,2,2,0.0013
+Fundamentals of Python 1 | Introduction to Machine Learning 7,2,1,0.0007
+Fundamentals of Python 1 | The Art of Java 4,2,1,0.0007
+Introduction to Machine Learning 7 | The Art of Java 4,2,1,0.0007
+Handbook of Philosophy 2 | The Art of Art 1,2,1,0.0007
+Advanced Java 1 | Guide to Java 2,2,1,0.0007
+Advanced Java 1 | History of Calculus 8,2,1,0.0007
+Guide to Java 2 | History of Calculus 8,2,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to AI 4,2,1,0.0007
+Fundamentals of Chemistry 7 | Mastering Economics 2,2,1,0.0007
+Introduction to AI 4 | Mastering Economics 2,2,1,0.0007
+Advanced Music 8 | The Art of AI 9,2,1,0.0007
+Fundamentals of Economics 6 | Handbook of Physics 7,2,1,0.0007
+Fundamentals of Economics 6 | History of Chemistry 7,2,1,0.0007
+Handbook of Physics 7 | History of Chemistry 7,2,1,0.0007
+Mastering Music 10 | The Art of Biology 1,2,1,0.0007
+Mastering Music 10 | The Art of Economics 9,2,1,0.0007
+Advanced Art 2 | Advanced Java 1,2,1,0.0007
+Advanced Art 2 | The Art of Philosophy 9,2,1,0.0007
+Advanced Java 1 | The Art of Philosophy 9,2,1,0.0007
+Advanced Java 1 | Handbook of History 9,2,1,0.0007
+Advanced Java 1 | Mastering Art 10,2,1,0.0007
+Handbook of History 9 | Mastering Art 10,2,1,0.0007
+History of Biology 9 | History of Calculus 7,2,1,0.0007
+History of Biology 9 | History of Physics 6,2,1,0.0007
+History of Calculus 7 | History of Physics 6,2,1,0.0007
+History of Chemistry 10 | Introduction to Machine Learning 2,2,1,0.0007
+Guide to Economics 5 | Handbook of Python 4,2,1,0.0007
+Guide to Economics 5 | The Art of Art 2,2,1,0.0007
+Handbook of Python 4 | The Art of Art 2,2,1,0.0007
+History of Art 2 | The Art of History 2,2,1,0.0007
+Advanced Music 4 | Fundamentals of Physics 9,2,1,0.0007
+Fundamentals of Art 5 | Fundamentals of Music 6,2,1,0.0007
+Handbook of Economics 2 | The Art of History 4,2,1,0.0007
+Advanced Java 3 | Fundamentals of Machine Learning 5,2,1,0.0007
+Advanced Java 7 | Guide to Biology 7,2,1,0.0007
+Advanced Java 7 | The Art of Art 9,2,1,0.0007
+Guide to Biology 7 | The Art of Art 9,2,1,0.0007
+History of Chemistry 7 | The Art of Python 8,2,1,0.0007
+Guide to AI 10 | Guide to Art 2,2,1,0.0007
+Guide to AI 10 | Introduction to Physics 8,2,1,0.0007
+Guide to Art 2 | Introduction to Physics 8,2,1,0.0007
+Advanced Python 7 | Mastering Music 10,2,1,0.0007
+Advanced Python 7 | The Art of Art 8,2,1,0.0007
+Mastering Music 10 | The Art of Art 8,2,1,0.0007
+Guide to Machine Learning 8 | History of Philosophy 8,2,1,0.0007
+Guide to Machine Learning 8 | History of Physics 6,2,1,0.0007
+History of Philosophy 8 | History of Physics 6,2,1,0.0007
+Handbook of Economics 9 | Mastering Calculus 9,2,1,0.0007
+Introduction to Machine Learning 7 | Mastering Physics 7,2,1,0.0007
+Guide to Music 9 | Handbook of Physics 7,2,1,0.0007
+Guide to Music 9 | History of Biology 3,2,1,0.0007
+Handbook of Physics 7 | History of Biology 3,2,1,0.0007
+Advanced Machine Learning 7 | Fundamentals of AI 2,2,1,0.0007
+Advanced Chemistry 5 | Fundamentals of History 5,2,1,0.0007
+Advanced Chemistry 5 | Mastering Economics 9,2,1,0.0007
+Fundamentals of History 5 | Mastering Economics 9,2,1,0.0007
+History of Biology 3 | Mastering Biology 4,2,1,0.0007
+Guide to AI 3 | History of Calculus 4,2,1,0.0007
+History of Economics 8 | Introduction to Python 5,2,1,0.0007
+Introduction to Python 5 | Mastering Calculus 6,2,1,0.0007
+Fundamentals of Economics 9 | Mastering Art 6,2,1,0.0007
+Fundamentals of Economics 9 | Mastering Philosophy 5,2,1,0.0007
+Mastering Art 6 | Mastering Philosophy 5,2,1,0.0007
+Advanced Chemistry 10 | Handbook of Music 3,2,1,0.0007
+Advanced Chemistry 10 | History of Machine Learning 6,2,1,0.0007
+Handbook of Music 3 | History of Machine Learning 6,2,1,0.0007
+History of Economics 6 | Mastering Calculus 9,2,1,0.0007
+History of Economics 6 | The Art of History 1,2,1,0.0007
+Mastering Calculus 9 | The Art of History 1,2,1,0.0007
+Advanced Physics 2 | Mastering Philosophy 4,2,1,0.0007
+Handbook of Philosophy 10 | The Art of History 5,2,1,0.0007
+Advanced AI 1 | Mastering Art 2,2,1,0.0007
+Advanced Calculus 5 | Guide to Economics 5,2,1,0.0007
+Advanced Calculus 5 | Handbook of Art 10,2,1,0.0007
+Guide to Economics 5 | Handbook of Art 10,2,1,0.0007
+Fundamentals of Java 6 | Guide to AI 5,2,1,0.0007
+Handbook of Java 9 | Mastering Chemistry 1,2,1,0.0007
+Advanced Art 1 | Advanced History 4,2,1,0.0007
+Advanced Art 1 | Mastering Java 8,2,1,0.0007
+Advanced History 4 | Mastering Java 8,2,1,0.0007
+History of Java 1 | History of Machine Learning 6,2,1,0.0007
+Fundamentals of AI 5 | Guide to History 9,2,1,0.0007
+Fundamentals of Java 1 | Handbook of Biology 9,2,1,0.0007
+Fundamentals of Java 1 | History of Biology 2,2,1,0.0007
+Handbook of Biology 9 | History of Biology 2,2,1,0.0007
+Guide to Art 3 | Mastering Calculus 3,2,1,0.0007
+Guide to Art 3 | The Art of Economics 8,2,1,0.0007
+Mastering Calculus 3 | The Art of Economics 8,2,1,0.0007
+Advanced Music 4 | Mastering Music 1,2,1,0.0007
+Advanced Python 1 | The Art of History 1,2,1,0.0007
+Guide to Calculus 2 | The Art of Art 10,2,1,0.0007
+Guide to Calculus 2 | The Art of Calculus 8,2,1,0.0007
+The Art of Art 10 | The Art of Calculus 8,2,1,0.0007
+Advanced Economics 5 | Guide to Python 7,2,1,0.0007
+Advanced Economics 5 | The Art of Calculus 3,2,1,0.0007
+Guide to Python 7 | The Art of Calculus 3,2,1,0.0007
+Fundamentals of Java 9 | Mastering Biology 8,2,1,0.0007
+Advanced Java 7 | Fundamentals of Calculus 7,2,1,0.0007
+Guide to Python 1 | Mastering Machine Learning 10,2,1,0.0007
+Guide to Python 1 | The Art of Physics 3,2,1,0.0007
+Mastering Machine Learning 10 | The Art of Physics 3,2,1,0.0007
+History of History 2 | Introduction to Physics 10,2,1,0.0007
+The Art of Economics 3 | The Art of Python 7,2,1,0.0007
+Guide to Biology 2 | History of Music 2,2,1,0.0007
+Guide to Biology 2 | Mastering Art 10,2,1,0.0007
+History of Music 2 | Mastering Art 10,2,1,0.0007
+Advanced Java 7 | The Art of Java 4,2,1,0.0007
+Guide to Java 8 | History of Machine Learning 6,2,1,0.0007
+Guide to Java 8 | Mastering Calculus 6,2,1,0.0007
+History of Machine Learning 6 | Mastering Calculus 6,2,1,0.0007
+Advanced Python 9 | Guide to AI 5,2,1,0.0007
+Advanced Python 9 | Guide to Machine Learning 1,2,1,0.0007
+Guide to AI 5 | Guide to Machine Learning 1,2,1,0.0007
+Advanced Art 9 | The Art of Python 9,2,1,0.0007
+Handbook of Economics 9 | History of Philosophy 8,2,1,0.0007
+Advanced Philosophy 9 | Handbook of AI 9,2,1,0.0007
+Fundamentals of Chemistry 2 | Fundamentals of Chemistry 4,2,1,0.0007
+Fundamentals of Chemistry 2 | Mastering Physics 3,2,1,0.0007
+Fundamentals of Chemistry 4 | Mastering Physics 3,2,1,0.0007
+History of Machine Learning 10 | Mastering Philosophy 9,2,1,0.0007
+History of Music 7 | The Art of Machine Learning 9,2,1,0.0007
+Introduction to Java 8 | The Art of Calculus 8,2,1,0.0007
+Introduction to Java 8 | The Art of Python 3,2,1,0.0007
+The Art of Calculus 8 | The Art of Python 3,2,1,0.0007
+History of Music 6 | Mastering Art 10,2,1,0.0007
+Advanced Physics 2 | Guide to Music 8,2,1,0.0007
+Advanced Physics 2 | History of Calculus 4,2,1,0.0007
+Guide to Music 8 | History of Calculus 4,2,1,0.0007
+Guide to AI 10 | Handbook of Philosophy 10,2,1,0.0007
+Guide to AI 10 | The Art of Economics 3,2,1,0.0007
+Handbook of Philosophy 10 | The Art of Economics 3,2,1,0.0007
+Advanced Calculus 8 | Guide to Music 4,2,1,0.0007
+Advanced Calculus 8 | Mastering Philosophy 1,2,1,0.0007
+Guide to Music 4 | Mastering Philosophy 1,2,1,0.0007
+History of Economics 4 | Introduction to AI 6,2,1,0.0007
+History of Economics 4 | The Art of Java 8,2,1,0.0007
+Introduction to AI 6 | The Art of Java 8,2,1,0.0007
+Guide to Music 1 | Mastering Economics 10,2,1,0.0007
+Guide to Calculus 2 | Handbook of Machine Learning 5,2,1,0.0007
+Guide to Calculus 2 | Mastering History 8,2,1,0.0007
+Handbook of Machine Learning 5 | Mastering History 8,2,1,0.0007
+Guide to Art 10 | Mastering Music 6,2,1,0.0007
+Fundamentals of Calculus 10 | History of AI 3,2,1,0.0007
+Fundamentals of Calculus 10 | Mastering Music 10,2,1,0.0007
+History of AI 3 | Mastering Music 10,2,1,0.0007
+Advanced Calculus 6 | History of Chemistry 6,2,1,0.0007
+Advanced Calculus 6 | Introduction to Economics 4,2,1,0.0007
+History of Chemistry 6 | Introduction to Economics 4,2,1,0.0007
+Advanced Philosophy 10 | The Art of Art 2,2,1,0.0007
+Advanced Philosophy 10 | The Art of Economics 2,2,1,0.0007
+The Art of Art 2 | The Art of Economics 2,2,1,0.0007
+Advanced Java 3 | Introduction to AI 10,2,1,0.0007
+Advanced Java 3 | The Art of History 1,2,1,0.0007
+Advanced Economics 5 | Fundamentals of Economics 6,2,1,0.0007
+Fundamentals of Python 8 | Introduction to History 10,2,1,0.0007
+Fundamentals of Philosophy 8 | The Art of Music 1,2,1,0.0007
+Advanced Philosophy 2 | Mastering History 6,2,1,0.0007
+Handbook of Philosophy 2 | Mastering Economics 2,2,1,0.0007
+Fundamentals of Java 7 | Fundamentals of Physics 2,2,1,0.0007
+Fundamentals of Java 7 | The Art of Python 5,2,1,0.0007
+Fundamentals of Physics 2 | The Art of Python 5,2,1,0.0007
+Advanced Music 5 | Introduction to Chemistry 5,2,1,0.0007
+Advanced Music 5 | The Art of History 1,2,1,0.0007
+Introduction to Chemistry 5 | The Art of History 1,2,1,0.0007
+Advanced Economics 10 | Mastering Biology 6,2,1,0.0007
+Fundamentals of Java 3 | Mastering Java 8,2,1,0.0007
+Guide to Biology 10 | Guide to History 9,2,1,0.0007
+Advanced History 7 | Introduction to Physics 8,2,1,0.0007
+Advanced History 7 | Mastering Economics 10,2,1,0.0007
+Introduction to Physics 8 | Mastering Economics 10,2,1,0.0007
+Advanced Java 3 | Handbook of Physics 8,2,1,0.0007
+Advanced Java 3 | The Art of History 5,2,1,0.0007
+Handbook of Physics 8 | The Art of History 5,2,1,0.0007
+Fundamentals of Machine Learning 5 | History of Philosophy 9,2,1,0.0007
+Advanced AI 6 | Mastering Java 4,2,1,0.0007
+Advanced AI 6 | The Art of Chemistry 1,2,1,0.0007
+Mastering Java 4 | The Art of Chemistry 1,2,1,0.0007
+Advanced Physics 2 | History of Physics 7,2,1,0.0007
+Guide to Machine Learning 6 | Handbook of Calculus 4,2,1,0.0007
+Guide to Machine Learning 6 | Mastering History 6,2,1,0.0007
+Handbook of Calculus 4 | Mastering History 6,2,1,0.0007
+History of History 3 | History of Machine Learning 8,2,1,0.0007
+History of History 3 | History of Music 3,2,1,0.0007
+History of Machine Learning 8 | History of Music 3,2,1,0.0007
+Fundamentals of Physics 9 | Mastering Calculus 7,2,1,0.0007
+Fundamentals of Art 10 | The Art of Art 5,2,1,0.0007
+Guide to Calculus 9 | Introduction to Chemistry 5,2,1,0.0007
+Fundamentals of Python 4 | Guide to Python 6,2,1,0.0007
+Fundamentals of Python 4 | History of Music 10,2,1,0.0007
+Guide to Python 6 | History of Music 10,2,1,0.0007
+Advanced Philosophy 1 | Guide to Art 5,2,1,0.0007
+Guide to History 7 | History of Chemistry 4,2,1,0.0007
+Advanced Chemistry 10 | Introduction to Music 3,2,1,0.0007
+Advanced Chemistry 10 | The Art of History 1,2,1,0.0007
+Introduction to Music 3 | The Art of History 1,2,1,0.0007
+Introduction to Java 2 | The Art of Economics 8,2,1,0.0007
+Advanced History 4 | Fundamentals of Calculus 7,2,1,0.0007
+Advanced History 4 | History of Chemistry 2,2,1,0.0007
+Fundamentals of Calculus 7 | History of Chemistry 2,2,1,0.0007
+Introduction to Economics 3 | Mastering Economics 7,2,1,0.0007
+Introduction to History 7 | Mastering Economics 2,2,1,0.0007
+Guide to Python 1 | Mastering Music 7,2,1,0.0007
+Handbook of Biology 7 | History of Philosophy 10,2,1,0.0007
+Fundamentals of AI 5 | Handbook of Java 1,2,1,0.0007
+Fundamentals of AI 5 | The Art of Philosophy 1,2,1,0.0007
+Handbook of Java 1 | The Art of Philosophy 1,2,1,0.0007
+Mastering AI 9 | The Art of Biology 7,2,1,0.0007
+Mastering AI 9 | The Art of Chemistry 2,2,1,0.0007
+The Art of Biology 7 | The Art of Chemistry 2,2,1,0.0007
+Fundamentals of Music 1 | Handbook of Java 6,2,1,0.0007
+Fundamentals of Music 1 | Handbook of Philosophy 10,2,1,0.0007
+Handbook of Java 6 | Handbook of Philosophy 10,2,1,0.0007
+Advanced Calculus 6 | Introduction to Physics 3,2,1,0.0007
+Advanced Calculus 6 | The Art of History 6,2,1,0.0007
+Advanced Music 8 | Fundamentals of Chemistry 6,2,1,0.0007
+Advanced Music 8 | Fundamentals of Physics 5,2,1,0.0007
+Fundamentals of Chemistry 6 | Fundamentals of Physics 5,2,1,0.0007
+Guide to Art 10 | Handbook of AI 9,2,1,0.0007
+Guide to Art 10 | Handbook of Machine Learning 9,2,1,0.0007
+Handbook of AI 9 | Handbook of Machine Learning 9,2,1,0.0007
+Advanced Python 7 | History of History 10,2,1,0.0007
+Advanced Python 7 | Mastering History 2,2,1,0.0007
+History of History 10 | Mastering History 2,2,1,0.0007
+Mastering Biology 8 | Mastering Music 1,2,1,0.0007
+Guide to Art 2 | Introduction to Python 5,2,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to Philosophy 1,2,1,0.0007
+Fundamentals of Chemistry 7 | The Art of Philosophy 5,2,1,0.0007
+Introduction to Philosophy 1 | The Art of Philosophy 5,2,1,0.0007
+Advanced AI 1 | Handbook of Machine Learning 3,2,1,0.0007
+Advanced AI 1 | Introduction to History 1,2,1,0.0007
+Handbook of Machine Learning 3 | Introduction to History 1,2,1,0.0007
+Guide to AI 6 | Introduction to Biology 6,2,1,0.0007
+Guide to AI 6 | The Art of Python 8,2,1,0.0007
+Introduction to Biology 6 | The Art of Python 8,2,1,0.0007
+Advanced Calculus 7 | Guide to Philosophy 9,2,1,0.0007
+Advanced Calculus 7 | Introduction to AI 3,2,1,0.0007
+Guide to Philosophy 9 | Introduction to AI 3,2,1,0.0007
+Handbook of History 9 | Mastering Art 4,2,1,0.0007
+Handbook of Calculus 8 | The Art of Python 8,2,1,0.0007
+Advanced Chemistry 10 | Advanced Music 1,2,1,0.0007
+Advanced Chemistry 10 | History of Chemistry 10,2,1,0.0007
+Advanced Music 1 | History of Chemistry 10,2,1,0.0007
+Guide to Calculus 1 | History of Machine Learning 9,2,1,0.0007
+Guide to Calculus 1 | Mastering Chemistry 9,2,1,0.0007
+History of Machine Learning 9 | Mastering Chemistry 9,2,1,0.0007
+History of AI 9 | History of Calculus 4,2,1,0.0007
+History of AI 9 | Introduction to Java 10,2,1,0.0007
+History of Calculus 4 | Introduction to Java 10,2,1,0.0007
+Guide to Physics 1 | The Art of Biology 9,2,1,0.0007
+Fundamentals of Calculus 10 | History of History 7,2,1,0.0007
+Fundamentals of Calculus 10 | The Art of Art 3,2,1,0.0007
+History of History 7 | The Art of Art 3,2,1,0.0007
+History of Machine Learning 9 | History of Music 9,2,1,0.0007
+History of Machine Learning 9 | Introduction to Physics 5,2,1,0.0007
+History of Music 9 | Introduction to Physics 5,2,1,0.0007
+History of Biology 9 | History of Economics 1,2,1,0.0007
+History of Biology 9 | Introduction to Art 1,2,1,0.0007
+History of Economics 1 | Introduction to Art 1,2,1,0.0007
+Handbook of Calculus 3 | Introduction to Chemistry 9,2,1,0.0007
+History of AI 7 | History of Calculus 3,2,1,0.0007
+History of AI 7 | Introduction to Python 6,2,1,0.0007
+History of Calculus 3 | Introduction to Python 6,2,1,0.0007
+Fundamentals of Physics 3 | Guide to Chemistry 2,2,1,0.0007
+Fundamentals of Physics 3 | Introduction to Art 4,2,1,0.0007
+Guide to Chemistry 2 | Introduction to Art 4,2,1,0.0007
+Fundamentals of Chemistry 8 | Guide to Biology 7,2,1,0.0007
+Fundamentals of Chemistry 8 | Handbook of Chemistry 6,2,1,0.0007
+Guide to Biology 7 | Handbook of Chemistry 6,2,1,0.0007
+Guide to Art 2 | History of Economics 5,2,1,0.0007
+Guide to Art 2 | The Art of Calculus 3,2,1,0.0007
+History of Economics 5 | The Art of Calculus 3,2,1,0.0007
+Advanced History 7 | Guide to Calculus 6,2,1,0.0007
+Advanced History 7 | History of Machine Learning 2,2,1,0.0007
+Guide to Calculus 6 | History of Machine Learning 2,2,1,0.0007
+History of Python 10 | Introduction to Music 2,2,1,0.0007
+Advanced Calculus 1 | Guide to Music 8,2,1,0.0007
+Advanced Calculus 1 | Introduction to Art 6,2,1,0.0007
+Guide to Music 8 | Introduction to Art 6,2,1,0.0007
+Handbook of Chemistry 5 | The Art of Java 3,2,1,0.0007
+Advanced Economics 7 | Fundamentals of Java 10,2,1,0.0007
+Advanced Economics 7 | Fundamentals of Python 10,2,1,0.0007
+Fundamentals of Java 10 | Fundamentals of Python 10,2,1,0.0007
+The Art of Economics 2 | The Art of Economics 8,2,1,0.0007
+Advanced History 3 | Advanced Physics 2,2,1,0.0007
+Advanced History 3 | Mastering Java 6,2,1,0.0007
+Advanced Physics 2 | Mastering Java 6,2,1,0.0007
+History of Art 3 | Introduction to Machine Learning 2,2,1,0.0007
+History of Art 3 | The Art of Art 10,2,1,0.0007
+Introduction to Machine Learning 2 | The Art of Art 10,2,1,0.0007
+The Art of Art 8 | The Art of Java 2,2,1,0.0007
+The Art of Art 8 | The Art of Python 7,2,1,0.0007
+The Art of Java 2 | The Art of Python 7,2,1,0.0007
+History of Python 10 | The Art of History 8,2,1,0.0007
+Advanced Java 8 | History of Physics 6,2,1,0.0007
+Advanced History 4 | Fundamentals of Biology 4,2,1,0.0007
+Fundamentals of Chemistry 9 | Mastering Biology 7,2,1,0.0007
+Advanced Java 5 | Fundamentals of Chemistry 4,2,1,0.0007
+Guide to Chemistry 2 | History of Calculus 8,2,1,0.0007
+Guide to Chemistry 2 | History of Music 9,2,1,0.0007
+History of Calculus 8 | History of Music 9,2,1,0.0007
+Guide to Calculus 3 | History of Chemistry 5,2,1,0.0007
+Guide to Calculus 3 | The Art of Physics 7,2,1,0.0007
+History of Chemistry 5 | The Art of Physics 7,2,1,0.0007
+Fundamentals of Java 3 | Introduction to Physics 3,2,1,0.0007
+Mastering Music 1 | The Art of Calculus 1,2,1,0.0007
+Fundamentals of Music 3 | The Art of Java 7,2,1,0.0007
+Handbook of Chemistry 5 | Mastering Music 8,2,1,0.0007
+Advanced Java 3 | Fundamentals of AI 9,2,1,0.0007
+Advanced Java 3 | Guide to Music 2,2,1,0.0007
+Fundamentals of AI 9 | Guide to Music 2,2,1,0.0007
+History of Philosophy 3 | Introduction to Machine Learning 7,2,1,0.0007
+History of Philosophy 3 | Mastering Python 6,2,1,0.0007
+Introduction to Machine Learning 7 | Mastering Python 6,2,1,0.0007
+Fundamentals of Chemistry 6 | Introduction to Music 3,2,1,0.0007
+Fundamentals of Chemistry 6 | The Art of History 4,2,1,0.0007
+Introduction to Music 3 | The Art of History 4,2,1,0.0007
+The Art of Calculus 8 | The Art of Physics 5,2,1,0.0007
+History of Biology 6 | History of History 2,2,1,0.0007
+History of Biology 6 | The Art of Biology 6,2,1,0.0007
+History of History 2 | The Art of Biology 6,2,1,0.0007
+Fundamentals of Philosophy 2 | The Art of Biology 1,2,1,0.0007
+Fundamentals of Philosophy 2 | The Art of Economics 9,2,1,0.0007
+Fundamentals of Java 1 | Guide to AI 3,2,1,0.0007
+Handbook of Physics 8 | Mastering AI 7,2,1,0.0007
+History of Economics 4 | Mastering Biology 8,2,1,0.0007
+Advanced Calculus 7 | Introduction to History 9,2,1,0.0007
+Introduction to History 9 | Mastering Biology 8,2,1,0.0007
+Guide to Art 1 | Introduction to Art 2,2,1,0.0007
+Guide to Art 1 | Mastering Chemistry 9,2,1,0.0007
+Introduction to Art 2 | Mastering Chemistry 9,2,1,0.0007
+Fundamentals of Java 7 | Mastering AI 6,2,1,0.0007
+Fundamentals of Java 3 | Introduction to Physics 8,2,1,0.0007
+History of Machine Learning 1 | History of Machine Learning 9,2,1,0.0007
+History of Machine Learning 1 | Introduction to AI 3,2,1,0.0007
+History of Machine Learning 9 | Introduction to AI 3,2,1,0.0007
+Advanced Java 7 | Introduction to History 7,2,1,0.0007
+Advanced Biology 9 | Fundamentals of Chemistry 4,2,1,0.0007
+Guide to History 9 | Introduction to Chemistry 9,2,1,0.0007
+Guide to History 9 | The Art of Philosophy 9,2,1,0.0007
+Introduction to Chemistry 9 | The Art of Philosophy 9,2,1,0.0007
+Handbook of Python 6 | The Art of Physics 2,2,1,0.0007
+Advanced Calculus 5 | Mastering History 2,2,1,0.0007
+Advanced Economics 5 | Fundamentals of Chemistry 8,2,1,0.0007
+Advanced Economics 5 | Mastering Biology 8,2,1,0.0007
+Fundamentals of Chemistry 8 | Mastering Biology 8,2,1,0.0007
+Fundamentals of Java 8 | History of Philosophy 8,2,1,0.0007
+Fundamentals of Java 7 | Guide to Calculus 10,2,1,0.0007
+Introduction to Java 2 | Mastering Economics 9,2,1,0.0007
+Mastering AI 9 | Mastering Java 10,2,1,0.0007
+Mastering AI 9 | The Art of History 10,2,1,0.0007
+Mastering Java 10 | The Art of History 10,2,1,0.0007
+Fundamentals of Calculus 4 | Handbook of Calculus 3,2,1,0.0007
+Fundamentals of Calculus 4 | Mastering Calculus 1,2,1,0.0007
+Handbook of Calculus 3 | Mastering Calculus 1,2,1,0.0007
+Handbook of Biology 9 | Introduction to Machine Learning 10,2,1,0.0007
+Handbook of Biology 9 | The Art of History 9,2,1,0.0007
+Introduction to Machine Learning 10 | The Art of History 9,2,1,0.0007
+Fundamentals of Java 10 | Handbook of Java 8,2,1,0.0007
+Fundamentals of Java 10 | Mastering Philosophy 9,2,1,0.0007
+Handbook of Java 8 | Mastering Philosophy 9,2,1,0.0007
+Fundamentals of Python 3 | Introduction to Calculus 2,2,1,0.0007
+Mastering Physics 4 | The Art of Art 9,2,1,0.0007
+Mastering Physics 4 | The Art of History 5,2,1,0.0007
+The Art of Art 9 | The Art of History 5,2,1,0.0007
+Introduction to Physics 1 | The Art of Machine Learning 9,2,1,0.0007
+Advanced AI 2 | Introduction to Chemistry 5,2,1,0.0007
+Advanced AI 2 | Mastering AI 6,2,1,0.0007
+Introduction to Chemistry 5 | Mastering AI 6,2,1,0.0007
+Fundamentals of Chemistry 10 | Guide to Biology 7,2,1,0.0007
+Advanced History 7 | Handbook of Economics 9,2,1,0.0007
+Advanced History 7 | Introduction to Art 6,2,1,0.0007
+Handbook of Economics 9 | Introduction to Art 6,2,1,0.0007
+Fundamentals of Machine Learning 9 | Mastering Chemistry 6,2,1,0.0007
+Fundamentals of Python 7 | Handbook of Chemistry 6,2,1,0.0007
+Fundamentals of Python 7 | History of Economics 1,2,1,0.0007
+Handbook of Chemistry 6 | History of Economics 1,2,1,0.0007
+Handbook of Philosophy 5 | The Art of Physics 1,2,1,0.0007
+Guide to Python 10 | Introduction to Economics 4,2,1,0.0007
+Introduction to Economics 3 | Mastering Biology 8,2,1,0.0007
+Advanced Calculus 5 | Fundamentals of Chemistry 9,2,1,0.0007
+Advanced Machine Learning 1 | Advanced Music 2,2,1,0.0007
+History of History 7 | Introduction to Philosophy 9,2,1,0.0007
+Guide to Biology 3 | History of Java 1,2,1,0.0007
+Advanced Economics 9 | The Art of Java 7,2,1,0.0007
+History of Java 3 | Mastering AI 6,2,1,0.0007
+Fundamentals of Music 4 | The Art of History 10,2,1,0.0007
+Guide to AI 3 | Handbook of Art 6,2,1,0.0007
+Fundamentals of Chemistry 9 | Handbook of Chemistry 5,2,1,0.0007
+Fundamentals of Chemistry 9 | The Art of History 4,2,1,0.0007
+Handbook of Chemistry 5 | The Art of History 4,2,1,0.0007
+Fundamentals of Physics 9 | Guide to Calculus 1,2,1,0.0007
+Fundamentals of Physics 9 | Handbook of Art 5,2,1,0.0007
+Guide to Calculus 1 | Handbook of Art 5,2,1,0.0007
+Guide to Art 3 | Handbook of Economics 2,2,1,0.0007
+Guide to Art 3 | Introduction to Python 6,2,1,0.0007
+Handbook of Economics 2 | Introduction to Python 6,2,1,0.0007
+Handbook of Economics 3 | The Art of Music 3,2,1,0.0007
+Advanced Art 8 | Advanced Philosophy 2,2,1,0.0007
+Advanced Art 8 | Guide to Philosophy 3,2,1,0.0007
+Advanced Philosophy 2 | Guide to Philosophy 3,2,1,0.0007
+The Art of History 3 | The Art of History 9,2,1,0.0007
+Fundamentals of Java 3 | History of Economics 3,2,1,0.0007
+Fundamentals of Java 3 | History of Philosophy 3,2,1,0.0007
+History of Economics 3 | History of Philosophy 3,2,1,0.0007
+Guide to Music 9 | History of Art 2,2,1,0.0007
+Guide to AI 5 | Guide to Physics 4,2,1,0.0007
+Guide to AI 5 | The Art of Philosophy 4,2,1,0.0007
+Guide to Physics 4 | The Art of Philosophy 4,2,1,0.0007
+Fundamentals of Java 9 | Handbook of Biology 7,2,1,0.0007
+Fundamentals of Java 9 | The Art of Economics 8,2,1,0.0007
+Handbook of Biology 7 | The Art of Economics 8,2,1,0.0007
+Fundamentals of Java 3 | Guide to AI 6,2,1,0.0007
+Fundamentals of Java 3 | Mastering Machine Learning 3,2,1,0.0007
+Guide to AI 6 | Mastering Machine Learning 3,2,1,0.0007
+Guide to Philosophy 2 | Handbook of Machine Learning 9,2,1,0.0007
+Guide to Philosophy 2 | Introduction to Art 6,2,1,0.0007
+Handbook of History 6 | Mastering Calculus 8,2,1,0.0007
+History of AI 9 | Mastering Economics 10,2,1,0.0007
+History of AI 9 | The Art of Art 10,2,1,0.0007
+Mastering Economics 10 | The Art of Art 10,2,1,0.0007
+Advanced Python 10 | Introduction to Biology 4,2,1,0.0007
+Mastering Java 10 | The Art of History 5,2,1,0.0007
+Mastering Java 10 | The Art of Music 1,2,1,0.0007
+The Art of History 5 | The Art of Music 1,2,1,0.0007
+Fundamentals of Machine Learning 5 | Guide to Python 1,2,1,0.0007
+Fundamentals of Python 10 | Introduction to Python 7,2,1,0.0007
+History of Calculus 8 | Introduction to History 9,2,1,0.0007
+History of Calculus 8 | Mastering Economics 10,2,1,0.0007
+Introduction to History 9 | Mastering Economics 10,2,1,0.0007
+Handbook of Machine Learning 5 | History of History 10,2,1,0.0007
+Handbook of Machine Learning 5 | Introduction to Economics 3,2,1,0.0007
+History of History 10 | Introduction to Economics 3,2,1,0.0007
+Advanced Java 8 | Guide to AI 6,2,1,0.0007
+Advanced Java 8 | Guide to Music 2,2,1,0.0007
+Guide to AI 6 | Guide to Music 2,2,1,0.0007
+Handbook of Calculus 8 | Introduction to Physics 10,2,1,0.0007
+Handbook of Calculus 8 | Mastering Physics 1,2,1,0.0007
+Introduction to Physics 10 | Mastering Physics 1,2,1,0.0007
+Advanced Calculus 1 | Advanced Philosophy 2,2,1,0.0007
+Advanced Calculus 1 | Guide to Music 4,2,1,0.0007
+Advanced Philosophy 2 | Guide to Music 4,2,1,0.0007
+Introduction to AI 4 | Introduction to Java 5,2,1,0.0007
+Fundamentals of Chemistry 4 | Introduction to Music 4,2,1,0.0007
+Introduction to Art 6 | The Art of Physics 5,2,1,0.0007
+Handbook of Machine Learning 7 | History of Chemistry 10,2,1,0.0007
+Handbook of Java 2 | History of Philosophy 9,2,1,0.0007
+Advanced Music 4 | Guide to Python 10,2,1,0.0007
+Advanced Music 4 | Mastering Physics 1,2,1,0.0007
+Guide to Python 10 | Mastering Physics 1,2,1,0.0007
+Fundamentals of Java 6 | Handbook of Java 9,2,1,0.0007
+Fundamentals of Physics 5 | Handbook of Chemistry 5,2,1,0.0007
+Fundamentals of Physics 5 | History of History 2,2,1,0.0007
+Handbook of Chemistry 5 | History of History 2,2,1,0.0007
+History of Java 9 | The Art of Machine Learning 9,2,1,0.0007
+History of Physics 3 | Introduction to Music 4,2,1,0.0007
+Advanced Chemistry 5 | Advanced History 5,2,1,0.0007
+Guide to History 8 | Introduction to Philosophy 10,2,1,0.0007
+Advanced History 5 | History of AI 7,2,1,0.0007
+Advanced History 5 | The Art of Physics 7,2,1,0.0007
+History of AI 7 | The Art of Physics 7,2,1,0.0007
+Advanced Chemistry 9 | Introduction to Biology 6,2,1,0.0007
+Advanced Chemistry 9 | Mastering Biology 6,2,1,0.0007
+Introduction to Biology 6 | Mastering Biology 6,2,1,0.0007
+Advanced Music 8 | Fundamentals of Java 9,2,1,0.0007
+Handbook of Java 1 | History of History 7,2,1,0.0007
+History of Art 8 | Mastering Python 6,2,1,0.0007
+Advanced Java 1 | The Art of Biology 6,2,1,0.0007
+History of Python 9 | The Art of Economics 7,2,1,0.0007
+Guide to Philosophy 2 | Introduction to Physics 3,2,1,0.0007
+History of History 4 | Introduction to Machine Learning 7,2,1,0.0007
+History of History 4 | Mastering Philosophy 2,2,1,0.0007
+Introduction to Machine Learning 7 | Mastering Philosophy 2,2,1,0.0007
+Advanced Java 2 | Advanced Python 8,2,1,0.0007
+Advanced Calculus 9 | Advanced Economics 3,2,1,0.0007
+Advanced Calculus 9 | Mastering Physics 3,2,1,0.0007
+Advanced Economics 3 | Mastering Physics 3,2,1,0.0007
+Fundamentals of Machine Learning 3 | Guide to Python 4,2,1,0.0007
+Fundamentals of Machine Learning 3 | Handbook of Art 1,2,1,0.0007
+Guide to Python 4 | Handbook of Art 1,2,1,0.0007
+Advanced Java 7 | Advanced Machine Learning 1,2,1,0.0007
+Advanced Java 7 | The Art of Philosophy 1,2,1,0.0007
+Advanced Machine Learning 1 | The Art of Philosophy 1,2,1,0.0007
+Guide to Art 5 | The Art of AI 9,2,1,0.0007
+Fundamentals of Art 10 | History of History 2,2,1,0.0007
+Fundamentals of Art 10 | Introduction to Java 5,2,1,0.0007
+History of History 2 | Introduction to Java 5,2,1,0.0007
+Advanced Java 7 | Handbook of Machine Learning 7,2,1,0.0007
+Advanced Java 7 | The Art of AI 9,2,1,0.0007
+Handbook of Machine Learning 7 | The Art of AI 9,2,1,0.0007
+Guide to Economics 1 | Introduction to Economics 7,2,1,0.0007
+The Art of Economics 3 | The Art of History 6,2,1,0.0007
+Advanced Physics 8 | Fundamentals of Java 1,2,1,0.0007
+Advanced Physics 8 | Handbook of Economics 2,2,1,0.0007
+Fundamentals of Java 1 | Handbook of Economics 2,2,1,0.0007
+Handbook of Physics 10 | Introduction to Chemistry 5,2,1,0.0007
+Handbook of Physics 10 | Introduction to Philosophy 1,2,1,0.0007
+Introduction to Chemistry 5 | Introduction to Philosophy 1,2,1,0.0007
+Mastering Python 4 | The Art of History 10,2,1,0.0007
+Advanced Python 1 | Handbook of History 9,2,1,0.0007
+Fundamentals of Java 10 | History of Machine Learning 4,2,1,0.0007
+Handbook of AI 10 | History of Music 2,2,1,0.0007
+Handbook of AI 10 | The Art of History 7,2,1,0.0007
+History of Music 2 | The Art of History 7,2,1,0.0007
+Handbook of Music 8 | History of Calculus 5,2,1,0.0007
+Handbook of Music 8 | Mastering History 6,2,1,0.0007
+History of Calculus 5 | Mastering History 6,2,1,0.0007
+Guide to Art 3 | Handbook of Economics 9,2,1,0.0007
+Guide to Art 3 | Mastering History 8,2,1,0.0007
+Handbook of Economics 9 | Mastering History 8,2,1,0.0007
+Guide to AI 9 | Handbook of Biology 5,2,1,0.0007
+Guide to AI 9 | Introduction to Python 6,2,1,0.0007
+Handbook of Biology 5 | Introduction to Python 6,2,1,0.0007
+Advanced Python 10 | History of Calculus 3,2,1,0.0007
+Advanced Python 10 | Mastering Calculus 1,2,1,0.0007
+History of Calculus 3 | Mastering Calculus 1,2,1,0.0007
+Advanced Java 1 | Guide to Biology 7,2,1,0.0007
+Handbook of Philosophy 10 | History of Philosophy 9,2,1,0.0007
+Handbook of Philosophy 10 | Introduction to Physics 3,2,1,0.0007
+History of Philosophy 9 | Introduction to Physics 3,2,1,0.0007
+Guide to AI 3 | Mastering Python 6,2,1,0.0007
+Advanced Biology 5 | Handbook of Biology 7,2,1,0.0007
+Advanced Biology 5 | Introduction to History 8,2,1,0.0007
+Handbook of Biology 7 | Introduction to History 8,2,1,0.0007
+Fundamentals of Art 3 | Fundamentals of Art 7,2,1,0.0007
+Advanced Calculus 7 | Mastering Biology 4,2,1,0.0007
+Mastering Art 8 | The Art of Art 10,2,1,0.0007
+History of Physics 1 | Mastering History 3,2,1,0.0007
+Guide to Music 5 | Handbook of Calculus 4,2,1,0.0007
+Guide to Music 5 | Mastering Art 10,2,1,0.0007
+Handbook of Calculus 4 | Mastering Art 10,2,1,0.0007
+Fundamentals of Java 1 | Mastering Philosophy 4,2,1,0.0007
+Advanced Java 5 | Guide to Python 4,2,1,0.0007
+Advanced Java 5 | Introduction to Python 1,2,1,0.0007
+Guide to Python 4 | Introduction to Python 1,2,1,0.0007
+Advanced Chemistry 1 | Introduction to Biology 6,2,1,0.0007
+History of Calculus 1 | Introduction to Art 5,2,1,0.0007
+History of Calculus 1 | The Art of History 9,2,1,0.0007
+Introduction to Art 5 | The Art of History 9,2,1,0.0007
+Advanced Economics 5 | Advanced Philosophy 9,2,1,0.0007
+Advanced Economics 5 | Fundamentals of Music 4,2,1,0.0007
+Advanced Philosophy 9 | Fundamentals of Music 4,2,1,0.0007
+Fundamentals of Chemistry 6 | Guide to Music 8,2,1,0.0007
+Introduction to History 10 | Mastering Biology 9,2,1,0.0007
+Introduction to History 10 | The Art of History 5,2,1,0.0007
+Mastering Biology 9 | The Art of History 5,2,1,0.0007
+History of Machine Learning 4 | The Art of Machine Learning 2,2,1,0.0007
+Introduction to Philosophy 1 | The Art of Physics 1,2,1,0.0007
+Introduction to Philosophy 7 | The Art of Music 1,2,1,0.0007
+Introduction to Philosophy 7 | The Art of Philosophy 4,2,1,0.0007
+The Art of Music 1 | The Art of Philosophy 4,2,1,0.0007
+Advanced Economics 7 | Fundamentals of Philosophy 6,2,1,0.0007
+Advanced Economics 7 | The Art of Python 9,2,1,0.0007
+Fundamentals of Philosophy 6 | The Art of Python 9,2,1,0.0007
+Advanced Art 6 | Guide to Machine Learning 1,2,1,0.0007
+Advanced Art 6 | Mastering Chemistry 9,2,1,0.0007
+Guide to Machine Learning 1 | Mastering Chemistry 9,2,1,0.0007
+Introduction to Philosophy 7 | Mastering History 7,2,1,0.0007
+Advanced Biology 10 | Mastering Art 9,2,1,0.0007
+Advanced Biology 10 | Mastering Calculus 3,2,1,0.0007
+Mastering Art 9 | Mastering Calculus 3,2,1,0.0007
+History of Music 4 | History of Philosophy 1,2,1,0.0007
+The Art of AI 10 | The Art of Calculus 8,2,1,0.0007
+Fundamentals of Physics 9 | Guide to Art 1,2,1,0.0007
+Fundamentals of Physics 9 | History of Philosophy 8,2,1,0.0007
+Guide to Art 1 | History of Philosophy 8,2,1,0.0007
+Guide to Python 4 | Introduction to AI 8,2,1,0.0007
+Advanced Physics 2 | The Art of Calculus 3,2,1,0.0007
+Guide to Art 6 | Introduction to Music 1,2,1,0.0007
+Guide to Machine Learning 2 | Introduction to History 10,2,1,0.0007
+Advanced Art 6 | Advanced Python 7,2,1,0.0007
+Advanced Art 6 | Guide to Calculus 9,2,1,0.0007
+Advanced Python 7 | Guide to Calculus 9,2,1,0.0007
+Advanced Physics 2 | Introduction to Chemistry 3,2,1,0.0007
+Advanced Physics 2 | The Art of Art 8,2,1,0.0007
+Introduction to Chemistry 3 | The Art of Art 8,2,1,0.0007
+Advanced Music 4 | Fundamentals of Java 10,2,1,0.0007
+Advanced Music 4 | Introduction to Art 6,2,1,0.0007
+Fundamentals of Java 10 | Introduction to Art 6,2,1,0.0007
+Handbook of Python 4 | Introduction to AI 10,2,1,0.0007
+Advanced Music 10 | Fundamentals of Philosophy 2,2,1,0.0007
+Handbook of History 9 | The Art of Economics 9,2,1,0.0007
+Handbook of Java 9 | The Art of Python 5,2,1,0.0007
+Advanced Economics 7 | Advanced Economics 9,2,1,0.0007
+Guide to AI 5 | History of Physics 1,2,1,0.0007
+Fundamentals of Java 1 | The Art of Art 2,2,1,0.0007
+Fundamentals of Music 3 | Mastering Music 6,2,1,0.0007
+Guide to History 7 | Introduction to History 7,2,1,0.0007
+Advanced Music 8 | Mastering Art 6,2,1,0.0007
+Advanced Music 8 | The Art of Java 2,2,1,0.0007
+Mastering Art 6 | The Art of Java 2,2,1,0.0007
+Advanced Machine Learning 1 | Fundamentals of Chemistry 8,2,1,0.0007
+Advanced Machine Learning 1 | Introduction to Biology 4,2,1,0.0007
+Fundamentals of Chemistry 8 | Introduction to Biology 4,2,1,0.0007
+Introduction to Chemistry 5 | Mastering Chemistry 10,2,1,0.0007
+Mastering History 7 | The Art of Python 7,2,1,0.0007
+Fundamentals of Biology 3 | The Art of Philosophy 4,2,1,0.0007
+Handbook of Philosophy 9 | History of Art 7,2,1,0.0007
+Guide to Economics 3 | Handbook of Chemistry 6,2,1,0.0007
+Guide to Economics 3 | Introduction to Java 10,2,1,0.0007
+Handbook of Chemistry 6 | Introduction to Java 10,2,1,0.0007
+Advanced Chemistry 6 | Guide to Java 8,2,1,0.0007
+Advanced Chemistry 6 | Introduction to Machine Learning 7,2,1,0.0007
+Guide to Java 8 | Introduction to Machine Learning 7,2,1,0.0007
+Fundamentals of Chemistry 9 | History of Art 8,2,1,0.0007
+History of Art 8 | Mastering Java 10,2,1,0.0007
+Fundamentals of Java 1 | Introduction to Physics 3,2,1,0.0007
+Fundamentals of Java 1 | The Art of History 6,2,1,0.0007
+Advanced Chemistry 1 | Advanced Java 1,2,1,0.0007
+Advanced Chemistry 1 | Mastering Music 8,2,1,0.0007
+Advanced Java 1 | Mastering Music 8,2,1,0.0007
+Introduction to Music 1 | Mastering Python 6,2,1,0.0007
+Fundamentals of Music 8 | The Art of Biology 8,2,1,0.0007
+Fundamentals of Music 8 | The Art of Physics 3,2,1,0.0007
+The Art of Biology 8 | The Art of Physics 3,2,1,0.0007
+Mastering Java 3 | Mastering Music 9,2,1,0.0007
+Fundamentals of Java 9 | Mastering Calculus 7,2,1,0.0007
+History of Economics 4 | History of Machine Learning 1,2,1,0.0007
+History of Economics 4 | Mastering Calculus 4,2,1,0.0007
+History of Machine Learning 1 | Mastering Calculus 4,2,1,0.0007
+Handbook of Python 6 | Mastering Chemistry 2,2,1,0.0007
+Handbook of Python 6 | Mastering Chemistry 3,2,1,0.0007
+Mastering Chemistry 2 | Mastering Chemistry 3,2,1,0.0007
+Advanced Music 4 | Advanced Python 5,2,1,0.0007
+Advanced Music 4 | Handbook of Machine Learning 5,2,1,0.0007
+Advanced Python 5 | Handbook of Machine Learning 5,2,1,0.0007
+History of Music 2 | History of Physics 6,2,1,0.0007
+History of Music 2 | The Art of History 2,2,1,0.0007
+History of Physics 6 | The Art of History 2,2,1,0.0007
+Handbook of AI 9 | Introduction to Chemistry 5,2,1,0.0007
+Fundamentals of Art 6 | Guide to Music 2,2,1,0.0007
+Fundamentals of Art 6 | Introduction to Machine Learning 1,2,1,0.0007
+Guide to Music 2 | Introduction to Machine Learning 1,2,1,0.0007
+Mastering History 2 | Mastering Java 4,2,1,0.0007
+Advanced Python 5 | History of Economics 6,2,1,0.0007
+Advanced Economics 9 | Mastering Chemistry 7,2,1,0.0007
+Handbook of Java 3 | Mastering Calculus 9,2,1,0.0007
+Advanced Music 8 | Handbook of Python 4,2,1,0.0007
+Fundamentals of Biology 4 | Guide to Music 2,2,1,0.0007
+Fundamentals of Biology 4 | Guide to Physics 1,2,1,0.0007
+Guide to Music 2 | Guide to Physics 1,2,1,0.0007
+Advanced History 10 | Advanced Python 3,2,1,0.0007
+Advanced Chemistry 4 | Introduction to Machine Learning 2,2,1,0.0007
+Fundamentals of Philosophy 8 | Introduction to Machine Learning 7,2,1,0.0007
+Fundamentals of Philosophy 8 | The Art of Philosophy 1,2,1,0.0007
+Introduction to Machine Learning 7 | The Art of Philosophy 1,2,1,0.0007
+Fundamentals of Python 8 | The Art of Python 5,2,1,0.0007
+Fundamentals of Machine Learning 5 | Fundamentals of Philosophy 9,2,1,0.0007
+History of Calculus 4 | Introduction to Art 5,2,1,0.0007
+Advanced Chemistry 1 | The Art of History 1,2,1,0.0007
+Guide to Philosophy 9 | The Art of Calculus 1,2,1,0.0007
+Guide to Philosophy 9 | The Art of Philosophy 6,2,1,0.0007
+The Art of Calculus 1 | The Art of Philosophy 6,2,1,0.0007
+Guide to Music 9 | Handbook of Art 1,2,1,0.0007
+Advanced Art 1 | History of Biology 3,2,1,0.0007
+Fundamentals of Economics 6 | History of Biology 3,2,1,0.0007
+Fundamentals of Philosophy 6 | Handbook of Python 7,2,1,0.0007
+Fundamentals of Philosophy 6 | Mastering Chemistry 4,2,1,0.0007
+Handbook of Python 7 | Mastering Chemistry 4,2,1,0.0007
+Fundamentals of Art 5 | The Art of Calculus 7,2,1,0.0007
+Fundamentals of Art 5 | The Art of Philosophy 1,2,1,0.0007
+The Art of Calculus 7 | The Art of Philosophy 1,2,1,0.0007
+Fundamentals of Chemistry 6 | Fundamentals of Java 1,2,1,0.0007
+Advanced Python 8 | Mastering Biology 9,2,1,0.0007
+Handbook of Music 5 | Mastering History 3,2,1,0.0007
+Handbook of Music 5 | The Art of Calculus 7,2,1,0.0007
+Mastering History 3 | The Art of Calculus 7,2,1,0.0007
+Advanced Chemistry 10 | History of Python 9,2,1,0.0007
+Advanced Chemistry 10 | Introduction to Java 5,2,1,0.0007
+History of Python 9 | Introduction to Java 5,2,1,0.0007
+Guide to Biology 3 | Introduction to Calculus 2,2,1,0.0007
+Fundamentals of Physics 2 | Mastering Chemistry 10,2,1,0.0007
+Advanced Chemistry 5 | Fundamentals of Machine Learning 6,2,1,0.0007
+Guide to Music 2 | Introduction to Java 8,2,1,0.0007
+Guide to Music 2 | Mastering Biology 8,2,1,0.0007
+Introduction to Java 8 | Mastering Biology 8,2,1,0.0007
+History of Chemistry 4 | The Art of Economics 4,2,1,0.0007
+History of Calculus 8 | History of History 2,2,1,0.0007
+Guide to AI 1 | Mastering Machine Learning 10,2,1,0.0007
+Mastering Python 6 | The Art of Art 8,2,1,0.0007
+Mastering Python 6 | The Art of Physics 10,2,1,0.0007
+The Art of Art 8 | The Art of Physics 10,2,1,0.0007
+History of Chemistry 4 | Introduction to Philosophy 5,2,1,0.0007
+Guide to Python 1 | History of Biology 1,2,1,0.0007
+Advanced Art 4 | Advanced Art 9,2,1,0.0007
+Advanced Art 4 | History of History 7,2,1,0.0007
+Advanced Art 9 | History of History 7,2,1,0.0007
+Fundamentals of Chemistry 10 | Handbook of Music 7,2,1,0.0007
+Advanced Python 5 | Handbook of Philosophy 10,2,1,0.0007
+Advanced Python 5 | The Art of Economics 8,2,1,0.0007
+Handbook of Philosophy 10 | The Art of Economics 8,2,1,0.0007
+Advanced Biology 1 | Guide to AI 10,2,1,0.0007
+Advanced Biology 1 | The Art of Economics 8,2,1,0.0007
+Guide to AI 10 | The Art of Economics 8,2,1,0.0007
+Fundamentals of Chemistry 9 | Fundamentals of Machine Learning 9,2,1,0.0007
+Advanced Art 1 | Guide to Music 2,2,1,0.0007
+Advanced Art 1 | Handbook of Physics 4,2,1,0.0007
+Guide to Music 2 | Handbook of Physics 4,2,1,0.0007
+Guide to Chemistry 2 | Mastering Music 6,2,1,0.0007
+Handbook of Physics 4 | Mastering Calculus 3,2,1,0.0007
+Fundamentals of AI 5 | Introduction to Biology 4,2,1,0.0007
+Fundamentals of AI 5 | The Art of Philosophy 9,2,1,0.0007
+Introduction to Biology 4 | The Art of Philosophy 9,2,1,0.0007
+Fundamentals of Chemistry 4 | History of AI 5,2,1,0.0007
+Fundamentals of Chemistry 4 | The Art of History 10,2,1,0.0007
+History of AI 5 | The Art of History 10,2,1,0.0007
+Advanced Calculus 7 | Advanced History 4,2,1,0.0007
+Advanced Calculus 7 | Guide to Machine Learning 5,2,1,0.0007
+Advanced History 4 | Guide to Machine Learning 5,2,1,0.0007
+Fundamentals of Philosophy 8 | History of Calculus 1,2,1,0.0007
+Fundamentals of Philosophy 8 | Mastering Philosophy 6,2,1,0.0007
+History of Calculus 1 | Mastering Philosophy 6,2,1,0.0007
+Handbook of Economics 9 | Introduction to Java 9,2,1,0.0007
+Mastering Machine Learning 10 | The Art of Java 6,2,1,0.0007
+History of Biology 8 | History of History 7,2,1,0.0007
+Advanced Biology 4 | Handbook of Art 1,2,1,0.0007
+Handbook of Machine Learning 2 | Mastering Java 10,2,1,0.0007
+Handbook of Machine Learning 2 | The Art of History 2,2,1,0.0007
+Mastering Java 10 | The Art of History 2,2,1,0.0007
+Advanced Music 4 | The Art of History 8,2,1,0.0007
+Fundamentals of Java 3 | The Art of Python 6,2,1,0.0007
+Fundamentals of Music 6 | Guide to Biology 7,2,1,0.0007
+Advanced Java 1 | Guide to Economics 1,2,1,0.0007
+Advanced Java 1 | The Art of Art 9,2,1,0.0007
+Guide to Economics 1 | The Art of Art 9,2,1,0.0007
+Advanced Chemistry 4 | Guide to Biology 1,2,1,0.0007
+Fundamentals of Art 5 | Guide to Physics 1,2,1,0.0007
+Fundamentals of Art 5 | Handbook of Chemistry 7,2,1,0.0007
+Guide to Physics 1 | Handbook of Chemistry 7,2,1,0.0007
+Handbook of History 3 | The Art of History 2,2,1,0.0007
+Guide to Biology 10 | The Art of Calculus 3,2,1,0.0007
+Introduction to Chemistry 9 | Mastering Java 8,2,1,0.0007
+History of History 7 | Mastering History 8,2,1,0.0007
+History of History 7 | Mastering Machine Learning 3,2,1,0.0007
+Mastering History 8 | Mastering Machine Learning 3,2,1,0.0007
+Advanced Art 4 | Fundamentals of AI 2,2,1,0.0007
+Handbook of Physics 7 | Mastering Calculus 1,2,1,0.0007
+Guide to Philosophy 3 | History of History 10,2,1,0.0007
+Guide to Philosophy 3 | Mastering Calculus 1,2,1,0.0007
+History of History 10 | Mastering Calculus 1,2,1,0.0007
+Advanced Java 1 | Fundamentals of Physics 1,2,1,0.0007
+Fundamentals of Java 1 | Guide to Music 9,2,1,0.0007
+Fundamentals of Java 1 | Mastering Java 8,2,1,0.0007
+Guide to Music 9 | Mastering Java 8,2,1,0.0007
+History of Python 7 | The Art of History 3,2,1,0.0007
+Fundamentals of Python 4 | Mastering Philosophy 4,2,1,0.0007
+History of AI 8 | Mastering Philosophy 9,2,1,0.0007
+History of AI 8 | The Art of Machine Learning 3,2,1,0.0007
+Mastering Philosophy 9 | The Art of Machine Learning 3,2,1,0.0007
+Fundamentals of Python 10 | The Art of AI 9,2,1,0.0007
+History of Calculus 2 | The Art of History 9,2,1,0.0007
+History of Machine Learning 10 | History of Music 3,2,1,0.0007
+History of Machine Learning 10 | Mastering Java 6,2,1,0.0007
+History of Music 3 | Mastering Java 6,2,1,0.0007
+Handbook of Chemistry 5 | Handbook of Music 6,2,1,0.0007
+Handbook of Chemistry 5 | The Art of Calculus 3,2,1,0.0007
+Handbook of Music 6 | The Art of Calculus 3,2,1,0.0007
+Handbook of Biology 7 | History of Music 9,2,1,0.0007
+Advanced Chemistry 5 | Advanced Economics 9,2,1,0.0007
+Advanced History 5 | Fundamentals of AI 5,2,1,0.0007
+Advanced History 5 | Mastering AI 6,2,1,0.0007
+Fundamentals of AI 5 | Mastering AI 6,2,1,0.0007
+Handbook of Art 5 | Introduction to Philosophy 3,2,1,0.0007
+Fundamentals of Chemistry 10 | Introduction to Biology 6,2,1,0.0007
+Fundamentals of Chemistry 10 | Mastering Economics 5,2,1,0.0007
+Introduction to Biology 6 | Mastering Economics 5,2,1,0.0007
+Handbook of Philosophy 10 | History of Music 2,2,1,0.0007
+Handbook of Philosophy 10 | Introduction to Philosophy 6,2,1,0.0007
+History of Music 2 | Introduction to Philosophy 6,2,1,0.0007
+Advanced Chemistry 5 | Guide to AI 10,2,1,0.0007
+Advanced Chemistry 5 | Mastering Calculus 2,2,1,0.0007
+Advanced Chemistry 5 | The Art of AI 7,2,1,0.0007
+Mastering Calculus 2 | The Art of AI 7,2,1,0.0007
+Handbook of Calculus 8 | History of Chemistry 9,2,1,0.0007
+Handbook of Music 5 | History of Philosophy 9,2,1,0.0007
+Handbook of Music 5 | Mastering Art 8,2,1,0.0007
+History of Philosophy 9 | Mastering Art 8,2,1,0.0007
+Advanced Calculus 8 | Guide to Music 5,2,1,0.0007
+Advanced Calculus 8 | History of Biology 6,2,1,0.0007
+Guide to Music 5 | History of Biology 6,2,1,0.0007
+Handbook of Economics 9 | The Art of History 5,2,1,0.0007
+Advanced Biology 4 | Advanced Python 1,2,1,0.0007
+Advanced Biology 4 | The Art of AI 9,2,1,0.0007
+Advanced Python 1 | The Art of AI 9,2,1,0.0007
+Fundamentals of Music 7 | Handbook of Art 6,2,1,0.0007
+Fundamentals of Music 7 | History of AI 3,2,1,0.0007
+Handbook of Art 6 | History of AI 3,2,1,0.0007
+Guide to Economics 5 | Handbook of Economics 4,2,1,0.0007
+History of Machine Learning 8 | Introduction to Physics 8,2,1,0.0007
+Advanced Java 1 | Introduction to History 4,2,1,0.0007
+History of History 7 | Introduction to Java 8,2,1,0.0007
+Guide to Machine Learning 5 | Introduction to AI 8,2,1,0.0007
+Guide to Machine Learning 5 | Introduction to Python 5,2,1,0.0007
+Introduction to AI 8 | Introduction to Python 5,2,1,0.0007
+Fundamentals of Machine Learning 3 | Guide to Physics 1,2,1,0.0007
+Fundamentals of Machine Learning 3 | History of Calculus 3,2,1,0.0007
+Guide to Physics 1 | History of Calculus 3,2,1,0.0007
+History of Art 3 | History of Economics 6,2,1,0.0007
+History of Art 3 | Mastering Physics 5,2,1,0.0007
+History of Economics 6 | Mastering Physics 5,2,1,0.0007
+Advanced Calculus 9 | Mastering Economics 9,2,1,0.0007
+Advanced Calculus 9 | The Art of Calculus 5,2,1,0.0007
+Mastering Economics 9 | The Art of Calculus 5,2,1,0.0007
+The Art of Biology 7 | The Art of Calculus 8,2,1,0.0007
+Advanced Chemistry 1 | Advanced Music 4,2,1,0.0007
+Advanced Calculus 6 | Fundamentals of Biology 3,2,1,0.0007
+History of Economics 8 | Introduction to AI 3,2,1,0.0007
+Introduction to AI 3 | Mastering Calculus 6,2,1,0.0007
+Fundamentals of Calculus 10 | Mastering Biology 7,2,1,0.0007
+Advanced AI 2 | Advanced Machine Learning 8,2,1,0.0007
+Advanced AI 2 | Fundamentals of Python 7,2,1,0.0007
+Advanced Machine Learning 8 | Fundamentals of Python 7,2,1,0.0007
+Advanced Physics 2 | Guide to Art 2,2,1,0.0007
+Advanced Physics 2 | Mastering Art 2,2,1,0.0007
+Guide to Art 2 | Mastering Art 2,2,1,0.0007
+Advanced Economics 3 | History of Music 7,2,1,0.0007
+Advanced Economics 1 | Guide to Machine Learning 5,2,1,0.0007
+Advanced Economics 1 | Introduction to Python 7,2,1,0.0007
+Guide to Machine Learning 5 | Introduction to Python 7,2,1,0.0007
+Advanced Java 8 | Introduction to History 1,2,1,0.0007
+Advanced Art 1 | Guide to Machine Learning 6,2,1,0.0007
+Advanced Chemistry 4 | Fundamentals of Machine Learning 5,2,1,0.0007
+Advanced Chemistry 4 | Mastering Chemistry 9,2,1,0.0007
+Fundamentals of Machine Learning 5 | Mastering Chemistry 9,2,1,0.0007
+Advanced Machine Learning 1 | Handbook of AI 6,2,1,0.0007
+Fundamentals of Chemistry 4 | Handbook of AI 6,2,1,0.0007
+Introduction to Music 8 | Mastering Philosophy 1,2,1,0.0007
+Advanced Machine Learning 1 | Handbook of Physics 2,2,1,0.0007
+Fundamentals of Chemistry 4 | Handbook of Physics 2,2,1,0.0007
+Advanced Python 4 | History of Calculus 7,2,1,0.0007
+Guide to Art 3 | History of Chemistry 6,2,1,0.0007
+Advanced Python 8 | History of AI 7,2,1,0.0007
+Advanced Python 8 | History of Physics 1,2,1,0.0007
+History of AI 7 | History of Physics 1,2,1,0.0007
+Fundamentals of Economics 6 | The Art of Economics 8,2,1,0.0007
+Fundamentals of Python 1 | Guide to AI 10,2,1,0.0007
+Fundamentals of Python 1 | Guide to History 7,2,1,0.0007
+Guide to AI 10 | Guide to History 7,2,1,0.0007
+Advanced Calculus 9 | Fundamentals of Chemistry 7,2,1,0.0007
+Advanced Calculus 9 | Handbook of Java 9,2,1,0.0007
+Fundamentals of Chemistry 7 | Handbook of Java 9,2,1,0.0007
+Advanced Calculus 6 | Advanced Chemistry 9,2,1,0.0007
+Fundamentals of Chemistry 9 | Guide to Machine Learning 6,2,1,0.0007
+Fundamentals of Chemistry 9 | Handbook of Calculus 1,2,1,0.0007
+Guide to Machine Learning 6 | Handbook of Calculus 1,2,1,0.0007
+Handbook of Physics 4 | Mastering Music 8,2,1,0.0007
+Handbook of Physics 4 | The Art of Python 3,2,1,0.0007
+Mastering Music 8 | The Art of Python 3,2,1,0.0007
+The Art of AI 9 | The Art of Art 3,2,1,0.0007
+Fundamentals of Physics 9 | Handbook of History 9,2,1,0.0007
+Fundamentals of Physics 5 | The Art of History 5,2,1,0.0007
+Fundamentals of Physics 9 | Fundamentals of Python 9,2,1,0.0007
+Fundamentals of Physics 9 | Introduction to Chemistry 5,2,1,0.0007
+Fundamentals of Python 9 | Introduction to Chemistry 5,2,1,0.0007
+Handbook of Python 6 | Mastering Art 2,2,1,0.0007
+Introduction to AI 8 | Introduction to Machine Learning 8,2,1,0.0007
+Advanced Chemistry 7 | The Art of Art 10,2,1,0.0007
+Advanced Chemistry 7 | The Art of Calculus 3,2,1,0.0007
+The Art of Art 10 | The Art of Calculus 3,2,1,0.0007
+Guide to Python 6 | The Art of Calculus 3,2,1,0.0007
+Guide to Python 6 | The Art of Chemistry 8,2,1,0.0007
+The Art of Calculus 3 | The Art of Chemistry 8,2,1,0.0007
+Advanced Music 10 | The Art of Calculus 3,2,1,0.0007
+History of Biology 8 | The Art of Art 8,2,1,0.0007
+Advanced Calculus 5 | Handbook of Machine Learning 7,2,1,0.0007
+Advanced Calculus 5 | Mastering Art 9,2,1,0.0007
+Handbook of Machine Learning 7 | Mastering Art 9,2,1,0.0007
+History of Calculus 3 | History of Chemistry 7,2,1,0.0007
+Fundamentals of Music 3 | Handbook of History 6,2,1,0.0007
+Advanced Economics 9 | Mastering Calculus 8,2,1,0.0007
+Fundamentals of Machine Learning 5 | Introduction to History 9,2,1,0.0007
+Fundamentals of Machine Learning 5 | The Art of Philosophy 4,2,1,0.0007
+Introduction to History 9 | The Art of Philosophy 4,2,1,0.0007
+Advanced Chemistry 1 | History of Art 2,2,1,0.0007
+Advanced Physics 2 | History of Art 2,2,1,0.0007
+Fundamentals of Physics 6 | The Art of Music 3,2,1,0.0007
+Fundamentals of Physics 6 | The Art of Physics 10,2,1,0.0007
+The Art of Music 3 | The Art of Physics 10,2,1,0.0007
+Fundamentals of Machine Learning 5 | Handbook of Machine Learning 3,2,1,0.0007
+Fundamentals of Machine Learning 5 | The Art of Physics 7,2,1,0.0007
+Handbook of Machine Learning 3 | The Art of Physics 7,2,1,0.0007
+Fundamentals of Physics 6 | Handbook of Chemistry 5,2,1,0.0007
+Fundamentals of Physics 6 | Mastering History 2,2,1,0.0007
+Handbook of Chemistry 5 | Mastering History 2,2,1,0.0007
+Advanced History 7 | Handbook of Python 2,2,1,0.0007
+Advanced History 7 | History of Calculus 7,2,1,0.0007
+Handbook of Python 2 | History of Calculus 7,2,1,0.0007
+Fundamentals of Philosophy 9 | History of Calculus 4,2,1,0.0007
+Fundamentals of Philosophy 9 | History of Chemistry 5,2,1,0.0007
+History of Calculus 4 | History of Chemistry 5,2,1,0.0007
+Fundamentals of Java 3 | History of AI 3,2,1,0.0007
+Fundamentals of Java 3 | The Art of Physics 1,2,1,0.0007
+History of AI 3 | The Art of Physics 1,2,1,0.0007
+Guide to AI 5 | The Art of Calculus 5,2,1,0.0007
+Fundamentals of Chemistry 9 | Mastering Biology 6,2,1,0.0007
+Mastering Biology 6 | Mastering Java 10,2,1,0.0007
+Guide to Philosophy 3 | Introduction to Machine Learning 1,2,1,0.0007
+Guide to Philosophy 3 | The Art of History 1,2,1,0.0007
+Introduction to Machine Learning 1 | The Art of History 1,2,1,0.0007
+Handbook of Chemistry 6 | History of AI 7,2,1,0.0007
+History of Art 6 | History of Economics 4,2,1,0.0007
+Advanced Physics 2 | Guide to Music 4,2,1,0.0007
+Advanced Physics 2 | The Art of Philosophy 9,2,1,0.0007
+Guide to Music 4 | The Art of Philosophy 9,2,1,0.0007
+Handbook of Biology 5 | Handbook of Java 3,2,1,0.0007
+Handbook of Biology 5 | The Art of History 1,2,1,0.0007
+Handbook of Java 3 | The Art of History 1,2,1,0.0007
+The Art of Music 6 | The Art of Philosophy 9,2,1,0.0007
+Introduction to Art 5 | Mastering AI 6,2,1,0.0007
+Advanced Calculus 1 | History of Art 2,2,1,0.0007
+Advanced Calculus 1 | History of Art 7,2,1,0.0007
+History of Art 2 | History of Art 7,2,1,0.0007
+Advanced Music 2 | The Art of Biology 6,2,1,0.0007
+Guide to Java 10 | History of Biology 5,2,1,0.0007
+Guide to Java 10 | The Art of Economics 3,2,1,0.0007
+History of Biology 5 | The Art of Economics 3,2,1,0.0007
+Advanced Python 10 | Handbook of Biology 7,2,1,0.0007
+Advanced Python 10 | The Art of Philosophy 9,2,1,0.0007
+Handbook of Biology 7 | The Art of Philosophy 9,2,1,0.0007
+Fundamentals of Chemistry 7 | History of Physics 1,2,1,0.0007
+Fundamentals of Chemistry 7 | Mastering Chemistry 9,2,1,0.0007
+History of Physics 1 | Mastering Chemistry 9,2,1,0.0007
+Advanced AI 6 | Guide to Physics 1,2,1,0.0007
+Advanced AI 6 | Introduction to Art 6,2,1,0.0007
+Guide to Physics 1 | Introduction to Art 6,2,1,0.0007
+Guide to Music 1 | Mastering Python 6,2,1,0.0007
+Advanced Economics 5 | Introduction to Music 1,2,1,0.0007
+Advanced Biology 4 | Guide to AI 8,2,1,0.0007
+Advanced Biology 4 | Handbook of History 2,2,1,0.0007
+Guide to AI 8 | Handbook of History 2,2,1,0.0007
+Fundamentals of Calculus 2 | Handbook of Java 4,2,1,0.0007
+Fundamentals of Calculus 2 | History of Biology 6,2,1,0.0007
+Handbook of Java 4 | History of Biology 6,2,1,0.0007
+Guide to Java 8 | Mastering Java 10,2,1,0.0007
+Guide to Java 8 | The Art of Physics 7,2,1,0.0007
+Mastering Java 10 | The Art of Physics 7,2,1,0.0007
+Advanced Calculus 8 | Guide to Calculus 10,2,1,0.0007
+Advanced Calculus 8 | History of Biology 3,2,1,0.0007
+Guide to Calculus 10 | History of Biology 3,2,1,0.0007
+Advanced Biology 1 | The Art of Physics 7,2,1,0.0007
+Advanced Machine Learning 1 | Introduction to Calculus 3,2,1,0.0007
+Advanced Java 2 | Introduction to Art 6,2,1,0.0007
+Advanced Java 8 | Introduction to Machine Learning 3,2,1,0.0007
+Advanced Java 1 | The Art of Python 9,2,1,0.0007
+Guide to Biology 7 | History of Machine Learning 1,2,1,0.0007
+Guide to Biology 7 | Introduction to Python 5,2,1,0.0007
+History of Machine Learning 1 | Introduction to Python 5,2,1,0.0007
+Handbook of AI 10 | History of Biology 9,2,1,0.0007
+Mastering Calculus 6 | Mastering History 3,2,1,0.0007
+Mastering Calculus 6 | The Art of History 5,2,1,0.0007
+Mastering History 3 | The Art of History 5,2,1,0.0007
+Advanced Physics 4 | Fundamentals of Philosophy 2,2,1,0.0007
+Advanced Physics 4 | Mastering Philosophy 9,2,1,0.0007
+Fundamentals of Philosophy 2 | Mastering Philosophy 9,2,1,0.0007
+Handbook of Biology 10 | Mastering Biology 8,2,1,0.0007
+Handbook of Biology 10 | Mastering Physics 3,2,1,0.0007
+Mastering Biology 8 | Mastering Physics 3,2,1,0.0007
+Fundamentals of Chemistry 8 | History of Physics 6,2,1,0.0007
+Fundamentals of Economics 4 | The Art of Biology 10,2,1,0.0007
+Fundamentals of Java 1 | Mastering Philosophy 1,2,1,0.0007
+Fundamentals of Java 1 | The Art of Java 2,2,1,0.0007
+Mastering Philosophy 1 | The Art of Java 2,2,1,0.0007
+Advanced AI 2 | The Art of Art 8,2,1,0.0007
+Advanced AI 2 | The Art of Economics 8,2,1,0.0007
+The Art of Art 8 | The Art of Economics 8,2,1,0.0007
+Guide to AI 6 | History of Music 9,2,1,0.0007
+Handbook of History 8 | Mastering AI 6,2,1,0.0007
+Handbook of History 8 | Mastering Economics 10,2,1,0.0007
+Mastering AI 6 | Mastering Economics 10,2,1,0.0007
+Advanced Chemistry 5 | Fundamentals of AI 4,2,1,0.0007
+Advanced Chemistry 5 | History of Machine Learning 5,2,1,0.0007
+Fundamentals of AI 4 | History of Machine Learning 5,2,1,0.0007
+Fundamentals of Java 9 | The Art of Python 7,2,1,0.0007
+Advanced Java 3 | The Art of History 9,2,1,0.0007
+Fundamentals of Economics 7 | Introduction to Machine Learning 7,2,1,0.0007
+Fundamentals of Economics 7 | Mastering Music 8,2,1,0.0007
+Introduction to Machine Learning 7 | Mastering Music 8,2,1,0.0007
+Advanced AI 1 | History of Chemistry 4,2,1,0.0007
+Advanced AI 1 | Introduction to Python 1,2,1,0.0007
+History of Chemistry 4 | Introduction to Python 1,2,1,0.0007
+History of Biology 2 | History of Chemistry 7,2,1,0.0007
+Fundamentals of AI 7 | The Art of History 9,2,1,0.0007
+Mastering Chemistry 2 | Mastering History 2,2,1,0.0007
+Mastering Chemistry 2 | The Art of Chemistry 3,2,1,0.0007
+Mastering History 2 | The Art of Chemistry 3,2,1,0.0007
+Guide to Physics 4 | Handbook of Music 6,2,1,0.0007
+Guide to History 7 | History of Art 6,2,1,0.0007
+Guide to History 7 | Mastering Chemistry 2,2,1,0.0007
+History of Art 6 | Mastering Chemistry 2,2,1,0.0007
+History of Calculus 4 | Introduction to Machine Learning 1,2,1,0.0007
+History of Calculus 4 | Mastering Java 3,2,1,0.0007
+Introduction to Machine Learning 1 | Mastering Java 3,2,1,0.0007
+Fundamentals of Art 10 | Guide to Physics 1,2,1,0.0007
+Fundamentals of Philosophy 2 | Introduction to Machine Learning 7,2,1,0.0007
+Fundamentals of Philosophy 2 | The Art of AI 10,2,1,0.0007
+Introduction to Machine Learning 7 | The Art of AI 10,2,1,0.0007
+The Art of Art 9 | The Art of History 1,2,1,0.0007
+Guide to Biology 1 | The Art of Economics 8,2,1,0.0007
+Advanced Calculus 7 | Fundamentals of Art 10,2,1,0.0007
+Advanced Calculus 7 | Handbook of Java 9,2,1,0.0007
+Fundamentals of Art 10 | Handbook of Java 9,2,1,0.0007
+History of Music 4 | Introduction to Chemistry 10,2,1,0.0007
+Advanced Java 8 | Mastering Art 8,2,1,0.0007
+Advanced Java 8 | Mastering Economics 7,2,1,0.0007
+Mastering Art 8 | Mastering Economics 7,2,1,0.0007
+Fundamentals of AI 2 | The Art of History 5,2,1,0.0007
+Fundamentals of AI 2 | The Art of History 9,2,1,0.0007
+The Art of History 5 | The Art of History 9,2,1,0.0007
+Fundamentals of Java 6 | Introduction to Art 6,2,1,0.0007
+Advanced Chemistry 9 | Introduction to Java 1,2,1,0.0007
+Introduction to Machine Learning 3 | Mastering Philosophy 4,2,1,0.0007
+Guide to Python 7 | The Art of Economics 4,2,1,0.0007
+Mastering Machine Learning 1 | The Art of Art 1,2,1,0.0007
+Advanced History 6 | Advanced Music 1,2,1,0.0007
+Introduction to Art 2 | Introduction to Philosophy 7,2,1,0.0007
+Introduction to Art 2 | Mastering Music 7,2,1,0.0007
+Introduction to Philosophy 7 | Mastering Music 7,2,1,0.0007
+Advanced Chemistry 5 | History of AI 9,2,1,0.0007
+Advanced Chemistry 9 | History of Philosophy 10,2,1,0.0007
+Advanced Chemistry 9 | Introduction to Music 3,2,1,0.0007
+History of Philosophy 10 | Introduction to Music 3,2,1,0.0007
+History of History 7 | History of Music 7,2,1,0.0007
+Guide to Biology 7 | The Art of Art 6,2,1,0.0007
+Guide to Biology 7 | The Art of Music 3,2,1,0.0007
+The Art of Art 6 | The Art of Music 3,2,1,0.0007
+Mastering Music 1 | The Art of Economics 3,2,1,0.0007
+Advanced Philosophy 2 | History of AI 7,2,1,0.0007
+Advanced Philosophy 2 | Mastering History 8,2,1,0.0007
+History of AI 7 | Mastering History 8,2,1,0.0007
+Handbook of Art 1 | Mastering Biology 8,2,1,0.0007
+Fundamentals of Physics 1 | Handbook of Biology 10,2,1,0.0007
+Introduction to Physics 8 | The Art of Music 1,2,1,0.0007
+Fundamentals of Calculus 7 | Handbook of Philosophy 10,2,1,0.0007
+Fundamentals of Calculus 7 | The Art of Economics 9,2,1,0.0007
+Handbook of Philosophy 10 | The Art of Economics 9,2,1,0.0007
+Mastering Java 8 | The Art of Calculus 1,2,1,0.0007
+Guide to Chemistry 6 | The Art of History 6,2,1,0.0007
+Mastering Chemistry 2 | The Art of Biology 8,2,1,0.0007
+Guide to Java 2 | History of Economics 4,2,1,0.0007
+Fundamentals of Machine Learning 9 | Fundamentals of Physics 5,2,1,0.0007
+Fundamentals of Machine Learning 9 | Guide to Python 10,2,1,0.0007
+Fundamentals of Physics 5 | Guide to Python 10,2,1,0.0007
+Guide to Calculus 6 | Introduction to Music 3,2,1,0.0007
+Guide to Calculus 6 | Mastering Chemistry 2,2,1,0.0007
+Introduction to Music 3 | Mastering Chemistry 2,2,1,0.0007
+History of Music 2 | Introduction to Economics 10,2,1,0.0007
+Introduction to Economics 10 | The Art of History 1,2,1,0.0007
+Advanced Calculus 8 | Mastering Calculus 3,2,1,0.0007
+Advanced Calculus 8 | Mastering Music 10,2,1,0.0007
+Mastering Calculus 3 | Mastering Music 10,2,1,0.0007
+Advanced Physics 2 | Handbook of Philosophy 7,2,1,0.0007
+Introduction to Physics 6 | Mastering AI 6,2,1,0.0007
+History of Machine Learning 8 | Introduction to AI 10,2,1,0.0007
+History of Machine Learning 8 | Mastering AI 9,2,1,0.0007
+Introduction to AI 10 | Mastering AI 9,2,1,0.0007
+Fundamentals of Machine Learning 3 | Handbook of Chemistry 5,2,1,0.0007
+Fundamentals of Machine Learning 3 | Mastering Calculus 9,2,1,0.0007
+Handbook of Chemistry 5 | Mastering Calculus 9,2,1,0.0007
+Advanced Python 10 | Introduction to Art 2,2,1,0.0007
+Handbook of Python 7 | History of Machine Learning 9,2,1,0.0007
+Handbook of Python 7 | The Art of Art 9,2,1,0.0007
+History of Machine Learning 9 | The Art of Art 9,2,1,0.0007
+Mastering Economics 10 | Mastering Physics 3,2,1,0.0007
+Mastering Economics 10 | The Art of History 3,2,1,0.0007
+Mastering Physics 3 | The Art of History 3,2,1,0.0007
+Handbook of Calculus 8 | Mastering Music 1,2,1,0.0007
+Handbook of Philosophy 10 | Mastering Music 1,2,1,0.0007
+Advanced AI 1 | Fundamentals of Economics 4,2,1,0.0007
+Advanced AI 1 | Guide to AI 1,2,1,0.0007
+Fundamentals of Economics 4 | Guide to AI 1,2,1,0.0007
+Handbook of Physics 7 | Introduction to Python 7,2,1,0.0007
+Guide to Economics 1 | Mastering Art 9,2,1,0.0007
+Advanced Chemistry 5 | Guide to Philosophy 9,2,1,0.0007
+The Art of Biology 7 | The Art of Philosophy 5,2,1,0.0007
+Advanced Chemistry 8 | Guide to Biology 8,2,1,0.0007
+Advanced Chemistry 8 | The Art of Machine Learning 2,2,1,0.0007
+Guide to Biology 8 | The Art of Machine Learning 2,2,1,0.0007
+Introduction to Java 8 | The Art of Python 7,2,1,0.0007
+Advanced Art 2 | Fundamentals of Java 1,2,1,0.0007
+Advanced Art 2 | Fundamentals of Philosophy 2,2,1,0.0007
+Fundamentals of Java 1 | Fundamentals of Philosophy 2,2,1,0.0007
+Advanced Physics 2 | History of Biology 3,2,1,0.0007
+Advanced Physics 2 | Introduction to AI 6,2,1,0.0007
+History of Biology 3 | Introduction to AI 6,2,1,0.0007
+Advanced History 3 | Fundamentals of Chemistry 4,2,1,0.0007
+Advanced History 3 | Mastering Java 10,2,1,0.0007
+Fundamentals of Chemistry 4 | Mastering Java 10,2,1,0.0007
+Fundamentals of Philosophy 4 | Introduction to History 8,2,1,0.0007
+Advanced History 4 | Fundamentals of Music 1,2,1,0.0007
+Advanced History 4 | History of Economics 8,2,1,0.0007
+Fundamentals of Music 1 | History of Economics 8,2,1,0.0007
+Guide to Chemistry 6 | Guide to History 1,2,1,0.0007
+Guide to Chemistry 6 | Mastering Music 6,2,1,0.0007
+Guide to History 1 | Mastering Music 6,2,1,0.0007
+Handbook of AI 6 | Handbook of Chemistry 7,2,1,0.0007
+Guide to AI 9 | Handbook of Art 7,2,1,0.0007
+Guide to AI 9 | The Art of Java 2,2,1,0.0007
+Handbook of Art 7 | The Art of Java 2,2,1,0.0007
+Guide to AI 5 | Guide to Biology 7,2,1,0.0007
+Guide to AI 5 | Handbook of Music 6,2,1,0.0007
+Guide to Biology 7 | Handbook of Music 6,2,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to AI 6,2,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to Chemistry 5,2,1,0.0007
+Introduction to AI 6 | Introduction to Chemistry 5,2,1,0.0007
+Advanced Economics 1 | Mastering Music 10,2,1,0.0007
+Advanced Economics 1 | The Art of Python 5,2,1,0.0007
+Mastering Music 10 | The Art of Python 5,2,1,0.0007
+Guide to AI 9 | Guide to History 8,2,1,0.0007
+Fundamentals of Chemistry 6 | The Art of Python 5,2,1,0.0007
+Introduction to Music 9 | Mastering AI 6,2,1,0.0007
+Fundamentals of Biology 10 | History of Art 2,2,1,0.0007
+Fundamentals of Biology 10 | Introduction to Music 3,2,1,0.0007
+History of Art 2 | Introduction to Music 3,2,1,0.0007
+Advanced Philosophy 2 | Introduction to Economics 4,2,1,0.0007
+History of History 7 | Introduction to Economics 4,2,1,0.0007
+Advanced Art 4 | The Art of Java 2,2,1,0.0007
+History of Python 9 | The Art of Chemistry 1,2,1,0.0007
+Guide to Python 10 | Introduction to Chemistry 9,2,1,0.0007
+Guide to Python 10 | The Art of Machine Learning 9,2,1,0.0007
+Introduction to Chemistry 9 | The Art of Machine Learning 9,2,1,0.0007
+Handbook of History 2 | History of Chemistry 10,2,1,0.0007
+Handbook of History 2 | The Art of Java 9,2,1,0.0007
+History of Chemistry 10 | The Art of Java 9,2,1,0.0007
+Fundamentals of Biology 4 | Mastering Economics 5,2,1,0.0007
+Fundamentals of AI 2 | Guide to Calculus 9,2,1,0.0007
+Advanced Physics 4 | The Art of Calculus 8,2,1,0.0007
+Advanced Physics 4 | The Art of Chemistry 2,2,1,0.0007
+The Art of Calculus 8 | The Art of Chemistry 2,2,1,0.0007
+Introduction to Physics 10 | Mastering Chemistry 1,2,1,0.0007
+History of Philosophy 10 | Mastering Economics 5,2,1,0.0007
+Introduction to History 8 | Mastering Philosophy 9,2,1,0.0007
+Introduction to History 8 | The Art of Physics 7,2,1,0.0007
+Mastering Philosophy 9 | The Art of Physics 7,2,1,0.0007
+Advanced Calculus 1 | Handbook of Java 6,2,1,0.0007
+Guide to Java 4 | The Art of History 10,2,1,0.0007
+History of Music 9 | The Art of History 5,2,1,0.0007
+Advanced Java 8 | Handbook of Physics 10,2,1,0.0007
+Advanced Java 8 | Mastering Machine Learning 2,2,1,0.0007
+Handbook of Physics 10 | Mastering Machine Learning 2,2,1,0.0007
+History of Chemistry 9 | History of Economics 3,2,1,0.0007
+History of Chemistry 9 | The Art of Art 10,2,1,0.0007
+History of Economics 3 | The Art of Art 10,2,1,0.0007
+Guide to Calculus 3 | Handbook of Art 5,2,1,0.0007
+Handbook of Calculus 8 | Introduction to Music 10,2,1,0.0007
+Handbook of Philosophy 10 | Introduction to Music 10,2,1,0.0007
+Fundamentals of Machine Learning 5 | The Art of Art 8,2,1,0.0007
+Advanced Python 2 | History of Machine Learning 1,2,1,0.0007
+Advanced Python 2 | Introduction to AI 10,2,1,0.0007
+History of Machine Learning 1 | Introduction to AI 10,2,1,0.0007
+Fundamentals of Music 9 | Handbook of Java 4,2,1,0.0007
+Fundamentals of Music 9 | Introduction to Music 3,2,1,0.0007
+Handbook of Java 4 | Introduction to Music 3,2,1,0.0007
+Fundamentals of Java 1 | The Art of Chemistry 1,2,1,0.0007
+Mastering Art 9 | Mastering Music 10,2,1,0.0007
+Guide to Art 1 | Introduction to Philosophy 6,2,1,0.0007
+Advanced Chemistry 7 | Fundamentals of Chemistry 2,2,1,0.0007
+Advanced Chemistry 7 | Handbook of Philosophy 10,2,1,0.0007
+Fundamentals of Chemistry 2 | Handbook of Philosophy 10,2,1,0.0007
+Mastering AI 7 | The Art of AI 9,2,1,0.0007
+Fundamentals of Java 7 | History of Calculus 7,2,1,0.0007
+Fundamentals of Java 7 | History of Chemistry 5,2,1,0.0007
+History of Calculus 7 | History of Chemistry 5,2,1,0.0007
+Advanced Calculus 7 | Fundamentals of Philosophy 8,2,1,0.0007
+Fundamentals of AI 7 | Guide to Calculus 3,2,1,0.0007
+Handbook of Philosophy 7 | History of Calculus 8,2,1,0.0007
+Guide to Machine Learning 2 | Guide to Music 8,2,1,0.0007
+Guide to Machine Learning 2 | Introduction to Biology 9,2,1,0.0007
+Guide to Music 8 | Introduction to Biology 9,2,1,0.0007
+History of AI 2 | Mastering History 2,2,1,0.0007
+Fundamentals of Python 1 | Guide to History 1,2,1,0.0007
+Advanced Calculus 1 | Handbook of Machine Learning 3,2,1,0.0007
+Advanced Physics 3 | Fundamentals of Python 7,2,1,0.0007
+Advanced Physics 3 | Mastering Chemistry 4,2,1,0.0007
+Fundamentals of Python 7 | Mastering Chemistry 4,2,1,0.0007
+Advanced Philosophy 7 | Introduction to Music 3,2,1,0.0007
+Advanced Economics 7 | Guide to Java 8,2,1,0.0007
+The Art of Calculus 5 | The Art of Economics 9,2,1,0.0007
+Advanced Philosophy 9 | Introduction to Physics 3,2,1,0.0007
+Advanced Chemistry 6 | The Art of History 4,2,1,0.0007
+Advanced Chemistry 6 | The Art of Physics 5,2,1,0.0007
+The Art of History 4 | The Art of Physics 5,2,1,0.0007
+Guide to AI 5 | Guide to Biology 10,2,1,0.0007
+Introduction to Music 2 | The Art of Physics 7,2,1,0.0007
+Guide to Music 2 | Handbook of History 9,2,1,0.0007
+Guide to Music 2 | Introduction to Art 6,2,1,0.0007
+Handbook of History 9 | Introduction to Art 6,2,1,0.0007
+Advanced Music 8 | Handbook of Economics 2,2,1,0.0007
+Advanced Music 8 | Mastering Calculus 6,2,1,0.0007
+Handbook of Economics 2 | Mastering Calculus 6,2,1,0.0007
+Advanced Python 4 | Handbook of Art 1,2,1,0.0007
+Advanced Art 2 | Advanced Art 9,2,1,0.0007
+Advanced Art 2 | History of Calculus 5,2,1,0.0007
+Advanced Art 9 | History of Calculus 5,2,1,0.0007
+History of Chemistry 10 | The Art of Economics 9,2,1,0.0007
+Advanced History 3 | Fundamentals of Calculus 2,2,1,0.0007
+Advanced History 3 | Fundamentals of Economics 9,2,1,0.0007
+Fundamentals of Calculus 2 | Fundamentals of Economics 9,2,1,0.0007
+Fundamentals of Calculus 2 | Guide to Java 10,2,1,0.0007
+History of Python 6 | Mastering Machine Learning 10,2,1,0.0007
+History of Python 6 | The Art of History 8,2,1,0.0007
+Mastering Machine Learning 10 | The Art of History 8,2,1,0.0007
+History of AI 10 | History of Physics 6,2,1,0.0007
+History of AI 10 | The Art of Economics 4,2,1,0.0007
+History of Physics 6 | The Art of Economics 4,2,1,0.0007
+Advanced AI 1 | Fundamentals of Chemistry 7,2,1,0.0007
+Advanced AI 1 | Mastering Biology 6,2,1,0.0007
+Fundamentals of Chemistry 7 | Mastering Biology 6,2,1,0.0007
+Advanced Calculus 5 | Fundamentals of Physics 5,2,1,0.0007
+Advanced Calculus 5 | The Art of Art 9,2,1,0.0007
+Fundamentals of Physics 5 | The Art of Art 9,2,1,0.0007
+Advanced Chemistry 1 | Handbook of Biology 10,2,1,0.0007
+Advanced Chemistry 1 | The Art of Philosophy 8,2,1,0.0007
+Handbook of Biology 10 | The Art of Philosophy 8,2,1,0.0007
+Handbook of Economics 3 | History of Machine Learning 8,2,1,0.0007
+Handbook of Economics 3 | The Art of History 1,2,1,0.0007
+History of Machine Learning 8 | The Art of History 1,2,1,0.0007
+Mastering Machine Learning 8 | Mastering Philosophy 1,2,1,0.0007
+Advanced Chemistry 8 | Guide to Biology 9,2,1,0.0007
+Advanced Chemistry 8 | History of Python 8,2,1,0.0007
+Guide to Biology 9 | History of Python 8,2,1,0.0007
+Handbook of Art 7 | Handbook of Machine Learning 5,2,1,0.0007
+Guide to Java 4 | History of Biology 4,2,1,0.0007
+Guide to Java 2 | Mastering Java 10,2,1,0.0007
+Fundamentals of Biology 2 | Handbook of Physics 10,2,1,0.0007
+Fundamentals of Biology 2 | Mastering Philosophy 9,2,1,0.0007
+Handbook of Physics 10 | Mastering Philosophy 9,2,1,0.0007
+Handbook of Java 2 | Mastering Philosophy 4,2,1,0.0007
+Handbook of Java 2 | The Art of History 6,2,1,0.0007
+Mastering Philosophy 4 | The Art of History 6,2,1,0.0007
+Advanced Economics 7 | History of Art 8,2,1,0.0007
+Advanced Economics 7 | History of Biology 3,2,1,0.0007
+History of Art 8 | History of Biology 3,2,1,0.0007
+Guide to Art 1 | History of Physics 1,2,1,0.0007
+Guide to Art 1 | Introduction to Chemistry 1,2,1,0.0007
+History of Physics 1 | Introduction to Chemistry 1,2,1,0.0007
+Guide to Art 3 | Mastering Economics 7,2,1,0.0007
+Fundamentals of Calculus 10 | History of Calculus 8,2,1,0.0007
+Fundamentals of Calculus 10 | Mastering AI 6,2,1,0.0007
+History of Calculus 8 | Mastering AI 6,2,1,0.0007
+Advanced Calculus 8 | Guide to Art 6,2,1,0.0007
+Advanced Calculus 8 | Handbook of Java 9,2,1,0.0007
+Guide to Art 6 | Handbook of Java 9,2,1,0.0007
+Advanced AI 1 | Fundamentals of Art 7,2,1,0.0007
+Advanced AI 1 | Mastering Music 10,2,1,0.0007
+Fundamentals of Art 7 | Mastering Music 10,2,1,0.0007
+Advanced Chemistry 5 | Fundamentals of Art 4,2,1,0.0007
+Advanced Economics 9 | Mastering History 7,2,1,0.0007
+Advanced Art 2 | Advanced Java 7,2,1,0.0007
+Advanced Art 2 | Advanced Philosophy 1,2,1,0.0007
+Advanced Java 7 | Advanced Philosophy 1,2,1,0.0007
+Guide to Physics 1 | The Art of Java 4,2,1,0.0007
+Advanced Economics 9 | Fundamentals of Chemistry 6,2,1,0.0007
+Advanced Economics 9 | Handbook of History 9,2,1,0.0007
+Fundamentals of Chemistry 6 | Handbook of History 9,2,1,0.0007
+Advanced Calculus 9 | Handbook of Calculus 2,2,1,0.0007
+Advanced Calculus 9 | Introduction to Music 3,2,1,0.0007
+Advanced Machine Learning 8 | Handbook of Machine Learning 5,2,1,0.0007
+Advanced Machine Learning 8 | Introduction to Calculus 2,2,1,0.0007
+Handbook of Machine Learning 5 | Introduction to Calculus 2,2,1,0.0007
+Fundamentals of Calculus 10 | Handbook of AI 9,2,1,0.0007
+Fundamentals of Calculus 10 | Mastering Biology 6,2,1,0.0007
+Handbook of AI 9 | Mastering Biology 6,2,1,0.0007
+Advanced Chemistry 8 | Advanced Economics 5,2,1,0.0007
+Advanced Chemistry 8 | Introduction to Machine Learning 10,2,1,0.0007
+Advanced Economics 5 | Introduction to Machine Learning 10,2,1,0.0007
+Fundamentals of Physics 3 | Guide to Machine Learning 5,2,1,0.0007
+Fundamentals of Physics 3 | The Art of Machine Learning 6,2,1,0.0007
+Guide to Machine Learning 5 | The Art of Machine Learning 6,2,1,0.0007
+Advanced AI 1 | Guide to Biology 3,2,1,0.0007
+Advanced AI 1 | The Art of Calculus 8,2,1,0.0007
+Guide to Biology 3 | The Art of Calculus 8,2,1,0.0007
+Guide to Philosophy 6 | The Art of History 3,2,1,0.0007
+Fundamentals of Physics 6 | The Art of Economics 2,2,1,0.0007
+Fundamentals of Physics 6 | The Art of Python 5,2,1,0.0007
+The Art of Economics 2 | The Art of Python 5,2,1,0.0007
+Advanced Music 5 | Fundamentals of Economics 7,2,1,0.0007
+Advanced Java 1 | Advanced Music 5,2,1,0.0007
+Advanced Java 1 | Mastering Art 9,2,1,0.0007
+Advanced Music 5 | Mastering Art 9,2,1,0.0007
+Advanced History 10 | Guide to Art 2,2,1,0.0007
+Advanced History 10 | History of Python 9,2,1,0.0007
+Guide to Art 2 | History of Python 9,2,1,0.0007
+Introduction to Chemistry 5 | The Art of History 6,2,1,0.0007
+Handbook of Chemistry 5 | Introduction to Chemistry 9,2,1,0.0007
+Handbook of Chemistry 5 | Introduction to Machine Learning 1,2,1,0.0007
+Introduction to Chemistry 9 | Introduction to Machine Learning 1,2,1,0.0007
+Advanced Python 8 | Mastering Chemistry 7,2,1,0.0007
+Advanced Python 8 | The Art of Calculus 8,2,1,0.0007
+Mastering Chemistry 7 | The Art of Calculus 8,2,1,0.0007
+Handbook of Chemistry 6 | History of Calculus 2,2,1,0.0007
+History of Python 8 | Introduction to Chemistry 5,2,1,0.0007
+History of Python 8 | Introduction to History 8,2,1,0.0007
+Introduction to Chemistry 5 | Introduction to History 8,2,1,0.0007
+Advanced Chemistry 1 | The Art of History 5,2,1,0.0007
+Advanced Physics 2 | The Art of History 5,2,1,0.0007
+Guide to Biology 10 | Introduction to Java 1,2,1,0.0007
+Guide to Biology 10 | Mastering Philosophy 2,2,1,0.0007
+Introduction to Java 1 | Mastering Philosophy 2,2,1,0.0007
+Advanced Chemistry 5 | Advanced Java 7,2,1,0.0007
+Advanced Chemistry 5 | Mastering Calculus 9,2,1,0.0007
+Advanced Philosophy 2 | Guide to AI 1,2,1,0.0007
+Advanced Philosophy 2 | The Art of Calculus 8,2,1,0.0007
+Guide to AI 1 | The Art of Calculus 8,2,1,0.0007
+Advanced Java 8 | Mastering History 6,2,1,0.0007
+Fundamentals of Biology 4 | Fundamentals of Calculus 2,2,1,0.0007
+Fundamentals of Chemistry 2 | Handbook of Chemistry 7,2,1,0.0007
+Fundamentals of Chemistry 2 | Mastering Physics 9,2,1,0.0007
+Handbook of Chemistry 7 | Mastering Physics 9,2,1,0.0007
+History of Philosophy 1 | Introduction to Chemistry 5,2,1,0.0007
+History of Philosophy 1 | The Art of Machine Learning 2,2,1,0.0007
+Introduction to Chemistry 5 | The Art of Machine Learning 2,2,1,0.0007
+Fundamentals of Calculus 10 | Fundamentals of Python 7,2,1,0.0007
+Handbook of Python 2 | Mastering History 2,2,1,0.0007
+Fundamentals of Calculus 1 | Guide to Biology 7,2,1,0.0007
+Advanced Economics 7 | Fundamentals of Biology 8,2,1,0.0007
+Fundamentals of Economics 7 | Guide to Biology 7,2,1,0.0007
+Fundamentals of Economics 7 | Handbook of Music 7,2,1,0.0007
+Guide to Biology 7 | Handbook of Music 7,2,1,0.0007
+History of Biology 8 | Introduction to AI 3,2,1,0.0007
+Handbook of Calculus 3 | Mastering Calculus 4,2,1,0.0007
+Handbook of Calculus 3 | The Art of Philosophy 9,2,1,0.0007
+Mastering Calculus 4 | The Art of Philosophy 9,2,1,0.0007
+Guide to AI 5 | Introduction to Economics 7,2,1,0.0007
+Fundamentals of Biology 4 | Mastering Machine Learning 1,2,1,0.0007
+Guide to Biology 7 | History of Biology 1,2,1,0.0007
+Introduction to Java 5 | Introduction to Machine Learning 7,2,1,0.0007
+Handbook of History 6 | Mastering Calculus 9,2,1,0.0007
+Guide to Philosophy 2 | Mastering Economics 10,2,1,0.0007
+Fundamentals of Chemistry 4 | Guide to Java 10,2,1,0.0007
+Advanced AI 2 | History of Art 2,2,1,0.0007
+Advanced AI 2 | History of Machine Learning 1,2,1,0.0007
+History of Art 2 | History of Machine Learning 1,2,1,0.0007
+Mastering Calculus 9 | The Art of History 9,2,1,0.0007
+History of Music 7 | Mastering Philosophy 9,2,1,0.0007
+Fundamentals of Physics 5 | Introduction to History 6,2,1,0.0007
+Fundamentals of Physics 5 | The Art of Python 9,2,1,0.0007
+Introduction to History 6 | The Art of Python 9,2,1,0.0007
+Advanced Machine Learning 1 | Advanced Physics 4,2,1,0.0007
+Advanced Machine Learning 1 | Introduction to Philosophy 6,2,1,0.0007
+Advanced Physics 4 | Introduction to Philosophy 6,2,1,0.0007
+Guide to Art 2 | The Art of History 3,2,1,0.0007
+Guide to Java 4 | Handbook of Python 6,2,1,0.0007
+History of Art 6 | History of Philosophy 1,2,1,0.0007
+Advanced Economics 5 | Guide to Machine Learning 1,2,1,0.0007
+Advanced Economics 5 | Handbook of Art 5,2,1,0.0007
+Guide to Machine Learning 1 | Handbook of Art 5,2,1,0.0007
+Advanced Physics 2 | Fundamentals of Physics 9,2,1,0.0007
+Advanced Physics 2 | Guide to AI 9,2,1,0.0007
+Fundamentals of Physics 9 | Guide to AI 9,2,1,0.0007
+Handbook of Philosophy 9 | Introduction to Biology 2,2,1,0.0007
+Introduction to AI 3 | The Art of Chemistry 3,2,1,0.0007
+Introduction to AI 3 | The Art of Economics 2,2,1,0.0007
+The Art of Chemistry 3 | The Art of Economics 2,2,1,0.0007
+The Art of Biology 6 | The Art of History 10,2,1,0.0007
+Introduction to Music 3 | Mastering Philosophy 4,2,1,0.0007
+Handbook of Economics 3 | Introduction to Machine Learning 7,2,1,0.0007
+Handbook of Economics 3 | Mastering History 2,2,1,0.0007
+Introduction to Machine Learning 7 | Mastering History 2,2,1,0.0007
+Fundamentals of Chemistry 8 | Handbook of Music 2,2,1,0.0007
+Introduction to Music 8 | The Art of Java 2,2,1,0.0007
+History of Art 7 | Introduction to Physics 1,2,1,0.0007
+Fundamentals of Physics 3 | History of Java 9,2,1,0.0007
+Fundamentals of Physics 3 | History of Music 5,2,1,0.0007
+History of Java 9 | History of Music 5,2,1,0.0007
+Advanced Physics 8 | Guide to Art 2,2,1,0.0007
+Advanced Physics 8 | Introduction to Chemistry 5,2,1,0.0007
+Guide to Art 2 | Introduction to Chemistry 5,2,1,0.0007
+Handbook of Chemistry 5 | Mastering Java 10,2,1,0.0007
+Handbook of Philosophy 5 | Mastering AI 6,2,1,0.0007
+Handbook of Java 7 | History of Calculus 8,2,1,0.0007
+Handbook of Java 7 | History of History 10,2,1,0.0007
+History of Calculus 8 | History of History 10,2,1,0.0007
+Handbook of Music 9 | Handbook of Physics 7,2,1,0.0007
+Advanced Art 1 | Handbook of Python 9,2,1,0.0007
+Fundamentals of Economics 6 | Handbook of Python 9,2,1,0.0007
+Advanced Chemistry 5 | Introduction to Philosophy 1,2,1,0.0007
+Guide to Java 8 | Guide to Music 4,2,1,0.0007
+Guide to Java 8 | History of Machine Learning 9,2,1,0.0007
+Guide to Music 4 | History of Machine Learning 9,2,1,0.0007
+Advanced Machine Learning 8 | History of Music 10,2,1,0.0007
+Handbook of Java 7 | Mastering Calculus 9,2,1,0.0007
+Advanced Python 8 | History of Machine Learning 2,2,1,0.0007
+Advanced Python 8 | The Art of Economics 9,2,1,0.0007
+History of Machine Learning 2 | The Art of Economics 9,2,1,0.0007
+Handbook of Machine Learning 7 | Handbook of Music 2,2,1,0.0007
+Handbook of Machine Learning 7 | Mastering Machine Learning 8,2,1,0.0007
+Handbook of Music 2 | Mastering Machine Learning 8,2,1,0.0007
+Fundamentals of Biology 4 | Handbook of Economics 3,2,1,0.0007
+Fundamentals of Biology 4 | History of History 2,2,1,0.0007
+Handbook of Economics 3 | History of History 2,2,1,0.0007
+History of Calculus 4 | History of Economics 6,2,1,0.0007
+History of Calculus 4 | History of Python 10,2,1,0.0007
+History of Economics 6 | History of Python 10,2,1,0.0007
+Fundamentals of Philosophy 8 | Mastering Chemistry 10,2,1,0.0007
+Fundamentals of Philosophy 8 | Mastering Machine Learning 3,2,1,0.0007
+Mastering Chemistry 10 | Mastering Machine Learning 3,2,1,0.0007
+Fundamentals of Python 1 | Introduction to Chemistry 5,2,1,0.0007
+Fundamentals of Python 1 | Introduction to Machine Learning 1,2,1,0.0007
+Introduction to Chemistry 5 | Introduction to Machine Learning 1,2,1,0.0007
+Fundamentals of Philosophy 6 | Fundamentals of Physics 1,2,1,0.0007
+Fundamentals of Biology 4 | History of Python 6,2,1,0.0007
+Fundamentals of Biology 4 | The Art of Calculus 3,2,1,0.0007
+History of Python 6 | The Art of Calculus 3,2,1,0.0007
+Advanced Java 3 | History of Calculus 5,2,1,0.0007
+Advanced Java 3 | Introduction to Physics 3,2,1,0.0007
+History of Calculus 5 | Introduction to Physics 3,2,1,0.0007
+Advanced Music 1 | History of Chemistry 9,2,1,0.0007
+Mastering Biology 6 | Mastering Chemistry 7,2,1,0.0007
+Guide to Machine Learning 2 | History of Chemistry 5,2,1,0.0007
+Advanced Economics 7 | The Art of Philosophy 3,2,1,0.0007
+Fundamentals of AI 2 | Fundamentals of Calculus 7,2,1,0.0007
+Fundamentals of AI 2 | History of Machine Learning 5,2,1,0.0007
+Fundamentals of Calculus 7 | History of Machine Learning 5,2,1,0.0007
+Advanced Music 8 | Fundamentals of Calculus 10,2,1,0.0007
+Advanced Music 8 | Guide to Machine Learning 2,2,1,0.0007
+Fundamentals of Calculus 10 | Guide to Machine Learning 2,2,1,0.0007
+Advanced AI 4 | Fundamentals of Chemistry 7,2,1,0.0007
+Advanced AI 4 | Fundamentals of Physics 5,2,1,0.0007
+Fundamentals of Chemistry 7 | Fundamentals of Physics 5,2,1,0.0007
+Fundamentals of Chemistry 9 | Introduction to AI 8,2,1,0.0007
+Fundamentals of Chemistry 9 | The Art of Calculus 8,2,1,0.0007
+Introduction to AI 8 | The Art of Calculus 8,2,1,0.0007
+Guide to Java 4 | The Art of Chemistry 1,2,1,0.0007
+Mastering Philosophy 1 | Mastering Philosophy 2,2,1,0.0007
+Mastering Philosophy 1 | Mastering Philosophy 4,2,1,0.0007
+Mastering Philosophy 2 | Mastering Philosophy 4,2,1,0.0007
+Handbook of Art 10 | Handbook of Chemistry 6,2,1,0.0007
+Handbook of Art 10 | Mastering Calculus 1,2,1,0.0007
+Handbook of Chemistry 6 | Mastering Calculus 1,2,1,0.0007
+Advanced Python 10 | Handbook of Java 8,2,1,0.0007
+Fundamentals of Philosophy 6 | The Art of History 10,2,1,0.0007
+Fundamentals of Philosophy 6 | The Art of Philosophy 6,2,1,0.0007
+The Art of History 10 | The Art of Philosophy 6,2,1,0.0007
+Guide to Python 10 | Handbook of Java 4,2,1,0.0007
+Guide to Python 10 | History of Chemistry 2,2,1,0.0007
+Handbook of Java 4 | History of Chemistry 2,2,1,0.0007
+History of Biology 5 | The Art of Calculus 8,2,1,0.0007
+History of Art 3 | The Art of Chemistry 2,2,1,0.0007
+History of AI 7 | Mastering Calculus 1,2,1,0.0007
+History of AI 7 | The Art of Economics 4,2,1,0.0007
+Mastering Calculus 1 | The Art of Economics 4,2,1,0.0007
+Advanced History 10 | The Art of Calculus 5,2,1,0.0007
+History of AI 7 | Introduction to Chemistry 9,2,1,0.0007
+History of AI 7 | Introduction to Philosophy 4,2,1,0.0007
+Introduction to Chemistry 9 | Introduction to Philosophy 4,2,1,0.0007
+Introduction to Music 3 | The Art of Economics 8,2,1,0.0007
+Advanced Java 1 | Guide to Python 4,2,1,0.0007
+Advanced Java 1 | Mastering Economics 7,2,1,0.0007
+Guide to Python 4 | Mastering Economics 7,2,1,0.0007
+Advanced Art 1 | History of Economics 4,2,1,0.0007
+Fundamentals of Java 3 | Handbook of Java 2,2,1,0.0007
+Fundamentals of Java 3 | Mastering Python 4,2,1,0.0007
+Handbook of Java 2 | Mastering Python 4,2,1,0.0007
+History of Python 10 | Introduction to Physics 1,2,1,0.0007
+Guide to AI 4 | The Art of Python 6,2,1,0.0007
+Handbook of Python 2 | History of Biology 8,2,1,0.0007
+Handbook of Python 2 | Mastering Philosophy 5,2,1,0.0007
+History of Biology 8 | Mastering Philosophy 5,2,1,0.0007
+Advanced Chemistry 4 | History of Music 7,2,1,0.0007
+Guide to Art 6 | History of Biology 3,2,1,0.0007
+Advanced Economics 7 | History of Music 5,2,1,0.0007
+Advanced Economics 7 | Introduction to Chemistry 1,2,1,0.0007
+History of Music 5 | Introduction to Chemistry 1,2,1,0.0007
+Guide to Music 2 | The Art of Economics 7,2,1,0.0007
+Guide to Music 2 | The Art of Python 5,2,1,0.0007
+The Art of Economics 7 | The Art of Python 5,2,1,0.0007
+Advanced AI 1 | Guide to Python 6,2,1,0.0007
+Advanced AI 1 | Handbook of Economics 3,2,1,0.0007
+Guide to Python 6 | Handbook of Economics 3,2,1,0.0007
+Advanced Art 4 | History of Economics 8,2,1,0.0007
+Advanced Chemistry 5 | Fundamentals of Physics 1,2,1,0.0007
+History of Physics 6 | Mastering AI 10,2,1,0.0007
+Introduction to History 4 | Introduction to Philosophy 10,2,1,0.0007
+Introduction to History 4 | Mastering Economics 7,2,1,0.0007
+Introduction to Philosophy 10 | Mastering Economics 7,2,1,0.0007
+Fundamentals of Chemistry 4 | Introduction to Machine Learning 8,2,1,0.0007
+Fundamentals of Calculus 7 | History of Music 4,2,1,0.0007
+Fundamentals of Calculus 7 | Introduction to Music 10,2,1,0.0007
+History of Music 4 | Introduction to Music 10,2,1,0.0007
+Fundamentals of Java 9 | Handbook of History 9,2,1,0.0007
+Fundamentals of Java 9 | History of Python 8,2,1,0.0007
+Handbook of History 9 | History of Python 8,2,1,0.0007
+Advanced Chemistry 5 | History of Chemistry 2,2,1,0.0007
+Advanced Chemistry 5 | Mastering Python 6,2,1,0.0007
+History of Chemistry 2 | Mastering Python 6,2,1,0.0007
+Advanced Python 2 | Mastering Java 8,2,1,0.0007
+Mastering Java 3 | Mastering Philosophy 7,2,1,0.0007
+Mastering Java 3 | The Art of History 1,2,1,0.0007
+Mastering Philosophy 7 | The Art of History 1,2,1,0.0007
+Advanced Chemistry 5 | History of Philosophy 8,2,1,0.0007
+Handbook of Machine Learning 9 | Introduction to History 7,2,1,0.0007
+Handbook of Machine Learning 9 | Mastering History 6,2,1,0.0007
+Introduction to History 7 | Mastering History 6,2,1,0.0007
+History of History 4 | The Art of Physics 7,2,1,0.0007
+History of History 4 | The Art of Python 9,2,1,0.0007
+The Art of Physics 7 | The Art of Python 9,2,1,0.0007
+Guide to Chemistry 2 | History of Chemistry 2,2,1,0.0007
+Advanced Music 8 | Guide to Art 1,2,1,0.0007
+Advanced Music 8 | Introduction to Music 10,2,1,0.0007
+Guide to Art 1 | Introduction to Music 10,2,1,0.0007
+Guide to AI 10 | Introduction to History 10,2,1,0.0007
+Fundamentals of Philosophy 6 | The Art of History 3,2,1,0.0007
+Fundamentals of AI 5 | Guide to AI 8,2,1,0.0007
+Fundamentals of AI 5 | Handbook of Python 9,2,1,0.0007
+Guide to AI 8 | Handbook of Python 9,2,1,0.0007
+Fundamentals of Java 7 | The Art of Biology 2,2,1,0.0007
+History of Machine Learning 5 | Introduction to AI 6,2,1,0.0007
+History of Machine Learning 5 | The Art of Philosophy 8,2,1,0.0007
+Introduction to AI 6 | The Art of Philosophy 8,2,1,0.0007
+Mastering Economics 7 | The Art of Python 3,2,1,0.0007
+Advanced Music 4 | Handbook of Python 4,2,1,0.0007
+Advanced Music 4 | History of Machine Learning 6,2,1,0.0007
+Handbook of Python 4 | History of Machine Learning 6,2,1,0.0007
+Advanced Biology 10 | Mastering Art 10,2,1,0.0007
+Fundamentals of Calculus 10 | Guide to AI 10,2,1,0.0007
+Fundamentals of Calculus 10 | Guide to Physics 1,2,1,0.0007
+Guide to AI 10 | Guide to Physics 1,2,1,0.0007
+Fundamentals of Chemistry 8 | The Art of Art 2,2,1,0.0007
+Advanced Philosophy 2 | The Art of Biology 1,2,1,0.0007
+History of History 7 | The Art of Biology 1,2,1,0.0007
+History of Music 7 | Introduction to Music 3,2,1,0.0007
+History of Music 7 | The Art of Art 5,2,1,0.0007
+Introduction to Music 3 | The Art of Art 5,2,1,0.0007
+Advanced Physics 2 | History of Machine Learning 10,2,1,0.0007
+Advanced Java 2 | Mastering Chemistry 2,2,1,0.0007
+History of Music 6 | Mastering Music 10,2,1,0.0007
+Guide to Art 1 | Mastering History 2,2,1,0.0007
+Advanced Chemistry 1 | Fundamentals of Music 4,2,1,0.0007
+Advanced Chemistry 1 | The Art of History 8,2,1,0.0007
+Fundamentals of Music 4 | The Art of History 8,2,1,0.0007
+Fundamentals of Chemistry 7 | Handbook of History 9,2,1,0.0007
+Fundamentals of Chemistry 7 | Handbook of Java 6,2,1,0.0007
+Handbook of History 9 | Handbook of Java 6,2,1,0.0007
+Guide to Art 10 | History of AI 7,2,1,0.0007
+Guide to Art 10 | History of Calculus 1,2,1,0.0007
+History of AI 7 | History of Calculus 1,2,1,0.0007
+Introduction to Economics 6 | Introduction to Java 5,2,1,0.0007
+Advanced Python 1 | Guide to Python 1,2,1,0.0007
+Fundamentals of Java 9 | Introduction to Python 6,2,1,0.0007
+Introduction to Art 6 | Mastering Java 3,2,1,0.0007
+Advanced AI 6 | Fundamentals of Python 4,2,1,0.0007
+Advanced AI 6 | Handbook of Economics 2,2,1,0.0007
+Fundamentals of Python 4 | Handbook of Economics 2,2,1,0.0007
+Fundamentals of Chemistry 9 | Introduction to Python 7,2,1,0.0007
+Handbook of Machine Learning 5 | History of Biology 9,2,1,0.0007
+Fundamentals of Philosophy 4 | Guide to Economics 1,2,1,0.0007
+Fundamentals of Philosophy 4 | Mastering Philosophy 5,2,1,0.0007
+Guide to Economics 1 | Mastering Philosophy 5,2,1,0.0007
+Advanced Calculus 8 | Handbook of Chemistry 5,2,1,0.0007
+Advanced Calculus 8 | Handbook of Music 2,2,1,0.0007
+Handbook of Chemistry 5 | Handbook of Music 2,2,1,0.0007
+Guide to History 8 | Guide to Python 7,2,1,0.0007
+Guide to History 8 | Mastering History 7,2,1,0.0007
+Guide to Python 7 | Mastering History 7,2,1,0.0007
+Introduction to Music 8 | The Art of Calculus 8,2,1,0.0007
+Guide to Art 6 | Mastering AI 7,2,1,0.0007
+Fundamentals of AI 5 | Fundamentals of Calculus 1,2,1,0.0007
+Fundamentals of AI 5 | History of Machine Learning 1,2,1,0.0007
+Fundamentals of Calculus 1 | History of Machine Learning 1,2,1,0.0007
+Advanced History 6 | Introduction to History 10,2,1,0.0007
+Advanced History 6 | The Art of Art 10,2,1,0.0007
+Introduction to History 10 | The Art of Art 10,2,1,0.0007
+History of Economics 1 | Introduction to Music 8,2,1,0.0007
+History of Economics 1 | Mastering History 2,2,1,0.0007
+Introduction to Music 8 | Mastering History 2,2,1,0.0007
+Advanced Chemistry 1 | History of Art 7,2,1,0.0007
+Advanced Java 1 | Introduction to Economics 9,2,1,0.0007
+History of Biology 5 | Introduction to Economics 3,2,1,0.0007
+History of Biology 5 | The Art of Physics 8,2,1,0.0007
+Introduction to Economics 3 | The Art of Physics 8,2,1,0.0007
+Fundamentals of Economics 9 | Introduction to Philosophy 1,2,1,0.0007
+Introduction to History 1 | Mastering Physics 3,2,1,0.0007
+Advanced Chemistry 4 | Advanced Music 5,2,1,0.0007
+Advanced Chemistry 4 | Guide to Philosophy 6,2,1,0.0007
+Advanced Music 5 | Guide to Philosophy 6,2,1,0.0007
+Fundamentals of Java 7 | Fundamentals of Physics 9,2,1,0.0007
+Fundamentals of Java 7 | The Art of Calculus 3,2,1,0.0007
+Fundamentals of Physics 9 | The Art of Calculus 3,2,1,0.0007
+Advanced Economics 7 | Fundamentals of Chemistry 7,2,1,0.0007
+Advanced Economics 7 | Introduction to Python 1,2,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to Python 1,2,1,0.0007
+History of History 10 | Introduction to History 7,2,1,0.0007
+History of Chemistry 10 | Mastering Physics 3,2,1,0.0007
+Introduction to Chemistry 1 | Introduction to History 9,2,1,0.0007
+Introduction to Chemistry 1 | Introduction to Music 5,2,1,0.0007
+Introduction to History 9 | Introduction to Music 5,2,1,0.0007
+Advanced Physics 4 | Introduction to Music 9,2,1,0.0007
+Advanced Physics 4 | Mastering Calculus 1,2,1,0.0007
+Introduction to Music 9 | Mastering Calculus 1,2,1,0.0007
+Advanced Economics 5 | History of History 7,2,1,0.0007
+Advanced Calculus 8 | Guide to History 7,2,1,0.0007
+Handbook of Machine Learning 5 | Introduction to Calculus 3,2,1,0.0007
+Handbook of Philosophy 10 | Introduction to History 10,2,1,0.0007
+The Art of Biology 10 | The Art of Biology 6,2,1,0.0007
+Mastering Java 8 | The Art of Economics 8,2,1,0.0007
+Fundamentals of Physics 6 | Mastering Physics 5,2,1,0.0007
+Fundamentals of Physics 6 | The Art of Physics 2,2,1,0.0007
+Mastering Physics 5 | The Art of Physics 2,2,1,0.0007
+Guide to Calculus 6 | History of Biology 6,2,1,0.0007
+Guide to AI 6 | Handbook of Chemistry 5,2,1,0.0007
+Guide to AI 6 | History of Machine Learning 1,2,1,0.0007
+Handbook of Chemistry 5 | History of Machine Learning 1,2,1,0.0007
+Advanced Philosophy 2 | Handbook of Java 8,2,1,0.0007
+Introduction to Chemistry 3 | Introduction to Physics 5,2,1,0.0007
+Introduction to Chemistry 3 | Mastering Art 6,2,1,0.0007
+Introduction to Physics 5 | Mastering Art 6,2,1,0.0007
+Guide to Chemistry 2 | The Art of History 2,2,1,0.0007
+Handbook of Philosophy 7 | The Art of History 10,2,1,0.0007
+Advanced Calculus 8 | History of Philosophy 10,2,1,0.0007
+Advanced Chemistry 10 | Handbook of Economics 9,2,1,0.0007
+Advanced Chemistry 10 | The Art of Biology 3,2,1,0.0007
+Handbook of Economics 9 | The Art of Biology 3,2,1,0.0007
+Advanced Java 8 | Fundamentals of Python 7,2,1,0.0007
+Advanced Java 8 | Introduction to Music 3,2,1,0.0007
+Fundamentals of Python 7 | Introduction to Music 3,2,1,0.0007
+Advanced Art 4 | Mastering Music 8,2,1,0.0007
+Advanced Art 4 | The Art of Biology 10,2,1,0.0007
+Mastering Music 8 | The Art of Biology 10,2,1,0.0007
+Advanced Economics 5 | Advanced Physics 2,2,1,0.0007
+Advanced Economics 5 | Mastering History 2,2,1,0.0007
+Advanced Physics 2 | Mastering History 2,2,1,0.0007
+Guide to Art 2 | Mastering Physics 9,2,1,0.0007
+Handbook of Calculus 1 | Introduction to Python 7,2,1,0.0007
+Guide to Calculus 6 | Introduction to Physics 3,2,1,0.0007
+History of Physics 1 | The Art of Economics 8,2,1,0.0007
+Advanced Chemistry 5 | The Art of Economics 7,2,1,0.0007
+Advanced Chemistry 5 | The Art of Python 3,2,1,0.0007
+The Art of Economics 7 | The Art of Python 3,2,1,0.0007
+History of History 10 | Introduction to Music 3,2,1,0.0007
+History of Calculus 7 | The Art of Biology 6,2,1,0.0007
+Fundamentals of Economics 7 | Mastering History 3,2,1,0.0007
+History of Music 9 | Introduction to Philosophy 5,2,1,0.0007
+History of Music 9 | The Art of Java 6,2,1,0.0007
+Introduction to Philosophy 5 | The Art of Java 6,2,1,0.0007
+Advanced Economics 7 | History of Art 3,2,1,0.0007
+Advanced Economics 7 | The Art of History 5,2,1,0.0007
+History of Art 3 | The Art of History 5,2,1,0.0007
+History of AI 5 | Mastering Java 3,2,1,0.0007
+History of AI 5 | The Art of Python 7,2,1,0.0007
+Mastering Java 3 | The Art of Python 7,2,1,0.0007
+Fundamentals of Java 6 | The Art of History 5,2,1,0.0007
+Advanced History 3 | Handbook of Art 7,2,1,0.0007
+Guide to Calculus 3 | The Art of Biology 6,2,1,0.0007
+Fundamentals of Music 4 | Handbook of Economics 2,2,1,0.0007
+Guide to AI 6 | Handbook of Biology 10,2,1,0.0007
+Guide to AI 6 | Introduction to Java 5,2,1,0.0007
+Handbook of Biology 10 | Introduction to Java 5,2,1,0.0007
+Handbook of Physics 7 | Introduction to Machine Learning 7,2,1,0.0007
+Fundamentals of Machine Learning 5 | The Art of Economics 8,2,1,0.0007
+Introduction to Chemistry 2 | Introduction to Economics 4,2,1,0.0007
+Advanced Chemistry 10 | Guide to Art 10,2,1,0.0007
+Advanced Chemistry 10 | Guide to Biology 7,2,1,0.0007
+Guide to Art 10 | Guide to Biology 7,2,1,0.0007
+Mastering Calculus 9 | Mastering Java 10,2,1,0.0007
+Advanced History 10 | History of History 7,2,1,0.0007
+Advanced History 10 | The Art of Economics 3,2,1,0.0007
+History of History 7 | The Art of Economics 3,2,1,0.0007
+Fundamentals of Biology 4 | Handbook of Art 5,2,1,0.0007
+Fundamentals of Biology 4 | Handbook of Python 7,2,1,0.0007
+Handbook of Art 5 | Handbook of Python 7,2,1,0.0007
+Fundamentals of Physics 2 | History of Java 9,2,1,0.0007
+Advanced Machine Learning 8 | Mastering Physics 4,2,1,0.0007
+Guide to Music 5 | Handbook of Music 2,2,1,0.0007
+Guide to Music 5 | History of Chemistry 5,2,1,0.0007
+Handbook of Music 2 | History of Chemistry 5,2,1,0.0007
+Advanced Chemistry 4 | The Art of Biology 6,2,1,0.0007
+Fundamentals of Chemistry 9 | The Art of Physics 8,2,1,0.0007
+Advanced Java 3 | Handbook of Java 1,2,1,0.0007
+Advanced Java 3 | The Art of Calculus 1,2,1,0.0007
+Handbook of Java 1 | The Art of Calculus 1,2,1,0.0007
+Handbook of Economics 9 | Handbook of Java 3,2,1,0.0007
+Guide to Python 7 | Introduction to Music 9,2,1,0.0007
+Fundamentals of Machine Learning 3 | Fundamentals of Music 1,2,1,0.0007
+Fundamentals of Machine Learning 3 | The Art of Java 6,2,1,0.0007
+Fundamentals of Music 1 | The Art of Java 6,2,1,0.0007
+Guide to Biology 3 | Handbook of Machine Learning 5,2,1,0.0007
+Fundamentals of Java 3 | Handbook of Economics 1,2,1,0.0007
+Fundamentals of Java 3 | Introduction to Calculus 2,2,1,0.0007
+Handbook of Economics 1 | Introduction to Calculus 2,2,1,0.0007
+Advanced Biology 10 | Handbook of Economics 2,2,1,0.0007
+Guide to Art 2 | Mastering Chemistry 8,2,1,0.0007
+Fundamentals of Physics 10 | Introduction to Java 10,2,1,0.0007
+Fundamentals of Physics 10 | The Art of Calculus 1,2,1,0.0007
+Introduction to Java 10 | The Art of Calculus 1,2,1,0.0007
+Handbook of Art 1 | Mastering Music 10,2,1,0.0007
+Fundamentals of Economics 7 | Fundamentals of Music 9,2,1,0.0007
+Fundamentals of Economics 7 | History of Machine Learning 8,2,1,0.0007
+Fundamentals of Music 9 | History of Machine Learning 8,2,1,0.0007
+Advanced Biology 1 | History of Java 1,2,1,0.0007
+Advanced Biology 1 | Introduction to Chemistry 5,2,1,0.0007
+History of Java 1 | Introduction to Chemistry 5,2,1,0.0007
+Fundamentals of Chemistry 6 | History of Physics 10,2,1,0.0007
+Fundamentals of Chemistry 6 | Introduction to Economics 10,2,1,0.0007
+History of Physics 10 | Introduction to Economics 10,2,1,0.0007
+Mastering AI 7 | Mastering History 2,2,1,0.0007
+Fundamentals of Music 1 | Mastering Music 8,2,1,0.0007
+Guide to AI 8 | Guide to History 7,2,1,0.0007
+Guide to AI 8 | Guide to Java 4,2,1,0.0007
+Guide to History 7 | Guide to Java 4,2,1,0.0007
+Fundamentals of Java 1 | Introduction to Calculus 2,2,1,0.0007
+Handbook of Java 6 | Introduction to Music 3,2,1,0.0007
+Advanced Java 1 | Guide to Philosophy 6,2,1,0.0007
+Advanced Java 1 | Mastering Art 2,2,1,0.0007
+Guide to Philosophy 6 | Mastering Art 2,2,1,0.0007
+Advanced Machine Learning 1 | Fundamentals of Biology 2,2,1,0.0007
+Advanced Machine Learning 1 | The Art of Physics 8,2,1,0.0007
+Fundamentals of Biology 2 | The Art of Physics 8,2,1,0.0007
+Fundamentals of Philosophy 9 | Introduction to Java 8,2,1,0.0007
+Handbook of Music 6 | Mastering Art 9,2,1,0.0007
+Handbook of Music 6 | The Art of Machine Learning 2,2,1,0.0007
+Mastering Art 9 | The Art of Machine Learning 2,2,1,0.0007
+Guide to AI 9 | Handbook of Calculus 4,2,1,0.0007
+Advanced Music 2 | Handbook of Biology 10,2,1,0.0007
+Advanced Music 2 | Introduction to Python 3,2,1,0.0007
+Handbook of Biology 10 | Introduction to Python 3,2,1,0.0007
+Guide to Calculus 9 | History of History 7,2,1,0.0007
+Guide to Calculus 9 | Mastering Music 6,2,1,0.0007
+History of History 7 | Mastering Music 6,2,1,0.0007
+Guide to Music 2 | Handbook of Machine Learning 2,2,1,0.0007
+Guide to Music 2 | The Art of Philosophy 1,2,1,0.0007
+Handbook of Machine Learning 2 | The Art of Philosophy 1,2,1,0.0007
+Advanced Java 8 | Advanced Python 5,2,1,0.0007
+Advanced Java 8 | The Art of Art 8,2,1,0.0007
+Advanced Python 5 | The Art of Art 8,2,1,0.0007
+Advanced Calculus 7 | Fundamentals of Machine Learning 3,2,1,0.0007
+Fundamentals of Machine Learning 3 | Mastering Biology 8,2,1,0.0007
+Advanced Chemistry 5 | History of Chemistry 10,2,1,0.0007
+Advanced Python 2 | Handbook of Calculus 4,2,1,0.0007
+Fundamentals of Chemistry 6 | Fundamentals of Economics 7,2,1,0.0007
+Fundamentals of Chemistry 6 | The Art of Philosophy 6,2,1,0.0007
+Fundamentals of Economics 7 | The Art of Philosophy 6,2,1,0.0007
+Fundamentals of Music 9 | Guide to Art 1,2,1,0.0007
+Fundamentals of Music 9 | Introduction to Philosophy 3,2,1,0.0007
+Guide to Art 1 | Introduction to Philosophy 3,2,1,0.0007
+Advanced Python 9 | The Art of Biology 10,2,1,0.0007
+Advanced Chemistry 4 | Fundamentals of Chemistry 6,2,1,0.0007
+Advanced Chemistry 4 | History of Economics 5,2,1,0.0007
+Fundamentals of Chemistry 6 | History of Economics 5,2,1,0.0007
+Fundamentals of Biology 10 | Handbook of Economics 9,2,1,0.0007
+Fundamentals of Biology 10 | The Art of Physics 2,2,1,0.0007
+Handbook of Economics 9 | The Art of Physics 2,2,1,0.0007
+Advanced Chemistry 1 | Handbook of Art 1,2,1,0.0007
+Guide to Biology 9 | Guide to Python 1,2,1,0.0007
+Guide to Biology 9 | History of Physics 1,2,1,0.0007
+Guide to Python 1 | History of Physics 1,2,1,0.0007
+Advanced Python 10 | Introduction to Art 5,2,1,0.0007
+Advanced Python 10 | The Art of History 7,2,1,0.0007
+Introduction to Art 5 | The Art of History 7,2,1,0.0007
+History of Chemistry 7 | Introduction to Economics 4,2,1,0.0007
+Guide to Python 7 | Mastering History 8,2,1,0.0007
+Guide to Python 7 | Mastering Music 8,2,1,0.0007
+Mastering History 8 | Mastering Music 8,2,1,0.0007
+Guide to Music 2 | Introduction to Music 3,2,1,0.0007
+Guide to Biology 10 | Guide to Physics 1,2,1,0.0007
+Guide to Biology 10 | The Art of Physics 5,2,1,0.0007
+Guide to Physics 1 | The Art of Physics 5,2,1,0.0007
+Advanced Python 7 | Fundamentals of Python 1,2,1,0.0007
+Fundamentals of Art 6 | The Art of History 1,2,1,0.0007
+Advanced Art 6 | Guide to Art 10,2,1,0.0007
+Fundamentals of Physics 5 | Introduction to Java 1,2,1,0.0007
+History of Music 2 | Introduction to AI 10,2,1,0.0007
+Advanced History 4 | Handbook of Art 7,2,1,0.0007
+Advanced History 4 | Mastering Physics 1,2,1,0.0007
+Handbook of Art 7 | Mastering Physics 1,2,1,0.0007
+Advanced Machine Learning 1 | History of Philosophy 8,2,1,0.0007
+Advanced Machine Learning 1 | Mastering Philosophy 2,2,1,0.0007
+History of Philosophy 8 | Mastering Philosophy 2,2,1,0.0007
+Advanced Python 1 | Fundamentals of Physics 2,2,1,0.0007
+Advanced Python 1 | Handbook of Music 9,2,1,0.0007
+Fundamentals of Physics 2 | Handbook of Music 9,2,1,0.0007
+Advanced Calculus 8 | History of Calculus 2,2,1,0.0007
+Advanced Calculus 8 | Mastering Physics 5,2,1,0.0007
+History of Calculus 2 | Mastering Physics 5,2,1,0.0007
+Handbook of Biology 7 | The Art of History 1,2,1,0.0007
+Introduction to Philosophy 6 | Mastering Python 4,2,1,0.0007
+Introduction to Philosophy 6 | The Art of History 2,2,1,0.0007
+Mastering Python 4 | The Art of History 2,2,1,0.0007
+Fundamentals of Biology 4 | History of Physics 1,2,1,0.0007
+Guide to Biology 10 | Guide to Music 2,2,1,0.0007
+Guide to Biology 10 | History of Economics 5,2,1,0.0007
+Guide to Music 2 | History of Economics 5,2,1,0.0007
+Advanced Calculus 6 | Advanced Physics 2,2,1,0.0007
+Advanced Calculus 6 | Mastering Java 8,2,1,0.0007
+Advanced Physics 2 | Mastering Java 8,2,1,0.0007
+Fundamentals of Python 3 | History of Java 9,2,1,0.0007
+Fundamentals of Python 3 | Introduction to Java 8,2,1,0.0007
+History of Java 9 | Introduction to Java 8,2,1,0.0007
+Advanced Python 2 | Guide to AI 1,2,1,0.0007
+Advanced Python 2 | The Art of History 4,2,1,0.0007
+Guide to AI 1 | The Art of History 4,2,1,0.0007
+Handbook of Calculus 2 | Handbook of Philosophy 7,2,1,0.0007
+Handbook of Calculus 2 | Introduction to Art 2,2,1,0.0007
+Handbook of Philosophy 7 | Introduction to Art 2,2,1,0.0007
+Guide to AI 5 | Introduction to Philosophy 9,2,1,0.0007
+Guide to AI 5 | Introduction to Physics 8,2,1,0.0007
+Introduction to Philosophy 9 | Introduction to Physics 8,2,1,0.0007
+Handbook of History 8 | Handbook of Music 6,2,1,0.0007
+Fundamentals of Java 3 | Handbook of Biology 7,2,1,0.0007
+Fundamentals of Java 3 | The Art of Calculus 5,2,1,0.0007
+Handbook of Biology 7 | The Art of Calculus 5,2,1,0.0007
+Fundamentals of Java 8 | Mastering Chemistry 1,2,1,0.0007
+Guide to Java 4 | Handbook of Music 2,2,1,0.0007
+Guide to Java 4 | Mastering Java 10,2,1,0.0007
+Handbook of Music 2 | Mastering Java 10,2,1,0.0007
+Advanced Java 8 | Guide to Machine Learning 5,2,1,0.0007
+Advanced Java 8 | The Art of Java 7,2,1,0.0007
+Guide to Machine Learning 5 | The Art of Java 7,2,1,0.0007
+Fundamentals of Python 1 | History of Machine Learning 9,2,1,0.0007
+Handbook of Biology 10 | Mastering Machine Learning 10,2,1,0.0007
+Handbook of Biology 10 | The Art of Economics 4,2,1,0.0007
+Mastering Machine Learning 10 | The Art of Economics 4,2,1,0.0007
+Handbook of Java 8 | The Art of Python 7,2,1,0.0007
+Advanced Music 1 | The Art of Java 2,2,1,0.0007
+Advanced Biology 10 | Guide to Art 2,2,1,0.0007
+Advanced Biology 10 | Guide to Philosophy 1,2,1,0.0007
+Guide to Art 2 | Guide to Philosophy 1,2,1,0.0007
+Advanced Python 9 | Fundamentals of Python 1,2,1,0.0007
+Advanced Python 9 | Guide to Physics 1,2,1,0.0007
+Fundamentals of Python 1 | Guide to Physics 1,2,1,0.0007
+Handbook of Music 3 | History of Calculus 8,2,1,0.0007
+Handbook of Music 3 | Mastering Biology 7,2,1,0.0007
+History of Calculus 8 | Mastering Biology 7,2,1,0.0007
+Advanced History 3 | Fundamentals of Java 3,2,1,0.0007
+Guide to History 7 | Mastering AI 6,2,1,0.0007
+Guide to History 7 | Mastering Biology 4,2,1,0.0007
+Mastering AI 6 | Mastering Biology 4,2,1,0.0007
+Fundamentals of Python 7 | Mastering Economics 10,2,1,0.0007
+Guide to AI 9 | Mastering Philosophy 9,2,1,0.0007
+Advanced Biology 3 | Mastering Music 10,2,1,0.0007
+Mastering Physics 1 | The Art of Biology 7,2,1,0.0007
+Guide to Economics 1 | Mastering Biology 8,2,1,0.0007
+Guide to Economics 1 | Mastering Chemistry 2,2,1,0.0007
+Mastering Biology 8 | Mastering Chemistry 2,2,1,0.0007
+History of Java 1 | Mastering Physics 3,2,1,0.0007
+History of Java 1 | The Art of Art 8,2,1,0.0007
+Mastering Physics 3 | The Art of Art 8,2,1,0.0007
+Mastering History 6 | The Art of Biology 2,2,1,0.0007
+Fundamentals of Calculus 7 | Mastering AI 10,2,1,0.0007
+Guide to AI 3 | Introduction to Machine Learning 10,2,1,0.0007
+Introduction to Machine Learning 10 | Mastering Java 6,2,1,0.0007
+Mastering Philosophy 9 | The Art of Calculus 3,2,1,0.0007
+Mastering History 6 | The Art of Philosophy 5,2,1,0.0007
+History of History 2 | Mastering Philosophy 1,2,1,0.0007
+History of History 2 | The Art of History 1,2,1,0.0007
+Mastering Philosophy 1 | The Art of History 1,2,1,0.0007
+Handbook of Chemistry 7 | Mastering Calculus 2,2,1,0.0007
+Mastering Machine Learning 2 | The Art of Philosophy 1,2,1,0.0007
+Advanced History 5 | Fundamentals of Python 7,2,1,0.0007
+Advanced History 5 | Guide to AI 8,2,1,0.0007
+Fundamentals of Python 7 | Guide to AI 8,2,1,0.0007
+Guide to Biology 3 | History of Python 7,2,1,0.0007
+Guide to Biology 3 | The Art of Python 3,2,1,0.0007
+History of Python 7 | The Art of Python 3,2,1,0.0007
+Fundamentals of Economics 4 | History of Art 2,2,1,0.0007
+Advanced Calculus 9 | Advanced Python 7,2,1,0.0007
+Advanced Calculus 9 | Mastering AI 9,2,1,0.0007
+Advanced Python 7 | Mastering AI 9,2,1,0.0007
+Guide to Biology 8 | History of Machine Learning 8,2,1,0.0007
+Guide to Biology 8 | The Art of Economics 9,2,1,0.0007
+History of Machine Learning 8 | The Art of Economics 9,2,1,0.0007
+Guide to Calculus 9 | Mastering Physics 3,2,1,0.0007
+Advanced History 4 | Advanced Music 8,2,1,0.0007
+Advanced Calculus 8 | Mastering Music 1,2,1,0.0007
+Advanced Calculus 8 | The Art of Art 3,2,1,0.0007
+Mastering Music 1 | The Art of Art 3,2,1,0.0007
+Advanced History 5 | History of History 7,2,1,0.0007
+Advanced History 5 | The Art of Calculus 1,2,1,0.0007
+History of History 7 | The Art of Calculus 1,2,1,0.0007
+Advanced Biology 10 | History of Calculus 5,2,1,0.0007
+Advanced Biology 10 | Mastering Philosophy 7,2,1,0.0007
+History of Calculus 5 | Mastering Philosophy 7,2,1,0.0007
+Advanced AI 1 | Guide to Philosophy 3,2,1,0.0007
+Advanced AI 1 | Introduction to Music 3,2,1,0.0007
+Guide to Philosophy 3 | Introduction to Music 3,2,1,0.0007
+Advanced Calculus 1 | Advanced Philosophy 1,2,1,0.0007
+Mastering Python 4 | The Art of Java 6,2,1,0.0007
+History of Biology 9 | The Art of Calculus 8,2,1,0.0007
+Fundamentals of Calculus 1 | Mastering Java 3,2,1,0.0007
+Advanced History 3 | History of Philosophy 8,2,1,0.0007
+Advanced History 3 | The Art of History 5,2,1,0.0007
+History of Philosophy 8 | The Art of History 5,2,1,0.0007
+Advanced Economics 7 | Introduction to Calculus 10,2,1,0.0007
+Advanced Calculus 5 | History of Economics 1,2,1,0.0007
+Guide to Calculus 10 | Introduction to History 9,2,1,0.0007
+Advanced Biology 4 | Advanced Philosophy 2,2,1,0.0007
+Advanced Biology 4 | Fundamentals of Economics 4,2,1,0.0007
+Advanced Philosophy 2 | Fundamentals of Economics 4,2,1,0.0007
+Fundamentals of Physics 10 | Introduction to Python 7,2,1,0.0007
+Fundamentals of Physics 10 | The Art of Physics 8,2,1,0.0007
+Introduction to Python 7 | The Art of Physics 8,2,1,0.0007
+Guide to Java 4 | Handbook of Calculus 7,2,1,0.0007
+Guide to Java 4 | History of Calculus 4,2,1,0.0007
+Handbook of Calculus 7 | History of Calculus 4,2,1,0.0007
+History of Philosophy 1 | Mastering History 8,2,1,0.0007
+History of Physics 1 | The Art of Art 5,2,1,0.0007
+Handbook of History 3 | Mastering Python 6,2,1,0.0007
+Fundamentals of Music 1 | Handbook of Python 2,2,1,0.0007
+Fundamentals of Music 1 | The Art of Biology 8,2,1,0.0007
+Handbook of Python 2 | The Art of Biology 8,2,1,0.0007
+Fundamentals of Philosophy 9 | Mastering Physics 3,2,1,0.0007
+Fundamentals of Chemistry 7 | Fundamentals of Economics 4,2,1,0.0007
+Fundamentals of Chemistry 7 | Mastering Philosophy 2,2,1,0.0007
+Fundamentals of Economics 4 | Mastering Philosophy 2,2,1,0.0007
+History of Physics 6 | Introduction to Java 9,2,1,0.0007
+Handbook of Java 9 | History of Music 5,2,1,0.0007
+Advanced Calculus 5 | Fundamentals of Java 7,2,1,0.0007
+Advanced Calculus 5 | Guide to Art 1,2,1,0.0007
+Fundamentals of Java 7 | Guide to Art 1,2,1,0.0007
+Guide to Physics 1 | The Art of History 1,2,1,0.0007
+Guide to Python 1 | Handbook of Biology 7,2,1,0.0007
+Guide to Python 1 | Introduction to Python 5,2,1,0.0007
+Handbook of Biology 7 | Introduction to Python 5,2,1,0.0007
+Handbook of AI 9 | Handbook of Java 2,2,1,0.0007
+Guide to History 7 | Handbook of Art 1,2,1,0.0007
+Handbook of Chemistry 7 | Mastering Calculus 6,2,1,0.0007
+Advanced Music 1 | Advanced Python 4,2,1,0.0007
+Advanced Music 1 | Mastering Machine Learning 2,2,1,0.0007
+Advanced Python 4 | Mastering Machine Learning 2,2,1,0.0007
+Fundamentals of Java 3 | Fundamentals of Physics 6,2,1,0.0007
+Fundamentals of Java 3 | Mastering Music 6,2,1,0.0007
+Fundamentals of Physics 6 | Mastering Music 6,2,1,0.0007
+Guide to Philosophy 1 | Introduction to Chemistry 3,2,1,0.0007
+Advanced Economics 7 | Fundamentals of Biology 4,2,1,0.0007
+Advanced Economics 7 | The Art of Machine Learning 3,2,1,0.0007
+Fundamentals of Biology 4 | The Art of Machine Learning 3,2,1,0.0007
+Advanced Chemistry 8 | Advanced History 10,2,1,0.0007
+Advanced Chemistry 8 | Handbook of Art 7,2,1,0.0007
+Advanced History 10 | Handbook of Art 7,2,1,0.0007
+Introduction to Philosophy 6 | Mastering Music 8,2,1,0.0007
+Advanced Economics 10 | Guide to Calculus 9,2,1,0.0007
+Advanced Physics 2 | History of Physics 3,2,1,0.0007
+Mastering Music 8 | The Art of Biology 6,2,1,0.0007
+Fundamentals of Python 1 | Introduction to Machine Learning 7 | The Art of Java 4,3,1,0.0007
+Advanced Java 1 | Guide to Java 2 | History of Calculus 8,3,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to AI 4 | Mastering Economics 2,3,1,0.0007
+Fundamentals of Economics 6 | Handbook of Physics 7 | History of Chemistry 7,3,1,0.0007
+Mastering Music 10 | The Art of Biology 1 | The Art of Economics 9,3,1,0.0007
+Advanced Art 2 | Advanced Java 1 | The Art of Philosophy 9,3,1,0.0007
+Advanced Java 1 | Handbook of History 9 | Mastering Art 10,3,1,0.0007
+History of Biology 9 | History of Calculus 7 | History of Physics 6,3,1,0.0007
+Guide to Economics 5 | Handbook of Python 4 | The Art of Art 2,3,1,0.0007
+Advanced Java 7 | Guide to Biology 7 | The Art of Art 9,3,1,0.0007
+Guide to AI 10 | Guide to Art 2 | Introduction to Physics 8,3,1,0.0007
+Advanced Python 7 | Mastering Music 10 | The Art of Art 8,3,1,0.0007
+Guide to Machine Learning 8 | History of Philosophy 8 | History of Physics 6,3,1,0.0007
+Guide to Music 9 | Handbook of Physics 7 | History of Biology 3,3,1,0.0007
+Advanced Chemistry 5 | Fundamentals of History 5 | Mastering Economics 9,3,1,0.0007
+History of Economics 8 | Introduction to Python 5 | Mastering Calculus 6,3,1,0.0007
+Fundamentals of Economics 9 | Mastering Art 6 | Mastering Philosophy 5,3,1,0.0007
+Advanced Chemistry 10 | Handbook of Music 3 | History of Machine Learning 6,3,1,0.0007
+History of Economics 6 | Mastering Calculus 9 | The Art of History 1,3,1,0.0007
+Advanced Calculus 5 | Guide to Economics 5 | Handbook of Art 10,3,1,0.0007
+Advanced Art 1 | Advanced History 4 | Mastering Java 8,3,1,0.0007
+Fundamentals of Java 1 | Handbook of Biology 9 | History of Biology 2,3,1,0.0007
+Guide to Art 3 | Mastering Calculus 3 | The Art of Economics 8,3,1,0.0007
+Guide to Calculus 2 | The Art of Art 10 | The Art of Calculus 8,3,1,0.0007
+Advanced Economics 5 | Guide to Python 7 | The Art of Calculus 3,3,1,0.0007
+Guide to Python 1 | Mastering Machine Learning 10 | The Art of Physics 3,3,1,0.0007
+Guide to Biology 2 | History of Music 2 | Mastering Art 10,3,1,0.0007
+Guide to Java 8 | History of Machine Learning 6 | Mastering Calculus 6,3,1,0.0007
+Advanced Python 9 | Guide to AI 5 | Guide to Machine Learning 1,3,1,0.0007
+Fundamentals of Chemistry 2 | Fundamentals of Chemistry 4 | Mastering Physics 3,3,1,0.0007
+Introduction to Java 8 | The Art of Calculus 8 | The Art of Python 3,3,1,0.0007
+Advanced Physics 2 | Guide to Music 8 | History of Calculus 4,3,1,0.0007
+Guide to AI 10 | Handbook of Philosophy 10 | The Art of Economics 3,3,1,0.0007
+Advanced Calculus 8 | Guide to Music 4 | Mastering Philosophy 1,3,1,0.0007
+History of Economics 4 | Introduction to AI 6 | The Art of Java 8,3,1,0.0007
+Guide to Calculus 2 | Handbook of Machine Learning 5 | Mastering History 8,3,1,0.0007
+Fundamentals of Calculus 10 | History of AI 3 | Mastering Music 10,3,1,0.0007
+Advanced Calculus 6 | History of Chemistry 6 | Introduction to Economics 4,3,1,0.0007
+Advanced Philosophy 10 | The Art of Art 2 | The Art of Economics 2,3,1,0.0007
+Advanced Java 3 | Introduction to AI 10 | The Art of History 1,3,1,0.0007
+Fundamentals of Java 7 | Fundamentals of Physics 2 | The Art of Python 5,3,1,0.0007
+Advanced Music 5 | Introduction to Chemistry 5 | The Art of History 1,3,1,0.0007
+Advanced History 7 | Introduction to Physics 8 | Mastering Economics 10,3,1,0.0007
+Advanced Java 3 | Handbook of Physics 8 | The Art of History 5,3,1,0.0007
+Advanced AI 6 | Mastering Java 4 | The Art of Chemistry 1,3,1,0.0007
+Guide to Machine Learning 6 | Handbook of Calculus 4 | Mastering History 6,3,1,0.0007
+History of History 3 | History of Machine Learning 8 | History of Music 3,3,1,0.0007
+Fundamentals of Python 4 | Guide to Python 6 | History of Music 10,3,1,0.0007
+Advanced Chemistry 10 | Introduction to Music 3 | The Art of History 1,3,1,0.0007
+Advanced History 4 | Fundamentals of Calculus 7 | History of Chemistry 2,3,1,0.0007
+Fundamentals of AI 5 | Handbook of Java 1 | The Art of Philosophy 1,3,1,0.0007
+Mastering AI 9 | The Art of Biology 7 | The Art of Chemistry 2,3,1,0.0007
+Fundamentals of Music 1 | Handbook of Java 6 | Handbook of Philosophy 10,3,1,0.0007
+Advanced Calculus 6 | Introduction to Physics 3 | The Art of History 6,3,1,0.0007
+Advanced Music 8 | Fundamentals of Chemistry 6 | Fundamentals of Physics 5,3,1,0.0007
+Guide to Art 10 | Handbook of AI 9 | Handbook of Machine Learning 9,3,1,0.0007
+Advanced Python 7 | History of History 10 | Mastering History 2,3,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to Philosophy 1 | The Art of Philosophy 5,3,1,0.0007
+Advanced AI 1 | Handbook of Machine Learning 3 | Introduction to History 1,3,1,0.0007
+Guide to AI 6 | Introduction to Biology 6 | The Art of Python 8,3,1,0.0007
+Advanced Calculus 7 | Guide to Philosophy 9 | Introduction to AI 3,3,1,0.0007
+Advanced Chemistry 10 | Advanced Music 1 | History of Chemistry 10,3,1,0.0007
+Guide to Calculus 1 | History of Machine Learning 9 | Mastering Chemistry 9,3,1,0.0007
+History of AI 9 | History of Calculus 4 | Introduction to Java 10,3,1,0.0007
+Fundamentals of Calculus 10 | History of History 7 | The Art of Art 3,3,1,0.0007
+History of Machine Learning 9 | History of Music 9 | Introduction to Physics 5,3,1,0.0007
+History of Biology 9 | History of Economics 1 | Introduction to Art 1,3,1,0.0007
+History of AI 7 | History of Calculus 3 | Introduction to Python 6,3,1,0.0007
+Fundamentals of Physics 3 | Guide to Chemistry 2 | Introduction to Art 4,3,1,0.0007
+Fundamentals of Chemistry 8 | Guide to Biology 7 | Handbook of Chemistry 6,3,1,0.0007
+Guide to Art 2 | History of Economics 5 | The Art of Calculus 3,3,1,0.0007
+Advanced History 7 | Guide to Calculus 6 | History of Machine Learning 2,3,1,0.0007
+Advanced Calculus 1 | Guide to Music 8 | Introduction to Art 6,3,1,0.0007
+Advanced Economics 7 | Fundamentals of Java 10 | Fundamentals of Python 10,3,1,0.0007
+Advanced History 3 | Advanced Physics 2 | Mastering Java 6,3,1,0.0007
+History of Art 3 | Introduction to Machine Learning 2 | The Art of Art 10,3,1,0.0007
+The Art of Art 8 | The Art of Java 2 | The Art of Python 7,3,1,0.0007
+Guide to Chemistry 2 | History of Calculus 8 | History of Music 9,3,1,0.0007
+Guide to Calculus 3 | History of Chemistry 5 | The Art of Physics 7,3,1,0.0007
+Advanced Java 3 | Fundamentals of AI 9 | Guide to Music 2,3,1,0.0007
+History of Philosophy 3 | Introduction to Machine Learning 7 | Mastering Python 6,3,1,0.0007
+Fundamentals of Chemistry 6 | Introduction to Music 3 | The Art of History 4,3,1,0.0007
+History of Biology 6 | History of History 2 | The Art of Biology 6,3,1,0.0007
+Fundamentals of Philosophy 2 | The Art of Biology 1 | The Art of Economics 9,3,1,0.0007
+Advanced Calculus 7 | Introduction to History 9 | Mastering Biology 8,3,1,0.0007
+Guide to Art 1 | Introduction to Art 2 | Mastering Chemistry 9,3,1,0.0007
+History of Machine Learning 1 | History of Machine Learning 9 | Introduction to AI 3,3,1,0.0007
+Guide to History 9 | Introduction to Chemistry 9 | The Art of Philosophy 9,3,1,0.0007
+Advanced Economics 5 | Fundamentals of Chemistry 8 | Mastering Biology 8,3,1,0.0007
+Mastering AI 9 | Mastering Java 10 | The Art of History 10,3,1,0.0007
+Fundamentals of Calculus 4 | Handbook of Calculus 3 | Mastering Calculus 1,3,1,0.0007
+Handbook of Biology 9 | Introduction to Machine Learning 10 | The Art of History 9,3,1,0.0007
+Fundamentals of Java 10 | Handbook of Java 8 | Mastering Philosophy 9,3,1,0.0007
+Mastering Physics 4 | The Art of Art 9 | The Art of History 5,3,1,0.0007
+Advanced AI 2 | Introduction to Chemistry 5 | Mastering AI 6,3,1,0.0007
+Advanced History 7 | Handbook of Economics 9 | Introduction to Art 6,3,1,0.0007
+Fundamentals of Python 7 | Handbook of Chemistry 6 | History of Economics 1,3,1,0.0007
+Fundamentals of Chemistry 9 | Handbook of Chemistry 5 | The Art of History 4,3,1,0.0007
+Fundamentals of Physics 9 | Guide to Calculus 1 | Handbook of Art 5,3,1,0.0007
+Guide to Art 3 | Handbook of Economics 2 | Introduction to Python 6,3,1,0.0007
+Advanced Art 8 | Advanced Philosophy 2 | Guide to Philosophy 3,3,1,0.0007
+Fundamentals of Java 3 | History of Economics 3 | History of Philosophy 3,3,1,0.0007
+Guide to AI 5 | Guide to Physics 4 | The Art of Philosophy 4,3,1,0.0007
+Fundamentals of Java 9 | Handbook of Biology 7 | The Art of Economics 8,3,1,0.0007
+Fundamentals of Java 3 | Guide to AI 6 | Mastering Machine Learning 3,3,1,0.0007
+Guide to Philosophy 2 | Handbook of Machine Learning 9 | Introduction to Art 6,3,1,0.0007
+History of AI 9 | Mastering Economics 10 | The Art of Art 10,3,1,0.0007
+Mastering Java 10 | The Art of History 5 | The Art of Music 1,3,1,0.0007
+History of Calculus 8 | Introduction to History 9 | Mastering Economics 10,3,1,0.0007
+Handbook of Machine Learning 5 | History of History 10 | Introduction to Economics 3,3,1,0.0007
+Advanced Java 8 | Guide to AI 6 | Guide to Music 2,3,1,0.0007
+Handbook of Calculus 8 | Introduction to Physics 10 | Mastering Physics 1,3,1,0.0007
+Advanced Calculus 1 | Advanced Philosophy 2 | Guide to Music 4,3,1,0.0007
+Advanced Music 4 | Guide to Python 10 | Mastering Physics 1,3,1,0.0007
+Fundamentals of Physics 5 | Handbook of Chemistry 5 | History of History 2,3,1,0.0007
+Advanced History 5 | History of AI 7 | The Art of Physics 7,3,1,0.0007
+Advanced Chemistry 9 | Introduction to Biology 6 | Mastering Biology 6,3,1,0.0007
+History of History 4 | Introduction to Machine Learning 7 | Mastering Philosophy 2,3,1,0.0007
+Advanced Calculus 9 | Advanced Economics 3 | Mastering Physics 3,3,1,0.0007
+Fundamentals of Machine Learning 3 | Guide to Python 4 | Handbook of Art 1,3,1,0.0007
+Advanced Java 7 | Advanced Machine Learning 1 | The Art of Philosophy 1,3,1,0.0007
+Fundamentals of Art 10 | History of History 2 | Introduction to Java 5,3,1,0.0007
+Advanced Java 7 | Handbook of Machine Learning 7 | The Art of AI 9,3,1,0.0007
+Advanced Physics 8 | Fundamentals of Java 1 | Handbook of Economics 2,3,1,0.0007
+Handbook of Physics 10 | Introduction to Chemistry 5 | Introduction to Philosophy 1,3,1,0.0007
+Handbook of AI 10 | History of Music 2 | The Art of History 7,3,1,0.0007
+Handbook of Music 8 | History of Calculus 5 | Mastering History 6,3,1,0.0007
+Guide to Art 3 | Handbook of Economics 9 | Mastering History 8,3,1,0.0007
+Guide to AI 9 | Handbook of Biology 5 | Introduction to Python 6,3,1,0.0007
+Advanced Python 10 | History of Calculus 3 | Mastering Calculus 1,3,1,0.0007
+Handbook of Philosophy 10 | History of Philosophy 9 | Introduction to Physics 3,3,1,0.0007
+Advanced Biology 5 | Handbook of Biology 7 | Introduction to History 8,3,1,0.0007
+Guide to Music 5 | Handbook of Calculus 4 | Mastering Art 10,3,1,0.0007
+Advanced Java 5 | Guide to Python 4 | Introduction to Python 1,3,1,0.0007
+History of Calculus 1 | Introduction to Art 5 | The Art of History 9,3,1,0.0007
+Advanced Economics 5 | Advanced Philosophy 9 | Fundamentals of Music 4,3,1,0.0007
+Introduction to History 10 | Mastering Biology 9 | The Art of History 5,3,1,0.0007
+Introduction to Philosophy 7 | The Art of Music 1 | The Art of Philosophy 4,3,1,0.0007
+Advanced Economics 7 | Fundamentals of Philosophy 6 | The Art of Python 9,3,1,0.0007
+Advanced Art 6 | Guide to Machine Learning 1 | Mastering Chemistry 9,3,1,0.0007
+Advanced Biology 10 | Mastering Art 9 | Mastering Calculus 3,3,1,0.0007
+Fundamentals of Physics 9 | Guide to Art 1 | History of Philosophy 8,3,1,0.0007
+Advanced Art 6 | Advanced Python 7 | Guide to Calculus 9,3,1,0.0007
+Advanced Physics 2 | Introduction to Chemistry 3 | The Art of Art 8,3,1,0.0007
+Advanced Music 4 | Fundamentals of Java 10 | Introduction to Art 6,3,1,0.0007
+Advanced Music 8 | Mastering Art 6 | The Art of Java 2,3,1,0.0007
+Advanced Machine Learning 1 | Fundamentals of Chemistry 8 | Introduction to Biology 4,3,1,0.0007
+Guide to Economics 3 | Handbook of Chemistry 6 | Introduction to Java 10,3,1,0.0007
+Advanced Chemistry 6 | Guide to Java 8 | Introduction to Machine Learning 7,3,1,0.0007
+Fundamentals of Chemistry 9 | History of Art 8 | Mastering Java 10,3,1,0.0007
+Fundamentals of Java 1 | Introduction to Physics 3 | The Art of History 6,3,1,0.0007
+Advanced Chemistry 1 | Advanced Java 1 | Mastering Music 8,3,1,0.0007
+Fundamentals of Music 8 | The Art of Biology 8 | The Art of Physics 3,3,1,0.0007
+History of Economics 4 | History of Machine Learning 1 | Mastering Calculus 4,3,1,0.0007
+Handbook of Python 6 | Mastering Chemistry 2 | Mastering Chemistry 3,3,1,0.0007
+Advanced Music 4 | Advanced Python 5 | Handbook of Machine Learning 5,3,1,0.0007
+History of Music 2 | History of Physics 6 | The Art of History 2,3,1,0.0007
+Fundamentals of Art 6 | Guide to Music 2 | Introduction to Machine Learning 1,3,1,0.0007
+Fundamentals of Biology 4 | Guide to Music 2 | Guide to Physics 1,3,1,0.0007
+Fundamentals of Philosophy 8 | Introduction to Machine Learning 7 | The Art of Philosophy 1,3,1,0.0007
+Guide to Philosophy 9 | The Art of Calculus 1 | The Art of Philosophy 6,3,1,0.0007
+Advanced Art 1 | Fundamentals of Economics 6 | History of Biology 3,3,1,0.0007
+Fundamentals of Philosophy 6 | Handbook of Python 7 | Mastering Chemistry 4,3,1,0.0007
+Fundamentals of Art 5 | The Art of Calculus 7 | The Art of Philosophy 1,3,1,0.0007
+Handbook of Music 5 | Mastering History 3 | The Art of Calculus 7,3,1,0.0007
+Advanced Chemistry 10 | History of Python 9 | Introduction to Java 5,3,1,0.0007
+Guide to Music 2 | Introduction to Java 8 | Mastering Biology 8,3,1,0.0007
+Mastering Python 6 | The Art of Art 8 | The Art of Physics 10,3,1,0.0007
+Advanced Art 4 | Advanced Art 9 | History of History 7,3,1,0.0007
+Advanced Python 5 | Handbook of Philosophy 10 | The Art of Economics 8,3,1,0.0007
+Advanced Biology 1 | Guide to AI 10 | The Art of Economics 8,3,1,0.0007
+Advanced Art 1 | Guide to Music 2 | Handbook of Physics 4,3,1,0.0007
+Fundamentals of AI 5 | Introduction to Biology 4 | The Art of Philosophy 9,3,1,0.0007
+Fundamentals of Chemistry 4 | History of AI 5 | The Art of History 10,3,1,0.0007
+Advanced Calculus 7 | Advanced History 4 | Guide to Machine Learning 5,3,1,0.0007
+Fundamentals of Philosophy 8 | History of Calculus 1 | Mastering Philosophy 6,3,1,0.0007
+Handbook of Machine Learning 2 | Mastering Java 10 | The Art of History 2,3,1,0.0007
+Advanced Java 1 | Guide to Economics 1 | The Art of Art 9,3,1,0.0007
+Fundamentals of Art 5 | Guide to Physics 1 | Handbook of Chemistry 7,3,1,0.0007
+History of History 7 | Mastering History 8 | Mastering Machine Learning 3,3,1,0.0007
+Guide to Philosophy 3 | History of History 10 | Mastering Calculus 1,3,1,0.0007
+Fundamentals of Java 1 | Guide to Music 9 | Mastering Java 8,3,1,0.0007
+History of AI 8 | Mastering Philosophy 9 | The Art of Machine Learning 3,3,1,0.0007
+History of Machine Learning 10 | History of Music 3 | Mastering Java 6,3,1,0.0007
+Handbook of Chemistry 5 | Handbook of Music 6 | The Art of Calculus 3,3,1,0.0007
+Advanced History 5 | Fundamentals of AI 5 | Mastering AI 6,3,1,0.0007
+Fundamentals of Chemistry 10 | Introduction to Biology 6 | Mastering Economics 5,3,1,0.0007
+Handbook of Philosophy 10 | History of Music 2 | Introduction to Philosophy 6,3,1,0.0007
+Advanced Chemistry 5 | Mastering Calculus 2 | The Art of AI 7,3,1,0.0007
+Handbook of Music 5 | History of Philosophy 9 | Mastering Art 8,3,1,0.0007
+Advanced Calculus 8 | Guide to Music 5 | History of Biology 6,3,1,0.0007
+Advanced Biology 4 | Advanced Python 1 | The Art of AI 9,3,1,0.0007
+Fundamentals of Music 7 | Handbook of Art 6 | History of AI 3,3,1,0.0007
+Guide to Machine Learning 5 | Introduction to AI 8 | Introduction to Python 5,3,1,0.0007
+Fundamentals of Machine Learning 3 | Guide to Physics 1 | History of Calculus 3,3,1,0.0007
+History of Art 3 | History of Economics 6 | Mastering Physics 5,3,1,0.0007
+Advanced Calculus 9 | Mastering Economics 9 | The Art of Calculus 5,3,1,0.0007
+History of Economics 8 | Introduction to AI 3 | Mastering Calculus 6,3,1,0.0007
+Advanced AI 2 | Advanced Machine Learning 8 | Fundamentals of Python 7,3,1,0.0007
+Advanced Physics 2 | Guide to Art 2 | Mastering Art 2,3,1,0.0007
+Advanced Economics 1 | Guide to Machine Learning 5 | Introduction to Python 7,3,1,0.0007
+Advanced Chemistry 4 | Fundamentals of Machine Learning 5 | Mastering Chemistry 9,3,1,0.0007
+Advanced Machine Learning 1 | Fundamentals of Chemistry 4 | Handbook of AI 6,3,1,0.0007
+Advanced Machine Learning 1 | Fundamentals of Chemistry 4 | Handbook of Physics 2,3,1,0.0007
+Advanced Python 8 | History of AI 7 | History of Physics 1,3,1,0.0007
+Fundamentals of Python 1 | Guide to AI 10 | Guide to History 7,3,1,0.0007
+Advanced Calculus 9 | Fundamentals of Chemistry 7 | Handbook of Java 9,3,1,0.0007
+Fundamentals of Chemistry 9 | Guide to Machine Learning 6 | Handbook of Calculus 1,3,1,0.0007
+Handbook of Physics 4 | Mastering Music 8 | The Art of Python 3,3,1,0.0007
+Fundamentals of Physics 9 | Fundamentals of Python 9 | Introduction to Chemistry 5,3,1,0.0007
+Advanced Chemistry 7 | The Art of Art 10 | The Art of Calculus 3,3,1,0.0007
+Guide to Python 6 | The Art of Calculus 3 | The Art of Chemistry 8,3,1,0.0007
+Advanced Calculus 5 | Handbook of Machine Learning 7 | Mastering Art 9,3,1,0.0007
+Fundamentals of Machine Learning 5 | Introduction to History 9 | The Art of Philosophy 4,3,1,0.0007
+Advanced Chemistry 1 | Advanced Physics 2 | History of Art 2,3,1,0.0007
+Fundamentals of Physics 6 | The Art of Music 3 | The Art of Physics 10,3,1,0.0007
+Fundamentals of Machine Learning 5 | Handbook of Machine Learning 3 | The Art of Physics 7,3,1,0.0007
+Fundamentals of Physics 6 | Handbook of Chemistry 5 | Mastering History 2,3,1,0.0007
+Advanced History 7 | Handbook of Python 2 | History of Calculus 7,3,1,0.0007
+Fundamentals of Philosophy 9 | History of Calculus 4 | History of Chemistry 5,3,1,0.0007
+Fundamentals of Java 3 | History of AI 3 | The Art of Physics 1,3,1,0.0007
+Fundamentals of Chemistry 9 | Mastering Biology 6 | Mastering Java 10,3,1,0.0007
+Guide to Philosophy 3 | Introduction to Machine Learning 1 | The Art of History 1,3,1,0.0007
+Advanced Physics 2 | Guide to Music 4 | The Art of Philosophy 9,3,1,0.0007
+Handbook of Biology 5 | Handbook of Java 3 | The Art of History 1,3,1,0.0007
+Advanced Calculus 1 | History of Art 2 | History of Art 7,3,1,0.0007
+Guide to Java 10 | History of Biology 5 | The Art of Economics 3,3,1,0.0007
+Advanced Python 10 | Handbook of Biology 7 | The Art of Philosophy 9,3,1,0.0007
+Fundamentals of Chemistry 7 | History of Physics 1 | Mastering Chemistry 9,3,1,0.0007
+Advanced AI 6 | Guide to Physics 1 | Introduction to Art 6,3,1,0.0007
+Advanced Biology 4 | Guide to AI 8 | Handbook of History 2,3,1,0.0007
+Fundamentals of Calculus 2 | Handbook of Java 4 | History of Biology 6,3,1,0.0007
+Guide to Java 8 | Mastering Java 10 | The Art of Physics 7,3,1,0.0007
+Advanced Calculus 8 | Guide to Calculus 10 | History of Biology 3,3,1,0.0007
+Guide to Biology 7 | History of Machine Learning 1 | Introduction to Python 5,3,1,0.0007
+Mastering Calculus 6 | Mastering History 3 | The Art of History 5,3,1,0.0007
+Advanced Physics 4 | Fundamentals of Philosophy 2 | Mastering Philosophy 9,3,1,0.0007
+Handbook of Biology 10 | Mastering Biology 8 | Mastering Physics 3,3,1,0.0007
+Fundamentals of Java 1 | Mastering Philosophy 1 | The Art of Java 2,3,1,0.0007
+Advanced AI 2 | The Art of Art 8 | The Art of Economics 8,3,1,0.0007
+Handbook of History 8 | Mastering AI 6 | Mastering Economics 10,3,1,0.0007
+Advanced Chemistry 5 | Fundamentals of AI 4 | History of Machine Learning 5,3,1,0.0007
+Fundamentals of Economics 7 | Introduction to Machine Learning 7 | Mastering Music 8,3,1,0.0007
+Advanced AI 1 | History of Chemistry 4 | Introduction to Python 1,3,1,0.0007
+Mastering Chemistry 2 | Mastering History 2 | The Art of Chemistry 3,3,1,0.0007
+Guide to History 7 | History of Art 6 | Mastering Chemistry 2,3,1,0.0007
+History of Calculus 4 | Introduction to Machine Learning 1 | Mastering Java 3,3,1,0.0007
+Fundamentals of Philosophy 2 | Introduction to Machine Learning 7 | The Art of AI 10,3,1,0.0007
+Advanced Calculus 7 | Fundamentals of Art 10 | Handbook of Java 9,3,1,0.0007
+Advanced Java 8 | Mastering Art 8 | Mastering Economics 7,3,1,0.0007
+Fundamentals of AI 2 | The Art of History 5 | The Art of History 9,3,1,0.0007
+Introduction to Art 2 | Introduction to Philosophy 7 | Mastering Music 7,3,1,0.0007
+Advanced Chemistry 9 | History of Philosophy 10 | Introduction to Music 3,3,1,0.0007
+Guide to Biology 7 | The Art of Art 6 | The Art of Music 3,3,1,0.0007
+Advanced Philosophy 2 | History of AI 7 | Mastering History 8,3,1,0.0007
+Fundamentals of Calculus 7 | Handbook of Philosophy 10 | The Art of Economics 9,3,1,0.0007
+Fundamentals of Machine Learning 9 | Fundamentals of Physics 5 | Guide to Python 10,3,1,0.0007
+Guide to Calculus 6 | Introduction to Music 3 | Mastering Chemistry 2,3,1,0.0007
+History of Music 2 | Introduction to Economics 10 | The Art of History 1,3,1,0.0007
+Advanced Calculus 8 | Mastering Calculus 3 | Mastering Music 10,3,1,0.0007
+History of Machine Learning 8 | Introduction to AI 10 | Mastering AI 9,3,1,0.0007
+Fundamentals of Machine Learning 3 | Handbook of Chemistry 5 | Mastering Calculus 9,3,1,0.0007
+Handbook of Python 7 | History of Machine Learning 9 | The Art of Art 9,3,1,0.0007
+Mastering Economics 10 | Mastering Physics 3 | The Art of History 3,3,1,0.0007
+Handbook of Calculus 8 | Handbook of Philosophy 10 | Mastering Music 1,3,1,0.0007
+Advanced AI 1 | Fundamentals of Economics 4 | Guide to AI 1,3,1,0.0007
+Advanced Chemistry 8 | Guide to Biology 8 | The Art of Machine Learning 2,3,1,0.0007
+Advanced Art 2 | Fundamentals of Java 1 | Fundamentals of Philosophy 2,3,1,0.0007
+Advanced Physics 2 | History of Biology 3 | Introduction to AI 6,3,1,0.0007
+Advanced History 3 | Fundamentals of Chemistry 4 | Mastering Java 10,3,1,0.0007
+Advanced History 4 | Fundamentals of Music 1 | History of Economics 8,3,1,0.0007
+Guide to Chemistry 6 | Guide to History 1 | Mastering Music 6,3,1,0.0007
+Guide to AI 9 | Handbook of Art 7 | The Art of Java 2,3,1,0.0007
+Guide to AI 5 | Guide to Biology 7 | Handbook of Music 6,3,1,0.0007
+Fundamentals of Chemistry 7 | Introduction to AI 6 | Introduction to Chemistry 5,3,1,0.0007
+Advanced Economics 1 | Mastering Music 10 | The Art of Python 5,3,1,0.0007
+Fundamentals of Biology 10 | History of Art 2 | Introduction to Music 3,3,1,0.0007
+Advanced Philosophy 2 | History of History 7 | Introduction to Economics 4,3,1,0.0007
+Guide to Python 10 | Introduction to Chemistry 9 | The Art of Machine Learning 9,3,1,0.0007
+Handbook of History 2 | History of Chemistry 10 | The Art of Java 9,3,1,0.0007
+Advanced Physics 4 | The Art of Calculus 8 | The Art of Chemistry 2,3,1,0.0007
+Introduction to History 8 | Mastering Philosophy 9 | The Art of Physics 7,3,1,0.0007
+Advanced Java 8 | Handbook of Physics 10 | Mastering Machine Learning 2,3,1,0.0007
+History of Chemistry 9 | History of Economics 3 | The Art of Art 10,3,1,0.0007
+Handbook of Calculus 8 | Handbook of Philosophy 10 | Introduction to Music 10,3,1,0.0007
+Advanced Python 2 | History of Machine Learning 1 | Introduction to AI 10,3,1,0.0007
+Fundamentals of Music 9 | Handbook of Java 4 | Introduction to Music 3,3,1,0.0007
+Advanced Chemistry 7 | Fundamentals of Chemistry 2 | Handbook of Philosophy 10,3,1,0.0007
+Fundamentals of Java 7 | History of Calculus 7 | History of Chemistry 5,3,1,0.0007
+Guide to Machine Learning 2 | Guide to Music 8 | Introduction to Biology 9,3,1,0.0007
+Advanced Physics 3 | Fundamentals of Python 7 | Mastering Chemistry 4,3,1,0.0007
+Advanced Chemistry 6 | The Art of History 4 | The Art of Physics 5,3,1,0.0007
+Guide to Music 2 | Handbook of History 9 | Introduction to Art 6,3,1,0.0007
+Advanced Music 8 | Handbook of Economics 2 | Mastering Calculus 6,3,1,0.0007
+Advanced Art 2 | Advanced Art 9 | History of Calculus 5,3,1,0.0007
+Advanced History 3 | Fundamentals of Calculus 2 | Fundamentals of Economics 9,3,1,0.0007
+History of Python 6 | Mastering Machine Learning 10 | The Art of History 8,3,1,0.0007
+History of AI 10 | History of Physics 6 | The Art of Economics 4,3,1,0.0007
+Advanced AI 1 | Fundamentals of Chemistry 7 | Mastering Biology 6,3,1,0.0007
+Advanced Calculus 5 | Fundamentals of Physics 5 | The Art of Art 9,3,1,0.0007
+Advanced Chemistry 1 | Handbook of Biology 10 | The Art of Philosophy 8,3,1,0.0007
+Handbook of Economics 3 | History of Machine Learning 8 | The Art of History 1,3,1,0.0007
+Advanced Chemistry 8 | Guide to Biology 9 | History of Python 8,3,1,0.0007
+Fundamentals of Biology 2 | Handbook of Physics 10 | Mastering Philosophy 9,3,1,0.0007
+Handbook of Java 2 | Mastering Philosophy 4 | The Art of History 6,3,1,0.0007
+Advanced Economics 7 | History of Art 8 | History of Biology 3,3,1,0.0007
+Guide to Art 1 | History of Physics 1 | Introduction to Chemistry 1,3,1,0.0007
+Fundamentals of Calculus 10 | History of Calculus 8 | Mastering AI 6,3,1,0.0007
+Advanced Calculus 8 | Guide to Art 6 | Handbook of Java 9,3,1,0.0007
+Advanced AI 1 | Fundamentals of Art 7 | Mastering Music 10,3,1,0.0007
+Advanced Art 2 | Advanced Java 7 | Advanced Philosophy 1,3,1,0.0007
+Advanced Economics 9 | Fundamentals of Chemistry 6 | Handbook of History 9,3,1,0.0007
+Advanced Calculus 9 | Handbook of Calculus 2 | Introduction to Music 3,3,1,0.0007
+Advanced Machine Learning 8 | Handbook of Machine Learning 5 | Introduction to Calculus 2,3,1,0.0007
+Fundamentals of Calculus 10 | Handbook of AI 9 | Mastering Biology 6,3,1,0.0007
+Advanced Chemistry 8 | Advanced Economics 5 | Introduction to Machine Learning 10,3,1,0.0007
+Fundamentals of Physics 3 | Guide to Machine Learning 5 | The Art of Machine Learning 6,3,1,0.0007
+Advanced AI 1 | Guide to Biology 3 | The Art of Calculus 8,3,1,0.0007
+Fundamentals of Physics 6 | The Art of Economics 2 | The Art of Python 5,3,1,0.0007
+Advanced Java 1 | Advanced Music 5 | Mastering Art 9,3,1,0.0007
+Advanced History 10 | Guide to Art 2 | History of Python 9,3,1,0.0007
+Handbook of Chemistry 5 | Introduction to Chemistry 9 | Introduction to Machine Learning 1,3,1,0.0007
+Advanced Python 8 | Mastering Chemistry 7 | The Art of Calculus 8,3,1,0.0007
+History of Python 8 | Introduction to Chemistry 5 | Introduction to History 8,3,1,0.0007
+Advanced Chemistry 1 | Advanced Physics 2 | The Art of History 5,3,1,0.0007
+Guide to Biology 10 | Introduction to Java 1 | Mastering Philosophy 2,3,1,0.0007
+Advanced Chemistry 5 | Advanced Java 7 | Mastering Calculus 9,3,1,0.0007
+Advanced Philosophy 2 | Guide to AI 1 | The Art of Calculus 8,3,1,0.0007
+Fundamentals of Chemistry 2 | Handbook of Chemistry 7 | Mastering Physics 9,3,1,0.0007
+History of Philosophy 1 | Introduction to Chemistry 5 | The Art of Machine Learning 2,3,1,0.0007
+Fundamentals of Economics 7 | Guide to Biology 7 | Handbook of Music 7,3,1,0.0007
+Handbook of Calculus 3 | Mastering Calculus 4 | The Art of Philosophy 9,3,1,0.0007
+Advanced AI 2 | History of Art 2 | History of Machine Learning 1,3,1,0.0007
+Fundamentals of Physics 5 | Introduction to History 6 | The Art of Python 9,3,1,0.0007
+Advanced Machine Learning 1 | Advanced Physics 4 | Introduction to Philosophy 6,3,1,0.0007
+Advanced Economics 5 | Guide to Machine Learning 1 | Handbook of Art 5,3,1,0.0007
+Advanced Physics 2 | Fundamentals of Physics 9 | Guide to AI 9,3,1,0.0007
+Introduction to AI 3 | The Art of Chemistry 3 | The Art of Economics 2,3,1,0.0007
+Handbook of Economics 3 | Introduction to Machine Learning 7 | Mastering History 2,3,1,0.0007
+Fundamentals of Physics 3 | History of Java 9 | History of Music 5,3,1,0.0007
+Advanced Physics 8 | Guide to Art 2 | Introduction to Chemistry 5,3,1,0.0007
+Handbook of Java 7 | History of Calculus 8 | History of History 10,3,1,0.0007
+Advanced Art 1 | Fundamentals of Economics 6 | Handbook of Python 9,3,1,0.0007
+Guide to Java 8 | Guide to Music 4 | History of Machine Learning 9,3,1,0.0007
+Advanced Python 8 | History of Machine Learning 2 | The Art of Economics 9,3,1,0.0007
+Handbook of Machine Learning 7 | Handbook of Music 2 | Mastering Machine Learning 8,3,1,0.0007
+Fundamentals of Biology 4 | Handbook of Economics 3 | History of History 2,3,1,0.0007
+History of Calculus 4 | History of Economics 6 | History of Python 10,3,1,0.0007
+Fundamentals of Philosophy 8 | Mastering Chemistry 10 | Mastering Machine Learning 3,3,1,0.0007
+Fundamentals of Python 1 | Introduction to Chemistry 5 | Introduction to Machine Learning 1,3,1,0.0007
+Fundamentals of Biology 4 | History of Python 6 | The Art of Calculus 3,3,1,0.0007
+Advanced Java 3 | History of Calculus 5 | Introduction to Physics 3,3,1,0.0007
+Fundamentals of AI 2 | Fundamentals of Calculus 7 | History of Machine Learning 5,3,1,0.0007
+Advanced Music 8 | Fundamentals of Calculus 10 | Guide to Machine Learning 2,3,1,0.0007
+Advanced AI 4 | Fundamentals of Chemistry 7 | Fundamentals of Physics 5,3,1,0.0007
+Fundamentals of Chemistry 9 | Introduction to AI 8 | The Art of Calculus 8,3,1,0.0007
+Mastering Philosophy 1 | Mastering Philosophy 2 | Mastering Philosophy 4,3,1,0.0007
+Handbook of Art 10 | Handbook of Chemistry 6 | Mastering Calculus 1,3,1,0.0007
+Fundamentals of Philosophy 6 | The Art of History 10 | The Art of Philosophy 6,3,1,0.0007
+Guide to Python 10 | Handbook of Java 4 | History of Chemistry 2,3,1,0.0007
+History of AI 7 | Mastering Calculus 1 | The Art of Economics 4,3,1,0.0007
+History of AI 7 | Introduction to Chemistry 9 | Introduction to Philosophy 4,3,1,0.0007
+Advanced Java 1 | Guide to Python 4 | Mastering Economics 7,3,1,0.0007
+Fundamentals of Java 3 | Handbook of Java 2 | Mastering Python 4,3,1,0.0007
+Handbook of Python 2 | History of Biology 8 | Mastering Philosophy 5,3,1,0.0007
+Advanced Economics 7 | History of Music 5 | Introduction to Chemistry 1,3,1,0.0007
+Guide to Music 2 | The Art of Economics 7 | The Art of Python 5,3,1,0.0007
+Advanced AI 1 | Guide to Python 6 | Handbook of Economics 3,3,1,0.0007
+Introduction to History 4 | Introduction to Philosophy 10 | Mastering Economics 7,3,1,0.0007
+Fundamentals of Calculus 7 | History of Music 4 | Introduction to Music 10,3,1,0.0007
+Fundamentals of Java 9 | Handbook of History 9 | History of Python 8,3,1,0.0007
+Advanced Chemistry 5 | History of Chemistry 2 | Mastering Python 6,3,1,0.0007
+Mastering Java 3 | Mastering Philosophy 7 | The Art of History 1,3,1,0.0007
+Handbook of Machine Learning 9 | Introduction to History 7 | Mastering History 6,3,1,0.0007
+History of History 4 | The Art of Physics 7 | The Art of Python 9,3,1,0.0007
+Advanced Music 8 | Guide to Art 1 | Introduction to Music 10,3,1,0.0007
+Fundamentals of AI 5 | Guide to AI 8 | Handbook of Python 9,3,1,0.0007
+History of Machine Learning 5 | Introduction to AI 6 | The Art of Philosophy 8,3,1,0.0007
+Advanced Music 4 | Handbook of Python 4 | History of Machine Learning 6,3,1,0.0007
+Fundamentals of Calculus 10 | Guide to AI 10 | Guide to Physics 1,3,1,0.0007
+Advanced Philosophy 2 | History of History 7 | The Art of Biology 1,3,1,0.0007
+History of Music 7 | Introduction to Music 3 | The Art of Art 5,3,1,0.0007
+Advanced Chemistry 1 | Fundamentals of Music 4 | The Art of History 8,3,1,0.0007
+Fundamentals of Chemistry 7 | Handbook of History 9 | Handbook of Java 6,3,1,0.0007
+Guide to Art 10 | History of AI 7 | History of Calculus 1,3,1,0.0007
+Advanced AI 6 | Fundamentals of Python 4 | Handbook of Economics 2,3,1,0.0007
+Fundamentals of Philosophy 4 | Guide to Economics 1 | Mastering Philosophy 5,3,1,0.0007
+Advanced Calculus 8 | Handbook of Chemistry 5 | Handbook of Music 2,3,1,0.0007
+Guide to History 8 | Guide to Python 7 | Mastering History 7,3,1,0.0007
+Fundamentals of AI 5 | Fundamentals of Calculus 1 | History of Machine Learning 1,3,1,0.0007
+Advanced History 6 | Introduction to History 10 | The Art of Art 10,3,1,0.0007
+History of Economics 1 | Introduction to Music 8 | Mastering History 2,3,1,0.0007
+History of Biology 5 | Introduction to Economics 3 | The Art of Physics 8,3,1,0.0007
+Advanced Chemistry 4 | Advanced Music 5 | Guide to Philosophy 6,3,1,0.0007
+Fundamentals of Java 7 | Fundamentals of Physics 9 | The Art of Calculus 3,3,1,0.0007
+Advanced Economics 7 | Fundamentals of Chemistry 7 | Introduction to Python 1,3,1,0.0007
+Introduction to Chemistry 1 | Introduction to History 9 | Introduction to Music 5,3,1,0.0007
+Advanced Physics 4 | Introduction to Music 9 | Mastering Calculus 1,3,1,0.0007
+Fundamentals of Physics 6 | Mastering Physics 5 | The Art of Physics 2,3,1,0.0007
+Guide to AI 6 | Handbook of Chemistry 5 | History of Machine Learning 1,3,1,0.0007
+Introduction to Chemistry 3 | Introduction to Physics 5 | Mastering Art 6,3,1,0.0007
+Advanced Chemistry 10 | Handbook of Economics 9 | The Art of Biology 3,3,1,0.0007
+Advanced Java 8 | Fundamentals of Python 7 | Introduction to Music 3,3,1,0.0007
+Advanced Art 4 | Mastering Music 8 | The Art of Biology 10,3,1,0.0007
+Advanced Economics 5 | Advanced Physics 2 | Mastering History 2,3,1,0.0007
+Advanced Chemistry 5 | The Art of Economics 7 | The Art of Python 3,3,1,0.0007
+History of Music 9 | Introduction to Philosophy 5 | The Art of Java 6,3,1,0.0007
+Advanced Economics 7 | History of Art 3 | The Art of History 5,3,1,0.0007
+History of AI 5 | Mastering Java 3 | The Art of Python 7,3,1,0.0007
+Guide to AI 6 | Handbook of Biology 10 | Introduction to Java 5,3,1,0.0007
+Advanced Chemistry 10 | Guide to Art 10 | Guide to Biology 7,3,1,0.0007
+Advanced History 10 | History of History 7 | The Art of Economics 3,3,1,0.0007
+Fundamentals of Biology 4 | Handbook of Art 5 | Handbook of Python 7,3,1,0.0007
+Guide to Music 5 | Handbook of Music 2 | History of Chemistry 5,3,1,0.0007
+Advanced Java 3 | Handbook of Java 1 | The Art of Calculus 1,3,1,0.0007
+Fundamentals of Machine Learning 3 | Fundamentals of Music 1 | The Art of Java 6,3,1,0.0007
+Fundamentals of Java 3 | Handbook of Economics 1 | Introduction to Calculus 2,3,1,0.0007
+Fundamentals of Physics 10 | Introduction to Java 10 | The Art of Calculus 1,3,1,0.0007
+Fundamentals of Economics 7 | Fundamentals of Music 9 | History of Machine Learning 8,3,1,0.0007
+Advanced Biology 1 | History of Java 1 | Introduction to Chemistry 5,3,1,0.0007
+Fundamentals of Chemistry 6 | History of Physics 10 | Introduction to Economics 10,3,1,0.0007
+Guide to AI 8 | Guide to History 7 | Guide to Java 4,3,1,0.0007
+Advanced Java 1 | Guide to Philosophy 6 | Mastering Art 2,3,1,0.0007
+Advanced Machine Learning 1 | Fundamentals of Biology 2 | The Art of Physics 8,3,1,0.0007
+Handbook of Music 6 | Mastering Art 9 | The Art of Machine Learning 2,3,1,0.0007
+Advanced Music 2 | Handbook of Biology 10 | Introduction to Python 3,3,1,0.0007
+Guide to Calculus 9 | History of History 7 | Mastering Music 6,3,1,0.0007
+Guide to Music 2 | Handbook of Machine Learning 2 | The Art of Philosophy 1,3,1,0.0007
+Advanced Java 8 | Advanced Python 5 | The Art of Art 8,3,1,0.0007
+Advanced Calculus 7 | Fundamentals of Machine Learning 3 | Mastering Biology 8,3,1,0.0007
+Fundamentals of Chemistry 6 | Fundamentals of Economics 7 | The Art of Philosophy 6,3,1,0.0007
+Fundamentals of Music 9 | Guide to Art 1 | Introduction to Philosophy 3,3,1,0.0007
+Advanced Chemistry 4 | Fundamentals of Chemistry 6 | History of Economics 5,3,1,0.0007
+Fundamentals of Biology 10 | Handbook of Economics 9 | The Art of Physics 2,3,1,0.0007
+Guide to Biology 9 | Guide to Python 1 | History of Physics 1,3,1,0.0007
+Advanced Python 10 | Introduction to Art 5 | The Art of History 7,3,1,0.0007
+Guide to Python 7 | Mastering History 8 | Mastering Music 8,3,1,0.0007
+Guide to Biology 10 | Guide to Physics 1 | The Art of Physics 5,3,1,0.0007
+History of Music 2 | Introduction to AI 10 | The Art of History 1,3,1,0.0007
+Advanced History 4 | Handbook of Art 7 | Mastering Physics 1,3,1,0.0007
+Advanced Machine Learning 1 | History of Philosophy 8 | Mastering Philosophy 2,3,1,0.0007
+Advanced Python 1 | Fundamentals of Physics 2 | Handbook of Music 9,3,1,0.0007
+Advanced Calculus 8 | History of Calculus 2 | Mastering Physics 5,3,1,0.0007
+Introduction to Philosophy 6 | Mastering Python 4 | The Art of History 2,3,1,0.0007
+Guide to Biology 10 | Guide to Music 2 | History of Economics 5,3,1,0.0007
+Advanced Calculus 6 | Advanced Physics 2 | Mastering Java 8,3,1,0.0007
+Fundamentals of Python 3 | History of Java 9 | Introduction to Java 8,3,1,0.0007
+Advanced Python 2 | Guide to AI 1 | The Art of History 4,3,1,0.0007
+Handbook of Calculus 2 | Handbook of Philosophy 7 | Introduction to Art 2,3,1,0.0007
+Guide to AI 5 | Introduction to Philosophy 9 | Introduction to Physics 8,3,1,0.0007
+Fundamentals of Java 3 | Handbook of Biology 7 | The Art of Calculus 5,3,1,0.0007
+Guide to Java 4 | Handbook of Music 2 | Mastering Java 10,3,1,0.0007
+Advanced Java 8 | Guide to Machine Learning 5 | The Art of Java 7,3,1,0.0007
+Handbook of Biology 10 | Mastering Machine Learning 10 | The Art of Economics 4,3,1,0.0007
+Advanced Biology 10 | Guide to Art 2 | Guide to Philosophy 1,3,1,0.0007
+Advanced Python 9 | Fundamentals of Python 1 | Guide to Physics 1,3,1,0.0007
+Handbook of Music 3 | History of Calculus 8 | Mastering Biology 7,3,1,0.0007
+Guide to History 7 | Mastering AI 6 | Mastering Biology 4,3,1,0.0007
+Guide to Economics 1 | Mastering Biology 8 | Mastering Chemistry 2,3,1,0.0007
+History of Java 1 | Mastering Physics 3 | The Art of Art 8,3,1,0.0007
+Guide to AI 3 | Introduction to Machine Learning 10 | Mastering Java 6,3,1,0.0007
+History of History 2 | Mastering Philosophy 1 | The Art of History 1,3,1,0.0007
+Advanced History 5 | Fundamentals of Python 7 | Guide to AI 8,3,1,0.0007
+Guide to Biology 3 | History of Python 7 | The Art of Python 3,3,1,0.0007
+Advanced Calculus 9 | Advanced Python 7 | Mastering AI 9,3,1,0.0007
+Guide to Biology 8 | History of Machine Learning 8 | The Art of Economics 9,3,1,0.0007
+Advanced Calculus 8 | Mastering Music 1 | The Art of Art 3,3,1,0.0007
+Advanced History 5 | History of History 7 | The Art of Calculus 1,3,1,0.0007
+Advanced Biology 10 | History of Calculus 5 | Mastering Philosophy 7,3,1,0.0007
+Advanced AI 1 | Guide to Philosophy 3 | Introduction to Music 3,3,1,0.0007
+Advanced History 3 | History of Philosophy 8 | The Art of History 5,3,1,0.0007
+Advanced Biology 4 | Advanced Philosophy 2 | Fundamentals of Economics 4,3,1,0.0007
+Fundamentals of Physics 10 | Introduction to Python 7 | The Art of Physics 8,3,1,0.0007
+Guide to Java 4 | Handbook of Calculus 7 | History of Calculus 4,3,1,0.0007
+Fundamentals of Music 1 | Handbook of Python 2 | The Art of Biology 8,3,1,0.0007
+Fundamentals of Chemistry 7 | Fundamentals of Economics 4 | Mastering Philosophy 2,3,1,0.0007
+Advanced Calculus 5 | Fundamentals of Java 7 | Guide to Art 1,3,1,0.0007
+Guide to Python 1 | Handbook of Biology 7 | Introduction to Python 5,3,1,0.0007
+Advanced Music 1 | Advanced Python 4 | Mastering Machine Learning 2,3,1,0.0007
+Fundamentals of Java 3 | Fundamentals of Physics 6 | Mastering Music 6,3,1,0.0007
+Advanced Economics 7 | Fundamentals of Biology 4 | The Art of Machine Learning 3,3,1,0.0007
+Advanced Chemistry 8 | Advanced History 10 | Handbook of Art 7,3,1,0.0007

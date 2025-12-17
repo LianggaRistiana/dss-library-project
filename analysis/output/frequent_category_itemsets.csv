@@ -1,0 +1,557 @@
+Itemset,Itemset_Size,Count,Support
+Travel,1,200,0.1324
+Bisnis & Ekonomi,1,178,0.1178
+Sains & Alam,1,178,0.1178
+Kesehatan,1,167,0.1105
+Romansa,1,163,0.1079
+Masakan & Kuliner,1,155,0.1026
+Seni & Fotografi,1,151,0.0999
+Teknologi,1,146,0.0966
+Biografi,1,144,0.0953
+Agama & Spiritual,1,142,0.094
+Fiksi,1,139,0.092
+Horor,1,137,0.0907
+Sains Fiksi,1,137,0.0907
+Komik & Manga,1,134,0.0887
+Non-Fiksi,1,133,0.088
+Misteri & Thriller,1,124,0.0821
+Anak-Anak,1,124,0.0821
+Pengembangan Diri,1,120,0.0794
+Fantasi,1,114,0.0761
+Sejarah,1,114,0.0761
+Sains & Alam | Travel,2,22,0.0146
+Kesehatan | Sains & Alam,2,21,0.0139
+Fiksi | Kesehatan,2,20,0.0132
+Fiksi | Travel,2,20,0.0132
+Biografi | Non-Fiksi,2,18,0.0119
+Masakan & Kuliner | Sains & Alam,2,17,0.0113
+Bisnis & Ekonomi | Seni & Fotografi,2,17,0.0113
+Agama & Spiritual | Horor,2,16,0.0106
+Bisnis & Ekonomi | Pengembangan Diri,2,15,0.0099
+Agama & Spiritual | Travel,2,15,0.0099
+Sains Fiksi | Teknologi,2,15,0.0099
+Biografi | Sains & Alam,2,15,0.0099
+Romansa | Seni & Fotografi,2,14,0.0093
+Romansa | Travel,2,14,0.0093
+Bisnis & Ekonomi | Komik & Manga,2,14,0.0093
+Masakan & Kuliner | Romansa,2,14,0.0093
+Biografi | Kesehatan,2,14,0.0093
+Anak-Anak | Komik & Manga,2,14,0.0093
+Komik & Manga | Romansa,2,14,0.0093
+Kesehatan | Travel,2,14,0.0093
+Anak-Anak | Bisnis & Ekonomi,2,14,0.0093
+Horor | Travel,2,14,0.0093
+Teknologi | Travel,2,14,0.0093
+Sains Fiksi | Travel,2,14,0.0093
+Fiksi | Masakan & Kuliner,2,13,0.0086
+Pengembangan Diri | Romansa,2,13,0.0086
+Pengembangan Diri | Travel,2,13,0.0086
+Non-Fiksi | Sains & Alam,2,13,0.0086
+Biografi | Travel,2,13,0.0086
+Agama & Spiritual | Romansa,2,13,0.0086
+Bisnis & Ekonomi | Horor,2,13,0.0086
+Komik & Manga | Sains & Alam,2,13,0.0086
+Kesehatan | Seni & Fotografi,2,13,0.0086
+Anak-Anak | Travel,2,13,0.0086
+Agama & Spiritual | Kesehatan,2,13,0.0086
+Fiksi | Seni & Fotografi,2,13,0.0086
+Romansa | Sains Fiksi,2,12,0.0079
+Misteri & Thriller | Travel,2,12,0.0079
+Fantasi | Kesehatan,2,12,0.0079
+Fantasi | Masakan & Kuliner,2,12,0.0079
+Bisnis & Ekonomi | Non-Fiksi,2,12,0.0079
+Bisnis & Ekonomi | Sains & Alam,2,12,0.0079
+Non-Fiksi | Travel,2,12,0.0079
+Biografi | Masakan & Kuliner,2,12,0.0079
+Agama & Spiritual | Misteri & Thriller,2,12,0.0079
+Seni & Fotografi | Travel,2,12,0.0079
+Masakan & Kuliner | Teknologi,2,12,0.0079
+Kesehatan | Sains Fiksi,2,12,0.0079
+Fantasi | Sains Fiksi,2,12,0.0079
+Fiksi | Sains Fiksi,2,12,0.0079
+Masakan & Kuliner | Non-Fiksi,2,11,0.0073
+Masakan & Kuliner | Pengembangan Diri,2,11,0.0073
+Masakan & Kuliner | Seni & Fotografi,2,11,0.0073
+Horor | Teknologi,2,11,0.0073
+Bisnis & Ekonomi | Misteri & Thriller,2,11,0.0073
+Fiksi | Komik & Manga,2,11,0.0073
+Komik & Manga | Misteri & Thriller,2,11,0.0073
+Horor | Pengembangan Diri,2,11,0.0073
+Anak-Anak | Masakan & Kuliner,2,11,0.0073
+Kesehatan | Sejarah,2,11,0.0073
+Fantasi | Sains & Alam,2,11,0.0073
+Agama & Spiritual | Non-Fiksi,2,11,0.0073
+Horor | Sains & Alam,2,11,0.0073
+Masakan & Kuliner | Travel,2,11,0.0073
+Agama & Spiritual | Sains & Alam,2,11,0.0073
+Kesehatan | Masakan & Kuliner,2,11,0.0073
+Anak-Anak | Teknologi,2,11,0.0073
+Bisnis & Ekonomi | Travel,2,11,0.0073
+Sains Fiksi | Seni & Fotografi,2,11,0.0073
+Kesehatan | Romansa,2,10,0.0066
+Sains & Alam | Sains Fiksi,2,10,0.0066
+Misteri & Thriller | Sains & Alam,2,10,0.0066
+Non-Fiksi | Seni & Fotografi,2,10,0.0066
+Biografi | Teknologi,2,10,0.0066
+Biografi | Komik & Manga,2,10,0.0066
+Anak-Anak | Sains & Alam,2,10,0.0066
+Biografi | Sejarah,2,10,0.0066
+Biografi | Horor,2,10,0.0066
+Biografi | Seni & Fotografi,2,10,0.0066
+Komik & Manga | Seni & Fotografi,2,10,0.0066
+Biografi | Fiksi,2,10,0.0066
+Non-Fiksi | Romansa,2,10,0.0066
+Anak-Anak | Seni & Fotografi,2,10,0.0066
+Fiksi | Sains & Alam,2,10,0.0066
+Sains & Alam | Seni & Fotografi,2,10,0.0066
+Horor | Sains Fiksi,2,10,0.0066
+Sejarah | Travel,2,10,0.0066
+Bisnis & Ekonomi | Kesehatan,2,10,0.0066
+Horor | Kesehatan,2,9,0.006
+Romansa | Sains & Alam,2,9,0.006
+Bisnis & Ekonomi | Sejarah,2,9,0.006
+Kesehatan | Teknologi,2,9,0.006
+Pengembangan Diri | Seni & Fotografi,2,9,0.006
+Bisnis & Ekonomi | Romansa,2,9,0.006
+Anak-Anak | Romansa,2,9,0.006
+Kesehatan | Komik & Manga,2,9,0.006
+Non-Fiksi | Sejarah,2,9,0.006
+Masakan & Kuliner | Misteri & Thriller,2,9,0.006
+Agama & Spiritual | Pengembangan Diri,2,9,0.006
+Anak-Anak | Pengembangan Diri,2,9,0.006
+Fantasi | Komik & Manga,2,9,0.006
+Fiksi | Teknologi,2,9,0.006
+Bisnis & Ekonomi | Sains Fiksi,2,9,0.006
+Fantasi | Non-Fiksi,2,9,0.006
+Agama & Spiritual | Masakan & Kuliner,2,9,0.006
+Anak-Anak | Sains Fiksi,2,9,0.006
+Romansa | Teknologi,2,9,0.006
+Komik & Manga | Teknologi,2,9,0.006
+Pengembangan Diri | Sains Fiksi,2,9,0.006
+Horor | Seni & Fotografi,2,9,0.006
+Fantasi | Fiksi,2,8,0.0053
+Bisnis & Ekonomi | Masakan & Kuliner,2,8,0.0053
+Komik & Manga | Pengembangan Diri,2,8,0.0053
+Kesehatan | Misteri & Thriller,2,8,0.0053
+Agama & Spiritual | Biografi,2,8,0.0053
+Agama & Spiritual | Teknologi,2,8,0.0053
+Non-Fiksi | Teknologi,2,8,0.0053
+Romansa | Sejarah,2,8,0.0053
+Horor | Misteri & Thriller,2,8,0.0053
+Misteri & Thriller | Romansa,2,8,0.0053
+Biografi | Bisnis & Ekonomi,2,8,0.0053
+Agama & Spiritual | Anak-Anak,2,8,0.0053
+Sains & Alam | Sejarah,2,8,0.0053
+Fiksi | Sejarah,2,8,0.0053
+Masakan & Kuliner | Sejarah,2,8,0.0053
+Fantasi | Teknologi,2,8,0.0053
+Fiksi | Romansa,2,8,0.0053
+Fantasi | Travel,2,8,0.0053
+Pengembangan Diri | Sejarah,2,8,0.0053
+Agama & Spiritual | Sains Fiksi,2,8,0.0053
+Horor | Romansa,2,7,0.0046
+Pengembangan Diri | Sains & Alam,2,7,0.0046
+Fiksi | Pengembangan Diri,2,7,0.0046
+Biografi | Romansa,2,7,0.0046
+Agama & Spiritual | Sejarah,2,7,0.0046
+Sains Fiksi | Sejarah,2,7,0.0046
+Fantasi | Horor,2,7,0.0046
+Bisnis & Ekonomi | Fiksi,2,7,0.0046
+Agama & Spiritual | Fiksi,2,7,0.0046
+Agama & Spiritual | Seni & Fotografi,2,7,0.0046
+Fantasi | Romansa,2,7,0.0046
+Misteri & Thriller | Seni & Fotografi,2,7,0.0046
+Masakan & Kuliner | Sains Fiksi,2,7,0.0046
+Anak-Anak | Sejarah,2,7,0.0046
+Agama & Spiritual | Bisnis & Ekonomi,2,7,0.0046
+Horor | Masakan & Kuliner,2,7,0.0046
+Bisnis & Ekonomi | Teknologi,2,7,0.0046
+Misteri & Thriller | Teknologi,2,7,0.0046
+Bisnis & Ekonomi | Fantasi,2,7,0.0046
+Seni & Fotografi | Teknologi,2,7,0.0046
+Sejarah | Teknologi,2,7,0.0046
+Non-Fiksi | Pengembangan Diri,2,7,0.0046
+Misteri & Thriller | Non-Fiksi,2,6,0.004
+Anak-Anak | Non-Fiksi,2,6,0.004
+Biografi | Misteri & Thriller,2,6,0.004
+Anak-Anak | Fiksi,2,6,0.004
+Kesehatan | Pengembangan Diri,2,6,0.004
+Misteri & Thriller | Sejarah,2,6,0.004
+Horor | Sejarah,2,6,0.004
+Misteri & Thriller | Sains Fiksi,2,6,0.004
+Agama & Spiritual | Komik & Manga,2,6,0.004
+Komik & Manga | Travel,2,6,0.004
+Agama & Spiritual | Fantasi,2,6,0.004
+Kesehatan | Non-Fiksi,2,6,0.004
+Biografi | Sains Fiksi,2,6,0.004
+Anak-Anak | Misteri & Thriller,2,6,0.004
+Sejarah | Seni & Fotografi,2,6,0.004
+Fantasi | Misteri & Thriller,2,6,0.004
+Fiksi | Non-Fiksi,2,5,0.0033
+Komik & Manga | Sejarah,2,5,0.0033
+Fiksi | Horor,2,5,0.0033
+Komik & Manga | Sains Fiksi,2,5,0.0033
+Horor | Non-Fiksi,2,5,0.0033
+Horor | Komik & Manga,2,5,0.0033
+Sains & Alam | Teknologi,2,5,0.0033
+Pengembangan Diri | Teknologi,2,5,0.0033
+Anak-Anak | Horor,2,5,0.0033
+Komik & Manga | Masakan & Kuliner,2,5,0.0033
+Misteri & Thriller | Pengembangan Diri,2,5,0.0033
+Biografi | Fantasi,2,5,0.0033
+Biografi | Pengembangan Diri,2,4,0.0026
+Fantasi | Pengembangan Diri,2,4,0.0026
+Fantasi | Sejarah,2,4,0.0026
+Anak-Anak | Kesehatan,2,4,0.0026
+Anak-Anak | Fantasi,2,4,0.0026
+Non-Fiksi | Sains Fiksi,2,4,0.0026
+Anak-Anak | Biografi,2,4,0.0026
+Komik & Manga | Non-Fiksi,2,3,0.002
+Fantasi | Seni & Fotografi,2,3,0.002
+Fiksi | Misteri & Thriller,2,3,0.002
+Agama & Spiritual | Sains & Alam | Travel,3,4,0.0026
+Romansa | Sains & Alam | Sains Fiksi,3,3,0.002
+Fantasi | Masakan & Kuliner | Non-Fiksi,3,3,0.002
+Kesehatan | Sains Fiksi | Travel,3,3,0.002
+Fiksi | Sains Fiksi | Teknologi,3,3,0.002
+Biografi | Sains & Alam | Travel,3,3,0.002
+Pengembangan Diri | Romansa | Travel,3,2,0.0013
+Biografi | Kesehatan | Teknologi,3,2,0.0013
+Masakan & Kuliner | Non-Fiksi | Sains & Alam,3,2,0.0013
+Biografi | Non-Fiksi | Travel,3,2,0.0013
+Kesehatan | Komik & Manga | Misteri & Thriller,3,2,0.0013
+Bisnis & Ekonomi | Pengembangan Diri | Seni & Fotografi,3,2,0.0013
+Fantasi | Kesehatan | Sains & Alam,3,2,0.0013
+Fiksi | Komik & Manga | Sains & Alam,3,2,0.0013
+Kesehatan | Masakan & Kuliner | Sains & Alam,3,2,0.0013
+Anak-Anak | Fantasi | Komik & Manga,3,2,0.0013
+Bisnis & Ekonomi | Horor | Sains Fiksi,3,2,0.0013
+Fiksi | Kesehatan | Masakan & Kuliner,3,2,0.0013
+Biografi | Misteri & Thriller | Sejarah,3,2,0.0013
+Anak-Anak | Komik & Manga | Pengembangan Diri,3,2,0.0013
+Sains Fiksi | Teknologi | Travel,3,2,0.0013
+Anak-Anak | Sains & Alam | Travel,3,2,0.0013
+Biografi | Non-Fiksi | Sejarah,3,2,0.0013
+Agama & Spiritual | Horor | Teknologi,3,2,0.0013
+Fiksi | Masakan & Kuliner | Seni & Fotografi,3,2,0.0013
+Sains Fiksi | Sejarah | Seni & Fotografi,3,2,0.0013
+Biografi | Romansa | Travel,3,2,0.0013
+Kesehatan | Sains & Alam | Travel,3,2,0.0013
+Agama & Spiritual | Anak-Anak | Misteri & Thriller,3,2,0.0013
+Bisnis & Ekonomi | Misteri & Thriller | Sejarah,3,2,0.0013
+Misteri & Thriller | Non-Fiksi | Romansa,3,2,0.0013
+Masakan & Kuliner | Teknologi | Travel,3,2,0.0013
+Non-Fiksi | Sains & Alam | Sejarah,3,2,0.0013
+Agama & Spiritual | Biografi | Non-Fiksi,3,2,0.0013
+Agama & Spiritual | Fantasi | Romansa,3,2,0.0013
+Agama & Spiritual | Horor | Masakan & Kuliner,3,2,0.0013
+Biografi | Fantasi | Kesehatan,3,2,0.0013
+Bisnis & Ekonomi | Komik & Manga | Pengembangan Diri,3,2,0.0013
+Komik & Manga | Misteri & Thriller | Sains & Alam,3,2,0.0013
+Pengembangan Diri | Sains & Alam | Sains Fiksi,3,2,0.0013
+Anak-Anak | Teknologi | Travel,3,2,0.0013
+Anak-Anak | Fiksi | Sains Fiksi,3,2,0.0013
+Romansa | Seni & Fotografi | Travel,3,2,0.0013
+Agama & Spiritual | Anak-Anak | Sejarah,3,2,0.0013
+Agama & Spiritual | Horor | Sains Fiksi,3,2,0.0013
+Fantasi | Masakan & Kuliner | Teknologi,3,2,0.0013
+Kesehatan | Komik & Manga | Romansa,3,2,0.0013
+Fiksi | Horor | Travel,3,2,0.0013
+Fiksi | Misteri & Thriller | Travel,3,2,0.0013
+Agama & Spiritual | Kesehatan | Pengembangan Diri,3,2,0.0013
+Anak-Anak | Non-Fiksi | Travel,3,2,0.0013
+Horor | Pengembangan Diri | Travel,3,2,0.0013
+Fiksi | Sains & Alam | Seni & Fotografi,3,2,0.0013
+Agama & Spiritual | Fiksi | Kesehatan,3,2,0.0013
+Bisnis & Ekonomi | Horor | Pengembangan Diri,3,2,0.0013
+Pengembangan Diri | Sains Fiksi | Travel,3,2,0.0013
+Bisnis & Ekonomi | Sains & Alam | Seni & Fotografi,3,2,0.0013
+Fantasi | Horor | Sains Fiksi,3,2,0.0013
+Agama & Spiritual | Fiksi | Travel,3,2,0.0013
+Horor | Kesehatan | Seni & Fotografi,3,2,0.0013
+Komik & Manga | Romansa | Seni & Fotografi,3,2,0.0013
+Fantasi | Komik & Manga | Sains & Alam,3,2,0.0013
+Fantasi | Misteri & Thriller | Sains Fiksi,3,2,0.0013
+Fiksi | Masakan & Kuliner | Non-Fiksi,3,1,0.0007
+Horor | Kesehatan | Romansa,3,1,0.0007
+Masakan & Kuliner | Pengembangan Diri | Sains & Alam,3,1,0.0007
+Misteri & Thriller | Sains & Alam | Travel,3,1,0.0007
+Fantasi | Fiksi | Kesehatan,3,1,0.0007
+Bisnis & Ekonomi | Komik & Manga | Sejarah,3,1,0.0007
+Masakan & Kuliner | Romansa | Seni & Fotografi,3,1,0.0007
+Anak-Anak | Komik & Manga | Non-Fiksi,3,1,0.0007
+Bisnis & Ekonomi | Masakan & Kuliner | Romansa,3,1,0.0007
+Biografi | Komik & Manga | Pengembangan Diri,3,1,0.0007
+Anak-Anak | Romansa | Sains & Alam,3,1,0.0007
+Fiksi | Horor | Pengembangan Diri,3,1,0.0007
+Biografi | Kesehatan | Sejarah,3,1,0.0007
+Bisnis & Ekonomi | Komik & Manga | Misteri & Thriller,3,1,0.0007
+Agama & Spiritual | Biografi | Sejarah,3,1,0.0007
+Agama & Spiritual | Non-Fiksi | Teknologi,3,1,0.0007
+Bisnis & Ekonomi | Horor | Sains & Alam,3,1,0.0007
+Masakan & Kuliner | Misteri & Thriller | Travel,3,1,0.0007
+Biografi | Horor | Misteri & Thriller,3,1,0.0007
+Komik & Manga | Sains Fiksi | Sejarah,3,1,0.0007
+Horor | Non-Fiksi | Teknologi,3,1,0.0007
+Bisnis & Ekonomi | Komik & Manga | Seni & Fotografi,3,1,0.0007
+Horor | Kesehatan | Komik & Manga,3,1,0.0007
+Anak-Anak | Bisnis & Ekonomi | Masakan & Kuliner,3,1,0.0007
+Biografi | Bisnis & Ekonomi | Fiksi,3,1,0.0007
+Agama & Spiritual | Anak-Anak | Fiksi,3,1,0.0007
+Agama & Spiritual | Biografi | Seni & Fotografi,3,1,0.0007
+Anak-Anak | Bisnis & Ekonomi | Pengembangan Diri,3,1,0.0007
+Anak-Anak | Seni & Fotografi | Travel,3,1,0.0007
+Bisnis & Ekonomi | Misteri & Thriller | Romansa,3,1,0.0007
+Fantasi | Sains & Alam | Sejarah,3,1,0.0007
+Biografi | Fiksi | Sejarah,3,1,0.0007
+Fantasi | Kesehatan | Romansa,3,1,0.0007
+Agama & Spiritual | Teknologi | Travel,3,1,0.0007
+Anak-Anak | Kesehatan | Pengembangan Diri,3,1,0.0007
+Bisnis & Ekonomi | Non-Fiksi | Seni & Fotografi,3,1,0.0007
+Masakan & Kuliner | Pengembangan Diri | Teknologi,3,1,0.0007
+Horor | Pengembangan Diri | Sains & Alam,3,1,0.0007
+Kesehatan | Sains Fiksi | Teknologi,3,1,0.0007
+Kesehatan | Pengembangan Diri | Travel,3,1,0.0007
+Komik & Manga | Misteri & Thriller | Seni & Fotografi,3,1,0.0007
+Masakan & Kuliner | Sains & Alam | Sains Fiksi,3,1,0.0007
+Anak-Anak | Fiksi | Sejarah,3,1,0.0007
+Agama & Spiritual | Masakan & Kuliner | Sains & Alam,3,1,0.0007
+Komik & Manga | Sains Fiksi | Seni & Fotografi,3,1,0.0007
+Anak-Anak | Masakan & Kuliner | Sains & Alam,3,1,0.0007
+Anak-Anak | Sains Fiksi | Seni & Fotografi,3,1,0.0007
+Anak-Anak | Horor | Travel,3,1,0.0007
+Horor | Sejarah | Travel,3,1,0.0007
+Fantasi | Sains Fiksi | Teknologi,3,1,0.0007
+Agama & Spiritual | Bisnis & Ekonomi | Travel,3,1,0.0007
+Biografi | Horor | Sains & Alam,3,1,0.0007
+Anak-Anak | Masakan & Kuliner | Teknologi,3,1,0.0007
+Kesehatan | Sains & Alam | Sains Fiksi,3,1,0.0007
+Biografi | Non-Fiksi | Romansa,3,1,0.0007
+Non-Fiksi | Teknologi | Travel,3,1,0.0007
+Bisnis & Ekonomi | Masakan & Kuliner | Travel,3,1,0.0007
+Biografi | Komik & Manga | Sains & Alam,3,1,0.0007
+Kesehatan | Masakan & Kuliner | Seni & Fotografi,3,1,0.0007
+Agama & Spiritual | Komik & Manga | Pengembangan Diri,3,1,0.0007
+Komik & Manga | Pengembangan Diri | Travel,3,1,0.0007
+Biografi | Masakan & Kuliner | Teknologi,3,1,0.0007
+Agama & Spiritual | Bisnis & Ekonomi | Seni & Fotografi,3,1,0.0007
+Bisnis & Ekonomi | Fiksi | Non-Fiksi,3,1,0.0007
+Non-Fiksi | Sains Fiksi | Seni & Fotografi,3,1,0.0007
+Kesehatan | Romansa | Teknologi,3,1,0.0007
+Agama & Spiritual | Kesehatan | Non-Fiksi,3,1,0.0007
+Agama & Spiritual | Bisnis & Ekonomi | Horor,3,1,0.0007
+Biografi | Komik & Manga | Seni & Fotografi,3,1,0.0007
+Biografi | Fiksi | Sains Fiksi,3,1,0.0007
+Non-Fiksi | Romansa | Seni & Fotografi,3,1,0.0007
+Anak-Anak | Misteri & Thriller | Travel,3,1,0.0007
+Agama & Spiritual | Biografi | Travel,3,1,0.0007
+Agama & Spiritual | Romansa | Seni & Fotografi,3,1,0.0007
+Fiksi | Sains & Alam | Sains Fiksi,3,1,0.0007
+Anak-Anak | Sains & Alam | Seni & Fotografi,3,1,0.0007
+Fantasi | Non-Fiksi | Travel,3,1,0.0007
+Horor | Kesehatan | Sains Fiksi,3,1,0.0007
+Biografi | Non-Fiksi | Sains Fiksi,3,1,0.0007
+Masakan & Kuliner | Pengembangan Diri | Sejarah,3,1,0.0007
+Bisnis & Ekonomi | Kesehatan | Non-Fiksi,3,1,0.0007
+Anak-Anak | Horor | Komik & Manga,3,1,0.0007
+Agama & Spiritual | Kesehatan | Sejarah,3,1,0.0007
+Bisnis & Ekonomi | Misteri & Thriller | Pengembangan Diri,3,1,0.0007
+Horor | Masakan & Kuliner | Travel,3,1,0.0007
+Anak-Anak | Pengembangan Diri | Seni & Fotografi,3,1,0.0007
+Agama & Spiritual | Masakan & Kuliner | Travel,3,1,0.0007
+Horor | Misteri & Thriller | Sains & Alam,3,1,0.0007
+Pengembangan Diri | Seni & Fotografi | Travel,3,1,0.0007
+Horor | Romansa | Sains Fiksi,3,1,0.0007
+Agama & Spiritual | Misteri & Thriller | Teknologi,3,1,0.0007
+Agama & Spiritual | Komik & Manga | Sains & Alam,3,1,0.0007
+Anak-Anak | Pengembangan Diri | Sains Fiksi,3,1,0.0007
+Kesehatan | Masakan & Kuliner | Non-Fiksi,3,1,0.0007
+Masakan & Kuliner | Romansa | Teknologi,3,1,0.0007
+Fantasi | Masakan & Kuliner | Sains Fiksi,3,1,0.0007
+Anak-Anak | Fiksi | Komik & Manga,3,1,0.0007
+Fiksi | Masakan & Kuliner | Misteri & Thriller,3,1,0.0007
+Misteri & Thriller | Seni & Fotografi | Teknologi,3,1,0.0007
+Agama & Spiritual | Fiksi | Seni & Fotografi,3,1,0.0007
+Fiksi | Sains Fiksi | Travel,3,1,0.0007
+Pengembangan Diri | Romansa | Sejarah,3,1,0.0007
+Fantasi | Sains Fiksi | Seni & Fotografi,3,1,0.0007
+Agama & Spiritual | Pengembangan Diri | Sains & Alam,3,1,0.0007
+Biografi | Fiksi | Travel,3,1,0.0007
+Horor | Kesehatan | Sains & Alam,3,1,0.0007
+Agama & Spiritual | Anak-Anak | Bisnis & Ekonomi,3,1,0.0007
+Kesehatan | Romansa | Travel,3,1,0.0007
+Bisnis & Ekonomi | Kesehatan | Misteri & Thriller,3,1,0.0007
+Bisnis & Ekonomi | Teknologi | Travel,3,1,0.0007
+Horor | Seni & Fotografi | Travel,3,1,0.0007
+Kesehatan | Masakan & Kuliner | Misteri & Thriller,3,1,0.0007
+Kesehatan | Sejarah | Seni & Fotografi,3,1,0.0007
+Anak-Anak | Sejarah | Seni & Fotografi,3,1,0.0007
+Kesehatan | Romansa | Sains & Alam,3,1,0.0007
+Fiksi | Masakan & Kuliner | Teknologi,3,1,0.0007
+Biografi | Sains & Alam | Seni & Fotografi,3,1,0.0007
+Agama & Spiritual | Komik & Manga | Romansa,3,1,0.0007
+Non-Fiksi | Sains & Alam | Seni & Fotografi,3,1,0.0007
+Fiksi | Pengembangan Diri | Sejarah,3,1,0.0007
+Misteri & Thriller | Seni & Fotografi | Travel,3,1,0.0007
+Agama & Spiritual | Bisnis & Ekonomi | Sains Fiksi,3,1,0.0007
+Anak-Anak | Masakan & Kuliner | Pengembangan Diri,3,1,0.0007
+Fiksi | Sejarah | Travel,3,1,0.0007
+Bisnis & Ekonomi | Horor | Misteri & Thriller,3,1,0.0007
+Fantasi | Masakan & Kuliner | Misteri & Thriller,3,1,0.0007
+Biografi | Misteri & Thriller | Travel,3,1,0.0007
+Bisnis & Ekonomi | Fiksi | Masakan & Kuliner,3,1,0.0007
+Kesehatan | Sains Fiksi | Seni & Fotografi,3,1,0.0007
+Bisnis & Ekonomi | Non-Fiksi | Romansa,3,1,0.0007
+Anak-Anak | Seni & Fotografi | Teknologi,3,1,0.0007
+Agama & Spiritual | Horor | Seni & Fotografi,3,1,0.0007
+Bisnis & Ekonomi | Pengembangan Diri | Travel,3,1,0.0007
+Anak-Anak | Fantasi | Sains Fiksi,3,1,0.0007
+Fiksi | Kesehatan | Travel,3,1,0.0007
+Biografi | Fiksi | Masakan & Kuliner,3,1,0.0007
+Agama & Spiritual | Misteri & Thriller | Non-Fiksi,3,1,0.0007
+Fiksi | Kesehatan | Komik & Manga,3,1,0.0007
+Sains Fiksi | Sejarah | Teknologi,3,1,0.0007
+Fiksi | Kesehatan | Non-Fiksi,3,1,0.0007
+Kesehatan | Sejarah | Teknologi,3,1,0.0007
+Kesehatan | Non-Fiksi | Sains & Alam,3,1,0.0007
+Agama & Spiritual | Fantasi | Kesehatan,3,1,0.0007
+Horor | Non-Fiksi | Pengembangan Diri,3,1,0.0007
+Anak-Anak | Biografi | Bisnis & Ekonomi,3,1,0.0007
+Biografi | Fantasi | Masakan & Kuliner,3,1,0.0007
+Pengembangan Diri | Sejarah | Seni & Fotografi,3,1,0.0007
+Biografi | Komik & Manga | Sains Fiksi,3,1,0.0007
+Anak-Anak | Horor | Teknologi,3,1,0.0007
+Agama & Spiritual | Fantasi | Sains Fiksi,3,1,0.0007
+Komik & Manga | Masakan & Kuliner | Sains & Alam,3,1,0.0007
+Fiksi | Romansa | Sains Fiksi,3,1,0.0007
+Bisnis & Ekonomi | Fantasi | Masakan & Kuliner,3,1,0.0007
+Biografi | Fiksi | Sains & Alam,3,1,0.0007
+Komik & Manga | Misteri & Thriller | Teknologi,3,1,0.0007
+Seni & Fotografi | Teknologi | Travel,3,1,0.0007
+Horor | Sains Fiksi | Seni & Fotografi,3,1,0.0007
+Agama & Spiritual | Biografi | Kesehatan,3,1,0.0007
+Anak-Anak | Horor | Romansa,3,1,0.0007
+Anak-Anak | Romansa | Travel,3,1,0.0007
+Bisnis & Ekonomi | Seni & Fotografi | Travel,3,1,0.0007
+Fiksi | Kesehatan | Romansa,3,1,0.0007
+Fantasi | Teknologi | Travel,3,1,0.0007
+Fantasi | Fiksi | Sejarah,3,1,0.0007
+Anak-Anak | Bisnis & Ekonomi | Komik & Manga,3,1,0.0007
+Horor | Sains & Alam | Teknologi,3,1,0.0007
+Komik & Manga | Sains & Alam | Sejarah,3,1,0.0007
+Fantasi | Sejarah | Teknologi,3,1,0.0007
+Fantasi | Kesehatan | Sejarah,3,1,0.0007
+Biografi | Horor | Masakan & Kuliner,3,1,0.0007
+Masakan & Kuliner | Sains & Alam | Travel,3,1,0.0007
+Kesehatan | Komik & Manga | Sains Fiksi,3,1,0.0007
+Horor | Romansa | Teknologi,3,1,0.0007
+Non-Fiksi | Seni & Fotografi | Travel,3,1,0.0007
+Kesehatan | Sains & Alam | Sejarah,3,1,0.0007
+Biografi | Bisnis & Ekonomi | Komik & Manga,3,1,0.0007
+Romansa | Sains Fiksi | Seni & Fotografi,3,1,0.0007
+Fiksi | Komik & Manga | Romansa,3,1,0.0007
+Romansa | Sains Fiksi | Teknologi,3,1,0.0007
+Fiksi | Seni & Fotografi | Travel,3,1,0.0007
+Horor | Kesehatan | Travel,3,1,0.0007
+Komik & Manga | Seni & Fotografi | Teknologi,3,1,0.0007
+Anak-Anak | Masakan & Kuliner | Romansa,3,1,0.0007
+Agama & Spiritual | Non-Fiksi | Romansa,3,1,0.0007
+Agama & Spiritual | Komik & Manga | Non-Fiksi,3,1,0.0007
+Anak-Anak | Romansa | Seni & Fotografi,3,1,0.0007
+Agama & Spiritual | Non-Fiksi | Pengembangan Diri,3,1,0.0007
+Biografi | Komik & Manga | Teknologi,3,1,0.0007
+Biografi | Masakan & Kuliner | Pengembangan Diri,3,1,0.0007
+Biografi | Masakan & Kuliner | Sejarah,3,1,0.0007
+Biografi | Pengembangan Diri | Sains & Alam,3,1,0.0007
+Anak-Anak | Pengembangan Diri | Teknologi,3,1,0.0007
+Komik & Manga | Teknologi | Travel,3,1,0.0007
+Anak-Anak | Kesehatan | Sains Fiksi,3,1,0.0007
+Kesehatan | Masakan & Kuliner | Teknologi,3,1,0.0007
+Biografi | Horor | Non-Fiksi,3,1,0.0007
+Bisnis & Ekonomi | Fiksi | Komik & Manga,3,1,0.0007
+Fantasi | Non-Fiksi | Teknologi,3,1,0.0007
+Fantasi | Misteri & Thriller | Sains & Alam,3,1,0.0007
+Fantasi | Fiksi | Sains & Alam,3,1,0.0007
+Anak-Anak | Bisnis & Ekonomi | Teknologi,3,1,0.0007
+Horor | Komik & Manga | Misteri & Thriller,3,1,0.0007
+Bisnis & Ekonomi | Fiksi | Sains Fiksi,3,1,0.0007
+Anak-Anak | Biografi | Non-Fiksi,3,1,0.0007
+Horor | Pengembangan Diri | Sejarah,3,1,0.0007
+Agama & Spiritual | Horor | Pengembangan Diri,3,1,0.0007
+Fiksi | Pengembangan Diri | Seni & Fotografi,3,1,0.0007
+Bisnis & Ekonomi | Horor | Sejarah,3,1,0.0007
+Masakan & Kuliner | Sejarah | Travel,3,1,0.0007
+Kesehatan | Seni & Fotografi | Teknologi,3,1,0.0007
+Agama & Spiritual | Fiksi | Sains Fiksi,3,1,0.0007
+Masakan & Kuliner | Pengembangan Diri | Romansa,3,1,0.0007
+Masakan & Kuliner | Non-Fiksi | Pengembangan Diri,3,1,0.0007
+Fantasi | Kesehatan | Sains Fiksi,3,1,0.0007
+Biografi | Masakan & Kuliner | Seni & Fotografi,3,1,0.0007
+Masakan & Kuliner | Pengembangan Diri | Seni & Fotografi,3,1,0.0007
+Fantasi | Pengembangan Diri | Travel,3,1,0.0007
+Masakan & Kuliner | Sains Fiksi | Sejarah,3,1,0.0007
+Kesehatan | Komik & Manga | Sains & Alam,3,1,0.0007
+Anak-Anak | Sains Fiksi | Travel,3,1,0.0007
+Bisnis & Ekonomi | Fantasi | Fiksi,3,1,0.0007
+Fantasi | Horor | Kesehatan,3,1,0.0007
+Masakan & Kuliner | Romansa | Travel,3,1,0.0007
+Masakan & Kuliner | Misteri & Thriller | Seni & Fotografi,3,1,0.0007
+Biografi | Kesehatan | Seni & Fotografi,3,1,0.0007
+Bisnis & Ekonomi | Kesehatan | Teknologi,3,1,0.0007
+Fiksi | Sains & Alam | Sejarah,3,1,0.0007
+Horor | Masakan & Kuliner | Misteri & Thriller,3,1,0.0007
+Non-Fiksi | Sejarah | Seni & Fotografi,3,1,0.0007
+Non-Fiksi | Romansa | Travel,3,1,0.0007
+Pengembangan Diri | Romansa | Teknologi,3,1,0.0007
+Fantasi | Sains & Alam | Travel,3,1,0.0007
+Agama & Spiritual | Sains Fiksi | Teknologi,3,1,0.0007
+Agama & Spiritual | Horor | Misteri & Thriller,3,1,0.0007
+Agama & Spiritual | Horor | Romansa,3,1,0.0007
+Anak-Anak | Horor | Masakan & Kuliner,3,1,0.0007
+Biografi | Bisnis & Ekonomi | Fantasi,3,1,0.0007
+Anak-Anak | Sains & Alam | Teknologi,3,1,0.0007
+Agama & Spiritual | Anak-Anak | Sains & Alam,3,1,0.0007
+Biografi | Kesehatan | Non-Fiksi,3,1,0.0007
+Bisnis & Ekonomi | Masakan & Kuliner | Pengembangan Diri,3,1,0.0007
+Kesehatan | Misteri & Thriller | Sains & Alam,3,1,0.0007
+Biografi | Bisnis & Ekonomi | Kesehatan,3,1,0.0007
+Pengembangan Diri | Sains Fiksi | Sejarah,3,1,0.0007
+Bisnis & Ekonomi | Fantasi | Seni & Fotografi,3,1,0.0007
+Bisnis & Ekonomi | Sains & Alam | Travel,3,1,0.0007
+Anak-Anak | Non-Fiksi | Pengembangan Diri,3,1,0.0007
+Kesehatan | Pengembangan Diri | Sains Fiksi,3,1,0.0007
+Misteri & Thriller | Pengembangan Diri | Travel,3,1,0.0007
+Bisnis & Ekonomi | Pengembangan Diri | Romansa,3,1,0.0007
+Biografi | Fiksi | Teknologi,3,1,0.0007
+Horor | Kesehatan | Sejarah,3,1,0.0007
+Sains & Alam | Sains Fiksi | Travel,3,1,0.0007
+Bisnis & Ekonomi | Non-Fiksi | Sains & Alam,3,1,0.0007
+Anak-Anak | Biografi | Teknologi,3,1,0.0007
+Biografi | Non-Fiksi | Teknologi,3,1,0.0007
+Biografi | Misteri & Thriller | Teknologi,3,1,0.0007
+Biografi | Fantasi | Non-Fiksi,3,1,0.0007
+Bisnis & Ekonomi | Kesehatan | Romansa,3,1,0.0007
+Biografi | Romansa | Sains & Alam,3,1,0.0007
+Horor | Non-Fiksi | Seni & Fotografi,3,1,0.0007
+Fantasi | Non-Fiksi | Sains & Alam,3,1,0.0007
+Bisnis & Ekonomi | Masakan & Kuliner | Seni & Fotografi,3,1,0.0007
+Anak-Anak | Bisnis & Ekonomi | Travel,3,1,0.0007
+Biografi | Fiksi | Komik & Manga,3,1,0.0007
+Sejarah | Teknologi | Travel,3,1,0.0007
+Misteri & Thriller | Sains Fiksi | Teknologi,3,1,0.0007
+Agama & Spiritual | Sains Fiksi | Sejarah,3,1,0.0007
+Bisnis & Ekonomi | Romansa | Sejarah,3,1,0.0007
+Biografi | Bisnis & Ekonomi | Romansa,3,1,0.0007
+Anak-Anak | Bisnis & Ekonomi | Sains Fiksi,3,1,0.0007
+Anak-Anak | Komik & Manga | Romansa,3,1,0.0007
+Non-Fiksi | Romansa | Sejarah,3,1,0.0007
+Bisnis & Ekonomi | Kesehatan | Sains & Alam,3,1,0.0007
+Agama & Spiritual | Biografi | Romansa,3,1,0.0007
+Bisnis & Ekonomi | Non-Fiksi | Pengembangan Diri,3,1,0.0007
+Masakan & Kuliner | Romansa | Sains Fiksi,3,1,0.0007
+Bisnis & Ekonomi | Misteri & Thriller | Sains & Alam,3,1,0.0007
+Komik & Manga | Romansa | Sejarah,3,1,0.0007
+Fiksi | Pengembangan Diri | Sains & Alam,3,1,0.0007
+Agama & Spiritual | Non-Fiksi | Sains & Alam,3,1,0.0007
+Fiksi | Masakan & Kuliner | Travel,3,1,0.0007
+Kesehatan | Masakan & Kuliner | Sejarah,3,1,0.0007
