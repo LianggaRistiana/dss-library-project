@@ -1,0 +1,1001 @@
+id,title,year,CategoryName,BorrowCount,Cluster
+BM-0001,Introduction to Music 3,2000,Fantasi,8.0,3
+BM-0002,History of Art 8,2004,Masakan & Kuliner,3.0,2
+BM-0003,Mastering Chemistry 2,2021,Bisnis & Ekonomi,2.0,2
+BM-0004,Mastering Biology 4,2005,Komik & Manga,2.0,2
+BM-0005,Fundamentals of Chemistry 9,2023,Travel,3.0,1
+BM-0006,The Art of Calculus 8,2004,Romansa,3.0,1
+BM-0007,The Art of History 4,2018,Bisnis & Ekonomi,3.0,2
+BM-0008,Fundamentals of Java 1,2012,Fiksi,3.0,3
+BM-0009,Advanced Art 6,2000,Agama & Spiritual,5.0,3
+BM-0010,Introduction to Machine Learning 3,2008,Seni & Fotografi,2.0,3
+BM-0011,History of History 3,2005,Fantasi,1.0,3
+BM-0012,The Art of Economics 4,2009,Sejarah,2.0,3
+BM-0013,Handbook of Music 6,1990,Travel,3.0,1
+BM-0014,The Art of History 3,2000,Horor,6.0,2
+BM-0015,History of Chemistry 7,1995,Sains & Alam,5.0,2
+BM-0016,Advanced Java 7,2024,Pengembangan Diri,2.0,3
+BM-0017,Mastering Machine Learning 10,2008,Fiksi,1.0,3
+BM-0018,History of Calculus 10,1990,Misteri & Thriller,1.0,1
+BM-0019,Mastering Python 4,2000,Sejarah,2.0,3
+BM-0020,Handbook of Java 2,2009,Seni & Fotografi,6.0,3
+BM-0021,The Art of Chemistry 2,2019,Teknologi,3.0,2
+BM-0022,Fundamentals of Calculus 7,2008,Travel,2.0,1
+BM-0023,Advanced Art 4,2013,Kesehatan,5.0,0
+BM-0024,Handbook of Python 7,2023,Seni & Fotografi,3.0,3
+BM-0025,Advanced Calculus 8,2011,Biografi,2.0,3
+BM-0026,Advanced Python 9,2007,Biografi,3.0,3
+BM-0027,Fundamentals of Chemistry 4,2000,Bisnis & Ekonomi,6.0,2
+BM-0028,Guide to Art 5,2011,Fiksi,1.0,3
+BM-0029,Introduction to Python 7,2022,Kesehatan,2.0,0
+BM-0030,Handbook of Music 9,1996,Sejarah,3.0,3
+BM-0031,Mastering AI 7,2011,Masakan & Kuliner,5.0,2
+BM-0032,Guide to Machine Learning 3,1999,Agama & Spiritual,0.0,3
+BM-0033,Advanced Physics 2,2015,Pengembangan Diri,4.0,3
+BM-0034,Advanced Physics 8,2006,Kesehatan,2.0,0
+BM-0035,Mastering Music 9,2018,Bisnis & Ekonomi,4.0,2
+BM-0036,Mastering Machine Learning 3,1999,Horor,1.0,2
+BM-0037,Mastering Python 4,2000,Kesehatan,2.0,0
+BM-0038,Fundamentals of Philosophy 6,2009,Fantasi,5.0,3
+BM-0039,Fundamentals of Chemistry 6,1991,Teknologi,7.0,2
+BM-0040,History of AI 2,1993,Sejarah,1.0,3
+BM-0041,Mastering Music 6,1999,Non-Fiksi,2.0,3
+BM-0042,Mastering Java 10,1992,Sains Fiksi,4.0,1
+BM-0043,Fundamentals of Art 4,2022,Fantasi,1.0,3
+BM-0044,Fundamentals of Music 9,2016,Travel,3.0,1
+BM-0045,Advanced Chemistry 9,1992,Fantasi,3.0,3
+BM-0046,Guide to AI 9,1997,Travel,4.0,1
+BM-0047,Mastering Java 8,2011,Seni & Fotografi,3.0,3
+BM-0048,The Art of Art 9,2012,Teknologi,3.0,2
+BM-0049,Handbook of Python 6,2011,Travel,2.0,1
+BM-0050,Introduction to Machine Learning 3,1995,Fantasi,2.0,3
+BM-0051,Handbook of History 6,2022,Sains & Alam,3.0,2
+BM-0052,Mastering Physics 7,2020,Teknologi,1.0,2
+BM-0053,The Art of Calculus 5,1997,Teknologi,4.0,2
+BM-0054,History of Java 8,2004,Horor,0.0,2
+BM-0055,Advanced Chemistry 8,2003,Travel,3.0,1
+BM-0056,History of Chemistry 4,1999,Romansa,5.0,1
+BM-0057,Mastering Chemistry 9,2017,Sejarah,3.0,3
+BM-0058,Advanced Music 5,2017,Agama & Spiritual,2.0,3
+BM-0059,Introduction to Economics 4,1995,Sains & Alam,1.0,2
+BM-0060,Mastering Calculus 9,2024,Pengembangan Diri,2.0,3
+BM-0061,Fundamentals of Art 10,2004,Teknologi,4.0,2
+BM-0062,Handbook of History 8,1999,Kesehatan,2.0,0
+BM-0063,Introduction to AI 4,2012,Sains & Alam,4.0,2
+BM-0064,The Art of Economics 7,2024,Bisnis & Ekonomi,2.0,2
+BM-0065,Introduction to Philosophy 7,2001,Horor,5.0,2
+BM-0066,History of Machine Learning 9,1993,Teknologi,2.0,2
+BM-0067,Advanced Philosophy 1,2012,Horor,3.0,2
+BM-0068,Advanced Biology 10,1991,Bisnis & Ekonomi,2.0,2
+BM-0069,Fundamentals of Biology 8,2022,Agama & Spiritual,1.0,3
+BM-0070,Fundamentals of AI 6,1993,Romansa,2.0,1
+BM-0071,Advanced Biology 4,2024,Teknologi,2.0,2
+BM-0072,History of Physics 6,1998,Sejarah,5.0,3
+BM-0073,Mastering Philosophy 6,2017,Horor,3.0,2
+BM-0074,History of Machine Learning 2,1993,Sains & Alam,1.0,2
+BM-0075,Advanced History 5,2001,Sains & Alam,2.0,2
+BM-0076,Advanced AI 4,2007,Pengembangan Diri,1.0,3
+BM-0077,Introduction to AI 8,2001,Romansa,4.0,1
+BM-0078,Advanced Economics 7,1998,Anak-Anak,4.0,1
+BM-0079,Advanced Chemistry 9,1998,Sejarah,1.0,3
+BM-0080,Introduction to Chemistry 1,1998,Masakan & Kuliner,3.0,2
+BM-0081,Advanced Calculus 7,2013,Romansa,4.0,1
+BM-0082,Advanced AI 1,1993,Agama & Spiritual,4.0,3
+BM-0083,Guide to Biology 2,2021,Bisnis & Ekonomi,2.0,2
+BM-0084,Handbook of Physics 8,2024,Anak-Anak,2.0,1
+BM-0085,The Art of Calculus 8,2020,Pengembangan Diri,4.0,3
+BM-0086,Handbook of Physics 7,1993,Misteri & Thriller,2.0,1
+BM-0087,Introduction to Philosophy 1,2017,Komik & Manga,3.0,2
+BM-0088,History of Economics 4,2015,Komik & Manga,0.0,2
+BM-0089,History of Biology 6,2023,Sains & Alam,8.0,2
+BM-0090,Mastering Python 4,2011,Biografi,2.0,3
+BM-0091,Introduction to Philosophy 5,1998,Pengembangan Diri,2.0,3
+BM-0092,Advanced Python 7,2014,Non-Fiksi,4.0,3
+BM-0093,Introduction to Music 8,2019,Sains Fiksi,4.0,1
+BM-0094,Introduction to Machine Learning 10,2008,Komik & Manga,4.0,2
+BM-0095,Mastering Biology 6,1990,Seni & Fotografi,2.0,3
+BM-0096,Advanced Biology 4,1993,Komik & Manga,2.0,2
+BM-0097,Handbook of Java 9,2001,Misteri & Thriller,3.0,1
+BM-0098,History of Calculus 5,1995,Sejarah,4.0,3
+BM-0099,Fundamentals of Physics 1,2022,Fiksi,5.0,3
+BM-0100,Introduction to History 6,2005,Bisnis & Ekonomi,1.0,2
+BM-0101,Introduction to Biology 4,2001,Kesehatan,4.0,0
+BM-0102,Fundamentals of Philosophy 8,2024,Agama & Spiritual,5.0,3
+BM-0103,Handbook of Economics 3,2022,Travel,3.0,1
+BM-0104,The Art of Physics 7,2011,Fantasi,4.0,3
+BM-0105,Mastering AI 6,2023,Romansa,6.0,1
+BM-0106,The Art of Machine Learning 3,2007,Kesehatan,1.0,0
+BM-0107,Guide to Machine Learning 6,2011,Misteri & Thriller,3.0,1
+BM-0108,Guide to Biology 3,1997,Agama & Spiritual,3.0,3
+BM-0109,Advanced Chemistry 6,2016,Teknologi,4.0,2
+BM-0110,History of Machine Learning 9,2004,Travel,5.0,1
+BM-0111,Mastering Chemistry 1,2007,Sejarah,1.0,3
+BM-0112,Mastering AI 4,1992,Non-Fiksi,0.0,3
+BM-0113,Guide to Economics 5,2013,Romansa,3.0,1
+BM-0114,The Art of Physics 1,2008,Travel,4.0,1
+BM-0115,Guide to Philosophy 2,1999,Bisnis & Ekonomi,3.0,2
+BM-0116,Introduction to AI 6,2000,Travel,4.0,1
+BM-0117,History of Philosophy 9,1991,Misteri & Thriller,3.0,1
+BM-0118,Advanced Chemistry 7,1991,Fiksi,0.0,3
+BM-0119,Advanced Art 2,2010,Kesehatan,3.0,0
+BM-0120,Guide to AI 5,2010,Fiksi,5.0,3
+BM-0121,Advanced Biology 10,2018,Komik & Manga,5.0,2
+BM-0122,History of Economics 5,2018,Biografi,3.0,3
+BM-0123,Handbook of Chemistry 5,1997,Sains Fiksi,3.0,1
+BM-0124,Handbook of History 9,2005,Romansa,3.0,1
+BM-0125,Mastering Art 9,2004,Seni & Fotografi,5.0,3
+BM-0126,Fundamentals of Python 3,2000,Seni & Fotografi,3.0,3
+BM-0127,History of Biology 3,2006,Romansa,7.0,1
+BM-0128,Guide to Art 2,2007,Pengembangan Diri,1.0,3
+BM-0129,Handbook of Machine Learning 5,2004,Sejarah,3.0,3
+BM-0130,History of Music 7,2008,Agama & Spiritual,5.0,3
+BM-0131,History of Python 8,2009,Biografi,2.0,3
+BM-0132,Handbook of Python 9,1993,Horor,2.0,2
+BM-0133,The Art of Chemistry 1,2001,Anak-Anak,4.0,1
+BM-0134,History of AI 8,2011,Seni & Fotografi,2.0,3
+BM-0135,Introduction to AI 10,2019,Biografi,6.0,3
+BM-0136,Mastering Python 3,2023,Bisnis & Ekonomi,1.0,2
+BM-0137,Guide to History 8,2006,Sejarah,3.0,3
+BM-0138,The Art of Biology 10,1998,Sains & Alam,4.0,2
+BM-0139,Handbook of Machine Learning 6,1997,Non-Fiksi,0.0,3
+BM-0140,Handbook of Art 7,2001,Horor,4.0,2
+BM-0141,History of Economics 1,2015,Fiksi,3.0,3
+BM-0142,Guide to Java 5,2010,Seni & Fotografi,0.0,3
+BM-0143,Mastering Art 9,2020,Horor,3.0,2
+BM-0144,Introduction to Physics 5,1990,Bisnis & Ekonomi,2.0,2
+BM-0145,Guide to Calculus 6,2016,Masakan & Kuliner,4.0,2
+BM-0146,Advanced Java 8,2016,Biografi,7.0,3
+BM-0147,Fundamentals of Java 6,2007,Komik & Manga,6.0,2
+BM-0148,Introduction to Calculus 2,2019,Kesehatan,7.0,0
+BM-0149,Fundamentals of Physics 9,2004,Biografi,2.0,3
+BM-0150,History of Economics 4,2001,Masakan & Kuliner,2.0,2
+BM-0151,Fundamentals of Philosophy 9,1999,Sains & Alam,4.0,2
+BM-0152,History of Chemistry 7,1994,Fantasi,0.0,3
+BM-0153,Fundamentals of Biology 4,1997,Romansa,1.0,1
+BM-0154,The Art of Java 3,2003,Fiksi,0.0,3
+BM-0155,The Art of Physics 8,2008,Misteri & Thriller,3.0,1
+BM-0156,Handbook of Biology 7,2008,Travel,4.0,1
+BM-0157,History of AI 7,2012,Masakan & Kuliner,6.0,2
+BM-0158,Guide to Economics 1,1999,Bisnis & Ekonomi,4.0,2
+BM-0159,Introduction to Machine Learning 1,2020,Non-Fiksi,1.0,3
+BM-0160,Advanced History 3,2008,Komik & Manga,3.0,2
+BM-0161,Mastering Chemistry 9,2005,Teknologi,2.0,2
+BM-0162,The Art of Biology 3,2020,Biografi,1.0,3
+BM-0163,Fundamentals of Java 9,2013,Non-Fiksi,4.0,3
+BM-0164,Advanced Philosophy 2,2020,Komik & Manga,3.0,2
+BM-0165,History of Chemistry 9,1999,Seni & Fotografi,2.0,3
+BM-0166,Guide to Java 4,2006,Seni & Fotografi,2.0,3
+BM-0167,The Art of Machine Learning 6,2003,Anak-Anak,1.0,1
+BM-0168,Handbook of Machine Learning 9,2024,Pengembangan Diri,4.0,3
+BM-0169,Introduction to History 10,2009,Travel,3.0,1
+BM-0170,Advanced History 4,1990,Biografi,1.0,3
+BM-0171,History of Physics 1,2016,Teknologi,4.0,2
+BM-0172,Handbook of Python 6,2001,Masakan & Kuliner,2.0,2
+BM-0173,History of Python 7,1990,Romansa,2.0,1
+BM-0174,Introduction to Music 3,2009,Masakan & Kuliner,5.0,2
+BM-0175,Introduction to Biology 6,1990,Teknologi,2.0,2
+BM-0176,Mastering Machine Learning 1,1992,Sains Fiksi,2.0,1
+BM-0177,Handbook of Philosophy 10,2023,Kesehatan,7.0,0
+BM-0178,Handbook of AI 9,2006,Teknologi,2.0,2
+BM-0179,Introduction to Machine Learning 8,2023,Anak-Anak,3.0,1
+BM-0180,The Art of Machine Learning 2,2000,Kesehatan,4.0,0
+BM-0181,Handbook of Biology 7,2018,Komik & Manga,1.0,2
+BM-0182,Handbook of Economics 9,2013,Non-Fiksi,4.0,3
+BM-0183,Introduction to Java 8,2015,Masakan & Kuliner,3.0,2
+BM-0184,Handbook of Machine Learning 3,2017,Agama & Spiritual,3.0,3
+BM-0185,Advanced Music 8,2009,Seni & Fotografi,5.0,3
+BM-0186,Fundamentals of Art 3,2009,Agama & Spiritual,1.0,3
+BM-0187,Fundamentals of Music 6,2024,Teknologi,2.0,2
+BM-0188,Fundamentals of Python 8,2014,Fantasi,2.0,3
+BM-0189,Advanced Economics 1,2015,Anak-Anak,2.0,1
+BM-0190,Fundamentals of Calculus 10,2006,Seni & Fotografi,3.0,3
+BM-0191,Guide to Python 7,1992,Sains & Alam,4.0,2
+BM-0192,Guide to Physics 1,1999,Kesehatan,7.0,0
+BM-0193,The Art of Biology 2,2014,Komik & Manga,1.0,2
+BM-0194,Advanced Python 8,2004,Anak-Anak,5.0,1
+BM-0195,Fundamentals of Physics 9,2008,Bisnis & Ekonomi,4.0,2
+BM-0196,The Art of Economics 9,1994,Travel,7.0,1
+BM-0197,Fundamentals of Calculus 1,2022,Travel,4.0,1
+BM-0198,Guide to Java 4,1991,Misteri & Thriller,3.0,1
+BM-0199,Introduction to Economics 3,1997,Horor,3.0,2
+BM-0200,Advanced Chemistry 8,1999,Fantasi,4.0,3
+BM-0201,History of Art 2,2018,Seni & Fotografi,5.0,3
+BM-0202,History of Python 6,2017,Pengembangan Diri,2.0,3
+BM-0203,Advanced Java 7,1993,Sains & Alam,3.0,2
+BM-0204,Guide to AI 5,1991,Horor,2.0,2
+BM-0205,Guide to Calculus 10,2007,Bisnis & Ekonomi,0.0,2
+BM-0206,Mastering Chemistry 1,2020,Non-Fiksi,1.0,3
+BM-0207,Fundamentals of Biology 4,2014,Bisnis & Ekonomi,4.0,2
+BM-0208,Introduction to Java 5,1999,Travel,6.0,1
+BM-0209,Guide to Economics 1,2000,Romansa,3.0,1
+BM-0210,Fundamentals of Philosophy 2,1997,Agama & Spiritual,6.0,3
+BM-0211,Introduction to Machine Learning 7,2002,Non-Fiksi,2.0,3
+BM-0212,Advanced Biology 5,1997,Sejarah,1.0,3
+BM-0213,Handbook of Calculus 1,2024,Masakan & Kuliner,2.0,2
+BM-0214,Mastering Chemistry 6,2017,Romansa,2.0,1
+BM-0215,Handbook of AI 2,1999,Kesehatan,0.0,0
+BM-0216,Guide to Art 1,2012,Fantasi,3.0,3
+BM-0217,Fundamentals of Biology 10,1991,Sains & Alam,2.0,2
+BM-0218,Mastering Calculus 7,1993,Teknologi,2.0,2
+BM-0219,Fundamentals of Chemistry 9,1998,Fantasi,4.0,3
+BM-0220,Advanced Economics 3,1997,Kesehatan,3.0,0
+BM-0221,Introduction to Physics 8,1995,Komik & Manga,1.0,2
+BM-0222,Mastering Machine Learning 10,1990,Agama & Spiritual,4.0,3
+BM-0223,Mastering Music 7,1997,Teknologi,2.0,2
+BM-0224,Mastering Economics 7,1991,Sains Fiksi,3.0,1
+BM-0225,Fundamentals of Art 7,2007,Non-Fiksi,2.0,3
+BM-0226,The Art of Art 6,2008,Sains Fiksi,1.0,1
+BM-0227,Mastering Java 8,1992,Teknologi,1.0,2
+BM-0228,History of Java 1,1990,Sains & Alam,1.0,2
+BM-0229,The Art of Philosophy 9,1991,Bisnis & Ekonomi,3.0,2
+BM-0230,History of Chemistry 2,2024,Sains Fiksi,2.0,1
+BM-0231,Mastering Java 10,2013,Sains Fiksi,3.0,1
+BM-0232,Fundamentals of Java 9,2016,Fantasi,3.0,3
+BM-0233,The Art of AI 7,2003,Komik & Manga,1.0,2
+BM-0234,Guide to Art 2,2009,Romansa,0.0,1
+BM-0235,Advanced Calculus 7,2024,Teknologi,6.0,2
+BM-0236,Guide to Philosophy 9,2004,Fiksi,3.0,3
+BM-0237,Guide to Biology 3,2006,Non-Fiksi,2.0,3
+BM-0238,Fundamentals of Biology 4,1996,Fiksi,5.0,3
+BM-0239,Advanced Machine Learning 1,1997,Sains Fiksi,7.0,1
+BM-0240,Mastering Biology 8,2015,Fiksi,4.0,3
+BM-0241,The Art of Calculus 8,2009,Sejarah,4.0,3
+BM-0242,Mastering Machine Learning 2,2024,Masakan & Kuliner,3.0,2
+BM-0243,History of Biology 5,2005,Agama & Spiritual,3.0,3
+BM-0244,Handbook of Java 8,2003,Fiksi,2.0,3
+BM-0245,History of Chemistry 2,2002,Komik & Manga,4.0,2
+BM-0246,Introduction to Art 6,2024,Misteri & Thriller,3.0,1
+BM-0247,Introduction to Machine Learning 7,2021,Horor,5.0,2
+BM-0248,Handbook of Physics 1,2018,Agama & Spiritual,1.0,3
+BM-0249,Fundamentals of AI 9,2020,Agama & Spiritual,2.0,3
+BM-0250,Advanced Chemistry 4,2015,Horor,1.0,2
+BM-0251,The Art of Chemistry 1,2007,Teknologi,2.0,2
+BM-0252,Guide to Art 3,2010,Misteri & Thriller,2.0,1
+BM-0253,Introduction to Art 4,1996,Anak-Anak,1.0,1
+BM-0254,Advanced Music 2,2008,Seni & Fotografi,0.0,3
+BM-0255,History of Philosophy 10,2002,Sains Fiksi,3.0,1
+BM-0256,History of Calculus 4,1991,Komik & Manga,3.0,2
+BM-0257,Introduction to Python 1,2018,Masakan & Kuliner,3.0,2
+BM-0258,Advanced Chemistry 5,2012,Kesehatan,6.0,0
+BM-0259,Handbook of Biology 10,1999,Sains Fiksi,6.0,1
+BM-0260,Guide to AI 4,2018,Romansa,2.0,1
+BM-0261,Guide to Chemistry 2,2001,Sejarah,6.0,3
+BM-0262,The Art of Philosophy 6,2023,Sains Fiksi,6.0,1
+BM-0263,Fundamentals of Economics 7,2023,Fiksi,3.0,3
+BM-0264,Handbook of Chemistry 7,2000,Travel,5.0,1
+BM-0265,Handbook of Biology 7,1999,Agama & Spiritual,3.0,3
+BM-0266,Introduction to Physics 8,2002,Romansa,1.0,1
+BM-0267,The Art of Physics 3,2022,Teknologi,2.0,2
+BM-0268,Mastering Economics 7,2013,Teknologi,3.0,2
+BM-0269,Mastering Calculus 7,2010,Anak-Anak,2.0,1
+BM-0270,Handbook of Music 2,2023,Kesehatan,1.0,0
+BM-0271,Guide to Economics 3,2018,Romansa,1.0,1
+BM-0272,The Art of Python 3,2001,Biografi,5.0,3
+BM-0273,The Art of History 8,1997,Kesehatan,5.0,0
+BM-0274,History of Chemistry 10,2020,Sains & Alam,2.0,2
+BM-0275,Mastering Economics 7,2009,Horor,4.0,2
+BM-0276,Advanced Calculus 1,2012,Agama & Spiritual,4.0,3
+BM-0277,Advanced Art 1,2024,Sejarah,6.0,3
+BM-0278,Mastering Art 8,1994,Komik & Manga,3.0,2
+BM-0279,The Art of Art 8,2007,Anak-Anak,8.0,1
+BM-0280,Introduction to Java 9,2002,Seni & Fotografi,2.0,3
+BM-0281,The Art of Physics 8,2008,Sains & Alam,2.0,2
+BM-0282,Introduction to Art 2,2024,Anak-Anak,3.0,1
+BM-0283,Mastering Java 10,1996,Biografi,4.0,3
+BM-0284,Advanced History 10,1999,Bisnis & Ekonomi,2.0,2
+BM-0285,Handbook of AI 9,2013,Romansa,4.0,1
+BM-0286,Advanced Chemistry 1,2007,Agama & Spiritual,3.0,3
+BM-0287,Introduction to Philosophy 4,2008,Pengembangan Diri,1.0,3
+BM-0288,Advanced Java 3,2013,Misteri & Thriller,3.0,1
+BM-0289,Advanced Economics 7,2002,Sejarah,7.0,3
+BM-0290,Advanced History 4,1993,Non-Fiksi,4.0,3
+BM-0291,Introduction to Java 10,1996,Misteri & Thriller,3.0,1
+BM-0292,Guide to AI 8,2017,Kesehatan,5.0,0
+BM-0293,Mastering Physics 4,2013,Travel,2.0,1
+BM-0294,Introduction to AI 8,2002,Teknologi,3.0,2
+BM-0295,Advanced Music 1,2001,Travel,4.0,1
+BM-0296,Guide to Biology 9,1990,Biografi,4.0,3
+BM-0297,Guide to History 9,1993,Travel,4.0,1
+BM-0298,Fundamentals of Java 3,1999,Pengembangan Diri,2.0,3
+BM-0299,The Art of Java 7,1993,Travel,3.0,1
+BM-0300,Guide to Machine Learning 1,1994,Misteri & Thriller,3.0,1
+BM-0301,Mastering AI 7,2013,Agama & Spiritual,2.0,3
+BM-0302,Guide to Music 4,2021,Fiksi,2.0,3
+BM-0303,Fundamentals of Python 4,2018,Sejarah,4.0,3
+BM-0304,Fundamentals of History 5,1996,Pengembangan Diri,1.0,3
+BM-0305,History of Machine Learning 6,1999,Misteri & Thriller,5.0,1
+BM-0306,Guide to Java 8,2017,Masakan & Kuliner,3.0,2
+BM-0307,Introduction to History 1,2024,Kesehatan,3.0,0
+BM-0308,Advanced Python 3,2017,Anak-Anak,1.0,1
+BM-0309,Mastering Chemistry 1,1995,Anak-Anak,2.0,1
+BM-0310,The Art of History 5,2001,Pengembangan Diri,6.0,3
+BM-0311,Fundamentals of Physics 2,2014,Sejarah,4.0,3
+BM-0312,Handbook of Java 1,2023,Sains & Alam,5.0,2
+BM-0313,History of Physics 10,1990,Fiksi,2.0,3
+BM-0314,Mastering AI 10,2020,Bisnis & Ekonomi,2.0,2
+BM-0315,Mastering Economics 2,2016,Travel,1.0,1
+BM-0316,Mastering Python 6,2009,Sains & Alam,6.0,2
+BM-0317,Mastering Calculus 2,2021,Misteri & Thriller,2.0,1
+BM-0318,Fundamentals of Python 10,2022,Komik & Manga,1.0,2
+BM-0319,Advanced Python 7,2014,Komik & Manga,2.0,2
+BM-0320,Guide to Java 4,1997,Anak-Anak,2.0,1
+BM-0321,Advanced Machine Learning 1,2010,Sejarah,2.0,3
+BM-0322,Advanced Java 4,2000,Bisnis & Ekonomi,0.0,2
+BM-0323,Fundamentals of Music 1,2012,Travel,3.0,1
+BM-0324,Fundamentals of Economics 4,2008,Horor,7.0,2
+BM-0325,History of Python 7,1993,Sains & Alam,0.0,2
+BM-0326,Mastering Economics 10,1994,Komik & Manga,4.0,2
+BM-0327,Mastering Python 6,2018,Teknologi,2.0,2
+BM-0328,History of Biology 9,2003,Bisnis & Ekonomi,3.0,2
+BM-0329,History of Calculus 2,2001,Biografi,3.0,3
+BM-0330,The Art of Biology 6,1992,Kesehatan,4.0,0
+BM-0331,Handbook of Physics 7,2013,Masakan & Kuliner,2.0,2
+BM-0332,History of Economics 4,1990,Non-Fiksi,5.0,3
+BM-0333,History of Machine Learning 5,2016,Masakan & Kuliner,4.0,2
+BM-0334,The Art of Java 8,2011,Non-Fiksi,1.0,3
+BM-0335,Guide to Calculus 9,2003,Non-Fiksi,1.0,3
+BM-0336,Advanced Biology 9,1993,Sains Fiksi,2.0,1
+BM-0337,Handbook of Music 8,2010,Agama & Spiritual,1.0,3
+BM-0338,Mastering Philosophy 5,2000,Travel,3.0,1
+BM-0339,Introduction to Python 10,1996,Sains Fiksi,0.0,1
+BM-0340,The Art of Philosophy 1,2001,Masakan & Kuliner,5.0,2
+BM-0341,Handbook of Python 2,2003,Seni & Fotografi,1.0,3
+BM-0342,Advanced Philosophy 2,1990,Teknologi,2.0,2
+BM-0343,Mastering Art 6,1996,Non-Fiksi,2.0,3
+BM-0344,Advanced Calculus 6,2018,Fantasi,5.0,3
+BM-0345,Guide to Art 3,2002,Seni & Fotografi,4.0,3
+BM-0346,The Art of Java 9,2010,Komik & Manga,1.0,2
+BM-0347,Advanced Chemistry 7,2023,Sains Fiksi,3.0,1
+BM-0348,History of Music 10,2000,Biografi,2.0,3
+BM-0349,Advanced Economics 5,2015,Sains & Alam,3.0,2
+BM-0350,Advanced Music 2,1996,Biografi,2.0,3
+BM-0351,Handbook of Economics 9,2006,Seni & Fotografi,2.0,3
+BM-0352,History of History 4,2019,Travel,2.0,1
+BM-0353,Handbook of Java 9,2013,Non-Fiksi,3.0,3
+BM-0354,Advanced Java 1,1992,Travel,5.0,1
+BM-0355,Fundamentals of Chemistry 7,1991,Horor,6.0,2
+BM-0356,Guide to Art 10,2012,Masakan & Kuliner,5.0,2
+BM-0357,The Art of Python 6,1990,Fantasi,2.0,3
+BM-0358,Advanced History 6,1991,Horor,2.0,2
+BM-0359,Mastering Physics 5,2022,Sains & Alam,3.0,2
+BM-0360,Advanced Python 2,1999,Travel,6.0,1
+BM-0361,Guide to Art 5,2015,Pengembangan Diri,1.0,3
+BM-0362,Advanced Java 2,2000,Romansa,3.0,1
+BM-0363,History of History 7,2022,Bisnis & Ekonomi,6.0,2
+BM-0364,Fundamentals of Calculus 2,1996,Bisnis & Ekonomi,1.0,2
+BM-0365,The Art of History 5,2016,Bisnis & Ekonomi,2.0,2
+BM-0366,History of Art 7,2011,Agama & Spiritual,5.0,3
+BM-0367,The Art of History 9,2011,Komik & Manga,3.0,2
+BM-0368,Handbook of Chemistry 5,1994,Fiksi,0.0,3
+BM-0369,Advanced Music 2,1990,Travel,3.0,1
+BM-0370,Mastering Economics 2,2002,Romansa,2.0,1
+BM-0371,Mastering Biology 9,2024,Seni & Fotografi,3.0,3
+BM-0372,History of Economics 3,1994,Non-Fiksi,2.0,3
+BM-0373,History of Machine Learning 10,2014,Travel,2.0,1
+BM-0374,Advanced Calculus 9,1994,Horor,2.0,2
+BM-0375,The Art of AI 10,1998,Fantasi,4.0,3
+BM-0376,Handbook of Music 6,1994,Sejarah,4.0,3
+BM-0377,Guide to Art 1,2022,Komik & Manga,4.0,2
+BM-0378,Fundamentals of AI 2,2008,Sains & Alam,4.0,2
+BM-0379,The Art of History 9,2003,Sains & Alam,3.0,2
+BM-0380,Mastering Philosophy 1,1990,Non-Fiksi,2.0,3
+BM-0381,Advanced AI 4,1991,Agama & Spiritual,1.0,3
+BM-0382,Introduction to Philosophy 3,2010,Travel,4.0,1
+BM-0383,Mastering Biology 8,1995,Biografi,7.0,3
+BM-0384,Advanced Art 9,2013,Sains & Alam,4.0,2
+BM-0385,Advanced Python 4,1990,Fiksi,2.0,3
+BM-0386,Fundamentals of AI 2,2017,Sejarah,1.0,3
+BM-0387,Introduction to Chemistry 2,2000,Misteri & Thriller,1.0,1
+BM-0388,Handbook of Philosophy 7,1990,Teknologi,4.0,2
+BM-0389,Introduction to Java 8,2017,Travel,3.0,1
+BM-0390,Advanced Python 4,2012,Fiksi,2.0,3
+BM-0391,Fundamentals of Music 4,1998,Biografi,3.0,3
+BM-0392,The Art of Calculus 5,2002,Pengembangan Diri,2.0,3
+BM-0393,History of Chemistry 6,2007,Horor,2.0,2
+BM-0394,Guide to Art 2,2005,Non-Fiksi,2.0,3
+BM-0395,Mastering History 8,1998,Pengembangan Diri,4.0,3
+BM-0396,The Art of Music 10,1993,Romansa,0.0,1
+BM-0397,History of Philosophy 10,1996,Anak-Anak,2.0,1
+BM-0398,Handbook of Machine Learning 2,1993,Fantasi,3.0,3
+BM-0399,Guide to Art 2,2020,Masakan & Kuliner,5.0,2
+BM-0400,The Art of Philosophy 4,2007,Kesehatan,2.0,0
+BM-0401,Mastering History 6,1990,Biografi,3.0,3
+BM-0402,Guide to Java 8,2008,Teknologi,3.0,2
+BM-0403,Fundamentals of AI 5,1993,Fantasi,2.0,3
+BM-0404,Guide to Chemistry 6,2007,Fiksi,1.0,3
+BM-0405,Fundamentals of Machine Learning 9,2016,Sains Fiksi,4.0,1
+BM-0406,Guide to Java 2,2022,Bisnis & Ekonomi,4.0,2
+BM-0407,Advanced Calculus 5,1995,Pengembangan Diri,1.0,3
+BM-0408,Handbook of History 6,2016,Fiksi,1.0,3
+BM-0409,Advanced Calculus 1,2001,Sains Fiksi,3.0,1
+BM-0410,History of Java 3,2013,Non-Fiksi,1.0,3
+BM-0411,Fundamentals of Machine Learning 5,1998,Seni & Fotografi,1.0,3
+BM-0412,The Art of Calculus 1,1998,Travel,4.0,1
+BM-0413,Fundamentals of Chemistry 7,2015,Sains Fiksi,6.0,1
+BM-0414,Advanced Economics 9,2005,Misteri & Thriller,7.0,1
+BM-0415,Mastering AI 9,1993,Seni & Fotografi,1.0,3
+BM-0416,Handbook of Python 2,2002,Travel,4.0,1
+BM-0417,Advanced Java 7,2013,Biografi,4.0,3
+BM-0418,Fundamentals of Java 10,2023,Bisnis & Ekonomi,1.0,2
+BM-0419,Mastering History 3,2019,Pengembangan Diri,6.0,3
+BM-0420,History of Calculus 7,2024,Komik & Manga,2.0,2
+BM-0421,Mastering Music 8,2018,Sains & Alam,3.0,2
+BM-0422,The Art of Calculus 1,1993,Misteri & Thriller,2.0,1
+BM-0423,Fundamentals of Physics 1,2020,Travel,1.0,1
+BM-0424,The Art of Economics 4,2006,Biografi,3.0,3
+BM-0425,Introduction to Python 3,2009,Sains & Alam,1.0,2
+BM-0426,Guide to AI 4,1994,Agama & Spiritual,1.0,3
+BM-0427,Handbook of Physics 2,2014,Sains & Alam,3.0,2
+BM-0428,Mastering Music 8,1992,Travel,3.0,1
+BM-0429,The Art of Machine Learning 9,2004,Pengembangan Diri,1.0,3
+BM-0430,Introduction to Art 6,2006,Seni & Fotografi,6.0,3
+BM-0431,Handbook of Java 6,1999,Misteri & Thriller,3.0,1
+BM-0432,Mastering History 6,2008,Kesehatan,3.0,0
+BM-0433,Introduction to Physics 6,2000,Seni & Fotografi,1.0,3
+BM-0434,Fundamentals of Java 8,2004,Non-Fiksi,2.0,3
+BM-0435,Mastering Java 8,1997,Komik & Manga,2.0,2
+BM-0436,Advanced Economics 7,2008,Anak-Anak,3.0,1
+BM-0437,Advanced Physics 1,1997,Non-Fiksi,0.0,3
+BM-0438,Guide to History 1,2015,Romansa,3.0,1
+BM-0439,The Art of Biology 8,2002,Misteri & Thriller,4.0,1
+BM-0440,History of Physics 1,2005,Romansa,3.0,1
+BM-0441,Advanced Music 8,2015,Bisnis & Ekonomi,4.0,2
+BM-0442,The Art of Music 3,1990,Agama & Spiritual,5.0,3
+BM-0443,Introduction to Chemistry 9,1999,Masakan & Kuliner,3.0,2
+BM-0444,History of Chemistry 10,2024,Pengembangan Diri,3.0,3
+BM-0445,The Art of Philosophy 1,2011,Fantasi,3.0,3
+BM-0446,Introduction to Philosophy 1,2006,Sains & Alam,3.0,2
+BM-0447,The Art of Economics 7,2023,Bisnis & Ekonomi,1.0,2
+BM-0448,Fundamentals of AI 9,2002,Sejarah,1.0,3
+BM-0449,Handbook of Art 6,2008,Fantasi,2.0,3
+BM-0450,The Art of Calculus 3,2015,Seni & Fotografi,6.0,3
+BM-0451,History of Python 10,2006,Seni & Fotografi,4.0,3
+BM-0452,Advanced AI 2,2006,Biografi,3.0,3
+BM-0453,Handbook of Python 2,2015,Fantasi,2.0,3
+BM-0454,History of Physics 1,2010,Fantasi,3.0,3
+BM-0455,The Art of Python 5,2003,Sejarah,6.0,3
+BM-0456,Guide to Art 6,2005,Agama & Spiritual,4.0,3
+BM-0457,Introduction to Chemistry 9,2008,Pengembangan Diri,3.0,3
+BM-0458,Advanced Music 6,2023,Komik & Manga,1.0,2
+BM-0459,Introduction to Philosophy 10,2024,Horor,2.0,2
+BM-0460,Mastering Python 6,2023,Horor,2.0,2
+BM-0461,Guide to Music 2,1992,Travel,8.0,1
+BM-0462,Handbook of Philosophy 10,2024,Sains & Alam,1.0,2
+BM-0463,The Art of Biology 6,2018,Biografi,4.0,3
+BM-0464,History of Machine Learning 2,2002,Horor,1.0,2
+BM-0465,Mastering Calculus 6,2007,Travel,5.0,1
+BM-0466,Handbook of Art 10,2021,Pengembangan Diri,4.0,3
+BM-0467,Handbook of Java 4,1998,Sains & Alam,4.0,2
+BM-0468,History of Economics 1,2008,Teknologi,3.0,2
+BM-0469,The Art of History 2,2018,Kesehatan,2.0,0
+BM-0470,The Art of Art 5,1997,Sains & Alam,2.0,2
+BM-0471,Advanced Python 5,2007,Teknologi,2.0,2
+BM-0472,Fundamentals of Python 1,2003,Fiksi,6.0,3
+BM-0473,Introduction to History 8,1996,Sejarah,4.0,3
+BM-0474,Fundamentals of Machine Learning 5,2006,Bisnis & Ekonomi,7.0,2
+BM-0475,Fundamentals of Calculus 10,2000,Bisnis & Ekonomi,2.0,2
+BM-0476,Handbook of Calculus 4,2004,Romansa,5.0,1
+BM-0477,The Art of Biology 1,2014,Sains & Alam,2.0,2
+BM-0478,The Art of Art 2,2011,Masakan & Kuliner,3.0,2
+BM-0479,Advanced History 5,2018,Sains & Alam,6.0,2
+BM-0480,Handbook of Music 6,2015,Fantasi,1.0,3
+BM-0481,Advanced Physics 4,2009,Fantasi,5.0,3
+BM-0482,Handbook of Philosophy 10,2013,Agama & Spiritual,4.0,3
+BM-0483,History of Philosophy 1,2010,Sains Fiksi,4.0,1
+BM-0484,The Art of Economics 8,1992,Bisnis & Ekonomi,4.0,2
+BM-0485,Fundamentals of Python 7,2011,Bisnis & Ekonomi,6.0,2
+BM-0486,The Art of Music 6,2001,Seni & Fotografi,3.0,3
+BM-0487,Advanced Python 10,2014,Kesehatan,7.0,0
+BM-0488,History of Python 9,1993,Biografi,4.0,3
+BM-0489,Introduction to Biology 6,1995,Sains Fiksi,2.0,1
+BM-0490,Mastering Chemistry 3,2007,Romansa,2.0,1
+BM-0491,The Art of Python 7,2017,Misteri & Thriller,3.0,1
+BM-0492,The Art of Physics 5,2002,Bisnis & Ekonomi,6.0,2
+BM-0493,Handbook of Java 7,2001,Romansa,3.0,1
+BM-0494,Advanced Machine Learning 7,1999,Kesehatan,1.0,0
+BM-0495,Advanced Music 1,2010,Komik & Manga,2.0,2
+BM-0496,Fundamentals of Java 7,1990,Romansa,5.0,1
+BM-0497,Mastering Java 6,2003,Anak-Anak,4.0,1
+BM-0498,The Art of Philosophy 3,2002,Sains & Alam,4.0,2
+BM-0499,Fundamentals of Java 7,1999,Komik & Manga,5.0,2
+BM-0500,The Art of Biology 2,2011,Komik & Manga,1.0,2
+BM-0501,The Art of Physics 7,2011,Anak-Anak,4.0,1
+BM-0502,Introduction to Chemistry 3,2007,Sains Fiksi,4.0,1
+BM-0503,Fundamentals of Chemistry 8,1990,Masakan & Kuliner,4.0,2
+BM-0504,Guide to Biology 1,2011,Anak-Anak,2.0,1
+BM-0505,History of History 10,2019,Misteri & Thriller,7.0,1
+BM-0506,Mastering History 7,2019,Pengembangan Diri,1.0,3
+BM-0507,Guide to Art 1,2017,Sains Fiksi,1.0,1
+BM-0508,Fundamentals of Calculus 7,2016,Sains & Alam,4.0,2
+BM-0509,The Art of History 7,2010,Travel,2.0,1
+BM-0510,Mastering Machine Learning 3,2020,Horor,2.0,2
+BM-0511,Mastering Python 4,2011,Sains & Alam,2.0,2
+BM-0512,Advanced Economics 7,2024,Biografi,3.0,3
+BM-0513,Fundamentals of Music 7,2015,Bisnis & Ekonomi,2.0,2
+BM-0514,Introduction to Philosophy 6,2014,Fantasi,3.0,3
+BM-0515,Guide to Biology 10,2004,Romansa,4.0,1
+BM-0516,The Art of Art 10,2010,Biografi,2.0,3
+BM-0517,Guide to Calculus 1,2013,Agama & Spiritual,3.0,3
+BM-0518,History of Python 8,2000,Non-Fiksi,1.0,3
+BM-0519,Mastering Chemistry 9,1997,Travel,2.0,1
+BM-0520,Advanced Music 2,2010,Seni & Fotografi,2.0,3
+BM-0521,Advanced History 10,2023,Pengembangan Diri,4.0,3
+BM-0522,History of Music 5,1991,Sains Fiksi,5.0,1
+BM-0523,Advanced Calculus 9,1992,Bisnis & Ekonomi,3.0,2
+BM-0524,Advanced AI 6,2009,Seni & Fotografi,2.0,3
+BM-0525,The Art of Philosophy 5,2010,Pengembangan Diri,5.0,3
+BM-0526,History of Calculus 7,1991,Horor,4.0,2
+BM-0527,History of Machine Learning 4,2013,Komik & Manga,3.0,2
+BM-0528,Handbook of Machine Learning 7,2010,Travel,4.0,1
+BM-0529,Advanced Chemistry 5,2010,Fiksi,0.0,3
+BM-0530,Mastering AI 6,1997,Teknologi,3.0,2
+BM-0531,Introduction to Python 7,1999,Agama & Spiritual,2.0,3
+BM-0532,Mastering Chemistry 8,2016,Fantasi,1.0,3
+BM-0533,History of Art 3,1996,Sains Fiksi,6.0,1
+BM-0534,Mastering History 2,1993,Komik & Manga,7.0,2
+BM-0535,The Art of Art 10,2001,Seni & Fotografi,4.0,3
+BM-0536,Introduction to History 9,2005,Non-Fiksi,7.0,3
+BM-0537,Guide to Calculus 10,2018,Misteri & Thriller,3.0,1
+BM-0538,Advanced Music 10,2013,Misteri & Thriller,3.0,1
+BM-0539,Fundamentals of Java 3,2007,Fiksi,2.0,3
+BM-0540,Introduction to Biology 2,2002,Kesehatan,1.0,0
+BM-0541,Handbook of Chemistry 5,2007,Sains Fiksi,2.0,1
+BM-0542,Mastering AI 9,2020,Pengembangan Diri,2.0,3
+BM-0543,The Art of Chemistry 3,2020,Anak-Anak,3.0,1
+BM-0544,History of Biology 9,1997,Masakan & Kuliner,2.0,2
+BM-0545,Introduction to Chemistry 5,2017,Pengembangan Diri,3.0,3
+BM-0546,Fundamentals of Philosophy 4,2008,Fiksi,2.0,3
+BM-0547,Introduction to Chemistry 5,2002,Anak-Anak,6.0,1
+BM-0548,Guide to Music 2,2017,Bisnis & Ekonomi,2.0,2
+BM-0549,Introduction to Java 1,2019,Romansa,3.0,1
+BM-0550,Mastering History 2,2004,Agama & Spiritual,5.0,3
+BM-0551,Guide to Java 2,2016,Kesehatan,3.0,0
+BM-0552,Fundamentals of Economics 7,2004,Biografi,3.0,3
+BM-0553,Handbook of Economics 3,1990,Misteri & Thriller,3.0,1
+BM-0554,Introduction to Python 6,2001,Horor,1.0,2
+BM-0555,Guide to Java 10,2019,Non-Fiksi,3.0,3
+BM-0556,Mastering Music 6,2010,Kesehatan,5.0,0
+BM-0557,Guide to Music 1,1997,Biografi,2.0,3
+BM-0558,Mastering AI 9,1998,Travel,3.0,1
+BM-0559,Mastering Physics 9,2013,Teknologi,4.0,2
+BM-0560,Mastering Calculus 9,2021,Travel,2.0,1
+BM-0561,Fundamentals of Calculus 4,2023,Kesehatan,2.0,0
+BM-0562,Advanced History 3,2011,Travel,3.0,1
+BM-0563,Handbook of Chemistry 5,2006,Sains & Alam,3.0,2
+BM-0564,History of Machine Learning 8,2002,Sains & Alam,5.0,2
+BM-0565,Handbook of Art 5,2018,Fantasi,6.0,3
+BM-0566,The Art of Physics 10,1996,Horor,2.0,2
+BM-0567,Mastering Art 4,2017,Sains & Alam,1.0,2
+BM-0568,Fundamentals of Machine Learning 5,2000,Misteri & Thriller,3.0,1
+BM-0569,Fundamentals of Physics 6,2015,Teknologi,3.0,2
+BM-0570,Handbook of Calculus 2,2003,Travel,4.0,1
+BM-0571,The Art of Physics 2,2024,Anak-Anak,4.0,1
+BM-0572,Handbook of Economics 2,2009,Non-Fiksi,7.0,3
+BM-0573,Mastering Calculus 3,2014,Komik & Manga,3.0,2
+BM-0574,Fundamentals of Biology 2,1990,Travel,3.0,1
+BM-0575,Handbook of Java 3,1991,Biografi,2.0,3
+BM-0576,Fundamentals of Physics 5,2007,Fiksi,7.0,3
+BM-0577,Introduction to Physics 3,1999,Anak-Anak,6.0,1
+BM-0578,Mastering History 7,1999,Komik & Manga,1.0,2
+BM-0579,Guide to AI 3,2000,Romansa,3.0,1
+BM-0580,The Art of Art 5,2018,Sains & Alam,1.0,2
+BM-0581,The Art of Calculus 3,2009,Kesehatan,3.0,0
+BM-0582,Advanced Machine Learning 1,2016,Non-Fiksi,4.0,3
+BM-0583,Handbook of Physics 4,2009,Teknologi,1.0,2
+BM-0584,The Art of Art 8,2005,Teknologi,3.0,2
+BM-0585,Introduction to Physics 10,1997,Romansa,4.0,1
+BM-0586,Advanced AI 6,2018,Non-Fiksi,3.0,3
+BM-0587,History of Art 6,2000,Seni & Fotografi,3.0,3
+BM-0588,History of Chemistry 5,2007,Misteri & Thriller,2.0,1
+BM-0589,Introduction to Philosophy 6,2018,Teknologi,2.0,2
+BM-0590,Handbook of Python 6,1998,Agama & Spiritual,1.0,3
+BM-0591,Guide to Music 5,1991,Seni & Fotografi,3.0,3
+BM-0592,Handbook of Chemistry 6,2022,Biografi,1.0,3
+BM-0593,The Art of Calculus 7,2007,Agama & Spiritual,2.0,3
+BM-0594,Guide to Python 7,1996,Sains Fiksi,3.0,1
+BM-0595,Fundamentals of Java 3,2021,Sejarah,8.0,3
+BM-0596,History of Music 7,2002,Sejarah,1.0,3
+BM-0597,Fundamentals of Biology 3,2000,Romansa,2.0,1
+BM-0598,Mastering Calculus 1,2006,Biografi,3.0,3
+BM-0599,History of Machine Learning 1,2020,Sains & Alam,4.0,2
+BM-0600,Handbook of Art 7,2002,Teknologi,4.0,2
+BM-0601,The Art of Chemistry 8,2010,Seni & Fotografi,1.0,3
+BM-0602,History of Physics 1,1993,Pengembangan Diri,2.0,3
+BM-0603,Advanced Art 8,1999,Romansa,3.0,1
+BM-0604,Introduction to Calculus 8,2005,Teknologi,0.0,2
+BM-0605,Guide to Chemistry 6,2014,Seni & Fotografi,1.0,3
+BM-0606,The Art of Python 7,2021,Travel,4.0,1
+BM-0607,The Art of Economics 3,2019,Sains & Alam,4.0,2
+BM-0608,Advanced Philosophy 2,2011,Teknologi,5.0,2
+BM-0609,Advanced Python 1,2018,Agama & Spiritual,5.0,3
+BM-0610,The Art of History 9,2016,Agama & Spiritual,2.0,3
+BM-0611,Handbook of Physics 7,2020,Sains & Alam,2.0,2
+BM-0612,The Art of History 10,1991,Kesehatan,6.0,0
+BM-0613,The Art of Python 9,2018,Sains Fiksi,1.0,1
+BM-0614,Fundamentals of Physics 3,2022,Fiksi,3.0,3
+BM-0615,History of Calculus 8,2009,Romansa,7.0,1
+BM-0616,Mastering Machine Learning 8,1998,Sains & Alam,3.0,2
+BM-0617,Mastering Calculus 4,2011,Sains & Alam,2.0,2
+BM-0618,Handbook of Java 6,1998,Pengembangan Diri,4.0,3
+BM-0619,Fundamentals of Physics 9,1990,Romansa,1.0,1
+BM-0620,The Art of Python 8,2005,Bisnis & Ekonomi,2.0,2
+BM-0621,Introduction to Economics 3,2009,Anak-Anak,2.0,1
+BM-0622,Fundamentals of Physics 10,2005,Pengembangan Diri,3.0,3
+BM-0623,Introduction to Calculus 3,2013,Pengembangan Diri,1.0,3
+BM-0624,The Art of Music 1,2013,Sains Fiksi,4.0,1
+BM-0625,Handbook of Art 7,2023,Sains & Alam,0.0,2
+BM-0626,Advanced AI 1,2022,Non-Fiksi,2.0,3
+BM-0627,The Art of Art 9,2001,Komik & Manga,4.0,2
+BM-0628,Advanced Philosophy 7,2018,Komik & Manga,1.0,2
+BM-0629,Introduction to Economics 4,2013,Kesehatan,4.0,0
+BM-0630,The Art of Philosophy 4,1993,Romansa,2.0,1
+BM-0631,Handbook of Art 1,1994,Fantasi,3.0,3
+BM-0632,Mastering Calculus 8,2024,Masakan & Kuliner,3.0,2
+BM-0633,Fundamentals of Physics 9,1999,Horor,1.0,2
+BM-0634,Handbook of Machine Learning 7,2017,Travel,2.0,1
+BM-0635,Introduction to History 4,2005,Agama & Spiritual,3.0,3
+BM-0636,Fundamentals of Machine Learning 3,2021,Non-Fiksi,5.0,3
+BM-0637,Introduction to Music 2,2023,Sains & Alam,2.0,2
+BM-0638,Handbook of Music 5,2023,Sains & Alam,2.0,2
+BM-0639,The Art of Economics 3,2023,Misteri & Thriller,3.0,1
+BM-0640,Mastering Biology 7,2013,Seni & Fotografi,3.0,3
+BM-0641,History of Philosophy 8,1995,Sains & Alam,4.0,2
+BM-0642,Introduction to Music 4,1999,Travel,2.0,1
+BM-0643,Handbook of History 3,1996,Sains & Alam,3.0,2
+BM-0644,Fundamentals of Java 10,2001,Masakan & Kuliner,3.0,2
+BM-0645,Fundamentals of Calculus 10,2013,Teknologi,5.0,2
+BM-0646,Guide to Python 10,2012,Romansa,4.0,1
+BM-0647,Advanced Philosophy 10,1990,Anak-Anak,2.0,1
+BM-0648,Handbook of Chemistry 2,1992,Non-Fiksi,1.0,3
+BM-0649,Mastering Art 10,2006,Pengembangan Diri,4.0,3
+BM-0650,The Art of History 1,2022,Fiksi,11.0,3
+BM-0651,Advanced Java 1,1996,Fiksi,5.0,3
+BM-0652,Handbook of Philosophy 1,2019,Sains Fiksi,0.0,1
+BM-0653,The Art of Economics 9,1990,Komik & Manga,3.0,2
+BM-0654,Mastering Physics 3,1996,Sains Fiksi,8.0,1
+BM-0655,Introduction to Economics 6,2022,Sains & Alam,1.0,2
+BM-0656,History of Music 2,1992,Sains & Alam,6.0,2
+BM-0657,Advanced Economics 10,2019,Anak-Anak,3.0,1
+BM-0658,Introduction to Music 9,2009,Bisnis & Ekonomi,5.0,2
+BM-0659,Introduction to Art 5,2001,Travel,5.0,1
+BM-0660,Advanced Python 5,2020,Anak-Anak,2.0,1
+BM-0661,Guide to AI 9,2006,Fiksi,2.0,3
+BM-0662,Introduction to Chemistry 5,1999,Masakan & Kuliner,7.0,2
+BM-0663,Mastering Philosophy 5,1998,Bisnis & Ekonomi,2.0,2
+BM-0664,Guide to Calculus 9,2016,Sains & Alam,5.0,2
+BM-0665,The Art of Java 3,2001,Teknologi,1.0,2
+BM-0666,Handbook of AI 10,2022,Kesehatan,3.0,0
+BM-0667,Mastering Art 6,2000,Bisnis & Ekonomi,3.0,2
+BM-0668,Fundamentals of AI 5,2002,Kesehatan,5.0,0
+BM-0669,Fundamentals of Physics 5,1991,Seni & Fotografi,2.0,3
+BM-0670,Handbook of Java 8,1995,Kesehatan,2.0,0
+BM-0671,History of Biology 8,2005,Misteri & Thriller,4.0,1
+BM-0672,Advanced Music 8,2003,Seni & Fotografi,1.0,3
+BM-0673,Fundamentals of Chemistry 2,2018,Komik & Manga,3.0,2
+BM-0674,Handbook of Music 7,2020,Teknologi,3.0,2
+BM-0675,Mastering Physics 1,2013,Seni & Fotografi,4.0,3
+BM-0676,Fundamentals of Python 1,2017,Sains Fiksi,0.0,1
+BM-0677,Guide to Python 1,2011,Non-Fiksi,7.0,3
+BM-0678,History of Biology 2,2019,Seni & Fotografi,3.0,3
+BM-0679,Mastering Java 10,1990,Masakan & Kuliner,2.0,2
+BM-0680,The Art of History 10,2019,Komik & Manga,2.0,2
+BM-0681,The Art of Physics 10,2010,Masakan & Kuliner,0.0,2
+BM-0682,Fundamentals of AI 1,2014,Misteri & Thriller,3.0,1
+BM-0683,Guide to Machine Learning 8,1996,Non-Fiksi,1.0,3
+BM-0684,Handbook of Economics 9,1999,Bisnis & Ekonomi,2.0,2
+BM-0685,History of AI 3,2019,Non-Fiksi,0.0,3
+BM-0686,The Art of Calculus 3,2016,Misteri & Thriller,4.0,1
+BM-0687,Advanced Physics 3,1995,Sains Fiksi,2.0,1
+BM-0688,The Art of Art 3,2005,Sains Fiksi,3.0,1
+BM-0689,Introduction to Music 3,2022,Fiksi,6.0,3
+BM-0690,Handbook of Philosophy 9,2024,Bisnis & Ekonomi,3.0,2
+BM-0691,The Art of Philosophy 9,2014,Fiksi,5.0,3
+BM-0692,Handbook of Physics 4,2016,Travel,3.0,1
+BM-0693,Handbook of AI 6,2010,Agama & Spiritual,3.0,3
+BM-0694,Fundamentals of Chemistry 10,2005,Fiksi,3.0,3
+BM-0695,The Art of History 1,2018,Romansa,6.0,1
+BM-0696,Fundamentals of Biology 2,2019,Fantasi,1.0,3
+BM-0697,Handbook of Python 6,2001,Seni & Fotografi,1.0,3
+BM-0698,The Art of Music 1,1991,Horor,2.0,2
+BM-0699,Guide to History 7,1991,Horor,3.0,2
+BM-0700,Handbook of Machine Learning 5,1995,Travel,6.0,1
+BM-0701,Advanced Chemistry 10,2024,Kesehatan,4.0,0
+BM-0702,History of History 2,1993,Sains Fiksi,3.0,1
+BM-0703,Fundamentals of Python 9,2018,Fiksi,1.0,3
+BM-0704,Mastering Music 8,1991,Biografi,1.0,3
+BM-0705,Handbook of Philosophy 9,2006,Fiksi,0.0,3
+BM-0706,Introduction to Music 10,1996,Fiksi,5.0,3
+BM-0707,The Art of History 6,2008,Komik & Manga,7.0,2
+BM-0708,The Art of Physics 5,2003,Bisnis & Ekonomi,1.0,2
+BM-0709,History of Machine Learning 1,1994,Non-Fiksi,6.0,3
+BM-0710,History of AI 7,1990,Seni & Fotografi,3.0,3
+BM-0711,Fundamentals of Biology 4,1998,Masakan & Kuliner,4.0,2
+BM-0712,Mastering History 8,1997,Sains & Alam,2.0,2
+BM-0713,Introduction to Music 1,2008,Horor,4.0,2
+BM-0714,Handbook of Art 1,2003,Biografi,5.0,3
+BM-0715,Introduction to Calculus 3,2021,Teknologi,1.0,2
+BM-0716,History of Biology 4,2024,Fantasi,1.0,3
+BM-0717,Introduction to Philosophy 9,2007,Fiksi,2.0,3
+BM-0718,The Art of History 1,1990,Misteri & Thriller,1.0,1
+BM-0719,History of AI 9,2001,Seni & Fotografi,4.0,3
+BM-0720,The Art of Python 8,2007,Teknologi,3.0,2
+BM-0721,Mastering Java 3,1997,Sains Fiksi,3.0,1
+BM-0722,The Art of Calculus 1,2008,Agama & Spiritual,2.0,3
+BM-0723,Mastering Calculus 9,2013,Horor,3.0,2
+BM-0724,History of Machine Learning 8,2006,Biografi,1.0,3
+BM-0725,Guide to AI 6,2018,Kesehatan,3.0,0
+BM-0726,Fundamentals of Java 1,2010,Pengembangan Diri,4.0,3
+BM-0727,History of Music 6,2017,Fantasi,2.0,3
+BM-0728,Advanced Art 2,2009,Bisnis & Ekonomi,1.0,2
+BM-0729,Advanced Biology 1,2000,Romansa,3.0,1
+BM-0730,Handbook of Philosophy 2,2019,Non-Fiksi,2.0,3
+BM-0731,History of Biology 1,2021,Travel,3.0,1
+BM-0732,History of AI 5,2018,Misteri & Thriller,2.0,1
+BM-0733,Fundamentals of Art 3,1990,Romansa,1.0,1
+BM-0734,Introduction to Physics 3,2017,Agama & Spiritual,0.0,3
+BM-0735,Guide to Biology 7,1998,Non-Fiksi,3.0,3
+BM-0736,Introduction to Art 1,2016,Kesehatan,2.0,0
+BM-0737,The Art of Biology 6,2000,Misteri & Thriller,3.0,1
+BM-0738,Handbook of Calculus 7,2011,Sains & Alam,1.0,2
+BM-0739,The Art of Economics 2,2000,Biografi,1.0,3
+BM-0740,The Art of AI 9,2022,Romansa,7.0,1
+BM-0741,Introduction to Python 6,2019,Sains Fiksi,3.0,1
+BM-0742,Guide to Art 2,2005,Sejarah,3.0,3
+BM-0743,History of Machine Learning 8,2022,Seni & Fotografi,1.0,3
+BM-0744,The Art of Physics 5,2003,Fiksi,0.0,3
+BM-0745,Guide to Music 8,2020,Komik & Manga,4.0,2
+BM-0746,Advanced Music 5,2010,Romansa,3.0,1
+BM-0747,Introduction to Music 3,1990,Romansa,1.0,1
+BM-0748,Advanced History 7,2014,Agama & Spiritual,6.0,3
+BM-0749,Handbook of Chemistry 5,2004,Pengembangan Diri,1.0,3
+BM-0750,History of Machine Learning 10,2008,Seni & Fotografi,3.0,3
+BM-0751,History of Philosophy 8,2023,Misteri & Thriller,4.0,1
+BM-0752,The Art of Philosophy 8,1991,Romansa,3.0,1
+BM-0753,The Art of History 5,2007,Fiksi,4.0,3
+BM-0754,Guide to Python 4,1996,Sains Fiksi,4.0,1
+BM-0755,History of Philosophy 1,1998,Fantasi,0.0,3
+BM-0756,Introduction to Python 7,1993,Fiksi,2.0,3
+BM-0757,Mastering Music 8,1997,Misteri & Thriller,4.0,1
+BM-0758,Mastering Philosophy 7,2003,Romansa,4.0,1
+BM-0759,The Art of Economics 8,1990,Bisnis & Ekonomi,5.0,2
+BM-0760,Fundamentals of Physics 9,2004,Fantasi,3.0,3
+BM-0761,Mastering Java 4,2004,Travel,2.0,1
+BM-0762,Fundamentals of Economics 6,2010,Pengembangan Diri,5.0,3
+BM-0763,History of Economics 6,2001,Masakan & Kuliner,3.0,2
+BM-0764,Handbook of History 9,2024,Masakan & Kuliner,3.0,2
+BM-0765,Guide to Machine Learning 5,2005,Sains Fiksi,5.0,1
+BM-0766,History of AI 10,2022,Misteri & Thriller,1.0,1
+BM-0767,The Art of Python 5,2017,Komik & Manga,3.0,2
+BM-0768,Handbook of Economics 4,2004,Bisnis & Ekonomi,2.0,2
+BM-0769,Mastering Java 3,1999,Misteri & Thriller,4.0,1
+BM-0770,Guide to Biology 10,2017,Romansa,2.0,1
+BM-0771,History of Machine Learning 2,1999,Non-Fiksi,3.0,3
+BM-0772,Handbook of Java 9,2014,Horor,1.0,2
+BM-0773,Fundamentals of Chemistry 8,2017,Komik & Manga,3.0,2
+BM-0774,Fundamentals of Art 6,2009,Biografi,2.0,3
+BM-0775,Guide to AI 3,1999,Komik & Manga,3.0,2
+BM-0776,The Art of Biology 7,2005,Agama & Spiritual,5.0,3
+BM-0777,Handbook of Biology 9,2010,Pengembangan Diri,2.0,3
+BM-0778,Handbook of Chemistry 5,2004,Pengembangan Diri,2.0,3
+BM-0779,Guide to History 7,1996,Sejarah,5.0,3
+BM-0780,History of Physics 1,1994,Travel,1.0,1
+BM-0781,Fundamentals of Economics 9,1996,Biografi,3.0,3
+BM-0782,Introduction to Art 6,2017,Fiksi,2.0,3
+BM-0783,Advanced AI 1,2023,Romansa,4.0,1
+BM-0784,Introduction to Python 5,1999,Sains & Alam,5.0,2
+BM-0785,Mastering Philosophy 9,2024,Kesehatan,9.0,0
+BM-0786,History of Calculus 3,2019,Sains & Alam,5.0,2
+BM-0787,Advanced AI 2,1996,Horor,2.0,2
+BM-0788,Advanced Calculus 8,2002,Sains & Alam,0.0,2
+BM-0789,The Art of Java 2,1999,Fantasi,3.0,3
+BM-0790,History of Biology 8,2000,Biografi,0.0,3
+BM-0791,The Art of History 8,2003,Non-Fiksi,2.0,3
+BM-0792,Fundamentals of Art 5,2014,Horor,3.0,2
+BM-0793,History of Java 9,2021,Bisnis & Ekonomi,4.0,2
+BM-0794,Handbook of Physics 10,2020,Anak-Anak,1.0,1
+BM-0795,Mastering History 7,2005,Sains & Alam,3.0,2
+BM-0796,Fundamentals of Physics 6,2012,Biografi,3.0,3
+BM-0797,Fundamentals of Python 10,2000,Sains & Alam,2.0,2
+BM-0798,Introduction to Chemistry 10,1994,Fiksi,1.0,3
+BM-0799,Handbook of Economics 9,2007,Travel,2.0,1
+BM-0800,Introduction to Art 2,1990,Travel,1.0,1
+BM-0801,Advanced Chemistry 1,2012,Non-Fiksi,5.0,3
+BM-0802,History of Java 6,2011,Seni & Fotografi,1.0,3
+BM-0803,Handbook of Machine Learning 6,1995,Anak-Anak,0.0,1
+BM-0804,Guide to Physics 7,2014,Teknologi,1.0,2
+BM-0805,Handbook of Calculus 4,2022,Anak-Anak,2.0,1
+BM-0806,Advanced Chemistry 5,2023,Masakan & Kuliner,3.0,2
+BM-0807,Mastering Biology 4,2014,Bisnis & Ekonomi,2.0,2
+BM-0808,Advanced Music 4,2004,Masakan & Kuliner,9.0,2
+BM-0809,Advanced Economics 5,2011,Fantasi,6.0,3
+BM-0810,Introduction to Biology 9,1997,Romansa,2.0,1
+BM-0811,Advanced Java 5,2017,Masakan & Kuliner,3.0,2
+BM-0812,Fundamentals of Chemistry 6,1996,Non-Fiksi,3.0,3
+BM-0813,Handbook of History 9,2022,Seni & Fotografi,4.0,3
+BM-0814,Advanced Physics 2,2005,Anak-Anak,4.0,1
+BM-0815,Mastering Philosophy 2,1994,Fantasi,5.0,3
+BM-0816,Mastering Calculus 1,2003,Masakan & Kuliner,6.0,2
+BM-0817,Introduction to History 10,2013,Kesehatan,3.0,0
+BM-0818,Advanced Calculus 5,1996,Romansa,6.0,1
+BM-0819,Mastering Art 1,2006,Masakan & Kuliner,1.0,2
+BM-0820,Guide to Physics 4,1996,Fiksi,3.0,3
+BM-0821,Mastering Calculus 3,1998,Komik & Manga,2.0,2
+BM-0822,History of Chemistry 5,1990,Teknologi,3.0,2
+BM-0823,History of Music 5,2023,Sejarah,1.0,3
+BM-0824,The Art of Python 2,2016,Non-Fiksi,0.0,3
+BM-0825,The Art of Java 6,2007,Pengembangan Diri,2.0,3
+BM-0826,Advanced History 6,2012,Travel,2.0,1
+BM-0827,History of Philosophy 9,2013,Agama & Spiritual,1.0,3
+BM-0828,The Art of Calculus 7,2015,Bisnis & Ekonomi,0.0,2
+BM-0829,Handbook of Chemistry 5,2006,Anak-Anak,2.0,1
+BM-0830,Guide to Python 6,2003,Fiksi,3.0,3
+BM-0831,Advanced Economics 5,2022,Horor,0.0,2
+BM-0832,Introduction to Machine Learning 2,2006,Seni & Fotografi,3.0,3
+BM-0833,History of Economics 6,2000,Pengembangan Diri,2.0,3
+BM-0834,History of Java 1,1996,Bisnis & Ekonomi,5.0,2
+BM-0835,Guide to AI 10,1995,Travel,5.0,1
+BM-0836,Advanced Java 8,2022,Pengembangan Diri,3.0,3
+BM-0837,Handbook of Python 4,2011,Seni & Fotografi,4.0,3
+BM-0838,Mastering Economics 9,2022,Komik & Manga,3.0,2
+BM-0839,Fundamentals of Java 3,2003,Bisnis & Ekonomi,5.0,2
+BM-0840,Guide to Calculus 2,2014,Agama & Spiritual,2.0,3
+BM-0841,Fundamentals of Music 8,1991,Seni & Fotografi,2.0,3
+BM-0842,Fundamentals of Physics 6,2000,Sejarah,1.0,3
+BM-0843,The Art of Machine Learning 9,2010,Pengembangan Diri,4.0,3
+BM-0844,History of Physics 6,1996,Masakan & Kuliner,5.0,2
+BM-0845,Mastering Philosophy 4,1995,Masakan & Kuliner,4.0,2
+BM-0846,Introduction to Calculus 10,2010,Sejarah,2.0,3
+BM-0847,History of Art 2,1991,Horor,3.0,2
+BM-0848,Handbook of Music 2,1994,Teknologi,4.0,2
+BM-0849,Guide to Music 2,2003,Agama & Spiritual,3.0,3
+BM-0850,Mastering Biology 6,2008,Seni & Fotografi,2.0,3
+BM-0851,The Art of Biology 9,1994,Fantasi,1.0,3
+BM-0852,Mastering AI 6,2021,Biografi,4.0,3
+BM-0853,The Art of History 2,2007,Non-Fiksi,4.0,3
+BM-0854,Guide to Physics 1,2002,Seni & Fotografi,5.0,3
+BM-0855,Mastering Chemistry 4,1991,Sains Fiksi,2.0,1
+BM-0856,Fundamentals of Music 4,2010,Horor,1.0,2
+BM-0857,History of Music 4,2023,Komik & Manga,3.0,2
+BM-0858,History of Chemistry 9,2017,Masakan & Kuliner,2.0,2
+BM-0859,The Art of Economics 8,2001,Kesehatan,5.0,0
+BM-0860,Introduction to Physics 1,2011,Kesehatan,3.0,0
+BM-0861,The Art of Python 9,2022,Komik & Manga,5.0,2
+BM-0862,History of History 2,2004,Sejarah,4.0,3
+BM-0863,The Art of Art 1,2015,Misteri & Thriller,2.0,1
+BM-0864,Advanced Philosophy 9,2012,Misteri & Thriller,3.0,1
+BM-0865,Advanced Chemistry 1,2024,Teknologi,4.0,2
+BM-0866,History of History 7,2014,Horor,5.0,2
+BM-0867,Guide to AI 5,2015,Biografi,4.0,3
+BM-0868,Guide to Philosophy 3,2014,Kesehatan,6.0,0
+BM-0869,Mastering Chemistry 2,2015,Pengembangan Diri,5.0,3
+BM-0870,Mastering Philosophy 4,2003,Fiksi,2.0,3
+BM-0871,Fundamentals of Chemistry 9,2022,Masakan & Kuliner,4.0,2
+BM-0872,Introduction to Physics 3,2017,Horor,4.0,2
+BM-0873,Introduction to Machine Learning 7,2017,Romansa,3.0,1
+BM-0874,Handbook of Physics 10,2012,Horor,4.0,2
+BM-0875,Advanced Chemistry 4,2004,Misteri & Thriller,6.0,1
+BM-0876,Introduction to Calculus 3,2017,Masakan & Kuliner,0.0,2
+BM-0877,Fundamentals of Chemistry 1,2013,Sejarah,0.0,3
+BM-0878,The Art of Java 2,2012,Horor,5.0,2
+BM-0879,Handbook of Java 1,2022,Seni & Fotografi,0.0,3
+BM-0880,Handbook of Python 7,2021,Biografi,0.0,3
+BM-0881,Mastering Music 10,2011,Bisnis & Ekonomi,3.0,2
+BM-0882,Guide to Music 4,2022,Horor,4.0,2
+BM-0883,History of Calculus 4,1996,Fiksi,5.0,3
+BM-0884,Advanced Chemistry 1,2007,Masakan & Kuliner,2.0,2
+BM-0885,Mastering History 6,2000,Bisnis & Ekonomi,5.0,2
+BM-0886,Advanced Chemistry 5,2018,Biografi,7.0,3
+BM-0887,Guide to Physics 1,2008,Masakan & Kuliner,0.0,2
+BM-0888,Fundamentals of Philosophy 4,2008,Non-Fiksi,1.0,3
+BM-0889,Mastering Economics 5,1994,Masakan & Kuliner,5.0,2
+BM-0890,Guide to Biology 8,2008,Biografi,3.0,3
+BM-0891,Guide to Biology 7,2010,Kesehatan,5.0,0
+BM-0892,Introduction to Economics 9,1994,Seni & Fotografi,1.0,3
+BM-0893,Guide to Philosophy 1,2015,Masakan & Kuliner,2.0,2
+BM-0894,Advanced Physics 8,2009,Biografi,1.0,3
+BM-0895,Advanced Machine Learning 8,1992,Sains Fiksi,4.0,1
+BM-0896,Mastering Java 10,2008,Seni & Fotografi,3.0,3
+BM-0897,History of Philosophy 3,2015,Biografi,2.0,3
+BM-0898,Advanced Java 1,1994,Romansa,4.0,1
+BM-0899,Handbook of Philosophy 5,1993,Seni & Fotografi,2.0,3
+BM-0900,Handbook of Calculus 3,1990,Seni & Fotografi,3.0,3
+BM-0901,The Art of Economics 2,2017,Bisnis & Ekonomi,3.0,2
+BM-0902,Introduction to Music 5,2004,Sains & Alam,1.0,2
+BM-0903,Guide to AI 6,2020,Agama & Spiritual,3.0,3
+BM-0904,Mastering Economics 10,2005,Seni & Fotografi,6.0,3
+BM-0905,History of Chemistry 10,2016,Bisnis & Ekonomi,4.0,2
+BM-0906,Fundamentals of AI 7,2003,Agama & Spiritual,3.0,3
+BM-0907,Fundamentals of Music 3,2011,Sejarah,3.0,3
+BM-0908,History of Calculus 8,2003,Horor,4.0,2
+BM-0909,Guide to Music 9,1990,Bisnis & Ekonomi,6.0,2
+BM-0910,Handbook of Music 3,2024,Komik & Manga,2.0,2
+BM-0911,The Art of Biology 1,2009,Kesehatan,2.0,0
+BM-0912,History of Music 9,2015,Travel,7.0,1
+BM-0913,Fundamentals of Java 1,2018,Bisnis & Ekonomi,7.0,2
+BM-0914,The Art of Java 4,2020,Masakan & Kuliner,3.0,2
+BM-0915,Introduction to Machine Learning 1,2016,Travel,4.0,1
+BM-0916,Mastering Music 10,2006,Komik & Manga,5.0,2
+BM-0917,Mastering Biology 6,2010,Anak-Anak,3.0,1
+BM-0918,Guide to Philosophy 6,1991,Agama & Spiritual,3.0,3
+BM-0919,Handbook of Calculus 8,2003,Agama & Spiritual,5.0,3
+BM-0920,Advanced Calculus 8,2014,Romansa,5.0,1
+BM-0921,Fundamentals of AI 4,2011,Fantasi,2.0,3
+BM-0922,History of Biology 2,2008,Romansa,0.0,1
+BM-0923,Fundamentals of Calculus 2,2023,Fantasi,4.0,3
+BM-0924,Guide to Calculus 3,2007,Travel,2.0,1
+BM-0925,Advanced History 4,2008,Fiksi,4.0,3
+BM-0926,Advanced Java 3,2021,Bisnis & Ekonomi,7.0,2
+BM-0927,History of Music 3,2010,Sejarah,2.0,3
+BM-0928,The Art of History 5,2002,Romansa,3.0,1
+BM-0929,Introduction to Machine Learning 7,1990,Agama & Spiritual,2.0,3
+BM-0930,Introduction to History 7,2019,Horor,5.0,2
+BM-0931,Fundamentals of Music 1,2000,Anak-Anak,5.0,1
+BM-0932,Introduction to AI 10,2000,Kesehatan,1.0,0
+BM-0933,History of Calculus 1,2009,Masakan & Kuliner,3.0,2
+BM-0934,Fundamentals of Python 1,2015,Teknologi,6.0,2
+BM-0935,Mastering Art 10,2004,Horor,2.0,2
+BM-0936,History of Economics 3,1990,Pengembangan Diri,1.0,3
+BM-0937,Mastering Art 2,2008,Biografi,2.0,3
+BM-0938,Mastering Philosophy 4,2018,Teknologi,3.0,2
+BM-0939,Advanced Physics 2,2020,Sains & Alam,8.0,2
+BM-0940,Guide to AI 1,2024,Anak-Anak,5.0,1
+BM-0941,Introduction to Economics 7,2018,Horor,2.0,2
+BM-0942,Guide to Calculus 3,2002,Sains Fiksi,2.0,1
+BM-0943,Guide to History 8,2012,Non-Fiksi,0.0,3
+BM-0944,Mastering Calculus 6,1998,Romansa,2.0,1
+BM-0945,Mastering Physics 3,1990,Teknologi,2.0,2
+BM-0946,Fundamentals of Machine Learning 6,2019,Non-Fiksi,1.0,3
+BM-0947,The Art of Chemistry 4,2018,Horor,1.0,2
+BM-0948,Fundamentals of Economics 7,2023,Masakan & Kuliner,2.0,2
+BM-0949,Guide to Python 10,2013,Fiksi,3.0,3
+BM-0950,Guide to Machine Learning 2,2020,Kesehatan,4.0,0
+BM-0951,The Art of Calculus 8,1996,Biografi,2.0,3
+BM-0952,The Art of Art 2,2011,Fiksi,1.0,3
+BM-0953,History of AI 3,2003,Bisnis & Ekonomi,3.0,2
+BM-0954,Mastering Calculus 9,1995,Pengembangan Diri,4.0,3
+BM-0955,Introduction to Java 2,2001,Anak-Anak,3.0,1
+BM-0956,The Art of Biology 9,1991,Kesehatan,1.0,0
+BM-0957,Introduction to AI 3,2012,Teknologi,6.0,2
+BM-0958,Mastering Music 10,2012,Misteri & Thriller,3.0,1
+BM-0959,The Art of Art 10,1994,Anak-Anak,3.0,1
+BM-0960,Mastering Chemistry 10,1997,Pengembangan Diri,4.0,3
+BM-0961,History of History 7,2017,Horor,4.0,2
+BM-0962,Mastering Music 10,2000,Seni & Fotografi,0.0,3
+BM-0963,The Art of History 4,1994,Anak-Anak,3.0,1
+BM-0964,History of Physics 3,2019,Sains Fiksi,2.0,1
+BM-0965,Fundamentals of Chemistry 4,2008,Sejarah,5.0,3
+BM-0966,Advanced Chemistry 10,2005,Fiksi,2.0,3
+BM-0967,Fundamentals of Python 7,2010,Bisnis & Ekonomi,3.0,2
+BM-0968,Advanced Chemistry 5,1997,Horor,2.0,2
+BM-0969,The Art of Machine Learning 3,2017,Sejarah,1.0,3
+BM-0970,Handbook of Java 3,2004,Sains Fiksi,3.0,1
+BM-0971,Guide to Biology 7,2013,Fantasi,5.0,3
+BM-0972,Mastering Chemistry 7,2003,Agama & Spiritual,4.0,3
+BM-0973,Handbook of Economics 1,2006,Sains Fiksi,1.0,1
+BM-0974,Mastering Music 1,2009,Masakan & Kuliner,4.0,2
+BM-0975,History of Biology 8,1998,Pengembangan Diri,1.0,3
+BM-0976,Mastering Java 8,2016,Kesehatan,2.0,0
+BM-0977,History of Calculus 3,2024,Sains & Alam,1.0,2
+BM-0978,Introduction to Economics 10,1997,Biografi,2.0,3
+BM-0979,Mastering Music 1,2010,Biografi,3.0,3
+BM-0980,Guide to AI 10,2022,Biografi,3.0,3
+BM-0981,History of History 1,1998,Komik & Manga,0.0,2
+BM-0982,History of AI 2,1991,Bisnis & Ekonomi,2.0,2
+BM-0983,Handbook of Chemistry 6,2012,Non-Fiksi,7.0,3
+BM-0984,Handbook of AI 3,2022,Kesehatan,1.0,0
+BM-0985,Advanced Physics 2,1997,Anak-Anak,4.0,1
+BM-0986,Handbook of Biology 5,1994,Masakan & Kuliner,3.0,2
+BM-0987,Advanced Calculus 8,2007,Teknologi,6.0,2
+BM-0988,The Art of Java 4,1992,Fiksi,1.0,3
+BM-0989,History of Physics 7,2019,Agama & Spiritual,1.0,3
+BM-0990,Advanced Java 1,2008,Fantasi,2.0,3
+BM-0991,Guide to Calculus 3,2001,Anak-Anak,3.0,1
+BM-0992,Guide to Art 1,1993,Sejarah,1.0,3
+BM-0993,The Art of Java 6,2006,Fiksi,3.0,3
+BM-0994,Handbook of History 2,2000,Sejarah,4.0,3
+BM-0995,Advanced Biology 3,1990,Non-Fiksi,3.0,3
+BM-0996,Advanced Calculus 6,2011,Komik & Manga,2.0,2
+BM-0997,Mastering Philosophy 1,2023,Non-Fiksi,6.0,3
+BM-0998,Introduction to Physics 8,2018,Biografi,5.0,3
+BM-0999,Mastering Art 2,1994,Fiksi,3.0,3
+BM-1000,History of Economics 8,2021,Anak-Anak,4.0,1
